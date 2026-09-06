@@ -8,7 +8,7 @@ Use Node.js 24 LTS, `npm ci`, and `npm run dev`. Copy `.env.example` to `.env.lo
 
 ## Designs
 
-Option 4 is the default. The `4` / `5` control in the header remembers the visitor's choice in localStorage. `/?style=5` previews the plum design. Both styles share semantic markup, content, routes, and article rendering. Add an entry to `src/lib/styles.ts`, extend the pre-paint script in `src/app/layout.tsx`, and add scoped CSS to introduce another style. Article text remains server-rendered.
+Option 4 is the default. The `4` / `5` control in the header remembers the visitor's choice in localStorage. `/?style=5` previews the plum design. Both styles share semantic markup, content, routes, and article rendering. Add an entry to `src/lib/styles.ts`, add scoped CSS to introduce another style. Article text remains server-rendered.
 
 All editorial copy comes from Austin's public Notion content or lorem ipsum. Project names are existing examples, not synced or linked yet. Intro, work, and photos are placeholders. Operational accessibility/error labels describe controls and failures.
 
