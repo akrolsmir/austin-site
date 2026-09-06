@@ -1,0 +1,2811 @@
+{
+  "page": {
+    "id": "125a6e41f23e8017974befeb8763898f",
+    "title": "Barriers to entry might be good",
+    "date": "2024-10-19",
+    "edited": "2024-10-24T02:49:00.000Z",
+    "url": "https://akrolsmir.notion.site/Barriers-to-entry-might-be-good-125a6e41f23e8017974befeb8763898f",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "125a6e41-f23e-802f-8a0b-fd0726750e18",
+      "parent": {
+        "type": "page_id",
+        "page_id": "125a6e41-f23e-8017-974b-efeb8763898f"
+      },
+      "created_time": "2024-10-20T06:05:00.000Z",
+      "last_edited_time": "2024-10-21T00:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Very speculative, and perhaps contrarian just to be contrarian. Tell me why I’m wrong!",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Very speculative, and perhaps contrarian just to be contrarian. Tell me why I’m wrong!",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "125a6e41-f23e-80ab-87cc-ffa47baa3d4b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "125a6e41-f23e-8017-974b-efeb8763898f"
+      },
+      "created_time": "2024-10-20T06:06:00.000Z",
+      "last_edited_time": "2024-10-20T06:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "125a6e41-f23e-800f-9c9e-c03367560a24",
+      "parent": {
+        "type": "page_id",
+        "page_id": "125a6e41-f23e-8017-974b-efeb8763898f"
+      },
+      "created_time": "2024-10-20T06:06:00.000Z",
+      "last_edited_time": "2024-10-20T07:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "In my SF/SV/EA/rationalist circles, it’s hard to find policies more beloved than YIMBY and pro-immigration. At a recent house party, folks described their SF mayoral ballots as a strict function of each candidate’s expected number of new housing units; meanwhile, Open Borders can be found on many a bookshelf, and the trendiest swag is a black hoodie emblazoned with “Aliens of Extraordinary Ability”, distributed clandestinely among O-1 visa holders.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "In my SF/SV/EA/rationalist circles, it’s hard to find policies more beloved than YIMBY and pro-immigration. At a recent house party, folks described their SF mayoral ballots as a strict function of each candidate’s expected number of new housing units; meanwhile, Open Borders can be found on many a bookshelf, and the trendiest swag is a black hoodie emblazoned with “Aliens of Extraordinary Ability”, distributed clandestinely among O-1 visa holders.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "125a6e41-f23e-80d5-9f70-da25b6789750",
+      "parent": {
+        "type": "page_id",
+        "page_id": "125a6e41-f23e-8017-974b-efeb8763898f"
+      },
+      "created_time": "2024-10-20T06:15:00.000Z",
+      "last_edited_time": "2024-10-21T00:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "And so I find it interesting to steelman the nativist NIMBY position: maybe it’s good that everything is so expensive, and getting here is hard. Sure, I’d personally prefer cheaper goods and services, better transit, more walkable neighborhoods… but like, that’s not what I live for. SF shines because of its people. And maybe the high cost of living and the difficulty of immigrating acts as a sieve, a way to ensure that the best — and only the best — are here.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "And so I find it interesting to steelman the nativist NIMBY position: maybe it’s good that everything is so expensive, and getting here is hard. Sure, I’d personally prefer cheaper goods and services, better transit, more walkable neighborhoods… but like, that’s not what I live for. SF shines because of its people. And maybe the high cost of living and the difficulty of immigrating acts as a sieve, a way to ensure that the best — and only the best — are here.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "125a6e41-f23e-8056-b58d-e154af14295a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "125a6e41-f23e-8017-974b-efeb8763898f"
+      },
+      "created_time": "2024-10-20T06:40:00.000Z",
+      "last_edited_time": "2024-10-20T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "125a6e41-f23e-8063-a208-e81bd7f785e1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "125a6e41-f23e-8017-974b-efeb8763898f"
+      },
+      "created_time": "2024-10-20T06:14:00.000Z",
+      "last_edited_time": "2024-10-21T00:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I moved to SF in the last few years, and notice that all of my friends are like this too. We were all somehow able to afford the high cost of living. And we found that the expense and striving to make our way here, was easily worth the payoff of having each other’s company.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I moved to SF in the last few years, and notice that all of my friends are like this too. We were all somehow able to afford the high cost of living. And we found that the expense and striving to make our way here, was easily worth the payoff of having each other’s company.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "125a6e41-f23e-8043-8ac7-e33d59975956",
+          "parent": {
+            "type": "block_id",
+            "block_id": "125a6e41-f23e-8063-a208-e81bd7f785e1"
+          },
+          "created_time": "2024-10-20T06:50:00.000Z",
+          "last_edited_time": "2024-10-21T00:24:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Mashing the world’s most capable folks into one small peninsula means that there are many chances to run into same people in unplanned low stakes interactions, which IMO is key to forming friends.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Mashing the world’s most capable folks into one small peninsula means that there are many chances to run into same people in unplanned low stakes interactions, which IMO is key to forming friends.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "125a6e41-f23e-80a8-b69d-caf9c07bd64a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "125a6e41-f23e-8017-974b-efeb8763898f"
+      },
+      "created_time": "2024-10-20T06:51:00.000Z",
+      "last_edited_time": "2024-10-21T00:29:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "SF as Harvard: Exclusivity might be a feature, not a bug",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "SF as Harvard: Exclusivity might be a feature, not a bug",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "125a6e41-f23e-80d9-af80-cc90e1810460",
+          "parent": {
+            "type": "block_id",
+            "block_id": "125a6e41-f23e-80a8-b69d-caf9c07bd64a"
+          },
+          "created_time": "2024-10-20T06:35:00.000Z",
+          "last_edited_time": "2024-10-20T07:11:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "It seems gauche to gatekeep (and is kind of antithetical to my entire schtick), but also: the best companies hire carefully; the best group chats are tight knit",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "It seems gauche to gatekeep (and is kind of antithetical to my entire schtick), but also: the best companies hire carefully; the best group chats are tight knit",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "125a6e41-f23e-8046-8d90-f4e2b690d545",
+              "parent": {
+                "type": "block_id",
+                "block_id": "125a6e41-f23e-80d9-af80-cc90e1810460"
+              },
+              "created_time": "2024-10-20T06:43:00.000Z",
+              "last_edited_time": "2024-10-20T06:43:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "See also ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "See also ",
+                    "href": null
+                  },
+                  {
+                    "type": "mention",
+                    "mention": {
+                      "type": "page",
+                      "page": {
+                        "id": "9bab5860-2a8a-40b4-82c2-f08562cbc0dc"
+                      }
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Principles of inclusion & exclusion",
+                    "href": "https://app.notion.com/p/9bab58602a8a40b482c2f08562cbc0dc"
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": " ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": " ",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "125a6e41-f23e-808f-8258-c5a31c9bd216",
+          "parent": {
+            "type": "block_id",
+            "block_id": "125a6e41-f23e-80a8-b69d-caf9c07bd64a"
+          },
+          "created_time": "2024-10-20T07:43:00.000Z",
+          "last_edited_time": "2024-10-20T07:46:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Manifold was probably better when it was forecasting nerds talking about market mechanisms, rather than a bunch of randos who clicked through cheap CPM banner ads to bet on One Piece",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Manifold was probably better when it was forecasting nerds talking about market mechanisms, rather than a bunch of randos who clicked through cheap CPM banner ads to bet on One Piece",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "126a6e41-f23e-8051-b2f5-e7400d28edfc",
+          "parent": {
+            "type": "block_id",
+            "block_id": "125a6e41-f23e-80a8-b69d-caf9c07bd64a"
+          },
+          "created_time": "2024-10-21T00:25:00.000Z",
+          "last_edited_time": "2024-10-21T00:29:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "As a gatekeeper:",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "As a gatekeeper:",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "126a6e41-f23e-8019-b292-ef7875606138",
+              "parent": {
+                "type": "block_id",
+                "block_id": "126a6e41-f23e-8051-b2f5-e7400d28edfc"
+              },
+              "created_time": "2024-10-21T00:26:00.000Z",
+              "last_edited_time": "2024-10-21T00:26:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Price screens pretty directly for competence, or ability to add value to the world",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Price screens pretty directly for competence, or ability to add value to the world",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "126a6e41-f23e-809e-88b0-c16fc85ed4af",
+              "parent": {
+                "type": "block_id",
+                "block_id": "126a6e41-f23e-8051-b2f5-e7400d28edfc"
+              },
+              "created_time": "2024-10-21T00:26:00.000Z",
+              "last_edited_time": "2024-10-21T00:27:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Immigration hoops screen for formidableness? Ability to pass tests?",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Immigration hoops screen for formidableness? Ability to pass tests?",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "126a6e41-f23e-800d-8501-d9c1b6b03c0a",
+          "parent": {
+            "type": "block_id",
+            "block_id": "125a6e41-f23e-80a8-b69d-caf9c07bd64a"
+          },
+          "created_time": "2024-10-21T00:29:00.000Z",
+          "last_edited_time": "2024-10-21T00:30:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "The people in SF want to be in SF, worked hard to make it here — it’s where the immigrant American dream still lives (to wax poetic a bit)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "The people in SF want to be in SF, worked hard to make it here — it’s where the immigrant American dream still lives (to wax poetic a bit)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "125a6e41-f23e-80e8-9a7b-c100e14539be",
+      "parent": {
+        "type": "page_id",
+        "page_id": "125a6e41-f23e-8017-974b-efeb8763898f"
+      },
+      "created_time": "2024-10-20T07:01:00.000Z",
+      "last_edited_time": "2024-10-21T00:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "SF is also an industry town for tech. Tech companies produce large positive global externalities (I think…); if so, then the Silicon Valley recipe for tech innovation is important to preserve, even if it requires keeping many people out",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "SF is also an industry town for tech. Tech companies produce large positive global externalities (I think…); if so, then the Silicon Valley recipe for tech innovation is important to preserve, even if it requires keeping many people out",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "125a6e41-f23e-809f-9db9-eb0eb12e2889",
+          "parent": {
+            "type": "block_id",
+            "block_id": "125a6e41-f23e-80e8-9a7b-c100e14539be"
+          },
+          "created_time": "2024-10-20T06:47:00.000Z",
+          "last_edited_time": "2024-10-21T00:38:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "I suspect Silicon Valley works because of network/agglomeration effects and equity-based comp; but maybe also: high barriers to entry",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "I suspect Silicon Valley works because of network/agglomeration effects and equity-based comp; but maybe also: high barriers to entry",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "126a6e41-f23e-8054-bb9f-cc2820239d07",
+          "parent": {
+            "type": "block_id",
+            "block_id": "125a6e41-f23e-80e8-9a7b-c100e14539be"
+          },
+          "created_time": "2024-10-21T00:37:00.000Z",
+          "last_edited_time": "2024-10-21T00:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Bigger cities like Tokyo, New York don’t hold a candle to SV",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Bigger cities like Tokyo, New York don’t hold a candle to SV",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "125a6e41-f23e-80e8-a10f-d401822015d5",
+          "parent": {
+            "type": "block_id",
+            "block_id": "125a6e41-f23e-80e8-9a7b-c100e14539be"
+          },
+          "created_time": "2024-10-20T06:49:00.000Z",
+          "last_edited_time": "2024-10-21T00:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Miami, Austin, remote work all seem to have mysteriously failed at displacing SV",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Miami, Austin, remote work all seem to have mysteriously failed at displacing SV",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "125a6e41-f23e-8061-9582-f3f75a4c1d11",
+      "parent": {
+        "type": "page_id",
+        "page_id": "125a6e41-f23e-8017-974b-efeb8763898f"
+      },
+      "created_time": "2024-10-20T06:54:00.000Z",
+      "last_edited_time": "2024-10-21T03:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Why might lower density produce better tech? Technology is a substitute for labor. So high labor prices (downstream of expensive land) probably encourage more tech development",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Why might lower density produce better tech? Technology is a substitute for labor. So high labor prices (downstream of expensive land) probably encourage more tech development",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "125a6e41-f23e-8006-84eb-e1c0b8dcee1f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "125a6e41-f23e-8061-9582-f3f75a4c1d11"
+          },
+          "created_time": "2024-10-20T06:57:00.000Z",
+          "last_edited_time": "2024-10-21T03:29:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Maybe this is too naive econ 101, but it seems very plausible.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Maybe this is too naive econ 101, but it seems very plausible.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "126a6e41-f23e-80c0-912c-e0e8d4042766",
+              "parent": {
+                "type": "block_id",
+                "block_id": "125a6e41-f23e-8006-84eb-e1c0b8dcee1f"
+              },
+              "created_time": "2024-10-21T03:24:00.000Z",
+              "last_edited_time": "2024-10-21T03:29:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "One theory is the industrial revolution started in England because the ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "One theory is the industrial revolution started in England because the ",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Black Death reduced population lead to high wages",
+                      "link": {
+                        "url": "https://glineq.blogspot.com/2015/01/can-black-death-explain-industrial.html"
+                      }
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Black Death reduced population lead to high wages",
+                    "href": "https://glineq.blogspot.com/2015/01/can-black-death-explain-industrial.html"
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": " (h/t Alexey)",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": " (h/t Alexey)",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "125a6e41-f23e-8016-a3b5-d2f8e1523d75",
+              "parent": {
+                "type": "block_id",
+                "block_id": "125a6e41-f23e-8006-84eb-e1c0b8dcee1f"
+              },
+              "created_time": "2024-10-20T07:20:00.000Z",
+              "last_edited_time": "2024-10-21T03:29:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": true,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "High minimum wage ⇒ McDonald’s self order kiosks?",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "High minimum wage ⇒ McDonald’s self order kiosks?",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "children": [
+                {
+                  "object": "block",
+                  "id": "125a6e41-f23e-80ed-975d-e6e8416bb887",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "125a6e41-f23e-8016-a3b5-d2f8e1523d75"
+                  },
+                  "created_time": "2024-10-20T07:23:00.000Z",
+                  "last_edited_time": "2024-10-21T00:42:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "(seems like a weak, noncentral example though.)",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "(seems like a weak, noncentral example though.)",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                }
+              ]
+            },
+            {
+              "object": "block",
+              "id": "126a6e41-f23e-8051-b94a-c289cc2572f0",
+              "parent": {
+                "type": "block_id",
+                "block_id": "125a6e41-f23e-8006-84eb-e1c0b8dcee1f"
+              },
+              "created_time": "2024-10-21T03:29:00.000Z",
+              "last_edited_time": "2024-10-21T03:29:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Cotton gin might be a counterexample?",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Cotton gin might be a counterexample?",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "126a6e41-f23e-80bc-8d74-c6578b1745ff",
+          "parent": {
+            "type": "block_id",
+            "block_id": "125a6e41-f23e-8061-9582-f3f75a4c1d11"
+          },
+          "created_time": "2024-10-21T00:42:00.000Z",
+          "last_edited_time": "2024-10-21T03:29:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Startups and tech companies automate a bunch internally, using code and SaaS in lieu of expensive labor",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Startups and tech companies automate a bunch internally, using code and SaaS in lieu of expensive labor",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "126a6e41-f23e-80d3-813b-edd6e03db281",
+              "parent": {
+                "type": "block_id",
+                "block_id": "126a6e41-f23e-80bc-8d74-c6578b1745ff"
+              },
+              "created_time": "2024-10-21T00:45:00.000Z",
+              "last_edited_time": "2024-10-21T03:29:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Made up example: an SF engineer and a Chicago lawyer might both make mid-six figures, but the tech engineer doesn’t rely on a secretary, just Slack",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Made up example: an SF engineer and a Chicago lawyer might both make mid-six figures, but the tech engineer doesn’t rely on a secretary, just Slack",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "125a6e41-f23e-80d7-92ea-c7384ab428d2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "125a6e41-f23e-8017-974b-efeb8763898f"
+      },
+      "created_time": "2024-10-20T06:16:00.000Z",
+      "last_edited_time": "2024-10-20T07:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "People cite higher density cities like New York and Tokyo as better places to live, but I’m not really sure if that’s the case? Maybe it’s just a matter of taste, but…",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "People cite higher density cities like New York and Tokyo as better places to live, but I’m not really sure if that’s the case? Maybe it’s just a matter of taste, but…",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "125a6e41-f23e-803d-be70-fab179459d79",
+          "parent": {
+            "type": "block_id",
+            "block_id": "125a6e41-f23e-80d7-92ea-c7384ab428d2"
+          },
+          "created_time": "2024-10-20T06:23:00.000Z",
+          "last_edited_time": "2024-10-20T06:28:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "I didn’t really see the appeal of New York. It’s not an inspirational place, a place that encourages you to be better, a place that helps you and encourages you to help others. When you’re out on a walk, locals don’t smile at you.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "I didn’t really see the appeal of New York. It’s not an inspirational place, a place that encourages you to be better, a place that helps you and encourages you to help others. When you’re out on a walk, locals don’t smile at you.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "125a6e41-f23e-8078-80eb-de4abd4d6a8f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "125a6e41-f23e-80d7-92ea-c7384ab428d2"
+          },
+          "created_time": "2024-10-20T06:17:00.000Z",
+          "last_edited_time": "2024-10-20T07:34:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Standing in a Tokyo skyscraper, overlooking the pedestrians swarming Shibuya Crossing, I had an odd reaction to the interchangeableness that emerges from a high population density. I could understand where the slur “bugman” comes from; or why people find the repugnant conclusion repugnant.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Standing in a Tokyo skyscraper, overlooking the pedestrians swarming Shibuya Crossing, I had an odd reaction to the interchangeableness that emerges from a high population density. I could understand where the slur “bugman” comes from; or why people find the repugnant conclusion repugnant.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "125a6e41-f23e-80e8-a28e-faccea3cde0f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "125a6e41-f23e-80d7-92ea-c7384ab428d2"
+          },
+          "created_time": "2024-10-20T06:13:00.000Z",
+          "last_edited_time": "2024-10-20T07:34:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "I just got back from London, which is much more walkable and human-friendly than SF. And yet, I’m not considering moving there.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "I just got back from London, which is much more walkable and human-friendly than SF. And yet, I’m not considering moving there.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "125a6e41-f23e-80f8-9a62-e932a333b296",
+      "parent": {
+        "type": "page_id",
+        "page_id": "125a6e41-f23e-8017-974b-efeb8763898f"
+      },
+      "created_time": "2024-10-20T06:30:00.000Z",
+      "last_edited_time": "2024-10-21T13:52:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "In support of YIMBY/density, someone mentioned “life satisfaction is a function of the number of friends you have within a 20 minute walk”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "In support of YIMBY/density, someone mentioned “life satisfaction is a function of the number of friends you have within a 20 minute walk”",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "125a6e41-f23e-805d-b0ec-c1de65a66e89",
+          "parent": {
+            "type": "block_id",
+            "block_id": "125a6e41-f23e-80f8-9a62-e932a333b296"
+          },
+          "created_time": "2024-10-20T06:31:00.000Z",
+          "last_edited_time": "2024-10-21T00:35:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "I think is important — but maybe a thing to satisfice, not maximize? Once you know 5-10 folks who can be described thusly, the returns to having more don’t seem that high. You have only so many weekend evenings available for Partiful.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "I think is important — but maybe a thing to satisfice, not maximize? Once you know 5-10 folks who can be described thusly, the returns to having more don’t seem that high. You have only so many weekend evenings available for Partiful.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "125a6e41-f23e-80b8-bb5b-e361d8414a0b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "125a6e41-f23e-8017-974b-efeb8763898f"
+      },
+      "created_time": "2024-10-20T07:02:00.000Z",
+      "last_edited_time": "2024-10-21T00:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "If high density is so good, why isn’t there already one single megacity with 8 billion people…?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "If high density is so good, why isn’t there already one single megacity with 8 billion people…?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "125a6e41-f23e-80fe-8976-f094f34fa086",
+          "parent": {
+            "type": "block_id",
+            "block_id": "125a6e41-f23e-80b8-bb5b-e361d8414a0b"
+          },
+          "created_time": "2024-10-20T07:12:00.000Z",
+          "last_edited_time": "2024-10-20T07:12:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Maybe the returns to agglomeration drop off once you get to a Tokyo or Mumbai?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Maybe the returns to agglomeration drop off once you get to a Tokyo or Mumbai?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "125a6e41-f23e-8004-ad83-caf6748a132c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "125a6e41-f23e-80b8-bb5b-e361d8414a0b"
+          },
+          "created_time": "2024-10-20T07:12:00.000Z",
+          "last_edited_time": "2024-10-20T07:13:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Maybe the engineering to enable 8 billion to live within 20 minutes commute is not that feasible?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Maybe the engineering to enable 8 billion to live within 20 minutes commute is not that feasible?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "125a6e41-f23e-80a5-aa77-ead65259ee65",
+          "parent": {
+            "type": "block_id",
+            "block_id": "125a6e41-f23e-80b8-bb5b-e361d8414a0b"
+          },
+          "created_time": "2024-10-20T07:13:00.000Z",
+          "last_edited_time": "2024-10-20T07:14:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Maybe people just actually like low density and having space, idk. I sure like being alone sometimes.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Maybe people just actually like low density and having space, idk. I sure like being alone sometimes.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "125a6e41-f23e-800b-a616-d9e88719cbdd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "125a6e41-f23e-8017-974b-efeb8763898f"
+      },
+      "created_time": "2024-10-20T07:32:00.000Z",
+      "last_edited_time": "2024-10-20T07:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "What would SF look like if everyone’s rent doubled overnight? 10x’d?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "What would SF look like if everyone’s rent doubled overnight? 10x’d?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "125a6e41-f23e-802c-ba28-d8fbe1849b77",
+      "parent": {
+        "type": "page_id",
+        "page_id": "125a6e41-f23e-8017-974b-efeb8763898f"
+      },
+      "created_time": "2024-10-20T07:39:00.000Z",
+      "last_edited_time": "2024-10-21T00:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Maybe the ideal far future utopia “city” is like a Dunbar’s number of people (~150), plus a ton of automation to make it all work…",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Maybe the ideal far future utopia “city” is like a Dunbar’s number of people (~150), plus a ton of automation to make it all work…",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "125a6e41-f23e-80ff-b2ee-fa446f44937f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "125a6e41-f23e-8017-974b-efeb8763898f"
+      },
+      "created_time": "2024-10-20T06:05:00.000Z",
+      "last_edited_time": "2024-10-20T06:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "125a6e41-f23e-80e0-a677-cd28083e684b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "125a6e41-f23e-8017-974b-efeb8763898f"
+      },
+      "created_time": "2024-10-20T06:00:00.000Z",
+      "last_edited_time": "2024-10-20T07:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "See also:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "See also:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "125a6e41-f23e-8003-99f2-c7ecffeee7d7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "125a6e41-f23e-8017-974b-efeb8763898f"
+      },
+      "created_time": "2024-10-20T07:24:00.000Z",
+      "last_edited_time": "2024-10-20T07:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Alexey Guzey against YIMBY",
+              "link": {
+                "url": "https://docs.google.com/document/d/1crZo_EfSnZtPFA6TjqG0ISeDhHc9ioAp-pSl7RD1HDY/edit?tab=t.0"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Alexey Guzey against YIMBY",
+            "href": "https://docs.google.com/document/d/1crZo_EfSnZtPFA6TjqG0ISeDhHc9ioAp-pSl7RD1HDY/edit?tab=t.0"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "125a6e41-f23e-802c-abcf-e1d02fa513cf",
+      "parent": {
+        "type": "page_id",
+        "page_id": "125a6e41-f23e-8017-974b-efeb8763898f"
+      },
+      "created_time": "2024-10-20T07:24:00.000Z",
+      "last_edited_time": "2024-10-20T07:26:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Scott Alexander steelmanning NIMBY",
+              "link": {
+                "url": "https://slatestarcodex.com/2018/10/01/steelmanning-the-nimbys/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Scott Alexander steelmanning NIMBY",
+            "href": "https://slatestarcodex.com/2018/10/01/steelmanning-the-nimbys/"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "125a6e41-f23e-8058-b044-ebb0eacd0156",
+      "parent": {
+        "type": "page_id",
+        "page_id": "125a6e41-f23e-8017-974b-efeb8763898f"
+      },
+      "created_time": "2024-10-20T07:24:00.000Z",
+      "last_edited_time": "2024-10-20T07:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Paul Graham on Silicon Valley",
+              "link": {
+                "url": "https://paulgraham.com/siliconvalley.html"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Paul Graham on Silicon Valley",
+            "href": "https://paulgraham.com/siliconvalley.html"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "129a6e41-f23e-80b8-a1e1-daac12eeb2b7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "125a6e41-f23e-8017-974b-efeb8763898f"
+      },
+      "created_time": "2024-10-24T02:17:00.000Z",
+      "last_edited_time": "2024-10-24T02:17:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "125a6e41-f23e-8048-81fc-d7b0ebf5b851",
+      "parent": {
+        "type": "page_id",
+        "page_id": "125a6e41-f23e-8017-974b-efeb8763898f"
+      },
+      "created_time": "2024-10-20T06:05:00.000Z",
+      "last_edited_time": "2024-10-24T02:17:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Response from a friend",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Response from a friend",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "129a6e41-f23e-807c-995f-c3c302f96ce7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "125a6e41-f23e-8017-974b-efeb8763898f"
+      },
+      "created_time": "2024-10-24T02:18:00.000Z",
+      "last_edited_time": "2024-10-24T02:29:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "quote",
+      "quote": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Low density is great when it means you have a walk in closet and a big shower, everyone loves low density in the context of having ample room. Low density is great when it means parks. But \"low density\" in an urban context is just a heuristic to talk about insanely wide roads and giant parking lots",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Low density is great when it means you have a walk in closet and a big shower, everyone loves low density in the context of having ample room. Low density is great when it means parks. But \"low density\" in an urban context is just a heuristic to talk about insanely wide roads and giant parking lots",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "129a6e41-f23e-80c0-b2f8-dcf8a64beff1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "125a6e41-f23e-8017-974b-efeb8763898f"
+      },
+      "created_time": "2024-10-24T02:18:00.000Z",
+      "last_edited_time": "2024-10-24T02:29:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "quote",
+      "quote": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I think what you're getting at here is that you want a high density of the right kind of people, and there are two meanings of density there",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I think what you're getting at here is that you want a high density of the right kind of people, and there are two meanings of density there",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "129a6e41-f23e-80f2-94b1-d25ffac9659a",
+          "parent": {
+            "type": "block_id",
+            "block_id": "129a6e41-f23e-80c0-b2f8-dcf8a64beff1"
+          },
+          "created_time": "2024-10-24T02:19:00.000Z",
+          "last_edited_time": "2024-10-24T02:29:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Good People / Area",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Good People / Area",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "129a6e41-f23e-8003-9303-fe1d3f0428ab",
+          "parent": {
+            "type": "block_id",
+            "block_id": "129a6e41-f23e-80c0-b2f8-dcf8a64beff1"
+          },
+          "created_time": "2024-10-24T02:19:00.000Z",
+          "last_edited_time": "2024-10-24T02:29:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Good People / Total People",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Good People / Total People",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "129a6e41-f23e-806f-9b23-d57d07c344de",
+          "parent": {
+            "type": "block_id",
+            "block_id": "129a6e41-f23e-80c0-b2f8-dcf8a64beff1"
+          },
+          "created_time": "2024-10-24T02:20:00.000Z",
+          "last_edited_time": "2024-10-24T02:29:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "So you end up having these weird tensions and making these weird kind of arguments because you don't decouple those explicitly",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "So you end up having these weird tensions and making these weird kind of arguments because you don't decouple those explicitly",
+                "href": null
+              }
+            ],
+            "icon": null,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "129a6e41-f23e-8027-9655-c91c25c03dd8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "125a6e41-f23e-8017-974b-efeb8763898f"
+      },
+      "created_time": "2024-10-24T02:29:00.000Z",
+      "last_edited_time": "2024-10-24T02:29:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "129a6e41-f23e-8022-85cd-de1c5e21cae1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "125a6e41-f23e-8017-974b-efeb8763898f"
+      },
+      "created_time": "2024-10-24T02:19:00.000Z",
+      "last_edited_time": "2024-10-24T02:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "129a6e41-f23e-8076-aaf8-d61c7a3b535b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "125a6e41-f23e-8017-974b-efeb8763898f"
+      },
+      "created_time": "2024-10-24T02:19:00.000Z",
+      "last_edited_time": "2024-10-24T02:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "quote",
+      "quote": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I feel like you totally drop the nativist part of this after the first couple paragraphs?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I feel like you totally drop the nativist part of this after the first couple paragraphs?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "129a6e41-f23e-8054-8638-c92c499dc5cd",
+          "parent": {
+            "type": "block_id",
+            "block_id": "129a6e41-f23e-8076-aaf8-d61c7a3b535b"
+          },
+          "created_time": "2024-10-24T02:19:00.000Z",
+          "last_edited_time": "2024-10-24T02:29:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "I guess it goes along with barrier to entry, but the average quality of an O1 visa holder is so dramatically higher than the average quality of an SF resident that this doesn't feel very compelling to me.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "I guess it goes along with barrier to entry, but the average quality of an O1 visa holder is so dramatically higher than the average quality of an SF resident that this doesn't feel very compelling to me.",
+                "href": null
+              }
+            ],
+            "icon": null,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "129a6e41-f23e-8028-9a1e-cd19bcc1d314",
+      "parent": {
+        "type": "page_id",
+        "page_id": "125a6e41-f23e-8017-974b-efeb8763898f"
+      },
+      "created_time": "2024-10-24T02:21:00.000Z",
+      "last_edited_time": "2024-10-24T02:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Yeah I have friends on O1, Manifold’s trying to sponsor an O1, O1 seems great. On the margin, I’d be in favor of expanding O1 and having many more people of that caliber immigrating here.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Yeah I have friends on O1, Manifold’s trying to sponsor an O1, O1 seems great. On the margin, I’d be in favor of expanding O1 and having many more people of that caliber immigrating here.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "129a6e41-f23e-8037-ab97-db38f9abe960",
+      "parent": {
+        "type": "page_id",
+        "page_id": "125a6e41-f23e-8017-974b-efeb8763898f"
+      },
+      "created_time": "2024-10-24T02:23:00.000Z",
+      "last_edited_time": "2024-10-24T02:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I’m much less sure about like, H1B applicants, or the median Google L3 immigrant. I’m naturally biased towards wanting to accept all those people too, fwiw (I like people! Also, my parents and many friends were in that reference class!)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I’m much less sure about like, H1B applicants, or the median Google L3 immigrant. I’m naturally biased towards wanting to accept all those people too, fwiw (I like people! Also, my parents and many friends were in that reference class!)",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "129a6e41-f23e-8025-b690-eb781c27885f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "125a6e41-f23e-8017-974b-efeb8763898f"
+      },
+      "created_time": "2024-10-24T02:19:00.000Z",
+      "last_edited_time": "2024-10-24T02:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "129a6e41-f23e-806e-bbdd-fa6c38c9e73b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "125a6e41-f23e-8017-974b-efeb8763898f"
+      },
+      "created_time": "2024-10-24T02:19:00.000Z",
+      "last_edited_time": "2024-10-24T02:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "quote",
+      "quote": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Harvard is super super dense by the way! In both meanings",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Harvard is super super dense by the way! In both meanings",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "129a6e41-f23e-80c2-95b7-dc8f5e9e4ba1",
+          "parent": {
+            "type": "block_id",
+            "block_id": "129a6e41-f23e-806e-bbdd-fa6c38c9e73b"
+          },
+          "created_time": "2024-10-24T02:19:00.000Z",
+          "last_edited_time": "2024-10-24T02:19:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Which again, is my point that you both need to model this as at least three stances rather than two, it's not just bug people versus suburbs, it's\nA) Super low density car-centric suburbs\nB) Super high density high rises\nC) Moderately high density non-car-centric campuses, mixed-use, missing-middle, multi-family homes, etc\nAnd I feel like you're both making the mistake of criticizing B without the balls to actually endorse A, and while ignoring that what everyone actually wants is C",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Which again, is my point that you both need to model this as at least three stances rather than two, it's not just bug people versus suburbs, it's\nA) Super low density car-centric suburbs\nB) Super high density high rises\nC) Moderately high density non-car-centric campuses, mixed-use, missing-middle, multi-family homes, etc\nAnd I feel like you're both making the mistake of criticizing B without the balls to actually endorse A, and while ignoring that what everyone actually wants is C",
+                "href": null
+              }
+            ],
+            "icon": null,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "129a6e41-f23e-8040-8931-dc4f8ec6487b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "125a6e41-f23e-8017-974b-efeb8763898f"
+      },
+      "created_time": "2024-10-24T02:27:00.000Z",
+      "last_edited_time": "2024-10-24T02:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Yeah this is pretty clarifying. As a consumer I definitely appreciate the quality of life offered by C (or even B) over A.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Yeah this is pretty clarifying. As a consumer I definitely appreciate the quality of life offered by C (or even B) over A.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "129a6e41-f23e-805f-a63f-c85a0922f990",
+      "parent": {
+        "type": "page_id",
+        "page_id": "125a6e41-f23e-8017-974b-efeb8763898f"
+      },
+      "created_time": "2024-10-24T02:32:00.000Z",
+      "last_edited_time": "2024-10-24T02:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Maybe: I’m wondering if the high prices of living in SF are net good, perhaps even load bearing. Much of the goal of YIMBY or pro-immigration, especially from the economist/libertarian point of view, is to lower prices — so if high prices are necessary for SF than these movements are counterproductive.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Maybe: I’m wondering if the high prices of living in SF are net good, perhaps even load bearing. Much of the goal of YIMBY or pro-immigration, especially from the economist/libertarian point of view, is to lower prices — so if high prices are necessary for SF than these movements are counterproductive.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "129a6e41-f23e-8036-b5b3-def9bb8ba2c0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "125a6e41-f23e-8017-974b-efeb8763898f"
+      },
+      "created_time": "2024-10-24T02:38:00.000Z",
+      "last_edited_time": "2024-10-24T02:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Harvard (and colleges writ large) are sometimes described as ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Harvard (and colleges writ large) are sometimes described as ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "a magical tower where you pay six figures and four years of your life",
+              "link": {
+                "url": "https://equilibriabook.com/molochs-toolbox/#:~:text=To%20paraphrase%20a,at%20all.5"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "a magical tower where you pay six figures and four years of your life",
+            "href": "https://equilibriabook.com/molochs-toolbox/#:~:text=To%20paraphrase%20a,at%20all.5"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " in exchange for better employment prospects. Yudkowsky frames this as kind of suboptimal, rent-seeking (I think); but now I’m wondering if it’s structurally necessary for such institutions to be expensive & difficult to enter.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " in exchange for better employment prospects. Yudkowsky frames this as kind of suboptimal, rent-seeking (I think); but now I’m wondering if it’s structurally necessary for such institutions to be expensive & difficult to enter.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "129a6e41-f23e-80d1-bee0-ff71a1ded3f6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "125a6e41-f23e-8017-974b-efeb8763898f"
+      },
+      "created_time": "2024-10-24T02:49:00.000Z",
+      "last_edited_time": "2024-10-24T02:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "129a6e41-f23e-8063-b77b-eda266028a3f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "125a6e41-f23e-8017-974b-efeb8763898f"
+      },
+      "created_time": "2024-10-24T02:35:00.000Z",
+      "last_edited_time": "2024-10-24T02:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    }
+  ]
+}

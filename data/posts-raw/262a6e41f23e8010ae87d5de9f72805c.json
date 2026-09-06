@@ -1,0 +1,1504 @@
+{
+  "page": {
+    "id": "262a6e41f23e8010ae87d5de9f72805c",
+    "title": "What would it take to revive EA?",
+    "date": "2025-09-02T17:16:00.000+00:00",
+    "edited": "2025-09-03T16:15:00.000Z",
+    "url": "https://akrolsmir.notion.site/What-would-it-take-to-revive-EA-262a6e41f23e8010ae87d5de9f72805c",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "262a6e41-f23e-80ec-8575-cb6a089a89f6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "262a6e41-f23e-8010-ae87-d5de9f72805c"
+      },
+      "created_time": "2025-09-02T17:17:00.000Z",
+      "last_edited_time": "2025-09-02T17:17:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "What are current problems with EA?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "What are current problems with EA?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "262a6e41-f23e-8041-aafe-d30b3e0633ef",
+      "parent": {
+        "type": "page_id",
+        "page_id": "262a6e41-f23e-8010-ae87-d5de9f72805c"
+      },
+      "created_time": "2025-09-02T17:17:00.000Z",
+      "last_edited_time": "2025-09-02T17:29:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Evaporative cooling",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Evaporative cooling",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "262a6e41-f23e-8058-9df2-dac97990ba06",
+          "parent": {
+            "type": "block_id",
+            "block_id": "262a6e41-f23e-8041-aafe-d30b3e0633ef"
+          },
+          "created_time": "2025-09-02T17:29:00.000Z",
+          "last_edited_time": "2025-09-02T17:29:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Whereas once EA was the place for smart people to talk, now many former leaders are distancing themselves from the brand",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Whereas once EA was the place for smart people to talk, now many former leaders are distancing themselves from the brand",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "262a6e41-f23e-8074-9150-e6e025f85c09",
+          "parent": {
+            "type": "block_id",
+            "block_id": "262a6e41-f23e-8041-aafe-d30b3e0633ef"
+          },
+          "created_time": "2025-09-02T17:29:00.000Z",
+          "last_edited_time": "2025-09-02T17:33:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Brain drain into AI safety, specifically",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Brain drain into AI safety, specifically",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "262a6e41-f23e-801c-887f-d6803a9f723a",
+          "parent": {
+            "type": "block_id",
+            "block_id": "262a6e41-f23e-8041-aafe-d30b3e0633ef"
+          },
+          "created_time": "2025-09-02T17:18:00.000Z",
+          "last_edited_time": "2025-09-02T17:39:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "EA Forum no longer feels like a good place to talk about things; average comment or post quality is lower than LessWrong; EAGs no longer feel like the best place to meet people",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "EA Forum no longer feels like a good place to talk about things; average comment or post quality is lower than LessWrong; EAGs no longer feel like the best place to meet people",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "262a6e41-f23e-80c0-a95c-c8d5c00103dc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "262a6e41-f23e-8010-ae87-d5de9f72805c"
+      },
+      "created_time": "2025-09-02T17:17:00.000Z",
+      "last_edited_time": "2025-09-02T17:26:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Loss of cohesion — AI safety vs animal welfare vs GHD vs earning to give are pretty different in terms of the kind of person who works in that",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Loss of cohesion — AI safety vs animal welfare vs GHD vs earning to give are pretty different in terms of the kind of person who works in that",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "262a6e41-f23e-80ec-a40c-fe1e0791c8ee",
+          "parent": {
+            "type": "block_id",
+            "block_id": "262a6e41-f23e-80c0-a95c-c8d5c00103dc"
+          },
+          "created_time": "2025-09-02T17:25:00.000Z",
+          "last_edited_time": "2025-09-02T17:27:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Also: vibes-wise, Bay Area EA feels pretty different than London EA, and imo it’s a problem that much of the community stuff is governed by London EA (80k, CEA)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Also: vibes-wise, Bay Area EA feels pretty different than London EA, and imo it’s a problem that much of the community stuff is governed by London EA (80k, CEA)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "262a6e41-f23e-8023-a058-f305175c5f3d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "262a6e41-f23e-8010-ae87-d5de9f72805c"
+      },
+      "created_time": "2025-09-02T17:22:00.000Z",
+      "last_edited_time": "2025-09-02T17:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Retention — if you’re earning to give or just EA-adjacent, there’s not much keeping you engaged",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Retention — if you’re earning to give or just EA-adjacent, there’s not much keeping you engaged",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "262a6e41-f23e-80d3-a2e1-e05451c2bea8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "262a6e41-f23e-8010-ae87-d5de9f72805c"
+      },
+      "created_time": "2025-09-02T17:22:00.000Z",
+      "last_edited_time": "2025-09-02T17:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Insularity — Constellation is great, but has some ivory-tower-ness to it: hard for people to come in, hard for ideas to flow out",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Insularity — Constellation is great, but has some ivory-tower-ness to it: hard for people to come in, hard for ideas to flow out",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "262a6e41-f23e-806e-92a9-fc2d0f0ba8b8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "262a6e41-f23e-8010-ae87-d5de9f72805c"
+      },
+      "created_time": "2025-09-02T17:19:00.000Z",
+      "last_edited_time": "2025-09-02T17:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "262a6e41-f23e-802b-92ba-ffe355782e39",
+      "parent": {
+        "type": "page_id",
+        "page_id": "262a6e41-f23e-8010-ae87-d5de9f72805c"
+      },
+      "created_time": "2025-09-02T17:19:00.000Z",
+      "last_edited_time": "2025-09-02T22:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Interesting things to try",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Interesting things to try",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "262a6e41-f23e-802b-aff2-eb4a31553c1b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "262a6e41-f23e-8010-ae87-d5de9f72805c"
+      },
+      "created_time": "2025-09-02T17:19:00.000Z",
+      "last_edited_time": "2025-09-03T16:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Copying social technology of how religious groups retain members:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Copying social technology of how religious groups retain members:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "262a6e41-f23e-8020-98d9-c3f863ec50dd",
+          "parent": {
+            "type": "block_id",
+            "block_id": "262a6e41-f23e-802b-aff2-eb4a31553c1b"
+          },
+          "created_time": "2025-09-02T17:20:00.000Z",
+          "last_edited_time": "2025-09-02T17:34:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Small groups: ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Small groups: ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "sets of 5-10 people who come together weekly and share a meal and talk about EA-y things",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "sets of 5-10 people who come together weekly and share a meal and talk about EA-y things",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "262a6e41-f23e-80e9-aca6-e570777b6da9",
+              "parent": {
+                "type": "block_id",
+                "block_id": "262a6e41-f23e-8020-98d9-c3f863ec50dd"
+              },
+              "created_time": "2025-09-02T17:20:00.000Z",
+              "last_edited_time": "2025-09-02T17:37:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "different than a “meetup” in how close the members are — I vividly remember my college Christian small group leader going out of his way to deliver groceries to our house",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "different than a “meetup” in how close the members are — I vividly remember my college Christian small group leader going out of his way to deliver groceries to our house",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "262a6e41-f23e-8095-a180-c63b455fe8d9",
+              "parent": {
+                "type": "block_id",
+                "block_id": "262a6e41-f23e-8020-98d9-c3f863ec50dd"
+              },
+              "created_time": "2025-09-02T17:34:00.000Z",
+              "last_edited_time": "2025-09-02T17:35:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "explicitly not trying to grow beyond a certain size",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "explicitly not trying to grow beyond a certain size",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "262a6e41-f23e-8090-8b08-e216e214d44e",
+          "parent": {
+            "type": "block_id",
+            "block_id": "262a6e41-f23e-802b-aff2-eb4a31553c1b"
+          },
+          "created_time": "2025-09-02T17:21:00.000Z",
+          "last_edited_time": "2025-09-02T17:35:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Volunteering, service: once upon a time, the meme was “earn to give”; then “direct work”; but something is lost when people don’t put in their own labor into making a thing better",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Volunteering, service: once upon a time, the meme was “earn to give”; then “direct work”; but something is lost when people don’t put in their own labor into making a thing better",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "262a6e41-f23e-8071-86ab-c75aaaa08ce8",
+              "parent": {
+                "type": "block_id",
+                "block_id": "262a6e41-f23e-8090-8b08-e216e214d44e"
+              },
+              "created_time": "2025-09-02T17:31:00.000Z",
+              "last_edited_time": "2025-09-02T17:32:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "volunteering at events like EAG is good, but not regular/consistent",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "volunteering at events like EAG is good, but not regular/consistent",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "262a6e41-f23e-800e-b541-e5df7113b4d8",
+          "parent": {
+            "type": "block_id",
+            "block_id": "262a6e41-f23e-802b-aff2-eb4a31553c1b"
+          },
+          "created_time": "2025-09-02T17:32:00.000Z",
+          "last_edited_time": "2025-09-02T17:33:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Proselytizing! Why is this considered just a university thing?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Proselytizing! Why is this considered just a university thing?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "263a6e41-f23e-8020-8d54-e86179a5e3e5",
+          "parent": {
+            "type": "block_id",
+            "block_id": "262a6e41-f23e-802b-aff2-eb4a31553c1b"
+          },
+          "created_time": "2025-09-03T16:14:00.000Z",
+          "last_edited_time": "2025-09-03T16:15:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Mass service: regular meeting point for the local congregation",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Mass service: regular meeting point for the local congregation",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "263a6e41-f23e-80d7-99b0-ec79b9f49a63",
+              "parent": {
+                "type": "block_id",
+                "block_id": "263a6e41-f23e-8020-8d54-e86179a5e3e5"
+              },
+              "created_time": "2025-09-03T16:14:00.000Z",
+              "last_edited_time": "2025-09-03T16:15:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "What would EA solstice look like?",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "What would EA solstice look like?",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "262a6e41-f23e-80d8-b6fb-fb0dba891443",
+      "parent": {
+        "type": "page_id",
+        "page_id": "262a6e41-f23e-8010-ae87-d5de9f72805c"
+      },
+      "created_time": "2025-09-02T17:38:00.000Z",
+      "last_edited_time": "2025-09-02T22:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Stronger leadership",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Stronger leadership",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "262a6e41-f23e-8078-bc04-ffbe8bcfabab",
+          "parent": {
+            "type": "block_id",
+            "block_id": "262a6e41-f23e-80d8-b6fb-fb0dba891443"
+          },
+          "created_time": "2025-09-02T22:41:00.000Z",
+          "last_edited_time": "2025-09-02T22:42:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "I think it’d be fun to elect a “President of EA” to be the face of the movement",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "I think it’d be fun to elect a “President of EA” to be the face of the movement",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "262a6e41-f23e-80fd-ad0d-c152dc6bb7ef",
+      "parent": {
+        "type": "page_id",
+        "page_id": "262a6e41-f23e-8010-ae87-d5de9f72805c"
+      },
+      "created_time": "2025-09-02T17:43:00.000Z",
+      "last_edited_time": "2025-09-02T22:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "More clear boundaries on whether someone is in/out",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "More clear boundaries on whether someone is in/out",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "262a6e41-f23e-8074-b9c7-c2829405f2a8",
+          "parent": {
+            "type": "block_id",
+            "block_id": "262a6e41-f23e-80fd-ad0d-c152dc6bb7ef"
+          },
+          "created_time": "2025-09-02T22:42:00.000Z",
+          "last_edited_time": "2025-09-02T22:42:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "EA membership cards, renewing yearly",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "EA membership cards, renewing yearly",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "262a6e41-f23e-807b-881b-ed965fd99342",
+      "parent": {
+        "type": "page_id",
+        "page_id": "262a6e41-f23e-8010-ae87-d5de9f72805c"
+      },
+      "created_time": "2025-09-02T22:40:00.000Z",
+      "last_edited_time": "2025-09-02T22:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Better communication/organization among members",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Better communication/organization among members",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "262a6e41-f23e-8045-9afc-df85bf0caca8",
+          "parent": {
+            "type": "block_id",
+            "block_id": "262a6e41-f23e-807b-881b-ed965fd99342"
+          },
+          "created_time": "2025-09-02T22:42:00.000Z",
+          "last_edited_time": "2025-09-02T22:43:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "A single Slack that every EA is on",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "A single Slack that every EA is on",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "262a6e41-f23e-8039-8f23-c533833dc12b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "262a6e41-f23e-8010-ae87-d5de9f72805c"
+      },
+      "created_time": "2025-09-02T22:43:00.000Z",
+      "last_edited_time": "2025-09-02T22:44:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Generator question: what are technologies that are used within large (1k-10k ppl) orgs? Could we adopt those within EA? ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Generator question: what are technologies that are used within large (1k-10k ppl) orgs? Could we adopt those within EA? ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "262a6e41-f23e-8011-8f0b-ce3dc57a641b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "262a6e41-f23e-8010-ae87-d5de9f72805c"
+      },
+      "created_time": "2025-09-02T17:22:00.000Z",
+      "last_edited_time": "2025-09-02T17:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "262a6e41-f23e-8085-bf6e-d66f132eab8d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "262a6e41-f23e-8010-ae87-d5de9f72805c"
+      },
+      "created_time": "2025-09-02T17:20:00.000Z",
+      "last_edited_time": "2025-09-02T17:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Things that EA does uniquely well, compared to other movements",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Things that EA does uniquely well, compared to other movements",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "262a6e41-f23e-8085-babd-c33a86df48e5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "262a6e41-f23e-8010-ae87-d5de9f72805c"
+      },
+      "created_time": "2025-09-02T17:22:00.000Z",
+      "last_edited_time": "2025-09-02T17:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Collections of group houses and hubs, having physical places to congregate",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Collections of group houses and hubs, having physical places to congregate",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "262a6e41-f23e-8027-8921-fd2971d86ecf",
+      "parent": {
+        "type": "page_id",
+        "page_id": "262a6e41-f23e-8010-ae87-d5de9f72805c"
+      },
+      "created_time": "2025-09-02T17:23:00.000Z",
+      "last_edited_time": "2025-09-02T22:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Great writers, serving as top-of-funnel for EA ideas and philosophy",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Great writers, serving as top-of-funnel for EA ideas and philosophy",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "262a6e41-f23e-8088-9aa3-da1183569d51",
+      "parent": {
+        "type": "page_id",
+        "page_id": "262a6e41-f23e-8010-ae87-d5de9f72805c"
+      },
+      "created_time": "2025-09-02T22:41:00.000Z",
+      "last_edited_time": "2025-09-02T22:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Having a lot of money",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Having a lot of money",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "262a6e41-f23e-80a8-a5d4-e2c7cb233b7f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "262a6e41-f23e-8010-ae87-d5de9f72805c"
+      },
+      "created_time": "2025-09-02T17:24:00.000Z",
+      "last_edited_time": "2025-09-02T17:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Professionalized recruitment (?)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Professionalized recruitment (?)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "262a6e41-f23e-80ed-8e4f-ce926e34b682",
+      "parent": {
+        "type": "page_id",
+        "page_id": "262a6e41-f23e-8010-ae87-d5de9f72805c"
+      },
+      "created_time": "2025-09-02T17:39:00.000Z",
+      "last_edited_time": "2025-09-02T22:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Events (?)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Events (?)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "262a6e41-f23e-80d6-9c9c-eb42d6d8d6b9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "262a6e41-f23e-8010-ae87-d5de9f72805c"
+      },
+      "created_time": "2025-09-02T17:19:00.000Z",
+      "last_edited_time": "2025-09-02T17:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    }
+  ]
+}

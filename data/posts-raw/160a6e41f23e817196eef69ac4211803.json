@@ -1,0 +1,4140 @@
+{
+  "page": {
+    "id": "160a6e41f23e817196eef69ac4211803",
+    "title": "A space of our own, in SF [minifest]",
+    "date": "2024-12-14",
+    "edited": "2025-03-09T07:52:00.000Z",
+    "url": "https://akrolsmir.notion.site/A-space-of-our-own-in-SF-minifest-160a6e41f23e817196eef69ac4211803",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-8141-a2d0-e59aeb82e6e5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Thoughts on running an office & community space in San Francisco",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Thoughts on running an office & community space in San Francisco",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-8126-af8f-ee1d041c5323",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "4 spectrums of spaces",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "4 spectrums of spaces",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-8190-98a3-fa73685364a3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Coworking",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Coworking",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " (FAR Labs)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " (FAR Labs)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-8150-a1d1-d595f4495ac0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Office",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Office",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " (Constellation)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " (Constellation)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-8166-8f77-c5c37f74ac27",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Events",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Events",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " (Lighthaven)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " (Lighthaven)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-8158-ab2d-dd64bb49ca58",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Community",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Community",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " (SF Commons)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " (SF Commons)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-81d0-89dd-ee8d8c74660a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "For fun: ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "For fun: ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "https://manifold.markets/Austin/bay-area-community-spaces-index-bas",
+              "link": {
+                "url": "https://manifold.markets/Austin/bay-area-community-spaces-index-bas"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://manifold.markets/Austin/bay-area-community-spaces-index-bas",
+            "href": "https://manifold.markets/Austin/bay-area-community-spaces-index-bas"
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-8120-9fe4-fe1ba49df512",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-81f7-965c-d158ea50d609",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Why SF?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Why SF?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-81bd-a013-ed4ee09e84a0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "AI labs are there; tech startups are there",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "AI labs are there; tech startups are there",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-818f-8e54-edd4d74cbb3e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "People don't want to go across the bridge",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "People don't want to go across the bridge",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-81f5-93f2-efdafaa36a65",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "The SF EA scene is surprisingly weak, compared to London or NYC",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "The SF EA scene is surprisingly weak, compared to London or NYC",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-8143-9e22-efe5a1de6ea1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I live in SF!",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I live in SF!",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-8158-a6bd-d399c7c45f7c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-8189-b704-e495cc99d58f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Who is “us”?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Who is “us”?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-81dc-9cb9-d043087f3961",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "hard to articulate… “I know it when I see it”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "hard to articulate… “I know it when I see it”",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-81ce-98c3-e6418aa1ece2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "\"Manifest crowd\"",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\"Manifest crowd\"",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-8169-b91b-d5ed0ac7d997",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "EA, AI safety folks, rationalists",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "EA, AI safety folks, rationalists",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-8182-8afc-d2973c701253",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Early stage startups (tech, AI, YC)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Early stage startups (tech, AI, YC)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-8186-977f-ee40e5289d42",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Individual researchers, remote workers",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Individual researchers, remote workers",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-81d9-8b70-ca95ed0ea2b6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Random cool projects",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Random cool projects",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-81f3-8023-e0da5d6471d4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-81a7-b903-f326d62f3963",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Vision",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Vision",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-8102-b75f-f3d215c0b0d8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Striking the right balance between:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Striking the right balance between:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-8148-8b0b-c9836a52bf49",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "“open, welcoming” vs “high caliber”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“open, welcoming” vs “high caliber”",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "160a6e41-f23e-8154-b9f4-e7557d064447",
+          "parent": {
+            "type": "block_id",
+            "block_id": "160a6e41-f23e-8148-8b0b-c9836a52bf49"
+          },
+          "created_time": "2024-12-18T07:21:00.000Z",
+          "last_edited_time": "2024-12-18T07:21:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "case study: Manifest vs EAG.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "case study: Manifest vs EAG.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "160a6e41-f23e-8142-a3e1-c6294c4de582",
+          "parent": {
+            "type": "block_id",
+            "block_id": "160a6e41-f23e-8148-8b0b-c9836a52bf49"
+          },
+          "created_time": "2024-12-18T07:21:00.000Z",
+          "last_edited_time": "2024-12-18T07:21:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Maybe: open weekly events, but long-term tenancy is highly gated",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Maybe: open weekly events, but long-term tenancy is highly gated",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "160a6e41-f23e-815c-b6b1-d694b3631fc0",
+          "parent": {
+            "type": "block_id",
+            "block_id": "160a6e41-f23e-8148-8b0b-c9836a52bf49"
+          },
+          "created_time": "2024-12-18T07:21:00.000Z",
+          "last_edited_time": "2024-12-18T07:21:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "I default to “very open”, so will be an interesting exercise",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "I default to “very open”, so will be an interesting exercise",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-8152-bb37-db616b9d7f9d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "“productive/closed door” vs “enjoyable/open door”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“productive/closed door” vs “enjoyable/open door”",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "160a6e41-f23e-8118-a81e-d80f467339e2",
+          "parent": {
+            "type": "block_id",
+            "block_id": "160a6e41-f23e-8152-bb37-db616b9d7f9d"
+          },
+          "created_time": "2024-12-18T07:21:00.000Z",
+          "last_edited_time": "2024-12-18T07:21:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Solaris was thoughtful about this: quiet zone, no talking open office; all food in kitchen",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Solaris was thoughtful about this: quiet zone, no talking open office; all food in kitchen",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "160a6e41-f23e-819c-81a4-e9ba02372fe6",
+          "parent": {
+            "type": "block_id",
+            "block_id": "160a6e41-f23e-8152-bb37-db616b9d7f9d"
+          },
+          "created_time": "2024-12-18T07:21:00.000Z",
+          "last_edited_time": "2024-12-18T07:21:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "fail state of coworking: enjoyable convos but don’t get stuff done",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "fail state of coworking: enjoyable convos but don’t get stuff done",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-8115-b50e-ec41d8fb0fc8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "“pluralistic” vs “focused”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“pluralistic” vs “focused”",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "160a6e41-f23e-81a0-92ec-f0bca822da04",
+          "parent": {
+            "type": "block_id",
+            "block_id": "160a6e41-f23e-8115-b50e-ec41d8fb0fc8"
+          },
+          "created_time": "2024-12-18T07:21:00.000Z",
+          "last_edited_time": "2024-12-18T07:21:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "In Berkeley the EA/AIS/rationalists dominate; in SF they are a part of the entire scene",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "In Berkeley the EA/AIS/rationalists dominate; in SF they are a part of the entire scene",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "160a6e41-f23e-814a-b77d-c75640149300",
+          "parent": {
+            "type": "block_id",
+            "block_id": "160a6e41-f23e-8115-b50e-ec41d8fb0fc8"
+          },
+          "created_time": "2024-12-18T07:21:00.000Z",
+          "last_edited_time": "2024-12-18T07:21:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "have space for multiple overlapping communities",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "have space for multiple overlapping communities",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "160a6e41-f23e-8186-a137-da017fe936aa",
+          "parent": {
+            "type": "block_id",
+            "block_id": "160a6e41-f23e-8115-b50e-ec41d8fb0fc8"
+          },
+          "created_time": "2024-12-18T07:21:00.000Z",
+          "last_edited_time": "2024-12-18T07:21:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "let people learn from each other, make new friends",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "let people learn from each other, make new friends",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-81be-a8ce-e1e917a8bc5e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "“collectivist” vs “top-down”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“collectivist” vs “top-down”",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "160a6e41-f23e-8182-b454-d880faed7de8",
+          "parent": {
+            "type": "block_id",
+            "block_id": "160a6e41-f23e-81be-a8ce-e1e917a8bc5e"
+          },
+          "created_time": "2024-12-18T07:21:00.000Z",
+          "last_edited_time": "2024-12-18T07:21:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Inspirations: Manifest, our group house",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Inspirations: Manifest, our group house",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "160a6e41-f23e-81dc-ad33-c7bce65c6beb",
+          "parent": {
+            "type": "block_id",
+            "block_id": "160a6e41-f23e-81be-a8ce-e1e917a8bc5e"
+          },
+          "created_time": "2024-12-18T07:21:00.000Z",
+          "last_edited_time": "2024-12-18T07:21:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Manifest works because really cool people lead sub-sections",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Manifest works because really cool people lead sub-sections",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "160a6e41-f23e-8113-91d1-ef6a8c5255aa",
+          "parent": {
+            "type": "block_id",
+            "block_id": "160a6e41-f23e-81be-a8ce-e1e917a8bc5e"
+          },
+          "created_time": "2024-12-18T07:21:00.000Z",
+          "last_edited_time": "2024-12-18T07:21:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Permit individual spirit to shine; avoid commoditization",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Permit individual spirit to shine; avoid commoditization",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-8127-ba2a-f9d0b445cfe0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-81e9-a8ce-e6322772a931",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "The space we're looking at",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "The space we're looking at",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-8144-91a1-c3e622e907dc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "column_list",
+      "column_list": {},
+      "children": [
+        {
+          "object": "block",
+          "id": "160a6e41-f23e-81eb-bf1d-e10a9cc7dcf7",
+          "parent": {
+            "type": "block_id",
+            "block_id": "160a6e41-f23e-8144-91a1-c3e622e907dc"
+          },
+          "created_time": "2024-12-18T07:21:00.000Z",
+          "last_edited_time": "2024-12-18T07:21:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "column",
+          "column": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "160a6e41-f23e-816b-a17c-f75ca79be68c",
+              "parent": {
+                "type": "block_id",
+                "block_id": "160a6e41-f23e-81eb-bf1d-e10a9cc7dcf7"
+              },
+              "created_time": "2024-12-18T07:21:00.000Z",
+              "last_edited_time": "2024-12-18T07:21:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Solaris AI was operating on 3rd & 4th floor",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Solaris AI was operating on 3rd & 4th floor",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "160a6e41-f23e-81ef-90b8-c4a84d7dd31e",
+              "parent": {
+                "type": "block_id",
+                "block_id": "160a6e41-f23e-81eb-bf1d-e10a9cc7dcf7"
+              },
+              "created_time": "2024-12-18T07:21:00.000Z",
+              "last_edited_time": "2025-03-09T07:52:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "2 floors, 10k sq ft each; $17k/mo rent each",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "2 floors, 10k sq ft each; $17k/mo rent each",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "160a6e41-f23e-810c-95d8-fa38f6fe0e91",
+              "parent": {
+                "type": "block_id",
+                "block_id": "160a6e41-f23e-81eb-bf1d-e10a9cc7dcf7"
+              },
+              "created_time": "2024-12-18T07:21:00.000Z",
+              "last_edited_time": "2024-12-18T07:21:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "pros: relatively budget, turnkey, close to things",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "pros: relatively budget, turnkey, close to things",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "160a6e41-f23e-8121-a1d2-eff8fa385dd1",
+              "parent": {
+                "type": "block_id",
+                "block_id": "160a6e41-f23e-81eb-bf1d-e10a9cc7dcf7"
+              },
+              "created_time": "2024-12-18T07:21:00.000Z",
+              "last_edited_time": "2024-12-18T07:21:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "cons: immediate location is bad",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "cons: immediate location is bad",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "160a6e41-f23e-81fa-b73a-e65eabed8593",
+              "parent": {
+                "type": "block_id",
+                "block_id": "160a6e41-f23e-81eb-bf1d-e10a9cc7dcf7"
+              },
+              "created_time": "2024-12-18T07:21:00.000Z",
+              "last_edited_time": "2024-12-18T07:21:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Currently: have sent out a LOI",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Currently: have sent out a LOI",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "160a6e41-f23e-8184-b03b-f5af811e22da",
+          "parent": {
+            "type": "block_id",
+            "block_id": "160a6e41-f23e-8144-91a1-c3e622e907dc"
+          },
+          "created_time": "2024-12-18T07:21:00.000Z",
+          "last_edited_time": "2024-12-18T07:21:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "column",
+          "column": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "160a6e41-f23e-81c0-a872-f78e1e4642c5",
+              "parent": {
+                "type": "block_id",
+                "block_id": "160a6e41-f23e-8184-b03b-f5af811e22da"
+              },
+              "created_time": "2024-12-18T07:21:00.000Z",
+              "last_edited_time": "2024-12-18T07:21:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "embed",
+              "embed": {
+                "caption": [],
+                "url": "https://maps.app.goo.gl/iMPNQMHpxX4jZmr1A"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-8112-bef3-e902429687f6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-817e-93fa-ee2e335d28ea",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-8176-8b34-c81f654ebd8a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Running the numbers",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Running the numbers",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-817a-8558-c1a86de25411",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ballpark from Solaris for Sep 2024, at ~90% utilization:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ballpark from Solaris for Sep 2024, at ~90% utilization:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-81c8-8dc1-f5567f1e3713",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "table",
+      "table": {
+        "table_width": 4,
+        "has_column_header": false,
+        "has_row_header": false
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "160a6e41-f23e-8106-959a-c9c8a27456d6",
+          "parent": {
+            "type": "block_id",
+            "block_id": "160a6e41-f23e-81c8-8dc1-f5567f1e3713"
+          },
+          "created_time": "2024-12-18T07:21:00.000Z",
+          "last_edited_time": "2024-12-18T07:21:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "hot desk",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "hot desk",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "$400",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "$400",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "80",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "80",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "$32k",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "$32k",
+                  "href": null
+                }
+              ]
+            ]
+          }
+        },
+        {
+          "object": "block",
+          "id": "160a6e41-f23e-814c-ae5c-ec59e4325ca0",
+          "parent": {
+            "type": "block_id",
+            "block_id": "160a6e41-f23e-81c8-8dc1-f5567f1e3713"
+          },
+          "created_time": "2024-12-18T07:21:00.000Z",
+          "last_edited_time": "2024-12-18T07:21:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "private desk",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "private desk",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "$600",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "$600",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "20",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "20",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "$12k",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "$12k",
+                  "href": null
+                }
+              ]
+            ]
+          }
+        },
+        {
+          "object": "block",
+          "id": "160a6e41-f23e-81a5-bc63-d9ba047c8562",
+          "parent": {
+            "type": "block_id",
+            "block_id": "160a6e41-f23e-81c8-8dc1-f5567f1e3713"
+          },
+          "created_time": "2024-12-18T07:21:00.000Z",
+          "last_edited_time": "2024-12-18T07:21:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "5p office",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "5p office",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "$4000",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "$4000",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "7",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "7",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "$28k",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "$28k",
+                  "href": null
+                }
+              ]
+            ]
+          }
+        },
+        {
+          "object": "block",
+          "id": "160a6e41-f23e-81e2-a73c-dc4528145992",
+          "parent": {
+            "type": "block_id",
+            "block_id": "160a6e41-f23e-81c8-8dc1-f5567f1e3713"
+          },
+          "created_time": "2024-12-18T07:21:00.000Z",
+          "last_edited_time": "2024-12-18T07:21:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "larger offices",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "larger offices",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "$5k-$7k",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "$5k-$7k",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "6",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "6",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "$36k",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "$36k",
+                  "href": null
+                }
+              ]
+            ]
+          }
+        },
+        {
+          "object": "block",
+          "id": "160a6e41-f23e-816c-8c02-eecb6f10a046",
+          "parent": {
+            "type": "block_id",
+            "block_id": "160a6e41-f23e-81c8-8dc1-f5567f1e3713"
+          },
+          "created_time": "2024-12-18T07:21:00.000Z",
+          "last_edited_time": "2024-12-18T07:21:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "total revenue",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "total revenue",
+                  "href": null
+                }
+              ],
+              [],
+              [],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "$108k",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "$108k",
+                  "href": null
+                }
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-812d-aec5-f66b8d7c34f1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Costs: ~$100k per month",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Costs: ~$100k per month",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "160a6e41-f23e-81b0-86ca-dc8be408ec27",
+          "parent": {
+            "type": "block_id",
+            "block_id": "160a6e41-f23e-812d-aec5-f66b8d7c34f1"
+          },
+          "created_time": "2024-12-18T07:21:00.000Z",
+          "last_edited_time": "2024-12-18T07:21:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "$34k rent",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "$34k rent",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "160a6e41-f23e-8147-abe8-e0bcaabea3c4",
+          "parent": {
+            "type": "block_id",
+            "block_id": "160a6e41-f23e-812d-aec5-f66b8d7c34f1"
+          },
+          "created_time": "2024-12-18T07:21:00.000Z",
+          "last_edited_time": "2024-12-18T07:21:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "$30k ~2 FTE salaries",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "$30k ~2 FTE salaries",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "160a6e41-f23e-810a-b9a8-dc5e2637eb0d",
+          "parent": {
+            "type": "block_id",
+            "block_id": "160a6e41-f23e-812d-aec5-f66b8d7c34f1"
+          },
+          "created_time": "2024-12-18T07:21:00.000Z",
+          "last_edited_time": "2024-12-18T07:21:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "$16k utilities (electric, internet)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "$16k utilities (electric, internet)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "160a6e41-f23e-81cd-9687-d41f2bb79c1e",
+          "parent": {
+            "type": "block_id",
+            "block_id": "160a6e41-f23e-812d-aec5-f66b8d7c34f1"
+          },
+          "created_time": "2024-12-18T07:21:00.000Z",
+          "last_edited_time": "2024-12-18T07:21:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "$5k cleaning",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "$5k cleaning",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "160a6e41-f23e-818c-ba67-da942293bde4",
+          "parent": {
+            "type": "block_id",
+            "block_id": "160a6e41-f23e-812d-aec5-f66b8d7c34f1"
+          },
+          "created_time": "2024-12-18T07:21:00.000Z",
+          "last_edited_time": "2024-12-18T07:21:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "$3k snacks",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "$3k snacks",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "160a6e41-f23e-8195-8f04-c9a04b6ec819",
+          "parent": {
+            "type": "block_id",
+            "block_id": "160a6e41-f23e-812d-aec5-f66b8d7c34f1"
+          },
+          "created_time": "2024-12-18T07:21:00.000Z",
+          "last_edited_time": "2024-12-18T07:21:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "$10-15k misc",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "$10-15k misc",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-8118-be30-fea1eaa9b911",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-8154-9957-c589e42d834d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "So, coworking is a terrible business…",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "So, coworking is a terrible business…",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "160a6e41-f23e-816d-abef-fe96888a5cd8",
+          "parent": {
+            "type": "block_id",
+            "block_id": "160a6e41-f23e-8154-9957-c589e42d834d"
+          },
+          "created_time": "2024-12-18T07:21:00.000Z",
+          "last_edited_time": "2024-12-18T07:21:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Getting to breakeven/net profitable is okay",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Getting to breakeven/net profitable is okay",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "160a6e41-f23e-81a3-a745-f0a2f95eeca9",
+          "parent": {
+            "type": "block_id",
+            "block_id": "160a6e41-f23e-8154-9957-c589e42d834d"
+          },
+          "created_time": "2024-12-18T07:21:00.000Z",
+          "last_edited_time": "2024-12-18T07:21:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "and then it’s hard to scale",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "and then it’s hard to scale",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "160a6e41-f23e-81ad-8e8c-c050d164586e",
+          "parent": {
+            "type": "block_id",
+            "block_id": "160a6e41-f23e-8154-9957-c589e42d834d"
+          },
+          "created_time": "2024-12-18T07:21:00.000Z",
+          "last_edited_time": "2024-12-18T07:21:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "succeeding startups outgrow you",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "succeeding startups outgrow you",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-81a2-b249-d39499203e99",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Opportunity cost is the most expensive piece",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Opportunity cost is the most expensive piece",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "160a6e41-f23e-8116-a4e7-ffdc7ecdcc0f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "160a6e41-f23e-81a2-b249-d39499203e99"
+          },
+          "created_time": "2024-12-18T07:21:00.000Z",
+          "last_edited_time": "2024-12-18T07:21:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "E.g. ballparking my own time at ~$1m/year",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "E.g. ballparking my own time at ~$1m/year",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-811a-afc4-fb1b07abcd28",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-8159-8bfe-cb23b9ee0d04",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Why do a space, when so many have failed?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Why do a space, when so many have failed?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-81f5-b1e6-ed0a903d2a5e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "(RIP Solaris, Lightcone Offices, Berkeley REACH, buildspace)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "(RIP Solaris, Lightcone Offices, Berkeley REACH, buildspace)",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-8185-90d0-d6c9ce736530",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-8101-86af-fe7e972babb9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "similar to “why do Manifest”:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "similar to “why do Manifest”:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "160a6e41-f23e-8160-b8cc-f468a3e2c4e5",
+          "parent": {
+            "type": "block_id",
+            "block_id": "160a6e41-f23e-8101-86af-fe7e972babb9"
+          },
+          "created_time": "2024-12-18T07:21:00.000Z",
+          "last_edited_time": "2024-12-18T07:21:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "something like this should exist",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "something like this should exist",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "160a6e41-f23e-81ab-8944-f0cc059b1401",
+          "parent": {
+            "type": "block_id",
+            "block_id": "160a6e41-f23e-8101-86af-fe7e972babb9"
+          },
+          "created_time": "2024-12-18T07:21:00.000Z",
+          "last_edited_time": "2024-12-18T07:21:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "good for meeting folks, branding",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "good for meeting folks, branding",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "160a6e41-f23e-8196-afa0-d4cfab939b15",
+          "parent": {
+            "type": "block_id",
+            "block_id": "160a6e41-f23e-8101-86af-fe7e972babb9"
+          },
+          "created_time": "2024-12-18T07:21:00.000Z",
+          "last_edited_time": "2024-12-18T07:21:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "idk seems like a fun challenge",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "idk seems like a fun challenge",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-81ab-b105-faf6b2174cc4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "a space enables longterm community",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "a space enables longterm community",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-8166-917f-e88a56071f6c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "weird equity swap plans",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "weird equity swap plans",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "160a6e41-f23e-819b-8107-f21e4dc4ed74",
+          "parent": {
+            "type": "block_id",
+            "block_id": "160a6e41-f23e-8166-917f-e88a56071f6c"
+          },
+          "created_time": "2024-12-18T07:21:00.000Z",
+          "last_edited_time": "2024-12-18T07:21:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "plug & play tech center",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "plug & play tech center",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-8181-bd6f-d8c461eeed26",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-813b-a40d-cb1e489f77e2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Get involved",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Get involved",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-81d2-b2ab-e34cbadf8a36",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Things I need help with:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Things I need help with:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-8197-aa8f-c8d2283414ea",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Someone to co-lead this",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Someone to co-lead this",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-810a-b619-e6151e6821f4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Intros to people to work out of here, or run events",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Intros to people to work out of here, or run events",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-8173-aedb-dcb323064305",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Funding or investment — $200k seed",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Funding or investment — $200k seed",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-81dc-93a0-c9545dd281bd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-8117-aa6b-eeb980b43f4b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Or: argue me out of it!",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Or: argue me out of it!",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "160a6e41-f23e-81f3-a993-fd0c47206461",
+      "parent": {
+        "type": "page_id",
+        "page_id": "160a6e41-f23e-8171-96ee-f69ac4211803"
+      },
+      "created_time": "2024-12-18T07:21:00.000Z",
+      "last_edited_time": "2024-12-18T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "embed",
+      "embed": {
+        "caption": [],
+        "url": "https://manifold.markets/Austin/will-i-start-a-coworking-or-event-s"
+      }
+    }
+  ]
+}

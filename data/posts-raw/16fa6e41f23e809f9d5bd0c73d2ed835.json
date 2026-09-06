@@ -1,0 +1,1561 @@
+{
+  "page": {
+    "id": "16fa6e41f23e809f9d5bd0c73d2ed835",
+    "title": "Why not take a grant?",
+    "date": "2025-01-02T20:20:00.000+00:00",
+    "edited": "2025-01-02T21:52:00.000Z",
+    "url": "https://akrolsmir.notion.site/Why-not-take-a-grant-16fa6e41f23e809f9d5bd0c73d2ed835",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "16fa6e41-f23e-8019-83a9-cef5d02d6b63",
+      "parent": {
+        "type": "page_id",
+        "page_id": "16fa6e41-f23e-809f-9d5b-d0c73d2ed835"
+      },
+      "created_time": "2025-01-02T21:27:00.000Z",
+      "last_edited_time": "2025-01-02T21:52:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "There’s no such thing as free money / ranting on granting",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "There’s no such thing as free money / ranting on granting",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "16fa6e41-f23e-8016-970d-db89ebdf038d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "16fa6e41-f23e-809f-9d5b-d0c73d2ed835"
+      },
+      "created_time": "2025-01-02T20:20:00.000Z",
+      "last_edited_time": "2025-01-02T20:30:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "1. Grants can lock you in prematurely",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "1. Grants can lock you in prematurely",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "16fa6e41-f23e-809d-9f20-c652af6545ad",
+      "parent": {
+        "type": "page_id",
+        "page_id": "16fa6e41-f23e-809f-9d5b-d0c73d2ed835"
+      },
+      "created_time": "2025-01-02T20:30:00.000Z",
+      "last_edited_time": "2025-01-02T21:26:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "When you take a grant you psychologically commit to doing the thing you said you'd do, sometimes too early. You might still need time to traverse the idea maze — but to get a grant, you’re often forced into articulating a vision of what you’d do with that funding",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "When you take a grant you psychologically commit to doing the thing you said you'd do, sometimes too early. You might still need time to traverse the idea maze — but to get a grant, you’re often forced into articulating a vision of what you’d do with that funding",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "16fa6e41-f23e-8084-ba44-eb444ba3c7f3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "16fa6e41-f23e-809f-9d5b-d0c73d2ed835"
+      },
+      "created_time": "2025-01-02T21:23:00.000Z",
+      "last_edited_time": "2025-01-02T21:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Unrestricted funding",
+              "link": {
+                "url": "https://paulgraham.com/donate.html"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Unrestricted funding",
+            "href": "https://paulgraham.com/donate.html"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " is a bit better, but even if the grant is explicitly unrestricted, you’ll likely feel honor-bound to do things that the grant-giver would approve of. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " is a bit better, but even if the grant is explicitly unrestricted, you’ll likely feel honor-bound to do things that the grant-giver would approve of. ",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "16fa6e41-f23e-8005-a12e-f34d48f63929",
+      "parent": {
+        "type": "page_id",
+        "page_id": "16fa6e41-f23e-809f-9d5b-d0c73d2ed835"
+      },
+      "created_time": "2025-01-02T20:21:00.000Z",
+      "last_edited_time": "2025-01-02T21:12:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "2. “Grantmaker capture” — your grantmaker will shape your values",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "2. “Grantmaker capture” — your grantmaker will shape your values",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "16fa6e41-f23e-80ae-bc5f-dca859c218e0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "16fa6e41-f23e-809f-9d5b-d0c73d2ed835"
+      },
+      "created_time": "2025-01-02T21:10:00.000Z",
+      "last_edited_time": "2025-01-02T21:27:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "“Audience capture” describes the phenomenon where bloggers, influencers etc are slowly manipulated into different people as a result of the audience they try and cater to.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“Audience capture” describes the phenomenon where bloggers, influencers etc are slowly manipulated into different people as a result of the audience they try and cater to.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "16fa6e41-f23e-80c2-aec7-ea7bfbf952ed",
+      "parent": {
+        "type": "page_id",
+        "page_id": "16fa6e41-f23e-809f-9d5b-d0c73d2ed835"
+      },
+      "created_time": "2025-01-02T21:27:00.000Z",
+      "last_edited_time": "2025-01-02T21:27:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I think there’s a lesser (but real) version of this, where by taking on money from a particular grantmaker, you end up adjusting you (or your org’s) values to appeal to that grantmaker.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I think there’s a lesser (but real) version of this, where by taking on money from a particular grantmaker, you end up adjusting you (or your org’s) values to appeal to that grantmaker.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "16fa6e41-f23e-80e7-9df6-c32d5a2a1989",
+      "parent": {
+        "type": "page_id",
+        "page_id": "16fa6e41-f23e-809f-9d5b-d0c73d2ed835"
+      },
+      "created_time": "2025-01-02T20:21:00.000Z",
+      "last_edited_time": "2025-01-02T21:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "3. Grants give you worse feedback/impose less discipline than the free market",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "3. Grants give you worse feedback/impose less discipline than the free market",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "16fa6e41-f23e-8068-970b-d5178ed96d13",
+      "parent": {
+        "type": "page_id",
+        "page_id": "16fa6e41-f23e-809f-9d5b-d0c73d2ed835"
+      },
+      "created_time": "2025-01-02T21:19:00.000Z",
+      "last_edited_time": "2025-01-02T21:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "When you make something to sell to customers, you’re playing the game on a fundamental, base level: is your product any good?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "When you make something to sell to customers, you’re playing the game on a fundamental, base level: is your product any good?",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "16fa6e41-f23e-802f-8f01-c23e195deabb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "16fa6e41-f23e-809f-9d5b-d0c73d2ed835"
+      },
+      "created_time": "2025-01-02T21:20:00.000Z",
+      "last_edited_time": "2025-01-02T21:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "When you make something to “sell” to a grantmaker, you’re playing one level higher: does your grantmaker ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "When you make something to “sell” to a grantmaker, you’re playing one level higher: does your grantmaker ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "think",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "think",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " that your thing is good for <the world/the future/some other value system>?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " that your thing is good for <the world/the future/some other value system>?",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "16fa6e41-f23e-8075-b068-ef096b374b10",
+      "parent": {
+        "type": "page_id",
+        "page_id": "16fa6e41-f23e-809f-9d5b-d0c73d2ed835"
+      },
+      "created_time": "2025-01-02T21:48:00.000Z",
+      "last_edited_time": "2025-01-02T21:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Feedback and discipline are good — they encourage you to improve, and become more sustainable",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Feedback and discipline are good — they encourage you to improve, and become more sustainable",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "16fa6e41-f23e-807d-8a15-ddb4c9e1fabb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "16fa6e41-f23e-809f-9d5b-d0c73d2ed835"
+      },
+      "created_time": "2025-01-02T21:38:00.000Z",
+      "last_edited_time": "2025-01-02T21:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Taking one grant puts you down the path of needing to take more",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Taking one grant puts you down the path of needing to take more",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "16fa6e41-f23e-80ae-b12c-dff2c5684934",
+      "parent": {
+        "type": "page_id",
+        "page_id": "16fa6e41-f23e-809f-9d5b-d0c73d2ed835"
+      },
+      "created_time": "2025-01-02T20:22:00.000Z",
+      "last_edited_time": "2025-01-02T21:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "4. You take on reputational risks",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "4. You take on reputational risks",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "16fa6e41-f23e-80d4-be49-e0d980e7c419",
+      "parent": {
+        "type": "page_id",
+        "page_id": "16fa6e41-f23e-809f-9d5b-d0c73d2ed835"
+      },
+      "created_time": "2025-01-02T21:12:00.000Z",
+      "last_edited_time": "2025-01-02T21:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "People care about where you get your money:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "People care about where you get your money:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "16fa6e41-f23e-80d2-bb83-dc12da8829fa",
+      "parent": {
+        "type": "page_id",
+        "page_id": "16fa6e41-f23e-809f-9d5b-d0c73d2ed835"
+      },
+      "created_time": "2025-01-02T21:13:00.000Z",
+      "last_edited_time": "2025-01-02T21:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "In politics, “who gave you money” is a mandatory disclaimer to put on all your ads",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "In politics, “who gave you money” is a mandatory disclaimer to put on all your ads",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "16fa6e41-f23e-8048-bb3a-f8ad59748e88",
+      "parent": {
+        "type": "page_id",
+        "page_id": "16fa6e41-f23e-809f-9d5b-d0c73d2ed835"
+      },
+      "created_time": "2025-01-02T21:13:00.000Z",
+      "last_edited_time": "2025-01-02T21:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "In nonprofits, the IRS asks you to disclose all folks who gave you >$5k, each year",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "In nonprofits, the IRS asks you to disclose all folks who gave you >$5k, each year",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "16fa6e41-f23e-8083-8d14-fc347ba86acf",
+      "parent": {
+        "type": "page_id",
+        "page_id": "16fa6e41-f23e-809f-9d5b-d0c73d2ed835"
+      },
+      "created_time": "2025-01-02T21:14:00.000Z",
+      "last_edited_time": "2025-01-02T21:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "In startups, your list of angels or VCs is a quick proxy for how impressive you are",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "In startups, your list of angels or VCs is a quick proxy for how impressive you are",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "16fa6e41-f23e-80bd-8bc1-e127524e87ef",
+      "parent": {
+        "type": "page_id",
+        "page_id": "16fa6e41-f23e-809f-9d5b-d0c73d2ed835"
+      },
+      "created_time": "2025-01-02T21:15:00.000Z",
+      "last_edited_time": "2025-01-02T21:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I don’t think it’s a bad idea to accept money from an unimpressive/unknown funder — money is money! — but it is something to think twice about. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I don’t think it’s a bad idea to accept money from an unimpressive/unknown funder — money is money! — but it is something to think twice about. ",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "16fa6e41-f23e-8026-945c-fc6de7c13426",
+      "parent": {
+        "type": "page_id",
+        "page_id": "16fa6e41-f23e-809f-9d5b-d0c73d2ed835"
+      },
+      "created_time": "2025-01-02T21:17:00.000Z",
+      "last_edited_time": "2025-01-02T21:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "(Obligatory note: sometimes FTX happens. TBH I think this wasn’t actually bad)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "(Obligatory note: sometimes FTX happens. TBH I think this wasn’t actually bad)",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "16fa6e41-f23e-805b-bede-fa88a08df66c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "16fa6e41-f23e-809f-9d5b-d0c73d2ed835"
+      },
+      "created_time": "2025-01-02T21:29:00.000Z",
+      "last_edited_time": "2025-01-02T21:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Grants implicitly nudge you to inflate your costs",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Grants implicitly nudge you to inflate your costs",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "16fa6e41-f23e-8076-b04c-ca4f3ea97e44",
+      "parent": {
+        "type": "page_id",
+        "page_id": "16fa6e41-f23e-809f-9d5b-d0c73d2ed835"
+      },
+      "created_time": "2025-01-02T21:35:00.000Z",
+      "last_edited_time": "2025-01-02T21:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Because costs are how you justify your asks, and costs are easier to measure than value delivered. This is pernicious, as value created is what ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Because costs are how you justify your asks, and costs are easier to measure than value delivered. This is pernicious, as value created is what ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "should",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "should",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " matter in an endeavor.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " matter in an endeavor.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "16fa6e41-f23e-801c-9f86-c4ad32a120a4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "16fa6e41-f23e-809f-9d5b-d0c73d2ed835"
+      },
+      "created_time": "2025-01-02T20:31:00.000Z",
+      "last_edited_time": "2025-01-02T21:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Alternatives to grants",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Alternatives to grants",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "16fa6e41-f23e-803f-a690-ff6f0c9e77c6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "16fa6e41-f23e-809f-9d5b-d0c73d2ed835"
+      },
+      "created_time": "2025-01-02T21:33:00.000Z",
+      "last_edited_time": "2025-01-02T21:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Ask your users to pay you. E.g. FAR labs & Lighthaven ask the people using the space (event operators, or users) to pay for the service. This grounds the value of your work; and builds useful muscles for operating in regular capitalist spaces.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Ask your users to pay you. E.g. FAR labs & Lighthaven ask the people using the space (event operators, or users) to pay for the service. This grounds the value of your work; and builds useful muscles for operating in regular capitalist spaces.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "16fa6e41-f23e-804e-b891-d17ff14d223d",
+          "parent": {
+            "type": "block_id",
+            "block_id": "16fa6e41-f23e-803f-a690-ff6f0c9e77c6"
+          },
+          "created_time": "2025-01-02T21:45:00.000Z",
+          "last_edited_time": "2025-01-02T21:47:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Even if you’re serving charities — if those charities can’t raise enough money to pay for your service, it’s a sign that their work isn’t very good.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Even if you’re serving charities — if those charities can’t raise enough money to pay for your service, it’s a sign that their work isn’t very good.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "16fa6e41-f23e-80f7-aca3-f9831fb4952b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "16fa6e41-f23e-809f-9d5b-d0c73d2ed835"
+      },
+      "created_time": "2025-01-02T21:31:00.000Z",
+      "last_edited_time": "2025-01-02T21:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Purchase agreements. For example, Operation Warp Speed was not a blanket grant to vaccine manufacturers, rather it was am up front commitment to pay for vaccines if they could be delivered.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Purchase agreements. For example, Operation Warp Speed was not a blanket grant to vaccine manufacturers, rather it was am up front commitment to pay for vaccines if they could be delivered.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "16fa6e41-f23e-80fb-b25c-fbe558cc7c55",
+      "parent": {
+        "type": "page_id",
+        "page_id": "16fa6e41-f23e-809f-9d5b-d0c73d2ed835"
+      },
+      "created_time": "2025-01-02T21:30:00.000Z",
+      "last_edited_time": "2025-01-02T21:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Investment (impact certs, ISAs). Upside: investors care more about value delivered, have financial alignment. Downside: some pressure to stay in the investment ecosystem",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Investment (impact certs, ISAs). Upside: investors care more about value delivered, have financial alignment. Downside: some pressure to stay in the investment ecosystem",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "16fa6e41-f23e-8028-9bb5-edb070e9b7e2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "16fa6e41-f23e-809f-9d5b-d0c73d2ed835"
+      },
+      "created_time": "2025-01-02T21:32:00.000Z",
+      "last_edited_time": "2025-01-02T21:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Loans. Loans are great for temporary liquidity problems (eg I need money now to pay a contractor or cover my rent; and can pay you back when my grantmaker finally responds)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Loans. Loans are great for temporary liquidity problems (eg I need money now to pay a contractor or cover my rent; and can pay you back when my grantmaker finally responds)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "16fa6e41-f23e-80ab-9e59-d3b0f9955b21",
+      "parent": {
+        "type": "page_id",
+        "page_id": "16fa6e41-f23e-809f-9d5b-d0c73d2ed835"
+      },
+      "created_time": "2025-01-02T20:32:00.000Z",
+      "last_edited_time": "2025-01-02T20:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "16fa6e41-f23e-8006-a1f8-e6540bf780f4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "16fa6e41-f23e-809f-9d5b-d0c73d2ed835"
+      },
+      "created_time": "2025-01-02T20:32:00.000Z",
+      "last_edited_time": "2025-01-02T20:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "See also:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "See also:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "16fa6e41-f23e-8035-8d49-cb90f3ae7ab7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "16fa6e41-f23e-809f-9d5b-d0c73d2ed835"
+      },
+      "created_time": "2025-01-02T20:32:00.000Z",
+      "last_edited_time": "2025-01-02T20:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "“",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Every Grant is also a Bounty",
+              "link": {
+                "url": "https://www.applieddivinitystudies.com/bounties/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Every Grant is also a Bounty",
+            "href": "https://www.applieddivinitystudies.com/bounties/"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "”",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "16fa6e41-f23e-80fa-808b-c05d23d51d88",
+      "parent": {
+        "type": "page_id",
+        "page_id": "16fa6e41-f23e-809f-9d5b-d0c73d2ed835"
+      },
+      "created_time": "2025-01-02T20:33:00.000Z",
+      "last_edited_time": "2025-01-02T21:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "My previous musings: ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "My previous musings: ",
+            "href": null
+          },
+          {
+            "type": "mention",
+            "mention": {
+              "type": "page",
+              "page": {
+                "id": "7ff7c230-347a-42bb-b1aa-f7a9b44bfa84"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Funding in EA: Grants, Loans, Equity",
+            "href": "https://app.notion.com/p/7ff7c230347a42bbb1aaf7a9b44bfa84"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "16fa6e41-f23e-80c9-b6a4-cdba7eb6bc79",
+      "parent": {
+        "type": "page_id",
+        "page_id": "16fa6e41-f23e-809f-9d5b-d0c73d2ed835"
+      },
+      "created_time": "2025-01-02T20:22:00.000Z",
+      "last_edited_time": "2025-01-02T20:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "16fa6e41-f23e-8060-b0d9-d4fcc24aeac4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "16fa6e41-f23e-809f-9d5b-d0c73d2ed835"
+      },
+      "created_time": "2025-01-02T20:22:00.000Z",
+      "last_edited_time": "2025-01-02T20:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    }
+  ]
+}

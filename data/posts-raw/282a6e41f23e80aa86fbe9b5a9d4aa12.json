@@ -1,0 +1,2257 @@
+{
+  "page": {
+    "id": "282a6e41f23e80aa86fbe9b5a9d4aa12",
+    "title": "How to run your first conference",
+    "date": "2025-10-04T05:56:00.000+00:00",
+    "edited": "2026-05-17T18:40:00.000Z",
+    "url": "https://akrolsmir.notion.site/How-to-run-your-first-conference-282a6e41f23e80aa86fbe9b5a9d4aa12",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-809b-81cf-de780cfc8da4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T06:02:00.000Z",
+      "last_edited_time": "2025-10-04T06:02:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Getting started",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Getting started",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-8030-be53-c213dde6811a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T05:57:00.000Z",
+      "last_edited_time": "2026-05-17T18:36:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Invite good speakers. Speakers are what draw the crowd. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Invite good speakers. Speakers are what draw the crowd. ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-80b3-a9b1-f4fa23858c6d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T05:57:00.000Z",
+      "last_edited_time": "2025-10-04T06:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Pick a date and a venue. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Pick a date and a venue. ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-8003-ac4a-f607afd246db",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T06:00:00.000Z",
+      "last_edited_time": "2025-10-04T06:11:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Set up a website. Copy existing conference websites. Have speaker faces. Have a date.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Set up a website. Copy existing conference websites. Have speaker faces. Have a date.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-8029-ae44-dbc72ed02951",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T06:00:00.000Z",
+      "last_edited_time": "2025-10-04T06:01:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Copy a ticketing system. Luma will do in a pinch.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Copy a ticketing system. Luma will do in a pinch.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-8014-b750-c93f138da0f4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T06:01:00.000Z",
+      "last_edited_time": "2025-10-04T06:01:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Have some kind of way of tracking speaker reachouts and attendees. Highly recommend Airtable for this.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Have some kind of way of tracking speaker reachouts and attendees. Highly recommend Airtable for this.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-809a-94e9-d7c1d3dabac6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T06:20:00.000Z",
+      "last_edited_time": "2025-10-04T06:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Create a conference calendar. Airtable is reasonable.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Create a conference calendar. Airtable is reasonable.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-80bf-8fce-d19235312aa0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T06:20:00.000Z",
+      "last_edited_time": "2025-10-04T06:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "There isn’t a great conference app. Swapcard is eh. You can maybe vibecode one.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "There isn’t a great conference app. Swapcard is eh. You can maybe vibecode one.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-800f-8e42-e5e853180675",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T06:06:00.000Z",
+      "last_edited_time": "2025-10-04T06:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-80d3-8e83-cb11d6e25a5f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T06:06:00.000Z",
+      "last_edited_time": "2025-10-04T06:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "The people",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "The people",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-807d-b9d8-c6f879a94775",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T06:06:00.000Z",
+      "last_edited_time": "2025-10-04T06:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Events are mostly about the quality of the people who show up.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Events are mostly about the quality of the people who show up.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-8008-be05-dc0d74efb97b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T06:07:00.000Z",
+      "last_edited_time": "2025-10-04T06:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Spend way more time than seems reasonable hand-inviting people who would be good. Don’t just blast group chats, go the extra mile, write a personalized message indicating why they’re welcome.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Spend way more time than seems reasonable hand-inviting people who would be good. Don’t just blast group chats, go the extra mile, write a personalized message indicating why they’re welcome.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-803b-a4e5-c4faf0b23131",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T06:07:00.000Z",
+      "last_edited_time": "2025-10-04T06:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Conferences are a great excuse to reach out to people you admire online, and ask them to come to your thing. Cold outreach can be surprisingly good.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Conferences are a great excuse to reach out to people you admire online, and ask them to come to your thing. Cold outreach can be surprisingly good.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-8021-84f0-f2f675440979",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T06:16:00.000Z",
+      "last_edited_time": "2025-10-04T06:17:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Think about where the people who you want to come hang out, and market there. Post links, make flyers, give talks, etc.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Think about where the people who you want to come hang out, and market there. Post links, make flyers, give talks, etc.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-80a7-880c-e3e33eea6164",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T06:32:00.000Z",
+      "last_edited_time": "2025-10-04T06:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Referrals, of course. Conferences are more fun with friends.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Referrals, of course. Conferences are more fun with friends.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-8075-afd7-e0f460671aa5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T06:16:00.000Z",
+      "last_edited_time": "2025-10-04T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Ask the speakers to help with promotion, to their audiences",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Ask the speakers to help with promotion, to their audiences",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-809d-9d79-c549f905abd5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T06:17:00.000Z",
+      "last_edited_time": "2025-10-04T06:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "You can set up an application process if you’re trying to curate a premier experience, and maybe get a prestige boost. Beware, though; application process is soulsucking. So ideally you can get away with just positive selection (promoting in the right places) rather than negative (filtering out people you don’t want)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "You can set up an application process if you’re trying to curate a premier experience, and maybe get a prestige boost. Beware, though; application process is soulsucking. So ideally you can get away with just positive selection (promoting in the right places) rather than negative (filtering out people you don’t want)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-806c-988f-d08612e8dba8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T06:02:00.000Z",
+      "last_edited_time": "2025-10-04T06:02:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-8025-90be-ebd5796ae611",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T06:02:00.000Z",
+      "last_edited_time": "2025-10-04T06:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Engineering great experiences",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Engineering great experiences",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-8000-835a-c09254f19349",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T06:09:00.000Z",
+      "last_edited_time": "2025-10-04T06:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "The best moments come from attendees making things happen. Unconference sessions, singalongs, games, lightning talks, etc.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "The best moments come from attendees making things happen. Unconference sessions, singalongs, games, lightning talks, etc.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-80b3-ac66-c247e6a1c750",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T06:04:00.000Z",
+      "last_edited_time": "2025-10-04T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Booths are another way to do this. Career fairs, night markets, basically structures where there’s supply and demand. (Markets are beautiful.)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Booths are another way to do this. Career fairs, night markets, basically structures where there’s supply and demand. (Markets are beautiful.)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-800a-8a12-ebd143b2af85",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T05:59:00.000Z",
+      "last_edited_time": "2025-10-04T06:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Hallway track is one of the best parts, so give people permission to do hallway track, aka wandering around. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Hallway track is one of the best parts, so give people permission to do hallway track, aka wandering around. ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-8020-8e4e-c6ade0b2b26e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T06:00:00.000Z",
+      "last_edited_time": "2025-10-04T06:04:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "1:1s can be really good. (Though, you can go too far — see EAG.)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "1:1s can be really good. (Though, you can go too far — see EAG.)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-80d1-89f8-eed4b379e024",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T06:06:00.000Z",
+      "last_edited_time": "2025-10-04T06:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Provide food. This keeps people hanging around, rather than dispersing",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Provide food. This keeps people hanging around, rather than dispersing",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-80d3-9895-c158232cacc6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T06:09:00.000Z",
+      "last_edited_time": "2025-10-04T06:28:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Talks… are a bit maligned nowadays, I think they’re actually still pretty great. Underappreciated features of talks: they force busy speakers to make their recent thoughts legible to others. They act as a batsignal to bring together people who care about specific topics.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Talks… are a bit maligned nowadays, I think they’re actually still pretty great. Underappreciated features of talks: they force busy speakers to make their recent thoughts legible to others. They act as a batsignal to bring together people who care about specific topics.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-8028-9ca6-fea67e11b022",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T06:26:00.000Z",
+      "last_edited_time": "2025-10-12T16:54:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I think the ideal thing is something like 1h slots. 20min talk (people don’t actually want to listen to long talks); 20min Q&A (moderated or audience Qs); 20 min office hours (aka give most people permission to leave, and then the remaining 10 people who care a lot get individual time with the speaker)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I think the ideal thing is something like 1h slots. 20min talk (people don’t actually want to listen to long talks); 20min Q&A (moderated or audience Qs); 20 min office hours (aka give most people permission to leave, and then the remaining 10 people who care a lot get individual time with the speaker)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "363a6e41-f23e-8076-8352-f8beb41a58d5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2026-05-17T18:39:00.000Z",
+      "last_edited_time": "2026-05-17T18:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Build in transition time, eg start everything 5 minutes after the hour",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Build in transition time, eg start everything 5 minutes after the hour",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-80b2-aa37-c6acbabecc7e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T06:10:00.000Z",
+      "last_edited_time": "2025-10-04T06:10:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "You can do fireside chats as an alternative to entice people who are too busy to prepare a talk. (but, those are less good than actual prepped talks.)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "You can do fireside chats as an alternative to entice people who are too busy to prepare a talk. (but, those are less good than actual prepped talks.)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-80c1-b9f6-ef786e0058e8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T06:35:00.000Z",
+      "last_edited_time": "2025-10-04T06:44:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Have, not just a diversity of talk topics, but also a diversity of experiences people can opt into. Some for introverts, some for extraverts; some for newcomers, some for enmeshed individuals.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Have, not just a diversity of talk topics, but also a diversity of experiences people can opt into. Some for introverts, some for extraverts; some for newcomers, some for enmeshed individuals.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-8093-a3da-f138136c4622",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T06:04:00.000Z",
+      "last_edited_time": "2025-10-04T06:04:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-80da-992b-e8e05f190ea5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T06:04:00.000Z",
+      "last_edited_time": "2025-10-04T06:04:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Financials",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Financials",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-804a-9928-f921beff347c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T06:05:00.000Z",
+      "last_edited_time": "2025-10-04T06:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Expect to lose money on your first conference.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Expect to lose money on your first conference.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-8006-b17d-c3a51f915123",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T06:05:00.000Z",
+      "last_edited_time": "2025-10-04T06:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Definitely have early bird pricing, you want to encourage early commitment. Raise prices and use that as an excuse to do more marketing (”prices going up soon!”)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Definitely have early bird pricing, you want to encourage early commitment. Raise prices and use that as an excuse to do more marketing (”prices going up soon!”)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-806d-a4a5-f8eae7ee1e0a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T06:05:00.000Z",
+      "last_edited_time": "2025-10-04T06:12:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Have a tier where people can pay a lot — helps to anchor to higher amounts. Give them some nice perks (special badge, VIP dinner are cheap to provide but valuable to sponsors)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Have a tier where people can pay a lot — helps to anchor to higher amounts. Give them some nice perks (special badge, VIP dinner are cheap to provide but valuable to sponsors)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-8025-bf36-f21b217e5a3d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T06:04:00.000Z",
+      "last_edited_time": "2025-10-04T06:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Later on, you can make a lot of money on sponsorships. There’s an entire art to this. Sponsors usually want some combination of brand, marketing, recruiting, and largess (to support the community) — ask about their specific goals.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Later on, you can make a lot of money on sponsorships. There’s an entire art to this. Sponsors usually want some combination of brand, marketing, recruiting, and largess (to support the community) — ask about their specific goals.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-802f-96f1-dc17d83093db",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T06:22:00.000Z",
+      "last_edited_time": "2025-10-04T06:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "You’ll probably spend the most money on the venue, then food, then a bunch of random other expenses.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "You’ll probably spend the most money on the venue, then food, then a bunch of random other expenses.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-8001-bf61-fd765a5f07a3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T06:36:00.000Z",
+      "last_edited_time": "2025-10-04T06:36:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Print good swag, it’s worth it. Your event will then live on in people’s everyday wardrobes. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Print good swag, it’s worth it. Your event will then live on in people’s everyday wardrobes. ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-80dc-9cce-cd3c05a77bf3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T06:11:00.000Z",
+      "last_edited_time": "2025-10-04T06:11:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-8003-b735-e9c2a8542422",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T06:11:00.000Z",
+      "last_edited_time": "2025-10-04T06:11:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Logistics",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Logistics",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-809d-98b4-f09f8aa2f09f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T06:38:00.000Z",
+      "last_edited_time": "2025-10-04T06:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "In planning, make sure you agree on shared systems: CRMs, internal chat, email (try a shared email system like Missive)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "In planning, make sure you agree on shared systems: CRMs, internal chat, email (try a shared email system like Missive)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-807b-8a0f-f13e81cc69bc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T06:38:00.000Z",
+      "last_edited_time": "2025-10-04T06:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Have good day-of comms, like a Discord/Slack.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Have good day-of comms, like a Discord/Slack.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-80bf-9903-c464e576807d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T06:18:00.000Z",
+      "last_edited_time": "2025-10-04T06:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Each evening, run through the game plan for the next day with your staff",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Each evening, run through the game plan for the next day with your staff",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-808f-92a6-c4867f0781a4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T06:14:00.000Z",
+      "last_edited_time": "2025-10-04T06:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Managing a volunteer team — find leaders who’ve done this before, run a training session",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Managing a volunteer team — find leaders who’ve done this before, run a training session",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-804e-8de8-e500f59e9b3d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T06:44:00.000Z",
+      "last_edited_time": "2025-10-04T06:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "You don’t need to be amazing at public speaking (I sure am not) but you do have to take some charge.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "You don’t need to be amazing at public speaking (I sure am not) but you do have to take some charge.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-80c4-aaff-e8700bc26856",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T06:45:00.000Z",
+      "last_edited_time": "2026-05-17T18:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "To get a crowd to quiet down, I like “if you can hear me clap once”, then twice, etc. By 3, everyone’s watching you.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "To get a crowd to quiet down, I like “if you can hear me clap once”, then twice, etc. By 3, everyone’s watching you.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-80b2-ade4-c8d44f9d35e9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T06:00:00.000Z",
+      "last_edited_time": "2025-10-04T06:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Get ops experience by volunteering at other conferences.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Get ops experience by volunteering at other conferences.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-8003-aba2-daa7b7c4865a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T06:03:00.000Z",
+      "last_edited_time": "2026-05-17T18:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Also just attend some, and take notes about what was good and what was bad",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Also just attend some, and take notes about what was good and what was bad",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-80da-857e-e9fc6ebea6b5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T06:03:00.000Z",
+      "last_edited_time": "2025-10-04T06:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Feedback session: copy EAG, make everyone fill it out at the end, otherwise you get a lot less feedback",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Feedback session: copy EAG, make everyone fill it out at the end, otherwise you get a lot less feedback",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-8061-86fd-f2363277c965",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T06:41:00.000Z",
+      "last_edited_time": "2025-10-04T06:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Make sure to have a section where people can write nice things about the event. Good for you to read later, good testimonials to market",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Make sure to have a section where people can write nice things about the event. Good for you to read later, good testimonials to market",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-8076-bf97-ff2bf2d6b250",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T06:42:00.000Z",
+      "last_edited_time": "2025-10-04T06:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Even better, get them to send nice messages to each other. Sometimes these are called “affirmations” or “kudos”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Even better, get them to send nice messages to each other. Sometimes these are called “affirmations” or “kudos”",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-8084-a248-d19d9e306f3e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T06:41:00.000Z",
+      "last_edited_time": "2025-10-04T06:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Take pictures!!! (or get a volunteer to)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Take pictures!!! (or get a volunteer to)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-80e7-998c-dd711df714b0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T06:03:00.000Z",
+      "last_edited_time": "2025-10-04T06:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-804c-9a47-df1ec926366a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T05:57:00.000Z",
+      "last_edited_time": "2025-10-04T05:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "282a6e41-f23e-8013-9b00-de97cc793e6f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "282a6e41-f23e-80aa-86fb-e9b5a9d4aa12"
+      },
+      "created_time": "2025-10-04T05:56:00.000Z",
+      "last_edited_time": "2025-10-04T05:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Inspired by ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Inspired by ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "https://www.atvbt.com/21-facts-about-throwing-good-parties/",
+              "link": {
+                "url": "https://www.atvbt.com/21-facts-about-throwing-good-parties/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://www.atvbt.com/21-facts-about-throwing-good-parties/",
+            "href": "https://www.atvbt.com/21-facts-about-throwing-good-parties/"
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2936 @@
+{
+  "page": {
+    "id": "bd56058af89646099eab56eaf99a1e6b",
+    "title": "Welcome to Taco Tuesday",
+    "date": "2024-04-20",
+    "edited": "2025-03-13T17:14:00.000Z",
+    "url": "https://akrolsmir.notion.site/Welcome-to-Taco-Tuesday-bd56058af89646099eab56eaf99a1e6b",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "bba24d2c-db56-465a-a6c1-c922846362d9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "bd56058a-f896-4609-9eab-56eaf99a1e6b"
+      },
+      "created_time": "2024-04-21T05:30:00.000Z",
+      "last_edited_time": "2024-04-21T05:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Overview",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Overview",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "545d9314-355a-42a3-aa4a-fefb988d47f1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "bd56058a-f896-4609-9eab-56eaf99a1e6b"
+      },
+      "created_time": "2024-04-21T05:30:00.000Z",
+      "last_edited_time": "2025-03-13T17:04:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Taco Tuesday is a weekly dinner, held at my house in San Francisco. There are usually 20-40 folks; we’ll cook dinner starting at 6:30, eat at 7pm.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Taco Tuesday is a weekly dinner, held at my house in San Francisco. There are usually 20-40 folks; we’ll cook dinner starting at 6:30, eat at 7pm.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "05879cc8-d16e-41bc-ae1f-07810ea9f7a5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "bd56058a-f896-4609-9eab-56eaf99a1e6b"
+      },
+      "created_time": "2024-04-21T05:30:00.000Z",
+      "last_edited_time": "2025-03-13T17:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "(You’re invited! Join the ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "(You’re invited! Join the ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Taco Tuesday Discord",
+              "link": {
+                "url": "https://discord.gg/mQzawpEPQB"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Taco Tuesday Discord",
+            "href": "https://discord.gg/mQzawpEPQB"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " for weekly event announcements.)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " for weekly event announcements.)",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "bab0943e-a0bf-470e-a89e-09091bbc308d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "bd56058a-f896-4609-9eab-56eaf99a1e6b"
+      },
+      "created_time": "2024-04-21T05:30:00.000Z",
+      "last_edited_time": "2024-04-21T05:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "What makes Taco Tuesday different from a typical house party?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "What makes Taco Tuesday different from a typical house party?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "235c2e0d-9bb0-409c-b41a-15cf262805c2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "bd56058a-f896-4609-9eab-56eaf99a1e6b"
+      },
+      "created_time": "2024-04-21T05:31:00.000Z",
+      "last_edited_time": "2024-04-21T06:26:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Regular",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Regular",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "8c5f83d6-4f0e-4941-9d2b-f6cff18f905f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "235c2e0d-9bb0-409c-b41a-15cf262805c2"
+          },
+          "created_time": "2024-04-21T05:53:00.000Z",
+          "last_edited_time": "2024-04-21T06:24:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "People make friends through repeated, unplanned interactions. A weekly recurring event provides a great default for this. After coming a few times, you start to remember the folks who you’ve met, what matters in their lives, how they are doing.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "People make friends through repeated, unplanned interactions. A weekly recurring event provides a great default for this. After coming a few times, you start to remember the folks who you’ve met, what matters in their lives, how they are doing.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "1315fbd6-b30a-4c55-93ef-2fa5dbe7b3f3",
+              "parent": {
+                "type": "block_id",
+                "block_id": "8c5f83d6-4f0e-4941-9d2b-f6cff18f905f"
+              },
+              "created_time": "2024-04-21T05:38:00.000Z",
+              "last_edited_time": "2024-04-21T06:24:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Most social events are one-off things, which means the energy and spark of meeting someone new, fades as you return to your daily life.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Most social events are one-off things, which means the energy and spark of meeting someone new, fades as you return to your daily life.",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "b05e97c6-fe52-4492-9e1a-08501a31a17d",
+              "parent": {
+                "type": "block_id",
+                "block_id": "8c5f83d6-4f0e-4941-9d2b-f6cff18f905f"
+              },
+              "created_time": "2024-04-21T06:14:00.000Z",
+              "last_edited_time": "2024-04-21T06:24:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "People often complain about it being hard to make friends outside of school — this is what school did well.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "People often complain about it being hard to make friends outside of school — this is what school did well.",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "4e59b656-4220-467e-9ea4-57586ee0b418",
+              "parent": {
+                "type": "block_id",
+                "block_id": "8c5f83d6-4f0e-4941-9d2b-f6cff18f905f"
+              },
+              "created_time": "2024-04-21T06:03:00.000Z",
+              "last_edited_time": "2024-04-21T06:04:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "One thing religion gets really right: Sunday mass is a schelling point for making loose informal connections.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "One thing religion gets really right: Sunday mass is a schelling point for making loose informal connections.",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "be9b76ff-d16e-4ad3-ba63-c249ad8ecda8",
+              "parent": {
+                "type": "block_id",
+                "block_id": "8c5f83d6-4f0e-4941-9d2b-f6cff18f905f"
+              },
+              "created_time": "2024-04-21T06:03:00.000Z",
+              "last_edited_time": "2025-03-13T17:03:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Helps solve the “",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Helps solve the “",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "baked goods theory of social friendship",
+                      "link": {
+                        "url": "https://www.approachwithalacrity.com/the-baked-goods-theory-of-social-interaction/"
+                      }
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "baked goods theory of social friendship",
+                    "href": "https://www.approachwithalacrity.com/the-baked-goods-theory-of-social-interaction/"
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "”",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "”",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "a4a368da-c850-4911-b3c9-cff5e8eafd2d",
+          "parent": {
+            "type": "block_id",
+            "block_id": "235c2e0d-9bb0-409c-b41a-15cf262805c2"
+          },
+          "created_time": "2024-04-21T06:12:00.000Z",
+          "last_edited_time": "2024-04-21T06:26:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Taco Tuesday also provides a great excuse for seeing people again. If I bump into someone new who I really vibe with, before leaving I’ll try to invite them to Taco Tuesday.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Taco Tuesday also provides a great excuse for seeing people again. If I bump into someone new who I really vibe with, before leaving I’ll try to invite them to Taco Tuesday.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "848f7fb3-6d7b-4808-8807-fa48c2f2a3f6",
+              "parent": {
+                "type": "block_id",
+                "block_id": "a4a368da-c850-4911-b3c9-cff5e8eafd2d"
+              },
+              "created_time": "2024-04-21T06:16:00.000Z",
+              "last_edited_time": "2024-04-21T06:26:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Protip: people love being invited to things. Even if they can’t make it, they might reciprocate by inviting me to the next thing they’re doing.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Protip: people love being invited to things. Even if they can’t make it, they might reciprocate by inviting me to the next thing they’re doing.",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "4a069666-f423-4158-bb2a-d2791adb09c0",
+          "parent": {
+            "type": "block_id",
+            "block_id": "235c2e0d-9bb0-409c-b41a-15cf262805c2"
+          },
+          "created_time": "2024-04-21T06:26:00.000Z",
+          "last_edited_time": "2024-04-21T06:27:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "For returning guests: Taco Tuesday is always at the same time (6:30pm on Tuesday) and at the same location, so it’s easy to remember",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "For returning guests: Taco Tuesday is always at the same time (6:30pm on Tuesday) and at the same location, so it’s easy to remember",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "513f6123-de4e-49ec-b8d2-184ed0e93475",
+              "parent": {
+                "type": "block_id",
+                "block_id": "4a069666-f423-4158-bb2a-d2791adb09c0"
+              },
+              "created_time": "2024-04-21T06:26:00.000Z",
+              "last_edited_time": "2024-04-21T06:27:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "And planting a flag and putting it in the name of the event means that people can start remembering to block of Tuesdays evenings for this",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "And planting a flag and putting it in the name of the event means that people can start remembering to block of Tuesdays evenings for this",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "394ac7ed-c254-4720-ab4a-ab92425f8ff0",
+              "parent": {
+                "type": "block_id",
+                "block_id": "4a069666-f423-4158-bb2a-d2791adb09c0"
+              },
+              "created_time": "2024-04-21T06:27:00.000Z",
+              "last_edited_time": "2024-04-21T06:28:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Tuesdays are good because it’s basically a random weeknight, which rarely conflicts with That Big Party You Were Excited To Go To.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Tuesdays are good because it’s basically a random weeknight, which rarely conflicts with That Big Party You Were Excited To Go To.",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "75f300c7-aa49-4e00-aab5-e6f5adfd21b5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "bd56058a-f896-4609-9eab-56eaf99a1e6b"
+      },
+      "created_time": "2024-04-21T05:31:00.000Z",
+      "last_edited_time": "2025-03-13T17:11:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Open",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Open",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "64e6439c-57fe-48f7-83e9-3c996cddb966",
+          "parent": {
+            "type": "block_id",
+            "block_id": "75f300c7-aa49-4e00-aab5-e6f5adfd21b5"
+          },
+          "created_time": "2024-04-21T05:38:00.000Z",
+          "last_edited_time": "2025-03-13T17:11:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Everyone is welcome! There’s no invite list or inclusion criteria or attendance cap - you (yes you!) are welcome.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Everyone is welcome! There’s no invite list or inclusion criteria or attendance cap - you (yes you!) are welcome.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "1b5a6e41-f23e-808b-8088-d190cb38e4b5",
+              "parent": {
+                "type": "block_id",
+                "block_id": "64e6439c-57fe-48f7-83e9-3c996cddb966"
+              },
+              "created_time": "2025-03-13T17:11:00.000Z",
+              "last_edited_time": "2025-03-13T17:12:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "(this piece of social technology is stolen from Scott Alexander on ACX meetups ❤️)",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "(this piece of social technology is stolen from Scott Alexander on ACX meetups ❤️)",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "2f8e0800-211a-43f1-8287-674450b7adcd",
+          "parent": {
+            "type": "block_id",
+            "block_id": "75f300c7-aa49-4e00-aab5-e6f5adfd21b5"
+          },
+          "created_time": "2024-04-21T05:49:00.000Z",
+          "last_edited_time": "2024-04-21T06:18:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "The answer to “can I bring friends” is always “yes!”",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "The answer to “can I bring friends” is always “yes!”",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "ae6f3295-f929-4d57-94a3-ac6bf365640e",
+              "parent": {
+                "type": "block_id",
+                "block_id": "2f8e0800-211a-43f1-8287-674450b7adcd"
+              },
+              "created_time": "2024-04-21T05:49:00.000Z",
+              "last_edited_time": "2024-04-21T06:18:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "This is a great way to introduce new blood to our little scene. We especially welcome 1) folks visiting from out of town, and 2) folks who have just moved to SF; these people have the most to gain from meeting others at an event!",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "This is a great way to introduce new blood to our little scene. We especially welcome 1) folks visiting from out of town, and 2) folks who have just moved to SF; these people have the most to gain from meeting others at an event!",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "82e2d7c0-aacd-4d37-b3dc-670ec4429abf",
+          "parent": {
+            "type": "block_id",
+            "block_id": "75f300c7-aa49-4e00-aab5-e6f5adfd21b5"
+          },
+          "created_time": "2024-04-21T05:58:00.000Z",
+          "last_edited_time": "2025-03-13T17:13:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "One small bit of design that helps newcomers: everyone wears a nametag. Yeah, these often feel kind of clunky and a bit uncool, but they’re super helpful if this is your first time here and you’re meeting everyone for the first time.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "One small bit of design that helps newcomers: everyone wears a nametag. Yeah, these often feel kind of clunky and a bit uncool, but they’re super helpful if this is your first time here and you’re meeting everyone for the first time.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "40fca621-5257-45e4-8ab6-38b9e87ce343",
+      "parent": {
+        "type": "page_id",
+        "page_id": "bd56058a-f896-4609-9eab-56eaf99a1e6b"
+      },
+      "created_time": "2024-04-21T05:31:00.000Z",
+      "last_edited_time": "2025-03-13T17:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Low-friction",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Low-friction",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "33d93ba6-8d37-4172-b5f7-c02d8e640539",
+          "parent": {
+            "type": "block_id",
+            "block_id": "40fca621-5257-45e4-8ab6-38b9e87ce343"
+          },
+          "created_time": "2024-04-21T05:34:00.000Z",
+          "last_edited_time": "2025-03-13T17:09:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Event organizers often put a lot of effort into making their events “good”. Over a few days, one might send out invites, pick up groceries, find decorations or a theme, and cook for hours beforehand — all for a single party.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Event organizers often put a lot of effort into making their events “good”. Over a few days, one might send out invites, pick up groceries, find decorations or a theme, and cook for hours beforehand — all for a single party.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "1b5a6e41-f23e-8077-94af-ced584f9ace2",
+              "parent": {
+                "type": "block_id",
+                "block_id": "33d93ba6-8d37-4172-b5f7-c02d8e640539"
+              },
+              "created_time": "2025-03-13T17:07:00.000Z",
+              "last_edited_time": "2025-03-13T17:09:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "This means that events don’t actually happen as often as they should :(",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "This means that events don’t actually happen as often as they should :(",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "1b5a6e41-f23e-8077-9f4a-ce0912a7fefb",
+              "parent": {
+                "type": "block_id",
+                "block_id": "33d93ba6-8d37-4172-b5f7-c02d8e640539"
+              },
+              "created_time": "2025-03-13T17:08:00.000Z",
+              "last_edited_time": "2025-03-13T17:09:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": true,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "And events are often one-off; after a cool party, an organizer might not organize something for another month",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "And events are often one-off; after a cool party, an organizer might not organize something for another month",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "children": [
+                {
+                  "object": "block",
+                  "id": "1b5a6e41-f23e-80cb-9eac-ef1a131d3f4b",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "1b5a6e41-f23e-8077-9f4a-ce0912a7fefb"
+                  },
+                  "created_time": "2025-03-13T17:07:00.000Z",
+                  "last_edited_time": "2025-03-13T17:09:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Agile software development saying: “if it hurts, do it more”. Aka: by running an event or process often, you learn where the pain points are, and are incentivized to improve on them",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Agile software development saying: “if it hurts, do it more”. Aka: by running an event or process often, you learn where the pain points are, and are incentivized to improve on them",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "fe4a8e08-b5b0-468a-9d4e-0318a6a282df",
+          "parent": {
+            "type": "block_id",
+            "block_id": "40fca621-5257-45e4-8ab6-38b9e87ce343"
+          },
+          "created_time": "2024-04-21T05:44:00.000Z",
+          "last_edited_time": "2025-03-13T17:07:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Key advantages to always doing tacos:",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Key advantages to always doing tacos:",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "e7779f84-fb8e-4bc1-a5ea-af817e36a45d",
+              "parent": {
+                "type": "block_id",
+                "block_id": "fe4a8e08-b5b0-468a-9d4e-0318a6a282df"
+              },
+              "created_time": "2024-04-21T05:45:00.000Z",
+              "last_edited_time": "2024-04-21T06:02:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Always doing the same thing means that I conserve mental effort when shopping and cooking.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Always doing the same thing means that I conserve mental effort when shopping and cooking.",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "b2d6c619-7aba-47a7-bf9c-05141929494d",
+              "parent": {
+                "type": "block_id",
+                "block_id": "fe4a8e08-b5b0-468a-9d4e-0318a6a282df"
+              },
+              "created_time": "2024-04-21T06:30:00.000Z",
+              "last_edited_time": "2024-04-21T06:31:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Tacos cook pretty quickly (just stir-fry a bunch of stuff) and lend themselves to parallelization",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Tacos cook pretty quickly (just stir-fry a bunch of stuff) and lend themselves to parallelization",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "28ee2a73-2b1c-4f1a-a98c-b582db62015a",
+              "parent": {
+                "type": "block_id",
+                "block_id": "fe4a8e08-b5b0-468a-9d4e-0318a6a282df"
+              },
+              "created_time": "2024-04-21T05:45:00.000Z",
+              "last_edited_time": "2024-04-21T06:05:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Tacos are self-serve, so you can pick out the ingredients and ratios of things that you like",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Tacos are self-serve, so you can pick out the ingredients and ratios of things that you like",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "428405ab-77ff-4b7a-9e81-4d4844af4fd6",
+          "parent": {
+            "type": "block_id",
+            "block_id": "40fca621-5257-45e4-8ab6-38b9e87ce343"
+          },
+          "created_time": "2024-04-21T06:29:00.000Z",
+          "last_edited_time": "2024-04-21T06:30:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "I don’t bother crafting invites, I just broadcast in a few places (Discord, FB messenger group, Manifold market). People come via 1) memory, 2) reminders, 3) word-of-mouth-invites.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "I don’t bother crafting invites, I just broadcast in a few places (Discord, FB messenger group, Manifold market). People come via 1) memory, 2) reminders, 3) word-of-mouth-invites.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "4a6cb467-9f39-48fd-9705-25fa263a090b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "bd56058a-f896-4609-9eab-56eaf99a1e6b"
+      },
+      "created_time": "2024-04-21T05:31:00.000Z",
+      "last_edited_time": "2024-04-21T06:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Collaborative",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Collaborative",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "605ac40a-99c0-42d9-a9c9-4ebc411489f8",
+          "parent": {
+            "type": "block_id",
+            "block_id": "4a6cb467-9f39-48fd-9705-25fa263a090b"
+          },
+          "created_time": "2024-04-21T05:38:00.000Z",
+          "last_edited_time": "2024-04-21T06:09:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Most hosts try to have everything neat and tidy for the guests. At Taco Tuesday, we put you to work.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Most hosts try to have everything neat and tidy for the guests. At Taco Tuesday, we put you to work.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "88b6b69f-1888-4177-9dd3-13f21eb89398",
+          "parent": {
+            "type": "block_id",
+            "block_id": "4a6cb467-9f39-48fd-9705-25fa263a090b"
+          },
+          "created_time": "2024-04-21T06:05:00.000Z",
+          "last_edited_time": "2024-04-21T06:08:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "The first 2-4 people to show up are press-ganged into helping with the kitchen: chopping up onions, bell peppers, avocados; stir-frying veggies and Beyond meat.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "The first 2-4 people to show up are press-ganged into helping with the kitchen: chopping up onions, bell peppers, avocados; stir-frying veggies and Beyond meat.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "75640be8-259e-45cc-9c2f-db0c4178eb60",
+              "parent": {
+                "type": "block_id",
+                "block_id": "88b6b69f-1888-4177-9dd3-13f21eb89398"
+              },
+              "created_time": "2024-04-21T06:06:00.000Z",
+              "last_edited_time": "2024-04-21T06:34:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Cooking together is great for bonding — you have to solve the nontrivial logistics problem of preparing food for 30 people, as quickly as possible. It’s attacking a real problem, in the real world (Overcooked IRL!) A bunch of us are knowledge workers and cooking is a good change of pace.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Cooking together is great for bonding — you have to solve the nontrivial logistics problem of preparing food for 30 people, as quickly as possible. It’s attacking a real problem, in the real world (Overcooked IRL!) A bunch of us are knowledge workers and cooking is a good change of pace.",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "83a786ee-85ec-422b-8de0-344a13dc8374",
+          "parent": {
+            "type": "block_id",
+            "block_id": "4a6cb467-9f39-48fd-9705-25fa263a090b"
+          },
+          "created_time": "2024-04-21T06:08:00.000Z",
+          "last_edited_time": "2024-04-21T06:19:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Cleaning up afterwards: hosts often say things like “don’t worry about the dishes” or “we’ll take care of the cleanup”. I think this attitude of hosting-as-sacrifice is quite bad as it makes hosting so much less sustainable. So instead, we have guests help with loading the dishwasher, scrubbing pots and plans, putting things away, etc",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Cleaning up afterwards: hosts often say things like “don’t worry about the dishes” or “we’ll take care of the cleanup”. I think this attitude of hosting-as-sacrifice is quite bad as it makes hosting so much less sustainable. So instead, we have guests help with loading the dishwasher, scrubbing pots and plans, putting things away, etc",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "62207a4b-c9ad-4f1e-8840-6b31cfcd59d6",
+          "parent": {
+            "type": "block_id",
+            "block_id": "4a6cb467-9f39-48fd-9705-25fa263a090b"
+          },
+          "created_time": "2024-04-21T06:19:00.000Z",
+          "last_edited_time": "2024-04-21T06:21:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "We love having people bring snacks, desserts, and drinks to share as well! (Though we always make sure the main course ie tacos are taken care of)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "We love having people bring snacks, desserts, and drinks to share as well! (Though we always make sure the main course ie tacos are taken care of)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "f10a99ae-6b34-49d2-936d-e084bb9c42be",
+          "parent": {
+            "type": "block_id",
+            "block_id": "4a6cb467-9f39-48fd-9705-25fa263a090b"
+          },
+          "created_time": "2024-04-21T06:21:00.000Z",
+          "last_edited_time": "2024-04-21T06:22:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "People really enjoy pitching in — it imbues their Taco Tuesday experience with more meaning.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "People really enjoy pitching in — it imbues their Taco Tuesday experience with more meaning.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "5102a603-ab32-444b-a597-872112a45206",
+          "parent": {
+            "type": "block_id",
+            "block_id": "4a6cb467-9f39-48fd-9705-25fa263a090b"
+          },
+          "created_time": "2024-04-21T06:43:00.000Z",
+          "last_edited_time": "2024-04-21T06:44:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "One more way it’s collaborative: Taco Tuesday regulars will offer to host! So Taco Tuesday moves to different houses, with different chefs, or with different events. Speaking of which:",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "One more way it’s collaborative: Taco Tuesday regulars will offer to host! So Taco Tuesday moves to different houses, with different chefs, or with different events. Speaking of which:",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "7bc92cbc-d87c-4c7f-80c6-92b796aac7ec",
+      "parent": {
+        "type": "page_id",
+        "page_id": "bd56058a-f896-4609-9eab-56eaf99a1e6b"
+      },
+      "created_time": "2024-04-21T05:32:00.000Z",
+      "last_edited_time": "2024-04-21T06:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Eventful",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Eventful",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "d67ed257-5f76-4ce0-8a21-7e6b1b2ff40f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "7bc92cbc-d87c-4c7f-80c6-92b796aac7ec"
+          },
+          "created_time": "2024-04-21T05:39:00.000Z",
+          "last_edited_time": "2025-03-13T17:13:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "A common failure mode of house parties: the only thing on offer is “talking to people”. (cf Every Bay Area House Party). I don’t know about you, but I can tolerate like 20 minutes of this before my eardrums are complaining at the noise level and I feel all talked out.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "A common failure mode of house parties: the only thing on offer is “talking to people”. (cf Every Bay Area House Party). I don’t know about you, but I can tolerate like 20 minutes of this before my eardrums are complaining at the noise level and I feel all talked out.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "5028a9bb-37bb-4443-b2fa-46d79ff2414e",
+          "parent": {
+            "type": "block_id",
+            "block_id": "7bc92cbc-d87c-4c7f-80c6-92b796aac7ec"
+          },
+          "created_time": "2024-04-21T05:40:00.000Z",
+          "last_edited_time": "2024-04-21T06:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Taco Tuesday supports “talking to people” for you extraverts who actually like talking, but we also try to provide alternative options. Each week I try to change it up with some other theme or activity. Some of our more popular themes:",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Taco Tuesday supports “talking to people” for you extraverts who actually like talking, but we also try to provide alternative options. Each week I try to change it up with some other theme or activity. Some of our more popular themes:",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "a358cc24-dedc-459a-b873-c9d983bc5408",
+              "parent": {
+                "type": "block_id",
+                "block_id": "5028a9bb-37bb-4443-b2fa-46d79ff2414e"
+              },
+              "created_time": "2024-04-21T05:42:00.000Z",
+              "last_edited_time": "2024-04-21T06:34:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": true,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Book swap",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Book swap",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "children": [
+                {
+                  "object": "block",
+                  "id": "f90d9830-c2fd-4f2d-b63c-1bd9068bbed8",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "a358cc24-dedc-459a-b873-c9d983bc5408"
+                  },
+                  "created_time": "2024-04-21T06:34:00.000Z",
+                  "last_edited_time": "2024-04-21T06:35:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Going around saying something about a book lets out a bit of your personality. Books are often things that people don’t talk that much about. ",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Going around saying something about a book lets out a bit of your personality. Books are often things that people don’t talk that much about. ",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                }
+              ]
+            },
+            {
+              "object": "block",
+              "id": "438e4935-7f71-4c57-8690-e5df12bec45f",
+              "parent": {
+                "type": "block_id",
+                "block_id": "5028a9bb-37bb-4443-b2fa-46d79ff2414e"
+              },
+              "created_time": "2024-04-21T05:42:00.000Z",
+              "last_edited_time": "2024-04-21T06:38:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": true,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Night hike",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Night hike",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "children": [
+                {
+                  "object": "block",
+                  "id": "e20d5e69-5df7-4795-bd24-eb9c079c0940",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "438e4935-7f71-4c57-8690-e5df12bec45f"
+                  },
+                  "created_time": "2024-04-21T06:35:00.000Z",
+                  "last_edited_time": "2024-04-21T06:38:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Walking around the city at night in a group is a lot of fun. Hiking is great for conversations: better volume dynamics compared to being indoors, supports better mixing of conversational groups, provides novel stimuli from the environment as topics to discuss, something about walking stimulates the brain, etc.",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Walking around the city at night in a group is a lot of fun. Hiking is great for conversations: better volume dynamics compared to being indoors, supports better mixing of conversational groups, provides novel stimuli from the environment as topics to discuss, something about walking stimulates the brain, etc.",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                },
+                {
+                  "object": "block",
+                  "id": "edf20c98-db38-40c5-805c-a1a56c74654a",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "438e4935-7f71-4c57-8690-e5df12bec45f"
+                  },
+                  "created_time": "2024-04-21T06:38:00.000Z",
+                  "last_edited_time": "2024-04-21T06:38:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "There’s also a small thrill of “oh this is unusual/we shouldn’t be doing this”, esp if we’re sneaking in to a park after hours.",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "There’s also a small thrill of “oh this is unusual/we shouldn’t be doing this”, esp if we’re sneaking in to a park after hours.",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                }
+              ]
+            },
+            {
+              "object": "block",
+              "id": "54b0d900-1b5a-4d2d-aab5-a374654e04c4",
+              "parent": {
+                "type": "block_id",
+                "block_id": "5028a9bb-37bb-4443-b2fa-46d79ff2414e"
+              },
+              "created_time": "2024-04-21T05:42:00.000Z",
+              "last_edited_time": "2024-04-21T06:38:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": true,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Karaoke",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Karaoke",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "children": [
+                {
+                  "object": "block",
+                  "id": "5ef000a6-0c86-4a61-b53c-692262e9d1bd",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "54b0d900-1b5a-4d2d-aab5-a374654e04c4"
+                  },
+                  "created_time": "2024-04-21T06:38:00.000Z",
+                  "last_edited_time": "2024-04-21T06:39:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Choosing songs also has an element of “showing off a bit of your personality”. And singing together is super bonding, requires everyone to model how everyone else is acting and getting in sync, mind-melding",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Choosing songs also has an element of “showing off a bit of your personality”. And singing together is super bonding, requires everyone to model how everyone else is acting and getting in sync, mind-melding",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                }
+              ]
+            },
+            {
+              "object": "block",
+              "id": "b12d5ef5-bf75-4e37-a596-51723eeb33dc",
+              "parent": {
+                "type": "block_id",
+                "block_id": "5028a9bb-37bb-4443-b2fa-46d79ff2414e"
+              },
+              "created_time": "2024-04-21T05:42:00.000Z",
+              "last_edited_time": "2024-04-21T06:39:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": true,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Puzzled Pint",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Puzzled Pint",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "children": [
+                {
+                  "object": "block",
+                  "id": "e9cd02a3-60f4-4825-bdca-6dd515994123",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "b12d5ef5-bf75-4e37-a596-51723eeb33dc"
+                  },
+                  "created_time": "2024-04-21T06:39:00.000Z",
+                  "last_edited_time": "2024-04-21T06:39:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Once again: forming small teams and tackling a challenge together, is a great experience",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Once again: forming small teams and tackling a challenge together, is a great experience",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                },
+                {
+                  "object": "block",
+                  "id": "24e3df74-1df2-4bf1-9c4a-5b860ddf324d",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "b12d5ef5-bf75-4e37-a596-51723eeb33dc"
+                  },
+                  "created_time": "2024-04-21T06:39:00.000Z",
+                  "last_edited_time": "2024-04-21T06:40:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Puzzles are a form of intellectual play; working through one with a friend, pitching ideas, looking for the answer, and racing against other teams — ",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Puzzles are a form of intellectual play; working through one with a friend, pitching ideas, looking for the answer, and racing against other teams — ",
+                        "href": null
+                      },
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "chefs kiss",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": true,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "chefs kiss",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                }
+              ]
+            },
+            {
+              "object": "block",
+              "id": "9e8b8f68-b4ec-4fc2-95a2-e7d8ad2d5df8",
+              "parent": {
+                "type": "block_id",
+                "block_id": "5028a9bb-37bb-4443-b2fa-46d79ff2414e"
+              },
+              "created_time": "2024-04-21T05:42:00.000Z",
+              "last_edited_time": "2024-04-21T06:40:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": true,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Board games",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Board games",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "children": [
+                {
+                  "object": "block",
+                  "id": "ff72be22-c12a-4926-bf55-7daf16c7acfd",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "9e8b8f68-b4ec-4fc2-95a2-e7d8ad2d5df8"
+                  },
+                  "created_time": "2024-04-21T06:40:00.000Z",
+                  "last_edited_time": "2024-04-21T06:41:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Oldie but goodie. Many people who don’t want to be talking all the time, absolutely love strategizing over Splendor or scheming as a Secret Hitler",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Oldie but goodie. Many people who don’t want to be talking all the time, absolutely love strategizing over Splendor or scheming as a Secret Hitler",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "d8b51fdb-20ed-4be1-8339-09385e05f25e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "bd56058a-f896-4609-9eab-56eaf99a1e6b"
+      },
+      "created_time": "2024-04-21T05:29:00.000Z",
+      "last_edited_time": "2025-03-13T17:04:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Oral history",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Oral history",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1a2b530e-cb25-4ce0-b002-ce9b111f90db",
+      "parent": {
+        "type": "page_id",
+        "page_id": "bd56058a-f896-4609-9eab-56eaf99a1e6b"
+      },
+      "created_time": "2024-04-21T05:29:00.000Z",
+      "last_edited_time": "2025-03-13T17:04:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Taco Tuesday started 3 years ago, during the pandemic. My friends Karthik, Michael, and Dan were getting bored of shelter-in-place and illicitly invited me over for tacos. Breaking quarantine was so joyful, and I wanted to keep doing it — we settled into a pattern of seeing each other and making great tacos. So for a long time it was just 3-4 friends getting together, bringing ingredients, cooking together, catching up, watching anime.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Taco Tuesday started 3 years ago, during the pandemic. My friends Karthik, Michael, and Dan were getting bored of shelter-in-place and illicitly invited me over for tacos. Breaking quarantine was so joyful, and I wanted to keep doing it — we settled into a pattern of seeing each other and making great tacos. So for a long time it was just 3-4 friends getting together, bringing ingredients, cooking together, catching up, watching anime.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1b5a6e41-f23e-8025-b0ab-cd46240fee5f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "bd56058a-f896-4609-9eab-56eaf99a1e6b"
+      },
+      "created_time": "2025-03-13T17:04:00.000Z",
+      "last_edited_time": "2025-03-13T17:04:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1b5a6e41-f23e-80a7-aae0-e1b2120cdde8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "bd56058a-f896-4609-9eab-56eaf99a1e6b"
+      },
+      "created_time": "2025-03-13T17:03:00.000Z",
+      "last_edited_time": "2025-03-13T17:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Taco Tuesday has gone through 4 or 5 different “default houses” over its years. [TODO finish history]",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Taco Tuesday has gone through 4 or 5 different “default houses” over its years. [TODO finish history]",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "dc4a3e68-8848-4127-b0d1-0c1132e3974a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "bd56058a-f896-4609-9eab-56eaf99a1e6b"
+      },
+      "created_time": "2024-04-21T06:43:00.000Z",
+      "last_edited_time": "2025-03-13T17:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "b6733c02-8356-4a22-88a6-db4771614882",
+      "parent": {
+        "type": "page_id",
+        "page_id": "bd56058a-f896-4609-9eab-56eaf99a1e6b"
+      },
+      "created_time": "2024-04-21T05:30:00.000Z",
+      "last_edited_time": "2024-04-21T05:30:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "97c168bd-8c69-4036-84ff-db7c42dd2fe9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "bd56058a-f896-4609-9eab-56eaf99a1e6b"
+      },
+      "created_time": "2024-04-21T05:30:00.000Z",
+      "last_edited_time": "2024-06-05T06:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Misc [TODO include]",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Misc [TODO include]",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "e68275af-1d3f-48b1-992b-afd1d0af83ae",
+      "parent": {
+        "type": "page_id",
+        "page_id": "bd56058a-f896-4609-9eab-56eaf99a1e6b"
+      },
+      "created_time": "2024-04-21T05:32:00.000Z",
+      "last_edited_time": "2024-04-21T05:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Prediction markets!",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Prediction markets!",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "0e8cd7f5-a679-4a76-932c-ef42a0055ddb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "bd56058a-f896-4609-9eab-56eaf99a1e6b"
+      },
+      "created_time": "2024-04-21T05:32:00.000Z",
+      "last_edited_time": "2024-04-21T05:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Taco Tuesday got funded by Francisco San",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Taco Tuesday got funded by Francisco San",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "5a9e50b9-dcd2-4d27-b1d3-811da338b315",
+      "parent": {
+        "type": "page_id",
+        "page_id": "bd56058a-f896-4609-9eab-56eaf99a1e6b"
+      },
+      "created_time": "2024-04-21T05:32:00.000Z",
+      "last_edited_time": "2024-04-21T05:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Taco Tuesday is responsible for two relationships forming! One of which through a Valentine’s Day singles mixer; another more organically. (Both couples have now separated though so caveat emptor).",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Taco Tuesday is responsible for two relationships forming! One of which through a Valentine’s Day singles mixer; another more organically. (Both couples have now separated though so caveat emptor).",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "ba7e4d1e-3c42-48a8-8e46-10e48f96231b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "bd56058a-f896-4609-9eab-56eaf99a1e6b"
+      },
+      "created_time": "2024-04-21T06:04:00.000Z",
+      "last_edited_time": "2024-04-21T06:04:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "In the news!",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "In the news!",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "645f13e9-0ea9-417f-b640-76f64361d858",
+      "parent": {
+        "type": "page_id",
+        "page_id": "bd56058a-f896-4609-9eab-56eaf99a1e6b"
+      },
+      "created_time": "2024-04-21T05:33:00.000Z",
+      "last_edited_time": "2024-04-21T05:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Photos",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Photos",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    }
+  ]
+}

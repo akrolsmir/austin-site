@@ -1,0 +1,605 @@
+{
+  "page": {
+    "id": "3891db6923494a8ab0e1d204d83fcb4b",
+    "title": "Recommending Saul",
+    "date": "2024-02-02T07:16:00.000+00:00",
+    "edited": "2024-02-02T08:44:00.000Z",
+    "url": "https://akrolsmir.notion.site/Recommending-Saul-3891db6923494a8ab0e1d204d83fcb4b",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "26b958da-8807-44a4-a4c6-740e29a251af",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3891db69-2349-4a8a-b0e1-d204d83fcb4b"
+      },
+      "created_time": "2024-02-02T07:49:00.000Z",
+      "last_edited_time": "2024-02-02T08:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I first met Saul when he reached out to me about the impact certificate program I was running. Impact certificates are very niche topic, so I surprised when this young kid I didn’t know expressed an extreme amount of enthusiasm for it. We were using impact certificates to try and find examples of really good forecasting projects to support, and his work at OPTIC (promoting forecasting among college students) was a perfect fit",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I first met Saul when he reached out to me about the impact certificate program I was running. Impact certificates are very niche topic, so I surprised when this young kid I didn’t know expressed an extreme amount of enthusiasm for it. We were using impact certificates to try and find examples of really good forecasting projects to support, and his work at OPTIC (promoting forecasting among college students) was a perfect fit",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "4535547f-30eb-4bbf-8831-2f69bd62565e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3891db69-2349-4a8a-b0e1-d204d83fcb4b"
+      },
+      "created_time": "2024-02-02T07:49:00.000Z",
+      "last_edited_time": "2024-02-02T08:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "In that very first call, I was taken with Saul's competence and professionalism. There's a specific set of skills that to me relay “I care about effective meetings”, and Saul had this figured out: taking notes during a 1:1 meeting on a shared document, then sending a follow-up to your partner with a recap and next steps, then following up on those next steps afterwards. Perhaps this seems banal, but I’ve worked in a variety of settings from large companies like Google to small startups like my current company, Manifold, and you’d be surprised how many working adults lack this dedication to running meetings well. But Saul had it. I was impressed that this college kid had already picked up on ways of operating in professional settings that many of my talented colleagues still lack.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "In that very first call, I was taken with Saul's competence and professionalism. There's a specific set of skills that to me relay “I care about effective meetings”, and Saul had this figured out: taking notes during a 1:1 meeting on a shared document, then sending a follow-up to your partner with a recap and next steps, then following up on those next steps afterwards. Perhaps this seems banal, but I’ve worked in a variety of settings from large companies like Google to small startups like my current company, Manifold, and you’d be surprised how many working adults lack this dedication to running meetings well. But Saul had it. I was impressed that this college kid had already picked up on ways of operating in professional settings that many of my talented colleagues still lack.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "d40bc2c1-3ace-4216-a8f9-5460e25cbf82",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3891db69-2349-4a8a-b0e1-d204d83fcb4b"
+      },
+      "created_time": "2024-02-02T07:49:00.000Z",
+      "last_edited_time": "2024-02-02T08:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "A short while later, I was dreaming of a new initiative for Manifold — a first-of-its-kind prediction market conference called “Manifest” — and thinking of who I could tap to work with me on it. Saul was the first person to come to mind. We both shared an interest in geeky mechanisms like prediction markets and impact certificates; but more than that, I saw in Saul somebody who could excel at the kind of operational work that is necessary for a conference. I asked if he could take time off of his current work to help Manifold with this, and he graciously accepted.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "A short while later, I was dreaming of a new initiative for Manifold — a first-of-its-kind prediction market conference called “Manifest” — and thinking of who I could tap to work with me on it. Saul was the first person to come to mind. We both shared an interest in geeky mechanisms like prediction markets and impact certificates; but more than that, I saw in Saul somebody who could excel at the kind of operational work that is necessary for a conference. I asked if he could take time off of his current work to help Manifold with this, and he graciously accepted.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3c8b7906-33fd-4ce0-8c51-c327de8edd5c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3891db69-2349-4a8a-b0e1-d204d83fcb4b"
+      },
+      "created_time": "2024-02-02T07:59:00.000Z",
+      "last_edited_time": "2024-02-02T08:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Recruiting Saul was the single best decision I made for Manifest. Manifest was very speculative — our company had never run a conference before — and so there were many things that our team had to figure out, a large amount of uncertainty we had to navigate through. From venue selection to speaker reachouts to coordinating with caterers to setting up a website to designing conference swag, there are 1,000 tiny details that go into making a conference smooth and polished. It's an intricate dance, one that we only had one chance to get right. Saul stepped up and took ownership over vast swathes of this work. He navigated this ambiguity across many fields, finding ways to handle tasks that that neither he nor anybody else on her team had ever performed before.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Recruiting Saul was the single best decision I made for Manifest. Manifest was very speculative — our company had never run a conference before — and so there were many things that our team had to figure out, a large amount of uncertainty we had to navigate through. From venue selection to speaker reachouts to coordinating with caterers to setting up a website to designing conference swag, there are 1,000 tiny details that go into making a conference smooth and polished. It's an intricate dance, one that we only had one chance to get right. Saul stepped up and took ownership over vast swathes of this work. He navigated this ambiguity across many fields, finding ways to handle tasks that that neither he nor anybody else on her team had ever performed before.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "83564aab-8732-442c-8d73-e070a92da0e5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3891db69-2349-4a8a-b0e1-d204d83fcb4b"
+      },
+      "created_time": "2024-02-02T08:01:00.000Z",
+      "last_edited_time": "2024-02-02T08:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "A small sample of the work Saul did while planning Manifest, in the months and weeks leading up to the event:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "A small sample of the work Saul did while planning Manifest, in the months and weeks leading up to the event:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "910afb4a-00a8-45f2-8b99-b17acadb78ba",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3891db69-2349-4a8a-b0e1-d204d83fcb4b"
+      },
+      "created_time": "2024-02-02T08:23:00.000Z",
+      "last_edited_time": "2024-02-02T08:30:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "He set up the conference landing page, which worked well to convince many attendees and speakers to join; afterwards, we received compliments on the design of the site.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "He set up the conference landing page, which worked well to convince many attendees and speakers to join; afterwards, we received compliments on the design of the site.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "229adf6e-dac2-42a8-a450-72186e567e6d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3891db69-2349-4a8a-b0e1-d204d83fcb4b"
+      },
+      "created_time": "2024-02-02T08:02:00.000Z",
+      "last_edited_time": "2024-02-02T08:29:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "He was our primary liaison with the venue, communicating with them and adapting it to suit our needs. We would need to arrange hundreds of people gather in different events, talks, and meetups, throughout the course of the weekend.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "He was our primary liaison with the venue, communicating with them and adapting it to suit our needs. We would need to arrange hundreds of people gather in different events, talks, and meetups, throughout the course of the weekend.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "5495316f-c46f-4941-9e9e-f901d647c644",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3891db69-2349-4a8a-b0e1-d204d83fcb4b"
+      },
+      "created_time": "2024-02-02T08:03:00.000Z",
+      "last_edited_time": "2024-02-02T08:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "He sought out people who had ran similar conferences (like Ollie Base of EA Global), learned from their experiences, and communicated his findings to the rest of us; these lessons helped us avoid many pitfalls of first-time conferences.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "He sought out people who had ran similar conferences (like Ollie Base of EA Global), learned from their experiences, and communicated his findings to the rest of us; these lessons helped us avoid many pitfalls of first-time conferences.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3a0d36b7-9ee9-4302-a42d-8a0346da6d41",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3891db69-2349-4a8a-b0e1-d204d83fcb4b"
+      },
+      "created_time": "2024-02-02T08:02:00.000Z",
+      "last_edited_time": "2024-02-02T08:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "He proactively thought of potential issues and addressed them without needing my oversight, for example coming up with a plan for allowing under-18 minors to attend our conference with their parent’s permission.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "He proactively thought of potential issues and addressed them without needing my oversight, for example coming up with a plan for allowing under-18 minors to attend our conference with their parent’s permission.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3545de82-ccb8-40a2-87ed-f52db790c004",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3891db69-2349-4a8a-b0e1-d204d83fcb4b"
+      },
+      "created_time": "2024-02-02T08:02:00.000Z",
+      "last_edited_time": "2024-02-02T08:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "He was extremely resourceful and found ways to make our conference run within budget and with high quality, such as by tapping a few of his friends on the UC Berkeley football team to moonlight as our security guards, instead of much more expensive professional guards.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "He was extremely resourceful and found ways to make our conference run within budget and with high quality, such as by tapping a few of his friends on the UC Berkeley football team to moonlight as our security guards, instead of much more expensive professional guards.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "451075aa-d0d6-47d0-ac1c-dc3f216a8fe5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3891db69-2349-4a8a-b0e1-d204d83fcb4b"
+      },
+      "created_time": "2024-02-02T07:49:00.000Z",
+      "last_edited_time": "2024-02-02T08:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Then during the event, another set of his skills came to light: the ability to rapidly triage and put out ongoing fires. Any real time event like a conference has things going wrong or requiring attention at all times, but Saul was able to not only handle these issues himself, but lead a team of 20 hand-picked volunteers to address issues on the fly. The most memorable instance of this was when we had a security incident, where somebody attempted to force entry into our conference Saturday night. This happened at a particularly crucial time during our conference, when I was going to be off-site to manage the speakers dinner and then oversee our night market. In my absence, Saul worked closely with the venue team over a few hours to make sure that the security measures were in place so that a repeat of this would not be possible, and that the conference was safe for everyone involved. Over that weekend, Saul worked himself to the bone: patrolling the grounds, staying over at the venue, sleeping only handful of hours each night, at every step making it his first priority that the attendees were having a good time.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Then during the event, another set of his skills came to light: the ability to rapidly triage and put out ongoing fires. Any real time event like a conference has things going wrong or requiring attention at all times, but Saul was able to not only handle these issues himself, but lead a team of 20 hand-picked volunteers to address issues on the fly. The most memorable instance of this was when we had a security incident, where somebody attempted to force entry into our conference Saturday night. This happened at a particularly crucial time during our conference, when I was going to be off-site to manage the speakers dinner and then oversee our night market. In my absence, Saul worked closely with the venue team over a few hours to make sure that the security measures were in place so that a repeat of this would not be possible, and that the conference was safe for everyone involved. Over that weekend, Saul worked himself to the bone: patrolling the grounds, staying over at the venue, sleeping only handful of hours each night, at every step making it his first priority that the attendees were having a good time.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "244d3c1d-40eb-4be8-baac-052e73c44cd3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3891db69-2349-4a8a-b0e1-d204d83fcb4b"
+      },
+      "created_time": "2024-02-02T07:49:00.000Z",
+      "last_edited_time": "2024-02-02T08:44:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Overall, the Manifest conference was a resounding success; so much so, I sometimes joke that our company could pivot from a tech startup to an event planning consultancy. We had globally recognizable speakers (such as Nate Silver, Emmett Shear, and Scott Alexander) deliver amazing talks that have since been widely cited. In our attendance feedback form, we received rave reviews, with with half of our attendees rating the conference as a 10 out of 10 in terms of would recommend to a friend. We even got a glowing write-up in the New York Times published about the Manifest conference! All of this was possible because Saul had laid the groundwork for the conference, and then executed amazingly during the event.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Overall, the Manifest conference was a resounding success; so much so, I sometimes joke that our company could pivot from a tech startup to an event planning consultancy. We had globally recognizable speakers (such as Nate Silver, Emmett Shear, and Scott Alexander) deliver amazing talks that have since been widely cited. In our attendance feedback form, we received rave reviews, with with half of our attendees rating the conference as a 10 out of 10 in terms of would recommend to a friend. We even got a glowing write-up in the New York Times published about the Manifest conference! All of this was possible because Saul had laid the groundwork for the conference, and then executed amazingly during the event.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "56bbf06d-e57d-49a3-99e6-a66c947c9ec9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3891db69-2349-4a8a-b0e1-d204d83fcb4b"
+      },
+      "created_time": "2024-02-02T07:49:00.000Z",
+      "last_edited_time": "2024-02-02T08:44:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I'm not the only one to have picked up on what an talented person Saul is. One of my friends mentioned to me afterwards, “Saul is on his way to becoming president of the US” — and she was only 20% kidding. In the wake of the conference, he’s received something like four work offers from other orgs and companies who picked up on how excellently Saul ran Manifest. This amount of competition for his time is actually a little unfortunate for me, as I’d like to have him work with us again! I'm hopeful that before he resumes his studies that he'll find time for this; and either way, we’re looking out to have him join us after his education is complete.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I'm not the only one to have picked up on what an talented person Saul is. One of my friends mentioned to me afterwards, “Saul is on his way to becoming president of the US” — and she was only 20% kidding. In the wake of the conference, he’s received something like four work offers from other orgs and companies who picked up on how excellently Saul ran Manifest. This amount of competition for his time is actually a little unfortunate for me, as I’d like to have him work with us again! I'm hopeful that before he resumes his studies that he'll find time for this; and either way, we’re looking out to have him join us after his education is complete.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "6bd2dfce-d6d8-4a05-82bc-a744fe7f1e0e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3891db69-2349-4a8a-b0e1-d204d83fcb4b"
+      },
+      "created_time": "2024-02-02T07:17:00.000Z",
+      "last_edited_time": "2024-02-02T07:17:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    }
+  ]
+}

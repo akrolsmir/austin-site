@@ -1,0 +1,1243 @@
+{
+  "page": {
+    "id": "c5a0c2b342044bf884c84147200dff5f",
+    "title": "Open",
+    "date": "2023-05-31",
+    "edited": "2023-06-01T06:03:00.000Z",
+    "url": "https://akrolsmir.notion.site/Open-c5a0c2b342044bf884c84147200dff5f",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "180fd7ea-17e4-42ef-af41-691e339e467b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "c5a0c2b3-4204-4bf8-84c8-4147200dff5f"
+      },
+      "created_time": "2023-05-28T18:47:00.000Z",
+      "last_edited_time": "2023-05-28T18:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Openness is advantageous in the beginning, but maladaptive later on",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Openness is advantageous in the beginning, but maladaptive later on",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "64b29d04-bf1b-44cd-bb25-95eb4ee01781",
+          "parent": {
+            "type": "block_id",
+            "block_id": "180fd7ea-17e4-42ef-af41-691e339e467b"
+          },
+          "created_time": "2023-05-28T18:52:00.000Z",
+          "last_edited_time": "2023-05-28T18:53:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "In the beginning, you have no brand to lose",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "In the beginning, you have no brand to lose",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "acffde4e-8314-40dc-8ac2-6535bd7a078f",
+              "parent": {
+                "type": "block_id",
+                "block_id": "64b29d04-bf1b-44cd-bb25-95eb4ee01781"
+              },
+              "created_time": "2023-05-28T18:47:00.000Z",
+              "last_edited_time": "2023-05-28T18:53:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "OpenPhil, OpenAI are much less open than they used to be",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "OpenPhil, OpenAI are much less open than they used to be",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "fa29d9b8-b2d4-414b-af6a-7291db63ddf5",
+          "parent": {
+            "type": "block_id",
+            "block_id": "180fd7ea-17e4-42ef-af41-691e339e467b"
+          },
+          "created_time": "2023-05-28T18:52:00.000Z",
+          "last_edited_time": "2023-05-28T18:54:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "In the beginning, you have less stuff to share so it’s easier to share all of it",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "In the beginning, you have less stuff to share so it’s easier to share all of it",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "89f67154-4666-49d5-b5bd-38fc26825476",
+              "parent": {
+                "type": "block_id",
+                "block_id": "fa29d9b8-b2d4-414b-af6a-7291db63ddf5"
+              },
+              "created_time": "2023-05-28T18:53:00.000Z",
+              "last_edited_time": "2023-05-28T18:53:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Manifold codebase and Notion are super messy now",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Manifold codebase and Notion are super messy now",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "36817a87-75b6-49b1-866d-77e348b1ec6f",
+              "parent": {
+                "type": "block_id",
+                "block_id": "fa29d9b8-b2d4-414b-af6a-7291db63ddf5"
+              },
+              "created_time": "2023-05-28T18:53:00.000Z",
+              "last_edited_time": "2023-05-28T18:54:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "The ability to navigate an internal mess is a kind of power",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "The ability to navigate an internal mess is a kind of power",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "6b60bba4-67f8-4f4c-b711-a701147f2646",
+              "parent": {
+                "type": "block_id",
+                "block_id": "fa29d9b8-b2d4-414b-af6a-7291db63ddf5"
+              },
+              "created_time": "2023-05-28T18:54:00.000Z",
+              "last_edited_time": "2023-05-28T18:56:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Search, outlines, summaries, charts are a kind of openness",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Search, outlines, summaries, charts are a kind of openness",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "9bd70c95-7d65-46d1-9b7f-55de091b8f08",
+      "parent": {
+        "type": "page_id",
+        "page_id": "c5a0c2b3-4204-4bf8-84c8-4147200dff5f"
+      },
+      "created_time": "2023-05-28T18:48:00.000Z",
+      "last_edited_time": "2023-05-28T18:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "It’s easier to be open about yourself and data that you “control”; harder for data that other people have given you, or data about other people",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "It’s easier to be open about yourself and data that you “control”; harder for data that other people have given you, or data about other people",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "a1db3e12-8950-4772-ab11-7d48a193af86",
+          "parent": {
+            "type": "block_id",
+            "block_id": "9bd70c95-7d65-46d1-9b7f-55de091b8f08"
+          },
+          "created_time": "2023-05-28T18:48:00.000Z",
+          "last_edited_time": "2023-05-28T18:54:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Privacy is a harmful meme; the idea of privacy makes people think “hey, you shouldn’t be able to say that about me”",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Privacy is a harmful meme; the idea of privacy makes people think “hey, you shouldn’t be able to say that about me”",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "6a78df6a-e6f0-4492-937f-1b6592c52b4a",
+          "parent": {
+            "type": "block_id",
+            "block_id": "9bd70c95-7d65-46d1-9b7f-55de091b8f08"
+          },
+          "created_time": "2023-05-28T18:55:00.000Z",
+          "last_edited_time": "2023-05-28T18:55:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Private pieces of Manifold mostly are “because of other people”",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Private pieces of Manifold mostly are “because of other people”",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "9386d67a-9e5f-4ce0-bb88-9f4f9e465fb7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "c5a0c2b3-4204-4bf8-84c8-4147200dff5f"
+      },
+      "created_time": "2023-05-28T18:50:00.000Z",
+      "last_edited_time": "2023-05-28T18:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Manifold aims for openness on:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Manifold aims for openness on:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "e598c65b-58cf-481a-9610-7e4bf832eb3c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "9386d67a-9e5f-4ce0-bb88-9f4f9e465fb7"
+          },
+          "created_time": "2023-05-28T18:50:00.000Z",
+          "last_edited_time": "2023-05-28T18:51:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Our source code",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Our source code",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "6adf64bb-fe3b-4ed9-b3c2-ce5cd4da52e1",
+          "parent": {
+            "type": "block_id",
+            "block_id": "9386d67a-9e5f-4ce0-bb88-9f4f9e465fb7"
+          },
+          "created_time": "2023-05-28T18:51:00.000Z",
+          "last_edited_time": "2023-05-28T18:51:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Our data",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Our data",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "8a7c57b7-0428-456e-a557-8982176d905e",
+          "parent": {
+            "type": "block_id",
+            "block_id": "9386d67a-9e5f-4ce0-bb88-9f4f9e465fb7"
+          },
+          "created_time": "2023-05-28T18:50:00.000Z",
+          "last_edited_time": "2023-05-28T18:51:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "The knowledge of our meetings",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "The knowledge of our meetings",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "114b4ae0-a94d-4d3c-972b-eae8b7b105e2",
+          "parent": {
+            "type": "block_id",
+            "block_id": "9386d67a-9e5f-4ce0-bb88-9f4f9e465fb7"
+          },
+          "created_time": "2023-05-28T18:51:00.000Z",
+          "last_edited_time": "2023-05-28T18:52:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Our financials (including salary, cap table)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Our financials (including salary, cap table)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "245d31fa-dd8b-4b95-b3d4-14dbe8c9a814",
+      "parent": {
+        "type": "page_id",
+        "page_id": "c5a0c2b3-4204-4bf8-84c8-4147200dff5f"
+      },
+      "created_time": "2023-05-28T18:49:00.000Z",
+      "last_edited_time": "2023-05-28T18:56:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Paragons of openness:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Paragons of openness:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "a1bad535-3629-43f3-93a6-e4c601dd8901",
+          "parent": {
+            "type": "block_id",
+            "block_id": "245d31fa-dd8b-4b95-b3d4-14dbe8c9a814"
+          },
+          "created_time": "2023-05-28T18:52:00.000Z",
+          "last_edited_time": "2023-05-28T18:53:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Blogging on the internet (Holden, Jeff & Julia)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Blogging on the internet (Holden, Jeff & Julia)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "251944ef-cf39-4936-9e26-f7599f0f18fa",
+          "parent": {
+            "type": "block_id",
+            "block_id": "245d31fa-dd8b-4b95-b3d4-14dbe8c9a814"
+          },
+          "created_time": "2023-05-28T18:56:00.000Z",
+          "last_edited_time": "2023-05-28T18:56:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "APIs",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "APIs",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "430d338d-1db1-48dd-9b2f-80596b969499",
+          "parent": {
+            "type": "block_id",
+            "block_id": "245d31fa-dd8b-4b95-b3d4-14dbe8c9a814"
+          },
+          "created_time": "2023-05-28T18:56:00.000Z",
+          "last_edited_time": "2023-05-28T18:56:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Our World In Data",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Our World In Data",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "160f5862-72aa-4598-b8b3-dce85b2be66a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "c5a0c2b3-4204-4bf8-84c8-4147200dff5f"
+      },
+      "created_time": "2023-05-28T18:52:00.000Z",
+      "last_edited_time": "2023-05-28T18:52:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "f34b2ed3-1de0-4c08-92d4-134a38418383",
+      "parent": {
+        "type": "page_id",
+        "page_id": "c5a0c2b3-4204-4bf8-84c8-4147200dff5f"
+      },
+      "created_time": "2023-05-28T18:49:00.000Z",
+      "last_edited_time": "2023-05-28T18:50:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Counterpoints",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Counterpoints",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "c00c3401-c323-40e1-9ba4-283ba646a92d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "c5a0c2b3-4204-4bf8-84c8-4147200dff5f"
+      },
+      "created_time": "2023-05-28T18:49:00.000Z",
+      "last_edited_time": "2023-05-28T19:02:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Selective shared vulnerability might be a cornerstone of a relationship? If you’re as open about your thoughts with everyone as with your partner, what’s special about a partnership?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Selective shared vulnerability might be a cornerstone of a relationship? If you’re as open about your thoughts with everyone as with your partner, what’s special about a partnership?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "d80282a5-8675-4242-9fd1-591233d1069d",
+          "parent": {
+            "type": "block_id",
+            "block_id": "c00c3401-c323-40e1-9ba4-283ba646a92d"
+          },
+          "created_time": "2023-05-28T19:02:00.000Z",
+          "last_edited_time": "2023-05-28T19:03:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "E.g. love letters, naked photos, sexual activity are valuable because they’re extremely exclusive",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "E.g. love letters, naked photos, sexual activity are valuable because they’re extremely exclusive",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1ad46094-a125-4cd5-80d3-942bffc2e97b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "c5a0c2b3-4204-4bf8-84c8-4147200dff5f"
+      },
+      "created_time": "2023-05-28T18:56:00.000Z",
+      "last_edited_time": "2023-05-28T18:56:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "08f957b1-1829-4b35-9980-1565b8b471fe",
+      "parent": {
+        "type": "page_id",
+        "page_id": "c5a0c2b3-4204-4bf8-84c8-4147200dff5f"
+      },
+      "created_time": "2023-05-28T18:56:00.000Z",
+      "last_edited_time": "2023-05-28T18:56:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Misc",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Misc",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "7e3f00f3-91fb-46da-b91a-b47367114aaf",
+      "parent": {
+        "type": "page_id",
+        "page_id": "c5a0c2b3-4204-4bf8-84c8-4147200dff5f"
+      },
+      "created_time": "2023-05-28T18:56:00.000Z",
+      "last_edited_time": "2023-05-28T19:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "If Manifold is open on our codebase/data/processes, where is its value?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "If Manifold is open on our codebase/data/processes, where is its value?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "80d3e168-25f3-47f5-a924-a81959ffd47a",
+          "parent": {
+            "type": "block_id",
+            "block_id": "7e3f00f3-91fb-46da-b91a-b47367114aaf"
+          },
+          "created_time": "2023-05-28T18:57:00.000Z",
+          "last_edited_time": "2023-05-28T18:57:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Brand — people know about Manifold and trust it to be a good experience and providing useful knowledge",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Brand — people know about Manifold and trust it to be a good experience and providing useful knowledge",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "6da30570-fcb0-4a63-ba80-6666e817ccb8",
+          "parent": {
+            "type": "block_id",
+            "block_id": "7e3f00f3-91fb-46da-b91a-b47367114aaf"
+          },
+          "created_time": "2023-05-28T18:57:00.000Z",
+          "last_edited_time": "2023-05-28T18:58:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Team — both the individuals working on the team, and the relationships between them. The team can make changes on its existing codebase & data much much better than anyone else",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Team — both the individuals working on the team, and the relationships between them. The team can make changes on its existing codebase & data much much better than anyone else",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "d4eb3d1c-e928-4897-bdcd-1cc4571085a0",
+          "parent": {
+            "type": "block_id",
+            "block_id": "7e3f00f3-91fb-46da-b91a-b47367114aaf"
+          },
+          "created_time": "2023-05-28T19:03:00.000Z",
+          "last_edited_time": "2023-05-28T19:04:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Money — the team still controls where we spend money, who we hire (aka whose time we rent to further add to the Manifold platform)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Money — the team still controls where we spend money, who we hire (aka whose time we rent to further add to the Manifold platform)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    }
+  ]
+}

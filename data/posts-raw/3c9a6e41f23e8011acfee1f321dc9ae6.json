@@ -1,0 +1,1519 @@
+{
+  "page": {
+    "id": "3c9a6e41f23e8011acfee1f321dc9ae6",
+    "title": "A guide to working with Austin",
+    "date": "2026-08-27T17:19:00.000+00:00",
+    "edited": "2026-09-02T21:26:00.000Z",
+    "url": "https://akrolsmir.notion.site/A-guide-to-working-with-Austin-3c9a6e41f23e8011acfee1f321dc9ae6",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "3c9a6e41-f23e-805a-aa9b-ce561c5ff190",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3c9a6e41-f23e-8011-acfe-e1f321dc9ae6"
+      },
+      "created_time": "2026-08-27T17:19:00.000Z",
+      "last_edited_time": "2026-08-27T17:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "by default I'm more opportunistic than strategic. Aka moving fast on a small opportunity right in front of us, rather than backchaining from a grand theory of change.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "by default I'm more opportunistic than strategic. Aka moving fast on a small opportunity right in front of us, rather than backchaining from a grand theory of change.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3c9a6e41-f23e-805c-b587-f26b1e2afec9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3c9a6e41-f23e-8011-acfe-e1f321dc9ae6"
+      },
+      "created_time": "2026-08-27T17:21:00.000Z",
+      "last_edited_time": "2026-08-27T17:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3c9a6e41-f23e-8084-8056-fe7957203058",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3c9a6e41-f23e-8011-acfe-e1f321dc9ae6"
+      },
+      "created_time": "2026-08-27T17:19:00.000Z",
+      "last_edited_time": "2026-08-27T17:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I'm very generative, have many ideas, feel free to follow up on whichever are promising or ignore ones that aren't. (Plausibly, one way to work well with me is to keep a single thing you find important, on track)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I'm very generative, have many ideas, feel free to follow up on whichever are promising or ignore ones that aren't. (Plausibly, one way to work well with me is to keep a single thing you find important, on track)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3c9a6e41-f23e-802a-8d1f-c9cd8c891cc9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3c9a6e41-f23e-8011-acfe-e1f321dc9ae6"
+      },
+      "created_time": "2026-08-27T17:19:00.000Z",
+      "last_edited_time": "2026-08-27T17:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3c9a6e41-f23e-801c-9ee3-d78b989b80b3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3c9a6e41-f23e-8011-acfe-e1f321dc9ae6"
+      },
+      "created_time": "2026-08-27T17:19:00.000Z",
+      "last_edited_time": "2026-08-27T17:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "read really fast; type really fast",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "read really fast; type really fast",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3c9a6e41-f23e-80c9-83c9-e0a4d404e406",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3c9a6e41-f23e-8011-acfe-e1f321dc9ae6"
+      },
+      "created_time": "2026-08-27T17:19:00.000Z",
+      "last_edited_time": "2026-08-27T17:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "love writeups, retros, postmortems, written culture",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "love writeups, retros, postmortems, written culture",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "3c9a6e41-f23e-80b2-bf01-df55b64f563f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "3c9a6e41-f23e-80c9-83c9-e0a4d404e406"
+          },
+          "created_time": "2026-08-27T17:19:00.000Z",
+          "last_edited_time": "2026-08-27T17:22:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "send me stuff to read",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "send me stuff to read",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "3c9a6e41-f23e-805d-b001-db446677c5a6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3c9a6e41-f23e-8011-acfe-e1f321dc9ae6"
+      },
+      "created_time": "2026-08-27T17:21:00.000Z",
+      "last_edited_time": "2026-09-02T21:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "generally processes information pretty fast",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "generally processes information pretty fast",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "3c9a6e41-f23e-804b-a2cb-f955955cfd4b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "3c9a6e41-f23e-805d-b001-db446677c5a6"
+          },
+          "created_time": "2026-08-27T17:19:00.000Z",
+          "last_edited_time": "2026-08-27T17:22:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "tell me if I'm going too fast in a meeting etc",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "tell me if I'm going too fast in a meeting etc",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "3cfa6e41-f23e-8088-abba-c670008d203c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3c9a6e41-f23e-8011-acfe-e1f321dc9ae6"
+      },
+      "created_time": "2026-09-02T21:05:00.000Z",
+      "last_edited_time": "2026-09-02T21:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3cfa6e41-f23e-8099-86c5-e06b216c36c3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3c9a6e41-f23e-8011-acfe-e1f321dc9ae6"
+      },
+      "created_time": "2026-09-02T21:04:00.000Z",
+      "last_edited_time": "2026-09-02T21:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "my appetite for complexity is extremely high. I like figuring out weird deals or new initiatives, all the time. and having my fingers in many pies, and switching between them quickly",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "my appetite for complexity is extremely high. I like figuring out weird deals or new initiatives, all the time. and having my fingers in many pies, and switching between them quickly",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "3cfa6e41-f23e-8088-b1ed-cded2229035c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "3cfa6e41-f23e-8099-86c5-e06b216c36c3"
+          },
+          "created_time": "2026-09-02T21:04:00.000Z",
+          "last_edited_time": "2026-09-02T21:25:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "however, this is probably not optimal in many contexts. also I probably forget that people I work with have a lower appetite/excitement to take on arbitrarily complex or varied work. lmk if you think this is happening",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "however, this is probably not optimal in many contexts. also I probably forget that people I work with have a lower appetite/excitement to take on arbitrarily complex or varied work. lmk if you think this is happening",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "3c9a6e41-f23e-800e-af88-f5c5cfb0da54",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3c9a6e41-f23e-8011-acfe-e1f321dc9ae6"
+      },
+      "created_time": "2026-08-27T17:19:00.000Z",
+      "last_edited_time": "2026-08-27T17:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3c9a6e41-f23e-807b-bc33-d021cf35fd9a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3c9a6e41-f23e-8011-acfe-e1f321dc9ae6"
+      },
+      "created_time": "2026-08-27T17:19:00.000Z",
+      "last_edited_time": "2026-08-27T17:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "have a contrarian streak",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "have a contrarian streak",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3c9a6e41-f23e-8017-a108-f8edac77aebe",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3c9a6e41-f23e-8011-acfe-e1f321dc9ae6"
+      },
+      "created_time": "2026-08-27T17:19:00.000Z",
+      "last_edited_time": "2026-08-27T17:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3c9a6e41-f23e-80e8-b34c-e789d60f2ad2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3c9a6e41-f23e-8011-acfe-e1f321dc9ae6"
+      },
+      "created_time": "2026-08-27T17:19:00.000Z",
+      "last_edited_time": "2026-08-27T17:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "like async/remote work, find it very productive; with in-person stuff more for social bonding",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "like async/remote work, find it very productive; with in-person stuff more for social bonding",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3c9a6e41-f23e-80a5-acf0-e7df528e790d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3c9a6e41-f23e-8011-acfe-e1f321dc9ae6"
+      },
+      "created_time": "2026-08-27T17:19:00.000Z",
+      "last_edited_time": "2026-08-27T17:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "hate big meetings. meetings are most productive as 2-3 ppl",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "hate big meetings. meetings are most productive as 2-3 ppl",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3c9a6e41-f23e-80d2-91f8-ee440a319a05",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3c9a6e41-f23e-8011-acfe-e1f321dc9ae6"
+      },
+      "created_time": "2026-08-27T17:19:00.000Z",
+      "last_edited_time": "2026-08-27T17:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I'll probably push for big meetings to be written on Notion primarily",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I'll probably push for big meetings to be written on Notion primarily",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3c9a6e41-f23e-80d8-8797-c31b55e106ef",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3c9a6e41-f23e-8011-acfe-e1f321dc9ae6"
+      },
+      "created_time": "2026-08-27T17:19:00.000Z",
+      "last_edited_time": "2026-08-27T17:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "chase me if you're blocked on sth",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "chase me if you're blocked on sth",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3c9a6e41-f23e-80fc-9a48-e5edfdc47cd9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3c9a6e41-f23e-8011-acfe-e1f321dc9ae6"
+      },
+      "created_time": "2026-08-27T17:19:00.000Z",
+      "last_edited_time": "2026-08-27T17:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3c9a6e41-f23e-80a5-ba72-f93e9a8cb123",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3c9a6e41-f23e-8011-acfe-e1f321dc9ae6"
+      },
+      "created_time": "2026-08-27T17:19:00.000Z",
+      "last_edited_time": "2026-09-02T21:26:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I’m probably too nice by default, so ask explicitly for critical feedback if you want it",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I’m probably too nice by default, so ask explicitly for critical feedback if you want it",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3c9a6e41-f23e-80fb-96ef-f4a4ab2e0a52",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3c9a6e41-f23e-8011-acfe-e1f321dc9ae6"
+      },
+      "created_time": "2026-08-27T17:19:00.000Z",
+      "last_edited_time": "2026-09-02T21:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I also don't get enough feedback by default (it's a bit cursed, as a manager), so please offer to give feedback! especially in our 1:1s, but anytime is fine",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I also don't get enough feedback by default (it's a bit cursed, as a manager), so please offer to give feedback! especially in our 1:1s, but anytime is fine",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3c9a6e41-f23e-8049-99bb-e1a7960e2105",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3c9a6e41-f23e-8011-acfe-e1f321dc9ae6"
+      },
+      "created_time": "2026-08-27T17:20:00.000Z",
+      "last_edited_time": "2026-08-27T17:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3c9a6e41-f23e-80a2-871c-d446b3723845",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3c9a6e41-f23e-8011-acfe-e1f321dc9ae6"
+      },
+      "created_time": "2026-08-27T17:19:00.000Z",
+      "last_edited_time": "2026-08-27T17:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "pretty guess culture-y, don't like asking people for things (kind of unfortunate as a manager). So will appreciate if you proactively offer to take things off my plate",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "pretty guess culture-y, don't like asking people for things (kind of unfortunate as a manager). So will appreciate if you proactively offer to take things off my plate",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3c9a6e41-f23e-803c-9b79-deafc1c39e55",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3c9a6e41-f23e-8011-acfe-e1f321dc9ae6"
+      },
+      "created_time": "2026-08-27T17:19:00.000Z",
+      "last_edited_time": "2026-08-27T17:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "best communication is no communication (aka guess culture setup of modeling people; \"shoulder angels\")",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "best communication is no communication (aka guess culture setup of modeling people; \"shoulder angels\")",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3c9a6e41-f23e-809b-a2a6-f1cc353ee0c1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3c9a6e41-f23e-8011-acfe-e1f321dc9ae6"
+      },
+      "created_time": "2026-08-27T17:19:00.000Z",
+      "last_edited_time": "2026-08-27T17:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "favorite way to manage is to find really great people and give them a wide swath of responsibility and have them figure it out. i don't want to be checking up on you, or giving you micro guidance",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "favorite way to manage is to find really great people and give them a wide swath of responsibility and have them figure it out. i don't want to be checking up on you, or giving you micro guidance",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3c9a6e41-f23e-80fd-bd80-c6451b98b9dc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3c9a6e41-f23e-8011-acfe-e1f321dc9ae6"
+      },
+      "created_time": "2026-08-27T17:19:00.000Z",
+      "last_edited_time": "2026-08-27T17:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "\"easier to ask forgiveness than permission\"",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\"easier to ask forgiveness than permission\"",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3cfa6e41-f23e-8059-bda4-d59b12c316cf",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3c9a6e41-f23e-8011-acfe-e1f321dc9ae6"
+      },
+      "created_time": "2026-09-02T21:04:00.000Z",
+      "last_edited_time": "2026-09-02T21:04:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3c9a6e41-f23e-8048-83e6-e03bda5ef203",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3c9a6e41-f23e-8011-acfe-e1f321dc9ae6"
+      },
+      "created_time": "2026-08-27T17:19:00.000Z",
+      "last_edited_time": "2026-08-27T17:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "currently try to heads down in mornings and meet in afternoons. trying to keep Tues/Fri as heads down days",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "currently try to heads down in mornings and meet in afternoons. trying to keep Tues/Fri as heads down days",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3c9a6e41-f23e-808a-a192-e60b032e8bd1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3c9a6e41-f23e-8011-acfe-e1f321dc9ae6"
+      },
+      "created_time": "2026-08-27T17:20:00.000Z",
+      "last_edited_time": "2026-08-27T17:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3c9a6e41-f23e-807d-bb84-ee590c3b600a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3c9a6e41-f23e-8011-acfe-e1f321dc9ae6"
+      },
+      "created_time": "2026-08-27T17:19:00.000Z",
+      "last_edited_time": "2026-08-27T17:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "very \"build in public\", want to be able to say anything, want anyone to be able to know anything (incl usually private things like salaries and meeting notes)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "very \"build in public\", want to be able to say anything, want anyone to be able to know anything (incl usually private things like salaries and meeting notes)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3c9a6e41-f23e-80d0-9bb7-c1c114611369",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3c9a6e41-f23e-8011-acfe-e1f321dc9ae6"
+      },
+      "created_time": "2026-08-27T17:19:00.000Z",
+      "last_edited_time": "2026-08-27T17:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "hate having to deal with private info",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "hate having to deal with private info",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3c9a6e41-f23e-80b0-b8a7-dc48fa03c783",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3c9a6e41-f23e-8011-acfe-e1f321dc9ae6"
+      },
+      "created_time": "2026-08-27T17:20:00.000Z",
+      "last_edited_time": "2026-08-27T17:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3c9a6e41-f23e-80d5-8a1f-e03d86029ae0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3c9a6e41-f23e-8011-acfe-e1f321dc9ae6"
+      },
+      "created_time": "2026-08-27T17:19:00.000Z",
+      "last_edited_time": "2026-08-27T17:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "very software/automation pilled, from vibe coding platforms to picking great tools like Airtable/Notion/Discord",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "very software/automation pilled, from vibe coding platforms to picking great tools like Airtable/Notion/Discord",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "3c9a6e41-f23e-801c-ab37-da9821b76d10",
+          "parent": {
+            "type": "block_id",
+            "block_id": "3c9a6e41-f23e-80d5-8a1f-e03d86029ae0"
+          },
+          "created_time": "2026-08-27T17:22:00.000Z",
+          "last_edited_time": "2026-08-27T17:22:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "but also, “do things that don’t scale”, so, idk.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "but also, “do things that don’t scale”, so, idk.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "3c9a6e41-f23e-800a-b52d-e17f8c128855",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3c9a6e41-f23e-8011-acfe-e1f321dc9ae6"
+      },
+      "created_time": "2026-08-27T17:20:00.000Z",
+      "last_edited_time": "2026-08-27T17:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3c9a6e41-f23e-8009-a659-dce17beaa529",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3c9a6e41-f23e-8011-acfe-e1f321dc9ae6"
+      },
+      "created_time": "2026-08-27T17:19:00.000Z",
+      "last_edited_time": "2026-08-27T17:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "pretty flexible generalist, from coding to product to management to marketing to design to sales to writing to events.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "pretty flexible generalist, from coding to product to management to marketing to design to sales to writing to events.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3c9a6e41-f23e-80a7-b399-cc75d99bc69f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3c9a6e41-f23e-8011-acfe-e1f321dc9ae6"
+      },
+      "created_time": "2026-08-27T17:20:00.000Z",
+      "last_edited_time": "2026-08-27T17:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3c9a6e41-f23e-8047-88a5-ffd11609bbf9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3c9a6e41-f23e-8011-acfe-e1f321dc9ae6"
+      },
+      "created_time": "2026-08-27T17:19:00.000Z",
+      "last_edited_time": "2026-08-27T17:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "care a lot about mutual upside, positive sum - whether with my own colleagues/employees or our users or partners",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "care a lot about mutual upside, positive sum - whether with my own colleagues/employees or our users or partners",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3cfa6e41-f23e-8024-b5e5-e187c35a8bbe",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3c9a6e41-f23e-8011-acfe-e1f321dc9ae6"
+      },
+      "created_time": "2026-09-02T21:04:00.000Z",
+      "last_edited_time": "2026-09-02T21:04:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    }
+  ]
+}

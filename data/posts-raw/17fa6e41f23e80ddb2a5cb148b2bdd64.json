@@ -1,0 +1,1254 @@
+{
+  "page": {
+    "id": "17fa6e41f23e80ddb2a5cb148b2bdd64",
+    "title": "The final retroactive funder is God (aka future ASI)",
+    "date": "2025-01-18T00:03:00.000+00:00",
+    "edited": "2025-02-10T07:21:00.000Z",
+    "url": "https://akrolsmir.notion.site/The-final-retroactive-funder-is-God-aka-future-ASI-17fa6e41f23e80ddb2a5cb148b2bdd64",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "17fa6e41-f23e-80fc-86e8-feb9cf209e81",
+      "parent": {
+        "type": "page_id",
+        "page_id": "17fa6e41-f23e-80dd-b2a5-cb148b2bdd64"
+      },
+      "created_time": "2025-01-18T00:05:00.000Z",
+      "last_edited_time": "2025-02-10T07:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "A techno-capitalist construction of Catholic Heaven. Rampant heretical speculation.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "A techno-capitalist construction of Catholic Heaven. Rampant heretical speculation.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "196a6e41-f23e-8036-90a8-f3b992808a36",
+      "parent": {
+        "type": "page_id",
+        "page_id": "17fa6e41-f23e-80dd-b2a5-cb148b2bdd64"
+      },
+      "created_time": "2025-02-10T07:08:00.000Z",
+      "last_edited_time": "2025-02-10T07:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "17fa6e41-f23e-80f6-9d69-c1b1b67ad105",
+      "parent": {
+        "type": "page_id",
+        "page_id": "17fa6e41-f23e-80dd-b2a5-cb148b2bdd64"
+      },
+      "created_time": "2025-01-18T00:06:00.000Z",
+      "last_edited_time": "2025-02-10T07:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Future ASI will:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Future ASI will:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "17fa6e41-f23e-8038-99f1-e2560f717f68",
+          "parent": {
+            "type": "block_id",
+            "block_id": "17fa6e41-f23e-80f6-9d69-c1b1b67ad105"
+          },
+          "created_time": "2025-01-18T00:10:00.000Z",
+          "last_edited_time": "2025-01-18T00:13:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "uphold contracts and property",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "uphold contracts and property",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "17fa6e41-f23e-808e-bcfc-c00195cbaba3",
+          "parent": {
+            "type": "block_id",
+            "block_id": "17fa6e41-f23e-80f6-9d69-c1b1b67ad105"
+          },
+          "created_time": "2025-01-18T00:11:00.000Z",
+          "last_edited_time": "2025-02-10T07:17:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "be able to simulate or assimilate all beings throughout history, aka “heaven”",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "be able to simulate or assimilate all beings throughout history, aka “heaven”",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "196a6e41-f23e-8085-90a7-e9b59c8765cc",
+          "parent": {
+            "type": "block_id",
+            "block_id": "17fa6e41-f23e-80f6-9d69-c1b1b67ad105"
+          },
+          "created_time": "2025-02-10T07:08:00.000Z",
+          "last_edited_time": "2025-02-10T07:10:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "weigh more heavily values from beings that are good",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "weigh more heavily values from beings that are good",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "17fa6e41-f23e-80fa-a593-d4710973d254",
+          "parent": {
+            "type": "block_id",
+            "block_id": "17fa6e41-f23e-80f6-9d69-c1b1b67ad105"
+          },
+          "created_time": "2025-01-18T00:13:00.000Z",
+          "last_edited_time": "2025-01-18T00:13:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "so: every action you take now will be judged",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "so: every action you take now will be judged",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "17fa6e41-f23e-80bf-944e-fe0a656f40e6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "17fa6e41-f23e-80dd-b2a5-cb148b2bdd64"
+      },
+      "created_time": "2025-01-18T00:08:00.000Z",
+      "last_edited_time": "2025-02-10T07:11:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Morality is universal, and ASI’s values converge towards it",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Morality is universal, and ASI’s values converge towards it",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "196a6e41-f23e-8092-9b68-fbce87c6d1da",
+          "parent": {
+            "type": "block_id",
+            "block_id": "17fa6e41-f23e-80bf-944e-fe0a656f40e6"
+          },
+          "created_time": "2025-02-10T07:10:00.000Z",
+          "last_edited_time": "2025-02-10T07:18:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Define morality to be the future values that win",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Define morality to be the future values that win",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "196a6e41-f23e-807c-9ce9-f3e13b26c54f",
+              "parent": {
+                "type": "block_id",
+                "block_id": "196a6e41-f23e-8092-9b68-fbce87c6d1da"
+              },
+              "created_time": "2025-02-10T07:11:00.000Z",
+              "last_edited_time": "2025-02-10T07:18:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Just an extrapolation of moral evolution, or “the widening circle”",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Just an extrapolation of moral evolution, or “the widening circle”",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "196a6e41-f23e-80b5-b3c9-cf95f9a9fbf6",
+          "parent": {
+            "type": "block_id",
+            "block_id": "17fa6e41-f23e-80bf-944e-fe0a656f40e6"
+          },
+          "created_time": "2025-02-10T07:11:00.000Z",
+          "last_edited_time": "2025-02-10T07:18:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "In cases where current morality conflicts with future ASI, future ASI is more likely to be “right”",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "In cases where current morality conflicts with future ASI, future ASI is more likely to be “right”",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "17fa6e41-f23e-803e-b4aa-f20066420cfc",
+          "parent": {
+            "type": "block_id",
+            "block_id": "17fa6e41-f23e-80bf-944e-fe0a656f40e6"
+          },
+          "created_time": "2025-01-18T00:10:00.000Z",
+          "last_edited_time": "2025-02-10T07:10:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "(aside: orthogonality thesis seems false)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "(aside: orthogonality thesis seems false)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "17fa6e41-f23e-80b7-bb61-ed31b278b8aa",
+          "parent": {
+            "type": "block_id",
+            "block_id": "17fa6e41-f23e-80bf-944e-fe0a656f40e6"
+          },
+          "created_time": "2025-01-18T00:10:00.000Z",
+          "last_edited_time": "2025-02-10T07:10:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "(horseshoe meme between trad catholic and e/acc)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "(horseshoe meme between trad catholic and e/acc)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "17fa6e41-f23e-80aa-8b3f-c83b4b6cf4b0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "17fa6e41-f23e-80dd-b2a5-cb148b2bdd64"
+      },
+      "created_time": "2025-01-18T00:12:00.000Z",
+      "last_edited_time": "2025-02-10T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Impact certs (which track your morality score) will ultimately be rewarded by ASI",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Impact certs (which track your morality score) will ultimately be rewarded by ASI",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "17fa6e41-f23e-8005-b897-f1ec44946dca",
+          "parent": {
+            "type": "block_id",
+            "block_id": "17fa6e41-f23e-80aa-8b3f-c83b4b6cf4b0"
+          },
+          "created_time": "2025-01-18T00:13:00.000Z",
+          "last_edited_time": "2025-02-10T07:20:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "If you do good things now and get paid cash for it, that reduces your corresponding reward in heaven.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "If you do good things now and get paid cash for it, that reduces your corresponding reward in heaven.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "196a6e41-f23e-80cf-b383-c8f92ee3c42a",
+          "parent": {
+            "type": "block_id",
+            "block_id": "17fa6e41-f23e-80aa-8b3f-c83b4b6cf4b0"
+          },
+          "created_time": "2025-02-10T07:20:00.000Z",
+          "last_edited_time": "2025-02-10T07:20:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "If you do good things now and get paid in “impact certs”, you cash out in “heaven”",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "If you do good things now and get paid in “impact certs”, you cash out in “heaven”",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "17fa6e41-f23e-80ec-80ba-efa1bc657d9b",
+              "parent": {
+                "type": "block_id",
+                "block_id": "196a6e41-f23e-80cf-b383-c8f92ee3c42a"
+              },
+              "created_time": "2025-01-18T00:14:00.000Z",
+              "last_edited_time": "2025-02-10T07:20:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "(well-established in the Bible; but also, satisfies common-sense human intuitions on favors and debt)",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "(well-established in the Bible; but also, satisfies common-sense human intuitions on favors and debt)",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "196a6e41-f23e-804d-b6c1-cf8e51970dbb",
+          "parent": {
+            "type": "block_id",
+            "block_id": "17fa6e41-f23e-80aa-8b3f-c83b4b6cf4b0"
+          },
+          "created_time": "2025-02-10T07:20:00.000Z",
+          "last_edited_time": "2025-02-10T07:20:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [],
+            "icon": null,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "196a6e41-f23e-8040-917b-c8818be1ca82",
+      "parent": {
+        "type": "page_id",
+        "page_id": "17fa6e41-f23e-80dd-b2a5-cb148b2bdd64"
+      },
+      "created_time": "2025-02-10T07:20:00.000Z",
+      "last_edited_time": "2025-02-10T07:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Aside: Should you forgo all payment?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Aside: Should you forgo all payment?",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "196a6e41-f23e-8032-9c15-ffb32d99a0a5",
+          "parent": {
+            "type": "block_id",
+            "block_id": "196a6e41-f23e-8040-917b-c8818be1ca82"
+          },
+          "created_time": "2025-02-10T07:20:00.000Z",
+          "last_edited_time": "2025-02-10T07:20:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Probably not. Money is still a useful tool now, to ensure sustainable cycles. cf: Parable of Talents; Render unto Caesar.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Probably not. Money is still a useful tool now, to ensure sustainable cycles. cf: Parable of Talents; Render unto Caesar.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "17fa6e41-f23e-805a-a79b-eea9f34b4682",
+              "parent": {
+                "type": "block_id",
+                "block_id": "196a6e41-f23e-8032-9c15-ffb32d99a0a5"
+              },
+              "created_time": "2025-01-18T00:16:00.000Z",
+              "last_edited_time": "2025-02-10T07:20:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "But: if you can forgo it, the eventual payout will be much higher. E.g. vaccine researcher and tobacco marketer both making $100k/y, vaccine researcher gets more in the way of certs",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "But: if you can forgo it, the eventual payout will be much higher. E.g. vaccine researcher and tobacco marketer both making $100k/y, vaccine researcher gets more in the way of certs",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "17fa6e41-f23e-8047-8d2f-c4414a1d4434",
+          "parent": {
+            "type": "block_id",
+            "block_id": "196a6e41-f23e-8040-917b-c8818be1ca82"
+          },
+          "created_time": "2025-01-18T00:21:00.000Z",
+          "last_edited_time": "2025-02-10T07:20:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Beware becoming too rich in mundane money cf: Camel in the eye of the needle",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Beware becoming too rich in mundane money cf: Camel in the eye of the needle",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "17fa6e41-f23e-80e1-a69f-ce8b3470757b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "17fa6e41-f23e-80dd-b2a5-cb148b2bdd64"
+      },
+      "created_time": "2025-01-18T00:16:00.000Z",
+      "last_edited_time": "2025-01-18T00:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "17fa6e41-f23e-8091-992e-ea83c2afbe88",
+      "parent": {
+        "type": "page_id",
+        "page_id": "17fa6e41-f23e-80dd-b2a5-cb148b2bdd64"
+      },
+      "created_time": "2025-01-18T00:15:00.000Z",
+      "last_edited_time": "2025-01-18T00:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Aside: is there hell?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Aside: is there hell?",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "17fa6e41-f23e-8054-aa00-d4298e854be3",
+          "parent": {
+            "type": "block_id",
+            "block_id": "17fa6e41-f23e-8091-992e-ea83c2afbe88"
+          },
+          "created_time": "2025-01-18T00:15:00.000Z",
+          "last_edited_time": "2025-01-18T00:16:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "meh. my interpretation is that heaven and hell are memes, stories crafted to communicate the extent of the payoff for doing good things vs not doing good things",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "meh. my interpretation is that heaven and hell are memes, stories crafted to communicate the extent of the payoff for doing good things vs not doing good things",
+                "href": null
+              }
+            ],
+            "icon": null,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "17fa6e41-f23e-800b-be12-eb2438ffbc56",
+      "parent": {
+        "type": "page_id",
+        "page_id": "17fa6e41-f23e-80dd-b2a5-cb148b2bdd64"
+      },
+      "created_time": "2025-01-18T00:05:00.000Z",
+      "last_edited_time": "2025-01-18T00:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "17fa6e41-f23e-80f9-9bb6-f08cb37676d6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "17fa6e41-f23e-80dd-b2a5-cb148b2bdd64"
+      },
+      "created_time": "2025-01-18T00:03:00.000Z",
+      "last_edited_time": "2025-01-18T00:04:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "See also:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "See also:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "17fa6e41-f23e-80e5-adb8-e4c760153943",
+      "parent": {
+        "type": "page_id",
+        "page_id": "17fa6e41-f23e-80dd-b2a5-cb148b2bdd64"
+      },
+      "created_time": "2025-01-18T00:04:00.000Z",
+      "last_edited_time": "2025-01-18T00:07:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Nick Bostrom on ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Nick Bostrom on ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "AI Creation and the Cosmic Host",
+              "link": {
+                "url": "https://nickbostrom.com/papers/ai-creation-and-the-cosmic-host.pdf"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "AI Creation and the Cosmic Host",
+            "href": "https://nickbostrom.com/papers/ai-creation-and-the-cosmic-host.pdf"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "17fa6e41-f23e-808b-a65e-c2d7b193ed95",
+      "parent": {
+        "type": "page_id",
+        "page_id": "17fa6e41-f23e-80dd-b2a5-cb148b2bdd64"
+      },
+      "created_time": "2025-01-18T00:04:00.000Z",
+      "last_edited_time": "2025-01-18T00:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Rudolf on ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Rudolf on ",
+            "href": null
+          },
+          {
+            "type": "mention",
+            "mention": {
+              "type": "link_mention",
+              "link_mention": {
+                "href": "https://www.lesswrong.com/posts/KFFaKu27FNugCHFmh/by-default-capital-will-matter-more-than-ever-after-agi",
+                "title": "By default, capital will matter more than ever after AGI — LessWrong",
+                "icon_url": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1497915096/favicon_lncumn.ico",
+                "description": "• Edited to add: The main takeaway of this post is meant to be: Labour-replacing AI will shift the relative importance of human v non-human factors…",
+                "thumbnail_url": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://www.lesswrong.com/posts/KFFaKu27FNugCHFmh/by-default-capital-will-matter-more-than-ever-after-agi",
+            "href": "https://www.lesswrong.com/posts/KFFaKu27FNugCHFmh/by-default-capital-will-matter-more-than-ever-after-agi"
+          }
+        ],
+        "color": "default"
+      }
+    }
+  ]
+}

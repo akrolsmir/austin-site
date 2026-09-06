@@ -1,0 +1,924 @@
+{
+  "page": {
+    "id": "746c1a79d78343b0ae080e5ba38348b5",
+    "title": "Web is Fun",
+    "date": "2021-12-28",
+    "edited": "2022-07-07T03:39:00.000Z",
+    "url": "https://akrolsmir.notion.site/Web-is-Fun-746c1a79d78343b0ae080e5ba38348b5",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "28142fd2-28b2-4b2f-8243-9b3cd35cf321",
+      "parent": {
+        "type": "page_id",
+        "page_id": "746c1a79-d783-43b0-ae08-0e5ba38348b5"
+      },
+      "created_time": "2021-12-28T22:03:00.000Z",
+      "last_edited_time": "2021-12-28T22:04:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Jamstack is fun!",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Jamstack is fun!",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "ef33192f-440d-442b-b397-7f589fcc59b7",
+          "parent": {
+            "type": "block_id",
+            "block_id": "28142fd2-28b2-4b2f-8243-9b3cd35cf321"
+          },
+          "created_time": "2021-12-28T22:04:00.000Z",
+          "last_edited_time": "2021-12-28T22:04:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "No servers = stuff happens instantly",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "No servers = stuff happens instantly",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "9f783b79-b8df-4e2f-afd1-f587109d042e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "746c1a79-d783-43b0-ae08-0e5ba38348b5"
+      },
+      "created_time": "2021-12-28T22:02:00.000Z",
+      "last_edited_time": "2021-12-28T22:04:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Killer-fast iteration loops",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Killer-fast iteration loops",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "b297a6e9-979b-42d6-9f9a-165f6332b1c6",
+          "parent": {
+            "type": "block_id",
+            "block_id": "9f783b79-b8df-4e2f-afd1-f587109d042e"
+          },
+          "created_time": "2021-12-28T22:03:00.000Z",
+          "last_edited_time": "2021-12-28T22:04:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Set up your code and your output side-by-side",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Set up your code and your output side-by-side",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "e19baf3c-0416-4e53-8df0-3a186768e81a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "746c1a79-d783-43b0-ae08-0e5ba38348b5"
+      },
+      "created_time": "2021-12-28T22:03:00.000Z",
+      "last_edited_time": "2021-12-28T22:36:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Can send what you build to anyone in the world",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Can send what you build to anyone in the world",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "92208e40-8881-4b99-90a1-be3c639b7a4d",
+          "parent": {
+            "type": "block_id",
+            "block_id": "e19baf3c-0416-4e53-8df0-3a186768e81a"
+          },
+          "created_time": "2021-12-28T22:03:00.000Z",
+          "last_edited_time": "2021-12-28T22:03:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Everyone knows how to go to websites and use them",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Everyone knows how to go to websites and use them",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "9912a926-464e-42d3-bce3-2fd43ae1cdda",
+      "parent": {
+        "type": "page_id",
+        "page_id": "746c1a79-d783-43b0-ae08-0e5ba38348b5"
+      },
+      "created_time": "2021-12-28T22:36:00.000Z",
+      "last_edited_time": "2021-12-28T22:36:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "In order:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "In order:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "e74f97d1-d825-4f59-8d37-990a57f2e600",
+          "parent": {
+            "type": "block_id",
+            "block_id": "9912a926-464e-42d3-bce3-2fd43ae1cdda"
+          },
+          "created_time": "2021-12-28T22:35:00.000Z",
+          "last_edited_time": "2021-12-28T22:36:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Make it work (mvp stage)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Make it work (mvp stage)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "2ddfa693-4bf6-4529-80ef-a01e9b1d54a3",
+          "parent": {
+            "type": "block_id",
+            "block_id": "9912a926-464e-42d3-bce3-2fd43ae1cdda"
+          },
+          "created_time": "2021-12-28T22:35:00.000Z",
+          "last_edited_time": "2021-12-28T22:36:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Make it fun (share it out)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Make it fun (share it out)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "40dae460-cc50-40af-99c4-c399da281a0c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "9912a926-464e-42d3-bce3-2fd43ae1cdda"
+          },
+          "created_time": "2021-12-28T22:35:00.000Z",
+          "last_edited_time": "2021-12-28T22:36:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Make it scale",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Make it scale",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "4756131e-981f-4cfd-872b-b14c844c26a9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "746c1a79-d783-43b0-ae08-0e5ba38348b5"
+      },
+      "created_time": "2021-12-28T22:35:00.000Z",
+      "last_edited_time": "2021-12-28T22:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Sequence: “so you want to make a web app”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Sequence: “so you want to make a web app”",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "f43d7757-ef1f-474d-9cd7-e7b56543031d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "746c1a79-d783-43b0-ae08-0e5ba38348b5"
+      },
+      "created_time": "2021-12-28T22:36:00.000Z",
+      "last_edited_time": "2021-12-28T22:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "mention",
+            "mention": {
+              "type": "page",
+              "page": {
+                "id": "3f2c0fd9-afac-4bb8-8075-7cbf03c60b6d"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "How to Side Project (Sequence)",
+            "href": "https://app.notion.com/p/3f2c0fd9afac4bb880757cbf03c60b6d"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " is another attempt",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " is another attempt",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2d4b2ca0-4222-426f-beab-2908f99da729",
+      "parent": {
+        "type": "page_id",
+        "page_id": "746c1a79-d783-43b0-ae08-0e5ba38348b5"
+      },
+      "created_time": "2021-12-28T22:30:00.000Z",
+      "last_edited_time": "2021-12-28T22:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Target audience: programmers",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Target audience: programmers",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "c1048df6-d3a2-4312-b72c-4cdfd7cfe47f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "2d4b2ca0-4222-426f-beab-2908f99da729"
+          },
+          "created_time": "2021-12-28T22:31:00.000Z",
+          "last_edited_time": "2021-12-28T22:31:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Specifically: employed FTE who have forgotten what it’s like to write something for themselves and ship it",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Specifically: employed FTE who have forgotten what it’s like to write something for themselves and ship it",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "c88814d1-2d4c-4342-a306-ea4985eaaee6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "746c1a79-d783-43b0-ae08-0e5ba38348b5"
+      },
+      "created_time": "2021-12-28T22:28:00.000Z",
+      "last_edited_time": "2021-12-28T22:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Intro: Web is fun",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Intro: Web is fun",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "05106407-3eff-49e3-ae33-dc1b4c9f5537",
+      "parent": {
+        "type": "page_id",
+        "page_id": "746c1a79-d783-43b0-ae08-0e5ba38348b5"
+      },
+      "created_time": "2021-12-28T22:28:00.000Z",
+      "last_edited_time": "2021-12-28T22:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Then: Your first app (MVP)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Then: Your first app (MVP)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "789a2191-6f42-4b82-bade-62ebff65edf9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "746c1a79-d783-43b0-ae08-0e5ba38348b5"
+      },
+      "created_time": "2021-12-28T22:28:00.000Z",
+      "last_edited_time": "2021-12-28T22:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Then: Scaling it up ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Then: Scaling it up ",
+            "href": null
+          },
+          {
+            "type": "mention",
+            "mention": {
+              "type": "page",
+              "page": {
+                "id": "29acfb25-bfbd-4685-a565-11a47d6528ea"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Tech Stack Comparisons",
+            "href": "https://app.notion.com/p/29acfb25bfbd4685a56511a47d6528ea"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "7ee9a0bb-489b-436d-9bcd-161f2291cf37",
+      "parent": {
+        "type": "page_id",
+        "page_id": "746c1a79-d783-43b0-ae08-0e5ba38348b5"
+      },
+      "created_time": "2021-12-28T22:29:00.000Z",
+      "last_edited_time": "2021-12-28T22:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Con: Maybe this is something anyone who’s motivated can already figure out on their own?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Con: Maybe this is something anyone who’s motivated can already figure out on their own?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "6d70fc68-966d-444e-9617-cd075d94a45a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "746c1a79-d783-43b0-ae08-0e5ba38348b5"
+      },
+      "created_time": "2021-12-28T22:30:00.000Z",
+      "last_edited_time": "2021-12-28T22:30:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Inspiration: Buildspace tutorials",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Inspiration: Buildspace tutorials",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "f547c332-59e1-4883-95f7-81b6bc43cfb3",
+          "parent": {
+            "type": "block_id",
+            "block_id": "6d70fc68-966d-444e-9617-cd075d94a45a"
+          },
+          "created_time": "2021-12-28T22:30:00.000Z",
+          "last_edited_time": "2021-12-28T22:30:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [],
+            "icon": null,
+            "color": "default"
+          }
+        }
+      ]
+    }
+  ]
+}

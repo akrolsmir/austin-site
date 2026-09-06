@@ -1,0 +1,312 @@
+{
+  "page": {
+    "id": "3289c8de197640609fc027afe01ebf4a",
+    "title": "Response to Erik Hoel on LK-99",
+    "date": "2023-09-08",
+    "edited": "2023-09-08T13:49:00.000Z",
+    "url": "https://akrolsmir.notion.site/Response-to-Erik-Hoel-on-LK-99-3289c8de197640609fc027afe01ebf4a",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "055780bb-b412-4712-ae36-dfa4443042a0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3289c8de-1976-4060-9fc0-27afe01ebf4a"
+      },
+      "created_time": "2023-09-08T13:48:00.000Z",
+      "last_edited_time": "2023-09-08T13:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Posted as a comment on ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Posted as a comment on ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "this great article by Erik",
+              "link": {
+                "url": "https://www.theintrinsicperspective.com/p/lk-99-as-a-cautionary-tale-for-prediction"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "this great article by Erik",
+            "href": "https://www.theintrinsicperspective.com/p/lk-99-as-a-cautionary-tale-for-prediction"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ":",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ":",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "4f0bc9fc-a89c-421a-8e59-ccc760dbb857",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3289c8de-1976-4060-9fc0-27afe01ebf4a"
+      },
+      "created_time": "2023-09-08T13:48:00.000Z",
+      "last_edited_time": "2023-09-08T13:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Hi Erik, thanks for this thoughtful critique! I work on Manifold, but that just gives me a front seat to all the ways prediction markets can fall short.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Hi Erik, thanks for this thoughtful critique! I work on Manifold, but that just gives me a front seat to all the ways prediction markets can fall short.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "a42e954e-62b9-4c5c-8e90-52401e488674",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3289c8de-1976-4060-9fc0-27afe01ebf4a"
+      },
+      "created_time": "2023-09-08T13:48:00.000Z",
+      "last_edited_time": "2023-09-08T13:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I do agree that our headline LK99 market was consistently overoptimistic -- and I put my money where my mouth was, earning the largest overall profit (about ~$2k worth). And I agree this was mostly due to the influence of virality; loosely speaking, dumb money (new traffic flowing in from Twitter) outweighed smart money (experienced Manifold traders) for a week or so. This kind of dynamic isn't new to prediction markets; eg during the 2020 primaries, Andrew Yang markets soared on PredictIt because of his unusually online fanbase.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I do agree that our headline LK99 market was consistently overoptimistic -- and I put my money where my mouth was, earning the largest overall profit (about ~$2k worth). And I agree this was mostly due to the influence of virality; loosely speaking, dumb money (new traffic flowing in from Twitter) outweighed smart money (experienced Manifold traders) for a week or so. This kind of dynamic isn't new to prediction markets; eg during the 2020 primaries, Andrew Yang markets soared on PredictIt because of his unusually online fanbase.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "5cff2690-061c-4175-ae81-9888d060b8f5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3289c8de-1976-4060-9fc0-27afe01ebf4a"
+      },
+      "created_time": "2023-09-08T13:48:00.000Z",
+      "last_edited_time": "2023-09-08T13:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I think the comparisons to Gamestop and crypto do overstate the case somewhat, though. Gamestop was notable specifically because people do generally view stock market prices as an accurate indication of the value of a company, and the r/wsb trader influx led to an aberration; if LK99 is notable in the same way, that reflects well on prediction markets overall! And it's true that on crypto, there's a long tail of scams, just like on Manifold there's a long tail of markets with ~0 traders -- or for that matter Twitter with a long tail of low-quality posts. We set out to do prediction markets differently on Manifold, where anyone could create a market as easily as anyone could create a tweet on Twitter. The low barrier to entry means that we do have lots of low-quality markets, but also unexpected gems: QuantumObserver, the creator of the LK99 market, was previously unknown on our site, but turned out to be a thoughtful and informed moderator.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I think the comparisons to Gamestop and crypto do overstate the case somewhat, though. Gamestop was notable specifically because people do generally view stock market prices as an accurate indication of the value of a company, and the r/wsb trader influx led to an aberration; if LK99 is notable in the same way, that reflects well on prediction markets overall! And it's true that on crypto, there's a long tail of scams, just like on Manifold there's a long tail of markets with ~0 traders -- or for that matter Twitter with a long tail of low-quality posts. We set out to do prediction markets differently on Manifold, where anyone could create a market as easily as anyone could create a tweet on Twitter. The low barrier to entry means that we do have lots of low-quality markets, but also unexpected gems: QuantumObserver, the creator of the LK99 market, was previously unknown on our site, but turned out to be a thoughtful and informed moderator.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "f3ae53bd-c117-4081-abee-7e7aa7047fa3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3289c8de-1976-4060-9fc0-27afe01ebf4a"
+      },
+      "created_time": "2023-09-08T13:48:00.000Z",
+      "last_edited_time": "2023-09-08T13:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "So where does that leave us on the utility of prediction markets? For starters, I would be thrilled if more commentators like yourself got on board with prediction markets just as a useful index for tracking online opinion. Markets have the edge over polls in some contexts: eg they allow people to express the strength of their opinion in the form of the amount they choose to bet (there were 2x as many YES vs NO traders on LK99, but the price stayed well below 40%, indicating NO traders were investing ~3x as much on average). But they also have some weaknesses compared to polls; eg they're subject to groupthink because of the visibility of the market price.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "So where does that leave us on the utility of prediction markets? For starters, I would be thrilled if more commentators like yourself got on board with prediction markets just as a useful index for tracking online opinion. Markets have the edge over polls in some contexts: eg they allow people to express the strength of their opinion in the form of the amount they choose to bet (there were 2x as many YES vs NO traders on LK99, but the price stayed well below 40%, indicating NO traders were investing ~3x as much on average). But they also have some weaknesses compared to polls; eg they're subject to groupthink because of the visibility of the market price.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2a606b8a-5b2d-4bc8-827c-075ef17acbac",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3289c8de-1976-4060-9fc0-27afe01ebf4a"
+      },
+      "created_time": "2023-09-08T13:48:00.000Z",
+      "last_edited_time": "2023-09-08T13:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "There's one more benefit to moving more discourse onto prediction markets, though: because they ultimately resolve on a specific criteria, markets build up a quantifiable track record around commentator accuracy, helping us see whose opinions should be weighed more heavily, over time. Regarding stock markets, Warren Buffett famously stated: \"In the short-run, the market is a voting machine – reflecting a voter-registration test that requires only money, not intelligence or emotional stability – but in the long-run, the market is a weighing machine.\" For a couple weeks, the LK99 market reflected the beliefs of excited traders; now it serves to identify who was most able to update on information in a rapidly-shifting media environment. As someone whose beliefs were validated, I think that's really cool ;)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "There's one more benefit to moving more discourse onto prediction markets, though: because they ultimately resolve on a specific criteria, markets build up a quantifiable track record around commentator accuracy, helping us see whose opinions should be weighed more heavily, over time. Regarding stock markets, Warren Buffett famously stated: \"In the short-run, the market is a voting machine – reflecting a voter-registration test that requires only money, not intelligence or emotional stability – but in the long-run, the market is a weighing machine.\" For a couple weeks, the LK99 market reflected the beliefs of excited traders; now it serves to identify who was most able to update on information in a rapidly-shifting media environment. As someone whose beliefs were validated, I think that's really cool ;)",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    }
+  ]
+}

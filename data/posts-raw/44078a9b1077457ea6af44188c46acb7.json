@@ -1,0 +1,3910 @@
+{
+  "page": {
+    "id": "44078a9b1077457ea6af44188c46acb7",
+    "title": "Thoughts on blogging",
+    "date": "2021-12-28",
+    "edited": "2021-12-28T22:25:00.000Z",
+    "url": "https://akrolsmir.notion.site/Thoughts-on-blogging-44078a9b1077457ea6af44188c46acb7",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "17692085-7f14-487a-8388-171eb294e562",
+      "parent": {
+        "type": "page_id",
+        "page_id": "44078a9b-1077-457e-a6af-44188c46acb7"
+      },
+      "created_time": "2021-12-28T21:31:00.000Z",
+      "last_edited_time": "2021-12-28T21:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Fundamentally: is a blog about “brain extension” or “communicating to the audience”? Some tradeoffs:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Fundamentally: is a blog about “brain extension” or “communicating to the audience”? Some tradeoffs:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "6bb18f60-8090-438a-b533-0f75c50a9a06",
+          "parent": {
+            "type": "block_id",
+            "block_id": "17692085-7f14-487a-8388-171eb294e562"
+          },
+          "created_time": "2021-12-28T21:17:00.000Z",
+          "last_edited_time": "2021-12-28T21:36:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Tradeoff: editability vs permanent",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Tradeoff: editability vs permanent",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "a42886d4-febf-40e9-86eb-5ca93c2e9b35",
+              "parent": {
+                "type": "block_id",
+                "block_id": "6bb18f60-8090-438a-b533-0f75c50a9a06"
+              },
+              "created_time": "2021-12-28T21:16:00.000Z",
+              "last_edited_time": "2021-12-28T21:31:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Longevity? Permalinks? Editable?",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Longevity? Permalinks? Editable?",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "656c567a-e6f0-4c1b-996e-1eeb4cec036c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "17692085-7f14-487a-8388-171eb294e562"
+          },
+          "created_time": "2021-12-28T21:36:00.000Z",
+          "last_edited_time": "2021-12-28T21:36:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Tradeoff: Tree-like vs list-like",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Tradeoff: Tree-like vs list-like",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "4225f82d-1c76-4332-bb9f-a18a88dcc64a",
+              "parent": {
+                "type": "block_id",
+                "block_id": "656c567a-e6f0-4c1b-996e-1eeb4cec036c"
+              },
+              "created_time": "2021-12-28T21:36:00.000Z",
+              "last_edited_time": "2021-12-28T21:36:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Conversations are tree-like; time is linear",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Conversations are tree-like; time is linear",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "23802413-1106-4ab9-9fd7-77e14cd60996",
+          "parent": {
+            "type": "block_id",
+            "block_id": "17692085-7f14-487a-8388-171eb294e562"
+          },
+          "created_time": "2021-12-28T21:17:00.000Z",
+          "last_edited_time": "2021-12-28T21:48:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Tradeoff: short bullet notes brain-dump vs curated readable experience",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Tradeoff: short bullet notes brain-dump vs curated readable experience",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "99c5d372-6cc8-4ccf-b551-c4a5e8f61a82",
+              "parent": {
+                "type": "block_id",
+                "block_id": "23802413-1106-4ab9-9fd7-77e14cd60996"
+              },
+              "created_time": "2021-12-28T21:18:00.000Z",
+              "last_edited_time": "2021-12-28T21:18:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Writing short notes is faster, and captures more of my own thoughts",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Writing short notes is faster, and captures more of my own thoughts",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "2c3cb775-1727-4ca7-9dd7-f6d5c119f1db",
+              "parent": {
+                "type": "block_id",
+                "block_id": "23802413-1106-4ab9-9fd7-77e14cd60996"
+              },
+              "created_time": "2021-12-28T21:18:00.000Z",
+              "last_edited_time": "2021-12-28T21:30:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": true,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "It’s more similar how I take notes during a meeting, or brainstorm on Notion",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "It’s more similar how I take notes during a meeting, or brainstorm on Notion",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "children": [
+                {
+                  "object": "block",
+                  "id": "ea530c52-4696-40f6-a5ad-06c9205cfef5",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "2c3cb775-1727-4ca7-9dd7-f6d5c119f1db"
+                  },
+                  "created_time": "2021-12-28T21:28:00.000Z",
+                  "last_edited_time": "2021-12-28T21:30:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Maybe more similar to how conversations work? Tree-like, occasionally jumping back and forth between stacks",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Maybe more similar to how conversations work? Tree-like, occasionally jumping back and forth between stacks",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                },
+                {
+                  "object": "block",
+                  "id": "e96d2e42-cdfb-49a9-a422-553feeb7a93e",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "2c3cb775-1727-4ca7-9dd7-f6d5c119f1db"
+                  },
+                  "created_time": "2021-12-28T21:28:00.000Z",
+                  "last_edited_time": "2021-12-28T21:30:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Also: Ideas on notion are already nested in this tree-like way already?",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Also: Ideas on notion are already nested in this tree-like way already?",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                },
+                {
+                  "object": "block",
+                  "id": "e63c3a2f-f347-40cb-b4c2-18257d6627c8",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "2c3cb775-1727-4ca7-9dd7-f6d5c119f1db"
+                  },
+                  "created_time": "2021-12-28T21:29:00.000Z",
+                  "last_edited_time": "2021-12-28T21:30:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Hackathon idea: link to individual paragraphs in Notion? All content resides on one giant master tree.",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Hackathon idea: link to individual paragraphs in Notion? All content resides on one giant master tree.",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                }
+              ]
+            },
+            {
+              "object": "block",
+              "id": "3cf19a79-8847-4e98-b2e9-e04f27826f53",
+              "parent": {
+                "type": "block_id",
+                "block_id": "23802413-1106-4ab9-9fd7-77e14cd60996"
+              },
+              "created_time": "2021-12-28T21:30:00.000Z",
+              "last_edited_time": "2021-12-28T21:30:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Bullets (in Notion esp) allow really easily reordering",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Bullets (in Notion esp) allow really easily reordering",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "74e91f3a-f6c2-4241-9aa3-0bc082696f19",
+              "parent": {
+                "type": "block_id",
+                "block_id": "23802413-1106-4ab9-9fd7-77e14cd60996"
+              },
+              "created_time": "2021-12-28T21:18:00.000Z",
+              "last_edited_time": "2021-12-28T21:48:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": true,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "But: Will it be readable in the future?",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "But: Will it be readable in the future?",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "children": [
+                {
+                  "object": "block",
+                  "id": "ebac0122-d12d-4baf-a899-14e9420c6a90",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "74e91f3a-f6c2-4241-9aa3-0bc082696f19"
+                  },
+                  "created_time": "2021-12-28T21:19:00.000Z",
+                  "last_edited_time": "2021-12-28T21:31:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Parallel to code readability: Writing happens once, reading happens a bunch of times",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Parallel to code readability: Writing happens once, reading happens a bunch of times",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                },
+                {
+                  "object": "block",
+                  "id": "4af4d49b-abde-453b-81da-ef7b6b99c135",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "74e91f3a-f6c2-4241-9aa3-0bc082696f19"
+                  },
+                  "created_time": "2021-12-28T21:19:00.000Z",
+                  "last_edited_time": "2021-12-28T21:48:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": true,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Almost all the blogs I read are structured in readable writing mode",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Almost all the blogs I read are structured in readable writing mode",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  },
+                  "children": [
+                    {
+                      "object": "block",
+                      "id": "4c960d9e-ef7a-430a-86c2-978731da6dbb",
+                      "parent": {
+                        "type": "block_id",
+                        "block_id": "4af4d49b-abde-453b-81da-ef7b6b99c135"
+                      },
+                      "created_time": "2021-12-28T21:20:00.000Z",
+                      "last_edited_time": "2021-12-28T21:48:00.000Z",
+                      "created_by": {
+                        "object": "user",
+                        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                      },
+                      "last_edited_by": {
+                        "object": "user",
+                        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                      },
+                      "has_children": false,
+                      "in_trash": false,
+                      "type": "bulleted_list_item",
+                      "bulleted_list_item": {
+                        "rich_text": [
+                          {
+                            "type": "text",
+                            "text": {
+                              "content": "Which points to “readabililty” being an important factor in share-ability. Readable blogs are the ones that win",
+                              "link": null
+                            },
+                            "annotations": {
+                              "bold": false,
+                              "italic": false,
+                              "strikethrough": false,
+                              "underline": false,
+                              "code": false,
+                              "color": "default"
+                            },
+                            "plain_text": "Which points to “readabililty” being an important factor in share-ability. Readable blogs are the ones that win",
+                            "href": null
+                          }
+                        ],
+                        "color": "default"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "a39fe6e8-94b6-4cc2-b836-860e7708e97a",
+          "parent": {
+            "type": "block_id",
+            "block_id": "17692085-7f14-487a-8388-171eb294e562"
+          },
+          "created_time": "2021-12-28T21:48:00.000Z",
+          "last_edited_time": "2021-12-28T21:55:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Tradeoff: authoring new content vs curating existing content",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Tradeoff: authoring new content vs curating existing content",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "10f77f37-aecc-456a-aaf5-8d21370ba252",
+              "parent": {
+                "type": "block_id",
+                "block_id": "a39fe6e8-94b6-4cc2-b836-860e7708e97a"
+              },
+              "created_time": "2021-12-28T21:48:00.000Z",
+              "last_edited_time": "2021-12-28T21:49:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": true,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Sometimes, I’ll hit a stride and be interested in dumping a lot of info down into Notion",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Sometimes, I’ll hit a stride and be interested in dumping a lot of info down into Notion",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "children": [
+                {
+                  "object": "block",
+                  "id": "89256444-514b-486b-b48b-481febe1e06f",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "10f77f37-aecc-456a-aaf5-8d21370ba252"
+                  },
+                  "created_time": "2021-12-28T21:49:00.000Z",
+                  "last_edited_time": "2021-12-28T21:49:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Correlated with being on drugs (Modafinil, acid)",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Correlated with being on drugs (Modafinil, acid)",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                },
+                {
+                  "object": "block",
+                  "id": "7f3203d3-4a7b-4a4a-9890-444f71b02e19",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "10f77f37-aecc-456a-aaf5-8d21370ba252"
+                  },
+                  "created_time": "2021-12-28T21:49:00.000Z",
+                  "last_edited_time": "2021-12-28T21:49:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Should lean into this more?",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Should lean into this more?",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                }
+              ]
+            },
+            {
+              "object": "block",
+              "id": "18432d38-0158-429a-952d-ce15b53b57e5",
+              "parent": {
+                "type": "block_id",
+                "block_id": "a39fe6e8-94b6-4cc2-b836-860e7708e97a"
+              },
+              "created_time": "2021-12-28T21:49:00.000Z",
+              "last_edited_time": "2021-12-28T21:50:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": true,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Q: When will I want to curate and edit?",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Q: When will I want to curate and edit?",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "children": [
+                {
+                  "object": "block",
+                  "id": "510e8100-84c5-4fd3-a90e-b21abeaa3b0a",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "18432d38-0158-429a-952d-ce15b53b57e5"
+                  },
+                  "created_time": "2021-12-28T21:49:00.000Z",
+                  "last_edited_time": "2021-12-28T21:50:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "This doesn’t seem to be as intrinsically motivating?",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "This doesn’t seem to be as intrinsically motivating?",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                }
+              ]
+            },
+            {
+              "object": "block",
+              "id": "c3a86067-4790-4423-92e4-349b07c14a4e",
+              "parent": {
+                "type": "block_id",
+                "block_id": "a39fe6e8-94b6-4cc2-b836-860e7708e97a"
+              },
+              "created_time": "2021-12-28T21:50:00.000Z",
+              "last_edited_time": "2021-12-28T21:55:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": true,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Aka writing is (sometimes) awesome; publishing sucks",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Aka writing is (sometimes) awesome; publishing sucks",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "children": [
+                {
+                  "object": "block",
+                  "id": "5ba376de-b24e-441c-b26d-a44974692d7e",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "c3a86067-4790-4423-92e4-349b07c14a4e"
+                  },
+                  "created_time": "2021-12-28T21:50:00.000Z",
+                  "last_edited_time": "2021-12-28T21:52:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Unpacking this: publishing makes me feel like there’s a quality bar I need to hit",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Unpacking this: publishing makes me feel like there’s a quality bar I need to hit",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                },
+                {
+                  "object": "block",
+                  "id": "76c5690b-7ffd-4d05-a3ec-7dcc8a2d8f01",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "c3a86067-4790-4423-92e4-349b07c14a4e"
+                  },
+                  "created_time": "2021-12-28T21:50:00.000Z",
+                  "last_edited_time": "2021-12-28T21:52:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": true,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Perfectionist tendency",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Perfectionist tendency",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  },
+                  "children": [
+                    {
+                      "object": "block",
+                      "id": "d545e919-4ecb-40df-846c-eef188f5d7f7",
+                      "parent": {
+                        "type": "block_id",
+                        "block_id": "76c5690b-7ffd-4d05-a3ec-7dcc8a2d8f01"
+                      },
+                      "created_time": "2021-12-28T21:50:00.000Z",
+                      "last_edited_time": "2021-12-28T21:52:00.000Z",
+                      "created_by": {
+                        "object": "user",
+                        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                      },
+                      "last_edited_by": {
+                        "object": "user",
+                        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                      },
+                      "has_children": false,
+                      "in_trash": false,
+                      "type": "bulleted_list_item",
+                      "bulleted_list_item": {
+                        "rich_text": [
+                          {
+                            "type": "text",
+                            "text": {
+                              "content": "Is the label/category “perfectionist” useful? Maybe it doesn’t adequately capture how bad this is, “perfect” has a good connotation.",
+                              "link": null
+                            },
+                            "annotations": {
+                              "bold": false,
+                              "italic": false,
+                              "strikethrough": false,
+                              "underline": false,
+                              "code": false,
+                              "color": "default"
+                            },
+                            "plain_text": "Is the label/category “perfectionist” useful? Maybe it doesn’t adequately capture how bad this is, “perfect” has a good connotation.",
+                            "href": null
+                          }
+                        ],
+                        "color": "default"
+                      }
+                    },
+                    {
+                      "object": "block",
+                      "id": "19fbf251-5ed3-4c7b-86f5-3bca0e447f7f",
+                      "parent": {
+                        "type": "block_id",
+                        "block_id": "76c5690b-7ffd-4d05-a3ec-7dcc8a2d8f01"
+                      },
+                      "created_time": "2021-12-28T21:51:00.000Z",
+                      "last_edited_time": "2021-12-28T21:51:00.000Z",
+                      "created_by": {
+                        "object": "user",
+                        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                      },
+                      "last_edited_by": {
+                        "object": "user",
+                        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                      },
+                      "has_children": false,
+                      "in_trash": false,
+                      "type": "bulleted_list_item",
+                      "bulleted_list_item": {
+                        "rich_text": [
+                          {
+                            "type": "text",
+                            "text": {
+                              "content": "“Obsessive” tendency",
+                              "link": null
+                            },
+                            "annotations": {
+                              "bold": false,
+                              "italic": false,
+                              "strikethrough": false,
+                              "underline": false,
+                              "code": false,
+                              "color": "default"
+                            },
+                            "plain_text": "“Obsessive” tendency",
+                            "href": null
+                          }
+                        ],
+                        "color": "default"
+                      }
+                    },
+                    {
+                      "object": "block",
+                      "id": "2e29eff1-8438-437f-ae9d-67bfb36c5c70",
+                      "parent": {
+                        "type": "block_id",
+                        "block_id": "76c5690b-7ffd-4d05-a3ec-7dcc8a2d8f01"
+                      },
+                      "created_time": "2021-12-28T21:51:00.000Z",
+                      "last_edited_time": "2021-12-28T21:51:00.000Z",
+                      "created_by": {
+                        "object": "user",
+                        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                      },
+                      "last_edited_by": {
+                        "object": "user",
+                        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                      },
+                      "has_children": false,
+                      "in_trash": false,
+                      "type": "bulleted_list_item",
+                      "bulleted_list_item": {
+                        "rich_text": [
+                          {
+                            "type": "text",
+                            "text": {
+                              "content": "“Ego wrapped up with creation” tendency",
+                              "link": null
+                            },
+                            "annotations": {
+                              "bold": false,
+                              "italic": false,
+                              "strikethrough": false,
+                              "underline": false,
+                              "code": false,
+                              "color": "default"
+                            },
+                            "plain_text": "“Ego wrapped up with creation” tendency",
+                            "href": null
+                          }
+                        ],
+                        "color": "default"
+                      }
+                    },
+                    {
+                      "object": "block",
+                      "id": "a7eac24d-72b5-436d-9569-50964eb69e63",
+                      "parent": {
+                        "type": "block_id",
+                        "block_id": "76c5690b-7ffd-4d05-a3ec-7dcc8a2d8f01"
+                      },
+                      "created_time": "2021-12-28T21:52:00.000Z",
+                      "last_edited_time": "2021-12-28T21:52:00.000Z",
+                      "created_by": {
+                        "object": "user",
+                        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                      },
+                      "last_edited_by": {
+                        "object": "user",
+                        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                      },
+                      "has_children": false,
+                      "in_trash": false,
+                      "type": "bulleted_list_item",
+                      "bulleted_list_item": {
+                        "rich_text": [
+                          {
+                            "type": "text",
+                            "text": {
+                              "content": "“Unable to prioritize” tendency",
+                              "link": null
+                            },
+                            "annotations": {
+                              "bold": false,
+                              "italic": false,
+                              "strikethrough": false,
+                              "underline": false,
+                              "code": false,
+                              "color": "default"
+                            },
+                            "plain_text": "“Unable to prioritize” tendency",
+                            "href": null
+                          }
+                        ],
+                        "color": "default"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "id": "3c85892a-d285-48e6-ac30-e1c1a5dc3273",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "c3a86067-4790-4423-92e4-349b07c14a4e"
+                  },
+                  "created_time": "2021-12-28T21:52:00.000Z",
+                  "last_edited_time": "2021-12-28T21:55:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": true,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Steelmanning publishing for myself: allows past versions of Austin to be heard; allows dialog between current-me and past-me",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Steelmanning publishing for myself: allows past versions of Austin to be heard; allows dialog between current-me and past-me",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  },
+                  "children": [
+                    {
+                      "object": "block",
+                      "id": "b418543c-b4b6-4114-a1ba-c4a65ca2ef5a",
+                      "parent": {
+                        "type": "block_id",
+                        "block_id": "3c85892a-d285-48e6-ac30-e1c1a5dc3273"
+                      },
+                      "created_time": "2021-12-28T21:54:00.000Z",
+                      "last_edited_time": "2021-12-28T21:54:00.000Z",
+                      "created_by": {
+                        "object": "user",
+                        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                      },
+                      "last_edited_by": {
+                        "object": "user",
+                        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                      },
+                      "has_children": false,
+                      "in_trash": false,
+                      "type": "bulleted_list_item",
+                      "bulleted_list_item": {
+                        "rich_text": [
+                          {
+                            "type": "text",
+                            "text": {
+                              "content": "Sometimes refactoring is fun!",
+                              "link": null
+                            },
+                            "annotations": {
+                              "bold": false,
+                              "italic": false,
+                              "strikethrough": false,
+                              "underline": false,
+                              "code": false,
+                              "color": "default"
+                            },
+                            "plain_text": "Sometimes refactoring is fun!",
+                            "href": null
+                          }
+                        ],
+                        "color": "default"
+                      }
+                    },
+                    {
+                      "object": "block",
+                      "id": "5d19e7b9-240f-4c2a-8728-3584975358a9",
+                      "parent": {
+                        "type": "block_id",
+                        "block_id": "3c85892a-d285-48e6-ac30-e1c1a5dc3273"
+                      },
+                      "created_time": "2021-12-28T21:54:00.000Z",
+                      "last_edited_time": "2021-12-28T21:55:00.000Z",
+                      "created_by": {
+                        "object": "user",
+                        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                      },
+                      "last_edited_by": {
+                        "object": "user",
+                        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                      },
+                      "has_children": true,
+                      "in_trash": false,
+                      "type": "bulleted_list_item",
+                      "bulleted_list_item": {
+                        "rich_text": [
+                          {
+                            "type": "text",
+                            "text": {
+                              "content": "Ideal write-to-edit (code-to-refactor) ratio?",
+                              "link": null
+                            },
+                            "annotations": {
+                              "bold": false,
+                              "italic": false,
+                              "strikethrough": false,
+                              "underline": false,
+                              "code": false,
+                              "color": "default"
+                            },
+                            "plain_text": "Ideal write-to-edit (code-to-refactor) ratio?",
+                            "href": null
+                          }
+                        ],
+                        "color": "default"
+                      },
+                      "children": [
+                        {
+                          "object": "block",
+                          "id": "6d9a00cf-66bf-4ca8-83aa-6716436c2616",
+                          "parent": {
+                            "type": "block_id",
+                            "block_id": "5d19e7b9-240f-4c2a-8728-3584975358a9"
+                          },
+                          "created_time": "2021-12-28T21:54:00.000Z",
+                          "last_edited_time": "2021-12-28T21:55:00.000Z",
+                          "created_by": {
+                            "object": "user",
+                            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                          },
+                          "last_edited_by": {
+                            "object": "user",
+                            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                          },
+                          "has_children": false,
+                          "in_trash": false,
+                          "type": "bulleted_list_item",
+                          "bulleted_list_item": {
+                            "rich_text": [
+                              {
+                                "type": "text",
+                                "text": {
+                                  "content": "70/30",
+                                  "link": null
+                                },
+                                "annotations": {
+                                  "bold": true,
+                                  "italic": false,
+                                  "strikethrough": false,
+                                  "underline": false,
+                                  "code": false,
+                                  "color": "default"
+                                },
+                                "plain_text": "70/30",
+                                "href": null
+                              },
+                              {
+                                "type": "text",
+                                "text": {
+                                  "content": "? 90/10? 50/50?",
+                                  "link": null
+                                },
+                                "annotations": {
+                                  "bold": false,
+                                  "italic": false,
+                                  "strikethrough": false,
+                                  "underline": false,
+                                  "code": false,
+                                  "color": "default"
+                                },
+                                "plain_text": "? 90/10? 50/50?",
+                                "href": null
+                              }
+                            ],
+                            "color": "default"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "object": "block",
+                      "id": "9577e867-4633-4cd7-9b1b-80a2a40bc11d",
+                      "parent": {
+                        "type": "block_id",
+                        "block_id": "3c85892a-d285-48e6-ac30-e1c1a5dc3273"
+                      },
+                      "created_time": "2021-12-28T21:55:00.000Z",
+                      "last_edited_time": "2021-12-28T21:55:00.000Z",
+                      "created_by": {
+                        "object": "user",
+                        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                      },
+                      "last_edited_by": {
+                        "object": "user",
+                        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                      },
+                      "has_children": true,
+                      "in_trash": false,
+                      "type": "bulleted_list_item",
+                      "bulleted_list_item": {
+                        "rich_text": [
+                          {
+                            "type": "text",
+                            "text": {
+                              "content": "My actual write-to-edit ratio?",
+                              "link": null
+                            },
+                            "annotations": {
+                              "bold": false,
+                              "italic": false,
+                              "strikethrough": false,
+                              "underline": false,
+                              "code": false,
+                              "color": "default"
+                            },
+                            "plain_text": "My actual write-to-edit ratio?",
+                            "href": null
+                          }
+                        ],
+                        "color": "default"
+                      },
+                      "children": [
+                        {
+                          "object": "block",
+                          "id": "3cc13238-57f7-4633-901c-b824131cd5e8",
+                          "parent": {
+                            "type": "block_id",
+                            "block_id": "9577e867-4633-4cd7-9b1b-80a2a40bc11d"
+                          },
+                          "created_time": "2021-12-28T21:55:00.000Z",
+                          "last_edited_time": "2021-12-28T21:55:00.000Z",
+                          "created_by": {
+                            "object": "user",
+                            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                          },
+                          "last_edited_by": {
+                            "object": "user",
+                            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                          },
+                          "has_children": false,
+                          "in_trash": false,
+                          "type": "bulleted_list_item",
+                          "bulleted_list_item": {
+                            "rich_text": [
+                              {
+                                "type": "text",
+                                "text": {
+                                  "content": "90/10?",
+                                  "link": null
+                                },
+                                "annotations": {
+                                  "bold": false,
+                                  "italic": false,
+                                  "strikethrough": false,
+                                  "underline": false,
+                                  "code": false,
+                                  "color": "default"
+                                },
+                                "plain_text": "90/10?",
+                                "href": null
+                              }
+                            ],
+                            "color": "default"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "object": "block",
+              "id": "ab1d8c3b-bc4b-4f7f-b383-22bc9c5fccee",
+              "parent": {
+                "type": "block_id",
+                "block_id": "a39fe6e8-94b6-4cc2-b836-860e7708e97a"
+              },
+              "created_time": "2021-12-28T21:55:00.000Z",
+              "last_edited_time": "2021-12-28T21:55:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "From Bird by Bird: Shitty First Drafts",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "From Bird by Bird: Shitty First Drafts",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "e5ffd5de-d1cf-4b5e-9456-b49b1f09cac2",
+              "parent": {
+                "type": "block_id",
+                "block_id": "a39fe6e8-94b6-4cc2-b836-860e7708e97a"
+              },
+              "created_time": "2021-12-28T21:50:00.000Z",
+              "last_edited_time": "2021-12-28T21:55:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [],
+                "icon": null,
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "3016235c-6f9d-44a2-9630-095eaed2140f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "44078a9b-1077-457e-a6af-44188c46acb7"
+      },
+      "created_time": "2021-12-28T21:22:00.000Z",
+      "last_edited_time": "2021-12-28T22:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Bridging the gap: Maybe two stages, “public” and “WIP”?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Bridging the gap: Maybe two stages, “public” and “WIP”?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "d5b70ca3-9cbb-44eb-8b49-e4b10364c017",
+          "parent": {
+            "type": "block_id",
+            "block_id": "3016235c-6f9d-44a2-9630-095eaed2140f"
+          },
+          "created_time": "2021-12-28T21:23:00.000Z",
+          "last_edited_time": "2021-12-28T21:23:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Hidden and not hidden section",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Hidden and not hidden section",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "2941cc70-93c9-49a7-871d-fba0210fd06f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "3016235c-6f9d-44a2-9630-095eaed2140f"
+          },
+          "created_time": "2021-12-28T21:23:00.000Z",
+          "last_edited_time": "2021-12-28T22:18:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Or just, the whole thing is trawlable, but visitors who land see just the curated/favorited posts",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Or just, the whole thing is trawlable, but visitors who land see just the curated/favorited posts",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "794a9fbb-f2a5-49b9-b585-c7cef81e9d16",
+              "parent": {
+                "type": "block_id",
+                "block_id": "2941cc70-93c9-49a7-871d-fba0210fd06f"
+              },
+              "created_time": "2021-12-28T21:23:00.000Z",
+              "last_edited_time": "2021-12-28T21:24:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Core idea: optimize for first-user experience",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Core idea: optimize for first-user experience",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "02be5c7b-7690-411a-aa40-42cd06723251",
+      "parent": {
+        "type": "page_id",
+        "page_id": "44078a9b-1077-457e-a6af-44188c46acb7"
+      },
+      "created_time": "2021-12-28T22:18:00.000Z",
+      "last_edited_time": "2021-12-28T22:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "ca21a06b-4116-462a-aca3-7f7624f5a4e3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "44078a9b-1077-457e-a6af-44188c46acb7"
+      },
+      "created_time": "2021-12-28T22:17:00.000Z",
+      "last_edited_time": "2021-12-28T22:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Hackathon: Want per-page analytics to tell me which pages get read",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Hackathon: Want per-page analytics to tell me which pages get read",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "1bd68361-c913-42ae-a55c-f407b33db09d",
+          "parent": {
+            "type": "block_id",
+            "block_id": "ca21a06b-4116-462a-aca3-7f7624f5a4e3"
+          },
+          "created_time": "2021-12-28T22:18:00.000Z",
+          "last_edited_time": "2021-12-28T22:18:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Then polish more on the pages that are more popular...?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Then polish more on the pages that are more popular...?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "77c32256-6602-419a-a549-7e492ffdb1af",
+          "parent": {
+            "type": "block_id",
+            "block_id": "ca21a06b-4116-462a-aca3-7f7624f5a4e3"
+          },
+          "created_time": "2021-12-28T22:18:00.000Z",
+          "last_edited_time": "2021-12-28T22:18:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Maybe Super already does this?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Maybe Super already does this?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "cc074bde-5afd-4dd0-b42b-87884a704b87",
+          "parent": {
+            "type": "block_id",
+            "block_id": "ca21a06b-4116-462a-aca3-7f7624f5a4e3"
+          },
+          "created_time": "2021-12-28T22:17:00.000Z",
+          "last_edited_time": "2021-12-28T22:18:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Note, this is more “fun” than “useful”",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Note, this is more “fun” than “useful”",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "da3f3867-7ce0-45a4-bffa-fe4ebe4060ed",
+          "parent": {
+            "type": "block_id",
+            "block_id": "ca21a06b-4116-462a-aca3-7f7624f5a4e3"
+          },
+          "created_time": "2021-12-28T22:18:00.000Z",
+          "last_edited_time": "2021-12-28T22:25:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Otherwise, could just embed some kind of snippet",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Otherwise, could just embed some kind of snippet",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "cb0a1927-201a-440c-98a1-edf5cba10249",
+              "parent": {
+                "type": "block_id",
+                "block_id": "da3f3867-7ce0-45a4-bffa-fe4ebe4060ed"
+              },
+              "created_time": "2021-12-28T22:21:00.000Z",
+              "last_edited_time": "2021-12-28T22:21:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "See: ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "See: ",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Embedding Google Analytics in Super",
+                      "link": {
+                        "url": "https://super.so/guides/google-analytics"
+                      }
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Embedding Google Analytics in Super",
+                    "href": "https://super.so/guides/google-analytics"
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "f25f0842-2392-4c2f-9ea5-f8edad912058",
+              "parent": {
+                "type": "block_id",
+                "block_id": "da3f3867-7ce0-45a4-bffa-fe4ebe4060ed"
+              },
+              "created_time": "2021-12-28T22:21:00.000Z",
+              "last_edited_time": "2021-12-28T22:25:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": true,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Could also try other sources (don’t love GA)",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Could also try other sources (don’t love GA)",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "children": [
+                {
+                  "object": "block",
+                  "id": "004e4ceb-a634-450f-a5c8-b2fb52b932a5",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "f25f0842-2392-4c2f-9ea5-f8edad912058"
+                  },
+                  "created_time": "2021-12-28T22:22:00.000Z",
+                  "last_edited_time": "2021-12-28T22:25:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": true,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Fathom? Con: $14/month",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Fathom? Con: $14/month",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  },
+                  "children": [
+                    {
+                      "object": "block",
+                      "id": "08a23460-1555-486f-9d96-07b1cef5e468",
+                      "parent": {
+                        "type": "block_id",
+                        "block_id": "004e4ceb-a634-450f-a5c8-b2fb52b932a5"
+                      },
+                      "created_time": "2021-12-28T22:23:00.000Z",
+                      "last_edited_time": "2021-12-28T22:25:00.000Z",
+                      "created_by": {
+                        "object": "user",
+                        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                      },
+                      "last_edited_by": {
+                        "object": "user",
+                        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                      },
+                      "has_children": false,
+                      "in_trash": false,
+                      "type": "bulleted_list_item",
+                      "bulleted_list_item": {
+                        "rich_text": [
+                          {
+                            "type": "text",
+                            "text": {
+                              "content": "Competitor: ",
+                              "link": null
+                            },
+                            "annotations": {
+                              "bold": false,
+                              "italic": false,
+                              "strikethrough": false,
+                              "underline": false,
+                              "code": false,
+                              "color": "default"
+                            },
+                            "plain_text": "Competitor: ",
+                            "href": null
+                          },
+                          {
+                            "type": "text",
+                            "text": {
+                              "content": "Plausible",
+                              "link": {
+                                "url": "https://plausible.io/"
+                              }
+                            },
+                            "annotations": {
+                              "bold": false,
+                              "italic": false,
+                              "strikethrough": false,
+                              "underline": false,
+                              "code": false,
+                              "color": "default"
+                            },
+                            "plain_text": "Plausible",
+                            "href": "https://plausible.io/"
+                          },
+                          {
+                            "type": "text",
+                            "text": {
+                              "content": ". $6/mo to start",
+                              "link": null
+                            },
+                            "annotations": {
+                              "bold": false,
+                              "italic": false,
+                              "strikethrough": false,
+                              "underline": false,
+                              "code": false,
+                              "color": "default"
+                            },
+                            "plain_text": ". $6/mo to start",
+                            "href": null
+                          }
+                        ],
+                        "color": "default"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "299afd0c-3bdc-4057-82e8-233ba1ce8bd1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "44078a9b-1077-457e-a6af-44188c46acb7"
+      },
+      "created_time": "2021-12-28T22:25:00.000Z",
+      "last_edited_time": "2021-12-28T22:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "d1a9eb1a-fc80-4952-ba1a-ec59c2b71e72",
+      "parent": {
+        "type": "page_id",
+        "page_id": "44078a9b-1077-457e-a6af-44188c46acb7"
+      },
+      "created_time": "2021-12-28T21:15:00.000Z",
+      "last_edited_time": "2021-12-28T21:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Notion as a blogging format",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Notion as a blogging format",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "389d45d5-acc0-4f26-88d6-7108ed8ee949",
+          "parent": {
+            "type": "block_id",
+            "block_id": "d1a9eb1a-fc80-4952-ba1a-ec59c2b71e72"
+          },
+          "created_time": "2021-12-28T21:21:00.000Z",
+          "last_edited_time": "2021-12-28T21:27:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Pros:",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Pros:",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "170e0f93-144c-4b59-aa31-90b00d2a5ae8",
+              "parent": {
+                "type": "block_id",
+                "block_id": "389d45d5-acc0-4f26-88d6-7108ed8ee949"
+              },
+              "created_time": "2021-12-28T21:27:00.000Z",
+              "last_edited_time": "2021-12-28T21:28:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": true,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "I use Notion all the time already",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "I use Notion all the time already",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "children": [
+                {
+                  "object": "block",
+                  "id": "b318056b-b1ae-4f89-a528-07d1f6880222",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "170e0f93-144c-4b59-aa31-90b00d2a5ae8"
+                  },
+                  "created_time": "2021-12-28T21:27:00.000Z",
+                  "last_edited_time": "2021-12-28T21:28:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Mini-thought: Compounding returns to mastery of a single ",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Mini-thought: Compounding returns to mastery of a single ",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                },
+                {
+                  "object": "block",
+                  "id": "5e14acd5-1bb7-415e-8c94-5a9630c387c2",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "170e0f93-144c-4b59-aa31-90b00d2a5ae8"
+                  },
+                  "created_time": "2021-12-28T21:28:00.000Z",
+                  "last_edited_time": "2021-12-28T21:28:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Tradeoff: mastery vs using lots of different tools",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Tradeoff: mastery vs using lots of different tools",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                }
+              ]
+            },
+            {
+              "object": "block",
+              "id": "9eda0892-c94c-4e5b-8922-9e3f96018eda",
+              "parent": {
+                "type": "block_id",
+                "block_id": "389d45d5-acc0-4f26-88d6-7108ed8ee949"
+              },
+              "created_time": "2021-12-28T21:21:00.000Z",
+              "last_edited_time": "2021-12-28T21:21:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Exportability into Markdown, a format I understand and is easy to parse ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Exportability into Markdown, a format I understand and is easy to parse ",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "38db015a-0f53-4227-99b1-9909194786ef",
+              "parent": {
+                "type": "block_id",
+                "block_id": "389d45d5-acc0-4f26-88d6-7108ed8ee949"
+              },
+              "created_time": "2021-12-28T21:21:00.000Z",
+              "last_edited_time": "2021-12-28T21:27:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "WYSIWYG (vs pure markdown)",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "WYSIWYG (vs pure markdown)",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "6f32a55c-e197-4370-8660-420992511cf3",
+          "parent": {
+            "type": "block_id",
+            "block_id": "d1a9eb1a-fc80-4952-ba1a-ec59c2b71e72"
+          },
+          "created_time": "2021-12-28T21:15:00.000Z",
+          "last_edited_time": "2021-12-28T21:48:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Cons:",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Cons:",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "56f1cad7-3492-49b7-ac5b-554acb02a1de",
+              "parent": {
+                "type": "block_id",
+                "block_id": "6f32a55c-e197-4370-8660-420992511cf3"
+              },
+              "created_time": "2021-12-28T21:22:00.000Z",
+              "last_edited_time": "2021-12-28T21:27:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": true,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Slow search and navigation ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Slow search and navigation ",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "children": [
+                {
+                  "object": "block",
+                  "id": "35baa101-e2d0-4990-9479-6c23982d3ba5",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "56f1cad7-3492-49b7-ac5b-554acb02a1de"
+                  },
+                  "created_time": "2021-12-28T21:24:00.000Z",
+                  "last_edited_time": "2021-12-28T21:24:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Can we fix this? Maybe spider through the Notion pages",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Can we fix this? Maybe spider through the Notion pages",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                },
+                {
+                  "object": "block",
+                  "id": "f52f28b0-1271-4bbf-8c95-262a6f014183",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "56f1cad7-3492-49b7-ac5b-554acb02a1de"
+                  },
+                  "created_time": "2021-12-28T21:24:00.000Z",
+                  "last_edited_time": "2021-12-28T21:25:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "And then add an “edit” button to change any one page (ala Wikipedia?)",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "And then add an “edit” button to change any one page (ala Wikipedia?)",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                }
+              ]
+            },
+            {
+              "object": "block",
+              "id": "07bfadd8-7f99-4f69-9cf3-4147ad8b217e",
+              "parent": {
+                "type": "block_id",
+                "block_id": "6f32a55c-e197-4370-8660-420992511cf3"
+              },
+              "created_time": "2021-12-28T21:22:00.000Z",
+              "last_edited_time": "2021-12-28T21:35:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": true,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Almost used too much...? Makes it harder to figure out which things I should put into which Notion (between self, blog, and work)",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Almost used too much...? Makes it harder to figure out which things I should put into which Notion (between self, blog, and work)",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "children": [
+                {
+                  "object": "block",
+                  "id": "7fe9a0cc-5544-443b-bb22-732da59cd5dc",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "07bfadd8-7f99-4f69-9cf3-4147ad8b217e"
+                  },
+                  "created_time": "2021-12-28T21:33:00.000Z",
+                  "last_edited_time": "2021-12-28T21:33:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Maybe everything is public, so self + blog are combined?",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Maybe everything is public, so self + blog are combined?",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                }
+              ]
+            },
+            {
+              "object": "block",
+              "id": "fbbfb519-ce78-469e-b6ad-9390600b2957",
+              "parent": {
+                "type": "block_id",
+                "block_id": "6f32a55c-e197-4370-8660-420992511cf3"
+              },
+              "created_time": "2021-12-28T21:24:00.000Z",
+              "last_edited_time": "2021-12-28T21:35:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": true,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "(A lot of things solved by super.so)",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "(A lot of things solved by super.so)",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "children": [
+                {
+                  "object": "block",
+                  "id": "cd3ceeae-7282-49a5-bd2f-ee855a67870a",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "fbbfb519-ce78-469e-b6ad-9390600b2957"
+                  },
+                  "created_time": "2021-12-28T21:24:00.000Z",
+                  "last_edited_time": "2021-12-28T21:24:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Ugly URLs",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Ugly URLs",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                },
+                {
+                  "object": "block",
+                  "id": "9bc28e13-65a8-4159-aee3-b3cb986b1186",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "fbbfb519-ce78-469e-b6ad-9390600b2957"
+                  },
+                  "created_time": "2021-12-28T21:24:00.000Z",
+                  "last_edited_time": "2021-12-28T21:26:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Slow public interface",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Slow public interface",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                }
+              ]
+            },
+            {
+              "object": "block",
+              "id": "77837e3b-71c8-4e9c-a57b-8362d89b4a6d",
+              "parent": {
+                "type": "block_id",
+                "block_id": "6f32a55c-e197-4370-8660-420992511cf3"
+              },
+              "created_time": "2021-12-28T21:26:00.000Z",
+              "last_edited_time": "2021-12-28T21:35:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": true,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Problem with Super: Fairly slow/caching issues make it so that stuff I write isn’t up immediately",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Problem with Super: Fairly slow/caching issues make it so that stuff I write isn’t up immediately",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "children": [
+                {
+                  "object": "block",
+                  "id": "3a573599-1c6c-472c-89a0-d70088e688cf",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "77837e3b-71c8-4e9c-a57b-8362d89b4a6d"
+                  },
+                  "created_time": "2021-12-28T21:35:00.000Z",
+                  "last_edited_time": "2021-12-28T21:35:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Aka unpredictability of cache",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Aka unpredictability of cache",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                }
+              ]
+            },
+            {
+              "object": "block",
+              "id": "2a8c40f6-16b1-4b57-9693-63555bab0a84",
+              "parent": {
+                "type": "block_id",
+                "block_id": "6f32a55c-e197-4370-8660-420992511cf3"
+              },
+              "created_time": "2021-12-28T21:32:00.000Z",
+              "last_edited_time": "2021-12-28T21:48:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Nit: Really want pros/cons to be an easy two-col thing, since I do it all the time, but cols are just a bit annoying to get right. Minor friction",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Nit: Really want pros/cons to be an easy two-col thing, since I do it all the time, but cols are just a bit annoying to get right. Minor friction",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "fcab1fd4-29c5-4ca8-b352-0bfbbb3fe7a1",
+              "parent": {
+                "type": "block_id",
+                "block_id": "6f32a55c-e197-4370-8660-420992511cf3"
+              },
+              "created_time": "2021-12-28T21:48:00.000Z",
+              "last_edited_time": "2021-12-28T21:48:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Bad authoring experience on phone",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Bad authoring experience on phone",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "99ea88ea-f20f-4155-bf3d-a2c735184901",
+      "parent": {
+        "type": "page_id",
+        "page_id": "44078a9b-1077-457e-a6af-44188c46acb7"
+      },
+      "created_time": "2021-12-28T21:15:00.000Z",
+      "last_edited_time": "2021-12-28T21:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Writing this post is maybe too meta",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Writing this post is maybe too meta",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "6c2af6f4-1239-4990-bffd-eba2af71155a",
+          "parent": {
+            "type": "block_id",
+            "block_id": "99ea88ea-f20f-4155-bf3d-a2c735184901"
+          },
+          "created_time": "2021-12-28T21:26:00.000Z",
+          "last_edited_time": "2021-12-28T21:32:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "I should be working on generating more content rather than obsessing over form",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "I should be working on generating more content rather than obsessing over form",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1703d900-8cd0-4828-a3b1-3347845d99c0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "44078a9b-1077-457e-a6af-44188c46acb7"
+      },
+      "created_time": "2021-12-28T21:22:00.000Z",
+      "last_edited_time": "2021-12-28T21:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "f85419d8-f1b3-4f02-91e0-c9f5042d90cf",
+      "parent": {
+        "type": "page_id",
+        "page_id": "44078a9b-1077-457e-a6af-44188c46acb7"
+      },
+      "created_time": "2021-12-28T21:16:00.000Z",
+      "last_edited_time": "2021-12-28T21:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Blogs with great content:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Blogs with great content:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "44422b3f-87d5-488d-bb5c-e745aa381a24",
+          "parent": {
+            "type": "block_id",
+            "block_id": "f85419d8-f1b3-4f02-91e0-c9f5042d90cf"
+          },
+          "created_time": "2021-12-28T21:22:00.000Z",
+          "last_edited_time": "2021-12-28T21:34:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "mention",
+                "mention": {
+                  "type": "page",
+                  "page": {
+                    "id": "707cdc8d-f1cd-4b26-86b3-09aebeb31eb6"
+                  }
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Blogroll",
+                "href": "https://app.notion.com/p/707cdc8df1cd4b2686b309aebeb31eb6"
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": " ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": " ",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "9e80dfdf-ebf8-4aa2-a358-1c242c42e704",
+      "parent": {
+        "type": "page_id",
+        "page_id": "44078a9b-1077-457e-a6af-44188c46acb7"
+      },
+      "created_time": "2021-12-28T21:17:00.000Z",
+      "last_edited_time": "2021-12-28T21:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Blogs with great form:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Blogs with great form:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "cdc66501-caa4-4e25-b5ad-d24b4ca660e4",
+          "parent": {
+            "type": "block_id",
+            "block_id": "9e80dfdf-ebf8-4aa2-a358-1c242c42e704"
+          },
+          "created_time": "2021-12-28T21:16:00.000Z",
+          "last_edited_time": "2021-12-28T21:17:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Gwern",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Gwern",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "76bb6daa-4bdd-4611-abd8-7295686658ab",
+          "parent": {
+            "type": "block_id",
+            "block_id": "9e80dfdf-ebf8-4aa2-a358-1c242c42e704"
+          },
+          "created_time": "2021-12-28T21:16:00.000Z",
+          "last_edited_time": "2021-12-28T21:38:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "https://notes.andymatuschak.org/About_these_notes",
+                  "link": {
+                    "url": "https://notes.andymatuschak.org/About_these_notes"
+                  }
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "https://notes.andymatuschak.org/About_these_notes",
+                "href": "https://notes.andymatuschak.org/About_these_notes"
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "64d869e2-72f2-4215-9343-eb49028034c5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "44078a9b-1077-457e-a6af-44188c46acb7"
+      },
+      "created_time": "2021-12-28T21:38:00.000Z",
+      "last_edited_time": "2021-12-28T21:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "7ce241b3-392d-491a-8e61-78df2d7eb49e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "44078a9b-1077-457e-a6af-44188c46acb7"
+      },
+      "created_time": "2021-12-28T21:38:00.000Z",
+      "last_edited_time": "2021-12-28T21:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "See also",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "See also",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "e2548802-9c7e-489f-9707-a2ddea3e5fb5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "44078a9b-1077-457e-a6af-44188c46acb7"
+      },
+      "created_time": "2021-12-28T21:38:00.000Z",
+      "last_edited_time": "2021-12-28T21:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "mention",
+            "mention": {
+              "type": "page",
+              "page": {
+                "id": "19069c5b-d773-4bec-8fb5-d2ae2f5b1286"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "blog.austn.io",
+            "href": "https://app.notion.com/p/19069c5bd7734bec8fb5d2ae2f5b1286"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "6c593980-3019-43de-9dc4-b5603f1781f1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "44078a9b-1077-457e-a6af-44188c46acb7"
+      },
+      "created_time": "2021-12-28T21:22:00.000Z",
+      "last_edited_time": "2021-12-28T21:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Misc",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Misc",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "c0733377-eece-4250-b50a-419dd6b4bb38",
+      "parent": {
+        "type": "page_id",
+        "page_id": "44078a9b-1077-457e-a6af-44188c46acb7"
+      },
+      "created_time": "2021-12-28T21:15:00.000Z",
+      "last_edited_time": "2021-12-28T21:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "TODO: try blogging everyday ala ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "TODO: try blogging everyday ala ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "https://www.neelnanda.io/blog/27-retrospective",
+              "link": {
+                "url": "https://www.neelnanda.io/blog/27-retrospective"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://www.neelnanda.io/blog/27-retrospective",
+            "href": "https://www.neelnanda.io/blog/27-retrospective"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "e9063cef-45e3-492a-b307-4356596af1ce",
+      "parent": {
+        "type": "page_id",
+        "page_id": "44078a9b-1077-457e-a6af-44188c46acb7"
+      },
+      "created_time": "2021-12-28T21:34:00.000Z",
+      "last_edited_time": "2021-12-28T21:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Hackathon: bidirectional linking between Notion and Super",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Hackathon: bidirectional linking between Notion and Super",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "f97b6b74-3a69-4317-b06e-9cc39d6df054",
+          "parent": {
+            "type": "block_id",
+            "block_id": "e9063cef-45e3-492a-b307-4356596af1ce"
+          },
+          "created_time": "2021-12-28T21:34:00.000Z",
+          "last_edited_time": "2021-12-28T21:35:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Notion ⇒ Super: so I can share quickly",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Notion ⇒ Super: so I can share quickly",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "1f04241c-9b2e-4e10-9fa6-650d7d6c95d8",
+          "parent": {
+            "type": "block_id",
+            "block_id": "e9063cef-45e3-492a-b307-4356596af1ce"
+          },
+          "created_time": "2021-12-28T21:35:00.000Z",
+          "last_edited_time": "2021-12-28T21:35:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Super ⇒ Notion: so I can edit quickly",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Super ⇒ Notion: so I can edit quickly",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    }
+  ]
+}

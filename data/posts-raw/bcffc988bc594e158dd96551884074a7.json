@@ -1,0 +1,1651 @@
+{
+  "page": {
+    "id": "bcffc988bc594e158dd96551884074a7",
+    "title": "8 Tips for building your online party game",
+    "date": "2021-09-22",
+    "edited": "2021-11-17T09:38:00.000Z",
+    "url": "https://akrolsmir.notion.site/8-Tips-for-building-your-online-party-game-bcffc988bc594e158dd96551884074a7",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "abe00a1c-fa69-4995-a62a-f75086f005e5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "bcffc988-bc59-4e15-8dd9-6551884074a7"
+      },
+      "created_time": "2021-09-21T13:46:00.000Z",
+      "last_edited_time": "2021-09-21T13:58:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "As much as possible, eliminate waiting for someone to take a turn",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "As much as possible, eliminate waiting for someone to take a turn",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "f2f19560-3cac-46d6-bc0d-2bf9407dbc1f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "abe00a1c-fa69-4995-a62a-f75086f005e5"
+          },
+          "created_time": "2021-09-21T13:52:00.000Z",
+          "last_edited_time": "2021-09-21T13:52:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Downtime is the enemy",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Downtime is the enemy",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "72044d94-c078-4fb1-b116-d3a54fd17182",
+          "parent": {
+            "type": "block_id",
+            "block_id": "abe00a1c-fa69-4995-a62a-f75086f005e5"
+          },
+          "created_time": "2021-09-21T13:57:00.000Z",
+          "last_edited_time": "2021-09-21T13:58:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Party games want to support 5+ players; so the common board game structure of \"one person takes their turn, everyone else waits\" scales very badly",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Party games want to support 5+ players; so the common board game structure of \"one person takes their turn, everyone else waits\" scales very badly",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "29094c2d-9067-45fd-9e84-dfd4ed8f7ed7",
+          "parent": {
+            "type": "block_id",
+            "block_id": "abe00a1c-fa69-4995-a62a-f75086f005e5"
+          },
+          "created_time": "2021-09-21T13:46:00.000Z",
+          "last_edited_time": "2021-09-21T13:47:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Examples: Restructuring Incrypt, Pairwise",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Examples: Restructuring Incrypt, Pairwise",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "a333d4de-3271-4e30-99e6-fd95802f7f99",
+      "parent": {
+        "type": "page_id",
+        "page_id": "bcffc988-bc59-4e15-8dd9-6551884074a7"
+      },
+      "created_time": "2021-09-21T13:47:00.000Z",
+      "last_edited_time": "2021-09-21T14:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Use timers to keep the game moving along",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Use timers to keep the game moving along",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "2ae83a30-7abc-48b5-8487-6714abe73c94",
+          "parent": {
+            "type": "block_id",
+            "block_id": "a333d4de-3271-4e30-99e6-fd95802f7f99"
+          },
+          "created_time": "2021-09-21T14:05:00.000Z",
+          "last_edited_time": "2021-09-21T14:06:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Analysis paralysis is no fun for people",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Analysis paralysis is no fun for people",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "69e35290-e316-4953-ac18-8176e31f31e9",
+          "parent": {
+            "type": "block_id",
+            "block_id": "a333d4de-3271-4e30-99e6-fd95802f7f99"
+          },
+          "created_time": "2021-09-21T13:51:00.000Z",
+          "last_edited_time": "2021-09-21T13:52:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Again, downtime is the enemy",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Again, downtime is the enemy",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "8cc137d7-0933-4945-914d-45a405992bf1",
+          "parent": {
+            "type": "block_id",
+            "block_id": "a333d4de-3271-4e30-99e6-fd95802f7f99"
+          },
+          "created_time": "2021-09-21T14:06:00.000Z",
+          "last_edited_time": "2021-09-21T14:06:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "(Maybe tie in to mod controls)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "(Maybe tie in to mod controls)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "8abd9efc-4d1f-4594-af09-31d4851dc172",
+      "parent": {
+        "type": "page_id",
+        "page_id": "bcffc988-bc59-4e15-8dd9-6551884074a7"
+      },
+      "created_time": "2021-09-21T13:46:00.000Z",
+      "last_edited_time": "2021-09-21T13:59:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Fast feedback in-game",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Fast feedback in-game",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "90119131-1a97-4e5a-b3f5-c1e4d117ad3f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "8abd9efc-4d1f-4594-af09-31d4851dc172"
+          },
+          "created_time": "2021-09-21T13:53:00.000Z",
+          "last_edited_time": "2021-09-21T13:53:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Basic UI principle: when players interact with something, it should be obviously interacted",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Basic UI principle: when players interact with something, it should be obviously interacted",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "64e81234-0bfe-48c5-8830-f7f71ea01584",
+          "parent": {
+            "type": "block_id",
+            "block_id": "8abd9efc-4d1f-4594-af09-31d4851dc172"
+          },
+          "created_time": "2021-09-21T13:53:00.000Z",
+          "last_edited_time": "2021-09-21T13:53:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Ties into \"juice\"",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Ties into \"juice\"",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "94c36c06-be4e-43d4-a9de-6b7892263fc2",
+          "parent": {
+            "type": "block_id",
+            "block_id": "8abd9efc-4d1f-4594-af09-31d4851dc172"
+          },
+          "created_time": "2021-09-21T13:47:00.000Z",
+          "last_edited_time": "2021-09-21T13:47:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Example: Buttons should show \"submitted\"",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Example: Buttons should show \"submitted\"",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "772bb973-3414-4e81-af71-52bfb2e011e0",
+          "parent": {
+            "type": "block_id",
+            "block_id": "8abd9efc-4d1f-4594-af09-31d4851dc172"
+          },
+          "created_time": "2021-09-21T13:59:00.000Z",
+          "last_edited_time": "2021-09-21T13:59:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Example: Telling people when the word they're typing is invalid (even before submission)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Example: Telling people when the word they're typing is invalid (even before submission)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "d1cbb0a6-ab2b-41cd-b379-29349902924d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "bcffc988-bc59-4e15-8dd9-6551884074a7"
+      },
+      "created_time": "2021-09-21T13:46:00.000Z",
+      "last_edited_time": "2021-09-21T14:07:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Provide a shared board",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Provide a shared board",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "b4926b6f-cf02-41de-8b29-4fc1bedb0eee",
+          "parent": {
+            "type": "block_id",
+            "block_id": "d1cbb0a6-ab2b-41cd-b379-29349902924d"
+          },
+          "created_time": "2021-09-21T13:49:00.000Z",
+          "last_edited_time": "2021-09-21T13:54:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "In an online setting, players have much less context of what each other is doing or looking at",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "In an online setting, players have much less context of what each other is doing or looking at",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "b23ab81a-6dde-44eb-b19f-9b0073d4e34d",
+          "parent": {
+            "type": "block_id",
+            "block_id": "d1cbb0a6-ab2b-41cd-b379-29349902924d"
+          },
+          "created_time": "2021-09-21T14:07:00.000Z",
+          "last_edited_time": "2021-09-21T14:07:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Example: Showing who has submitted and who has not yet in the UI",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Example: Showing who has submitted and who has not yet in the UI",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "bf18ea58-0bc9-416b-9bd9-9e8717814cf1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "bcffc988-bc59-4e15-8dd9-6551884074a7"
+      },
+      "created_time": "2021-09-21T13:48:00.000Z",
+      "last_edited_time": "2021-09-21T13:52:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Design to allow players to join and leave in-game",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Design to allow players to join and leave in-game",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "b539bd49-810a-41a2-8940-4fa3bebe5097",
+          "parent": {
+            "type": "block_id",
+            "block_id": "bf18ea58-0bc9-416b-9bd9-9e8717814cf1"
+          },
+          "created_time": "2021-09-21T13:50:00.000Z",
+          "last_edited_time": "2021-09-21T13:56:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Party games are often played as an \"appetizer\" or \"dessert\" to a longer game night",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Party games are often played as an \"appetizer\" or \"dessert\" to a longer game night",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "6f2b2674-5949-4dbe-91e6-f86d220d4b6d",
+              "parent": {
+                "type": "block_id",
+                "block_id": "b539bd49-810a-41a2-8940-4fa3bebe5097"
+              },
+              "created_time": "2021-09-21T13:51:00.000Z",
+              "last_edited_time": "2021-09-21T13:51:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "So players might be trickling in or trying to leave.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "So players might be trickling in or trying to leave.",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "fa30cb23-94f6-450f-8075-b8d17765da91",
+          "parent": {
+            "type": "block_id",
+            "block_id": "bf18ea58-0bc9-416b-9bd9-9e8717814cf1"
+          },
+          "created_time": "2021-09-21T13:50:00.000Z",
+          "last_edited_time": "2021-09-21T14:03:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Short rounds (back to fast feedback) are the easiest way to make this happen",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Short rounds (back to fast feedback) are the easiest way to make this happen",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "bdadd2f3-08a5-4eae-8593-0086d6d30783",
+          "parent": {
+            "type": "block_id",
+            "block_id": "bf18ea58-0bc9-416b-9bd9-9e8717814cf1"
+          },
+          "created_time": "2021-09-21T13:51:00.000Z",
+          "last_edited_time": "2021-09-21T14:04:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Don't require a ton of context or score tracking",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Don't require a ton of context or score tracking",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "881ab698-d540-49b7-b2dc-07b9ed97f173",
+          "parent": {
+            "type": "block_id",
+            "block_id": "bf18ea58-0bc9-416b-9bd9-9e8717814cf1"
+          },
+          "created_time": "2021-09-21T13:50:00.000Z",
+          "last_edited_time": "2021-09-21T14:03:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Example: Good: Just One; Codenames. Bad: Incrypt",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Example: Good: Just One; Codenames. Bad: Incrypt",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "5612309a-382c-40c2-8046-87040da752d7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "bcffc988-bc59-4e15-8dd9-6551884074a7"
+      },
+      "created_time": "2021-09-21T13:52:00.000Z",
+      "last_edited_time": "2021-09-21T14:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Optimize the new player experience",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Optimize the new player experience",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "4c98876c-bcf8-4a63-a5e5-26349df21a8c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "5612309a-382c-40c2-8046-87040da752d7"
+          },
+          "created_time": "2021-09-21T14:01:00.000Z",
+          "last_edited_time": "2021-09-21T14:02:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "There's much less patience for learning a party game; no reading through a thick manual or spending 30 minutes explaining how to play",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "There's much less patience for learning a party game; no reading through a thick manual or spending 30 minutes explaining how to play",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "d6a00bc5-b2f5-42c7-9e6b-1c08f5773ffd",
+          "parent": {
+            "type": "block_id",
+            "block_id": "5612309a-382c-40c2-8046-87040da752d7"
+          },
+          "created_time": "2021-09-21T14:05:00.000Z",
+          "last_edited_time": "2021-09-21T14:05:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Example: reducing all the friction to join a room",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Example: reducing all the friction to join a room",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "397de47f-b8e4-4994-8736-6c8282b59a7c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "5612309a-382c-40c2-8046-87040da752d7"
+          },
+          "created_time": "2021-09-21T14:05:00.000Z",
+          "last_edited_time": "2021-09-21T14:05:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Identify what the player should be paying attention to",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Identify what the player should be paying attention to",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "ca7aead3-8a6b-417a-9d69-8014f6768f7b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "5612309a-382c-40c2-8046-87040da752d7"
+          },
+          "created_time": "2021-09-21T13:54:00.000Z",
+          "last_edited_time": "2021-09-21T13:57:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Example: Using white background when player has to input a decision",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Example: Using white background when player has to input a decision",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "ff3c1318-7506-4676-940e-6950c54f0b05",
+      "parent": {
+        "type": "page_id",
+        "page_id": "bcffc988-bc59-4e15-8dd9-6551884074a7"
+      },
+      "created_time": "2021-09-21T13:55:00.000Z",
+      "last_edited_time": "2021-09-21T14:07:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Make player choices matter",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Make player choices matter",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "822eba33-26aa-4b21-b252-7eb5cb97372b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "ff3c1318-7506-4676-940e-6950c54f0b05"
+          },
+          "created_time": "2021-09-21T13:55:00.000Z",
+          "last_edited_time": "2021-09-21T14:07:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Party games should be uniquely driven by each player",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Party games should be uniquely driven by each player",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "a1d27f6a-d446-4acb-986e-a62316409a22",
+              "parent": {
+                "type": "block_id",
+                "block_id": "822eba33-26aa-4b21-b252-7eb5cb97372b"
+              },
+              "created_time": "2021-09-21T14:07:00.000Z",
+              "last_edited_time": "2021-09-21T14:07:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Example: One Word, anyone can affect the words by picking a bad one",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Example: One Word, anyone can affect the words by picking a bad one",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "65f5c246-379c-4987-af8a-116aa682c99f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "ff3c1318-7506-4676-940e-6950c54f0b05"
+          },
+          "created_time": "2021-09-21T13:56:00.000Z",
+          "last_edited_time": "2021-09-21T13:56:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Everyone should have the opportunity to lob in a joke",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Everyone should have the opportunity to lob in a joke",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "4caaaa25-d784-40c3-aacf-075aee068b23",
+      "parent": {
+        "type": "page_id",
+        "page_id": "bcffc988-bc59-4e15-8dd9-6551884074a7"
+      },
+      "created_time": "2021-09-21T13:56:00.000Z",
+      "last_edited_time": "2021-09-21T14:07:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "It's all about the story",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "It's all about the story",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "4642c226-1ad0-4a5a-b0e8-6dec3d2c91f5",
+          "parent": {
+            "type": "block_id",
+            "block_id": "4caaaa25-d784-40c3-aacf-075aee068b23"
+          },
+          "created_time": "2021-09-21T13:56:00.000Z",
+          "last_edited_time": "2021-09-21T13:57:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "What will people remember from the gameplay experience? Usually not who won, but what they joked and laughed about",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "What will people remember from the gameplay experience? Usually not who won, but what they joked and laughed about",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "4650091e-c17f-4f58-a963-580c6fbb4ff9",
+          "parent": {
+            "type": "block_id",
+            "block_id": "4caaaa25-d784-40c3-aacf-075aee068b23"
+          },
+          "created_time": "2021-09-21T14:07:00.000Z",
+          "last_edited_time": "2021-09-21T14:08:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Example: Company game when someone random joined, and we played with a rando Sam, and then tried to recruit them in the end through a clue",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Example: Company game when someone random joined, and we played with a rando Sam, and then tried to recruit them in the end through a clue",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "36d3fd7b-fd7a-4bd2-ad35-1b79b48f768b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "4caaaa25-d784-40c3-aacf-075aee068b23"
+          },
+          "created_time": "2021-09-21T13:59:00.000Z",
+          "last_edited_time": "2021-09-21T13:59:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [],
+            "icon": null,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "37fcd665-1e97-48d1-a43f-9a1ef377e600",
+      "parent": {
+        "type": "page_id",
+        "page_id": "bcffc988-bc59-4e15-8dd9-6551884074a7"
+      },
+      "created_time": "2021-09-21T13:59:00.000Z",
+      "last_edited_time": "2021-09-21T13:59:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Other tips",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Other tips",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "e58764ee-ab9c-4b28-a4ff-16e7c5b1bcf7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "bcffc988-bc59-4e15-8dd9-6551884074a7"
+      },
+      "created_time": "2021-09-21T14:00:00.000Z",
+      "last_edited_time": "2021-09-21T14:00:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Reversible actions — allowing people to undo and redo ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Reversible actions — allowing people to undo and redo ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "f1df4f5e-001c-48b8-881a-3b2e966eba34",
+      "parent": {
+        "type": "page_id",
+        "page_id": "bcffc988-bc59-4e15-8dd9-6551884074a7"
+      },
+      "created_time": "2021-09-21T14:00:00.000Z",
+      "last_edited_time": "2021-09-21T14:00:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Mod controls — progressing the game if it's stuck or not fun",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Mod controls — progressing the game if it's stuck or not fun",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    }
+  ]
+}

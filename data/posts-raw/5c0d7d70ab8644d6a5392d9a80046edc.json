@@ -1,0 +1,4105 @@
+{
+  "page": {
+    "id": "5c0d7d70ab8644d6a5392d9a80046edc",
+    "title": "Proposal: A Common App for EA Funding",
+    "date": "2022-02-02",
+    "edited": "2022-02-03T05:29:00.000Z",
+    "url": "https://akrolsmir.notion.site/Proposal-A-Common-App-for-EA-Funding-5c0d7d70ab8644d6a5392d9a80046edc",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "50dd02a1-3368-4895-b6de-30c00fe099fc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5c0d7d70-ab86-44d6-a539-2d9a80046edc"
+      },
+      "created_time": "2022-02-03T01:13:00.000Z",
+      "last_edited_time": "2022-02-03T02:00:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "TL;DR",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "TL;DR",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1c7e6c90-e1dc-4f9c-b16e-1ae010b97cca",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5c0d7d70-ab86-44d6-a539-2d9a80046edc"
+      },
+      "created_time": "2022-02-03T02:00:00.000Z",
+      "last_edited_time": "2022-02-03T02:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Manifold Markets",
+              "link": {
+                "url": "https://manifold.markets/home"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Manifold Markets",
+            "href": "https://manifold.markets/home"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " spent ~$3k in opportunity costs just applying for grants. A common application, shared between different funders in the EA space, could save time for applicants and surface more projects to funders.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " spent ~$3k in opportunity costs just applying for grants. A common application, shared between different funders in the EA space, could save time for applicants and surface more projects to funders.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "c8ed9988-d3c6-4220-823a-8db536ee4b69",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5c0d7d70-ab86-44d6-a539-2d9a80046edc"
+      },
+      "created_time": "2022-02-03T00:56:00.000Z",
+      "last_edited_time": "2022-02-03T01:54:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Background",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Background",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "23371ca2-0e62-41cb-ad2e-34182befc18a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5c0d7d70-ab86-44d6-a539-2d9a80046edc"
+      },
+      "created_time": "2022-02-03T00:56:00.000Z",
+      "last_edited_time": "2022-02-03T02:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Sources of grant funding Manifold has applied for:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Sources of grant funding Manifold has applied for:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "82568a7a-6fb7-4495-9937-18eff597dafa",
+          "parent": {
+            "type": "block_id",
+            "block_id": "23371ca2-0e62-41cb-ad2e-34182befc18a"
+          },
+          "created_time": "2022-02-03T00:56:00.000Z",
+          "last_edited_time": "2022-02-03T02:01:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "ACX Grants",
+                  "link": {
+                    "url": "https://astralcodexten.substack.com/p/apply-for-an-acx-grant"
+                  }
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "ACX Grants",
+                "href": "https://astralcodexten.substack.com/p/apply-for-an-acx-grant"
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "c3387ae6-5ac7-40ae-9de8-568c36f4107b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "23371ca2-0e62-41cb-ad2e-34182befc18a"
+          },
+          "created_time": "2022-02-03T00:57:00.000Z",
+          "last_edited_time": "2022-02-03T02:02:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "FTX EA Fellowships",
+                  "link": {
+                    "url": "https://forum.effectivealtruism.org/posts/sdjcH7KAxgB328RAb/ftx-ea-fellowships"
+                  }
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "FTX EA Fellowships",
+                "href": "https://forum.effectivealtruism.org/posts/sdjcH7KAxgB328RAb/ftx-ea-fellowships"
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "86d59b1d-369b-468e-978c-de83aba12633",
+          "parent": {
+            "type": "block_id",
+            "block_id": "23371ca2-0e62-41cb-ad2e-34182befc18a"
+          },
+          "created_time": "2022-02-03T00:57:00.000Z",
+          "last_edited_time": "2022-02-03T02:02:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "EA Funds",
+                  "link": {
+                    "url": "https://funds.effectivealtruism.org/"
+                  }
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "EA Funds",
+                "href": "https://funds.effectivealtruism.org/"
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "5d348756-fdb6-41bf-9b4a-5473db1d4168",
+          "parent": {
+            "type": "block_id",
+            "block_id": "23371ca2-0e62-41cb-ad2e-34182befc18a"
+          },
+          "created_time": "2022-02-03T00:57:00.000Z",
+          "last_edited_time": "2022-02-03T02:02:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Emergent Ventures",
+                  "link": {
+                    "url": "https://www.mercatus.org/emergent-ventures"
+                  }
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Emergent Ventures",
+                "href": "https://www.mercatus.org/emergent-ventures"
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "63d9922d-b82a-4004-bcda-323101c1a399",
+          "parent": {
+            "type": "block_id",
+            "block_id": "23371ca2-0e62-41cb-ad2e-34182befc18a"
+          },
+          "created_time": "2022-02-03T00:57:00.000Z",
+          "last_edited_time": "2022-02-03T02:03:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Pluralism and Civil Exchange Grant",
+                  "link": {
+                    "url": "https://www.mercatus.org/tags/pluralism-and-civil-exchange"
+                  }
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Pluralism and Civil Exchange Grant",
+                "href": "https://www.mercatus.org/tags/pluralism-and-civil-exchange"
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "47f1c215-e470-4bb5-9fa8-e19b09b298ef",
+          "parent": {
+            "type": "block_id",
+            "block_id": "23371ca2-0e62-41cb-ad2e-34182befc18a"
+          },
+          "created_time": "2022-02-03T01:45:00.000Z",
+          "last_edited_time": "2022-02-03T02:31:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Paul Christiano’s bounty",
+                  "link": {
+                    "url": "https://sideways-view.com/2019/10/27/prediction-markets-for-internet-points/"
+                  }
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Paul Christiano’s bounty",
+                "href": "https://sideways-view.com/2019/10/27/prediction-markets-for-internet-points/"
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "906fa315-980a-4355-9ad0-1efcaa0d6626",
+          "parent": {
+            "type": "block_id",
+            "block_id": "23371ca2-0e62-41cb-ad2e-34182befc18a"
+          },
+          "created_time": "2022-02-03T00:57:00.000Z",
+          "last_edited_time": "2022-02-03T02:06:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "And we’re now considering ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "And we’re now considering ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "SFF",
+                  "link": {
+                    "url": "https://survivalandflourishing.fund/"
+                  }
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "SFF",
+                "href": "https://survivalandflourishing.fund/"
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": " through ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": " through ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "Rethink Charity",
+                  "link": {
+                    "url": "https://rethink.charity/fiscal-sponsorship"
+                  }
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Rethink Charity",
+                "href": "https://rethink.charity/fiscal-sponsorship"
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "adcebc80-8113-4cf1-b368-bbf266abaffe",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5c0d7d70-ab86-44d6-a539-2d9a80046edc"
+      },
+      "created_time": "2022-02-03T00:58:00.000Z",
+      "last_edited_time": "2022-02-03T02:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Ballpark estimate: writing these applications up took about 1 fulltime day each",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Ballpark estimate: writing these applications up took about 1 fulltime day each",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "853a577d-1c2b-4026-bba2-8c84848fb6c0",
+          "parent": {
+            "type": "block_id",
+            "block_id": "adcebc80-8113-4cf1-b368-bbf266abaffe"
+          },
+          "created_time": "2022-02-03T01:32:00.000Z",
+          "last_edited_time": "2022-02-03T02:32:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Let’s call it 7 days * 8 hours * $50/hour = ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Let’s call it 7 days * 8 hours * $50/hour = ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "$2800 spent on writing applications",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "$2800 spent on writing applications",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "fc9caa11-b23d-4d33-a3cb-ed33f09b96b9",
+          "parent": {
+            "type": "block_id",
+            "block_id": "adcebc80-8113-4cf1-b368-bbf266abaffe"
+          },
+          "created_time": "2022-02-03T01:01:00.000Z",
+          "last_edited_time": "2022-02-03T02:31:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Seems high? Yeah, it seemed high to me too. Some funders (e.g. EA Funds) try to be nice and explicitly say “this should only be a 30min process”",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Seems high? Yeah, it seemed high to me too. Some funders (e.g. EA Funds) try to be nice and explicitly say “this should only be a 30min process”",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "e660960f-0bb7-4f8f-b093-70e8aa28a4b0",
+              "parent": {
+                "type": "block_id",
+                "block_id": "fc9caa11-b23d-4d33-a3cb-ed33f09b96b9"
+              },
+              "created_time": "2022-02-03T01:01:00.000Z",
+              "last_edited_time": "2022-02-03T02:16:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "But think about incentives: if we apply for a $100k grant, then a 5% increase in success rate is worth $5k. So if writing a good grant takes our probability of winning from 20% to 25% (which feels conservative), it’s easily worth at least one person’s entire day to do it.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "But think about incentives: if we apply for a $100k grant, then a 5% increase in success rate is worth $5k. So if writing a good grant takes our probability of winning from 20% to 25% (which feels conservative), it’s easily worth at least one person’s entire day to do it.",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "9f324aa2-7754-42ee-abb4-333956a8f83f",
+              "parent": {
+                "type": "block_id",
+                "block_id": "fc9caa11-b23d-4d33-a3cb-ed33f09b96b9"
+              },
+              "created_time": "2022-02-03T01:05:00.000Z",
+              "last_edited_time": "2022-02-03T02:32:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Also: think back to how long you spent on each of your college applications!",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Also: think back to how long you spent on each of your college applications!",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "d2fd7811-6e40-4910-8075-e70ee527cfb9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5c0d7d70-ab86-44d6-a539-2d9a80046edc"
+      },
+      "created_time": "2022-02-03T01:07:00.000Z",
+      "last_edited_time": "2022-02-03T02:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Applying for grants sucks (through no fault of the funders)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Applying for grants sucks (through no fault of the funders)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "feafbc63-fcda-4bcd-acdb-177cb9dc5826",
+          "parent": {
+            "type": "block_id",
+            "block_id": "d2fd7811-6e40-4910-8075-e70ee527cfb9"
+          },
+          "created_time": "2022-02-03T01:07:00.000Z",
+          "last_edited_time": "2022-02-03T01:07:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Takes a long time to hear back",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Takes a long time to hear back",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "f7ff90df-510b-491e-97f9-c3ba2ac9767f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "d2fd7811-6e40-4910-8075-e70ee527cfb9"
+          },
+          "created_time": "2022-02-03T01:07:00.000Z",
+          "last_edited_time": "2022-02-03T01:07:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "You get rejected a lot",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "You get rejected a lot",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "51a2890c-89be-413d-9b38-380c4bc40838",
+          "parent": {
+            "type": "block_id",
+            "block_id": "d2fd7811-6e40-4910-8075-e70ee527cfb9"
+          },
+          "created_time": "2022-02-03T01:07:00.000Z",
+          "last_edited_time": "2022-02-03T02:23:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Wastes time that you could be spending on Actually Doing Things",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Wastes time that you could be spending on Actually Doing Things",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "8759ad85-0cf7-4e1a-8d26-170ee1065a90",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5c0d7d70-ab86-44d6-a539-2d9a80046edc"
+      },
+      "created_time": "2022-02-03T02:17:00.000Z",
+      "last_edited_time": "2022-02-03T02:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Proposal: Create a Common App for EA funding",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Proposal: Create a Common App for EA funding",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "c3217aeb-a02b-4a8f-b8ca-a6dc92b4b76c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5c0d7d70-ab86-44d6-a539-2d9a80046edc"
+      },
+      "created_time": "2022-02-03T01:05:00.000Z",
+      "last_edited_time": "2022-02-03T02:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Examples of existing Common Apps",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Examples of existing Common Apps",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "118b1e37-8cc7-490a-b5e3-7e6cd1075b6e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5c0d7d70-ab86-44d6-a539-2d9a80046edc"
+      },
+      "created_time": "2022-02-03T01:07:00.000Z",
+      "last_edited_time": "2022-02-03T02:28:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Common App for undergrads",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Common App for undergrads",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "373eef28-c9ac-4243-a933-0ac7cb1ebbf8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5c0d7d70-ab86-44d6-a539-2d9a80046edc"
+      },
+      "created_time": "2022-02-03T01:34:00.000Z",
+      "last_edited_time": "2022-02-03T02:28:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Triplebyte for software engineer jobs",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Triplebyte for software engineer jobs",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "c1ae0ec0-ab4d-4ebd-aa41-d6328f7f56ad",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5c0d7d70-ab86-44d6-a539-2d9a80046edc"
+      },
+      "created_time": "2022-02-03T01:48:00.000Z",
+      "last_edited_time": "2022-02-03T02:28:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Angellist for startup angel investments",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Angellist for startup angel investments",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "f4053d4c-7acc-4330-b177-424fa4964c5d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5c0d7d70-ab86-44d6-a539-2d9a80046edc"
+      },
+      "created_time": "2022-02-03T01:05:00.000Z",
+      "last_edited_time": "2022-02-03T02:28:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "National Resident Matching Program for med school residents?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "National Resident Matching Program for med school residents?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "a65c683d-bd18-431e-9d0e-bbe7fa7c5a7a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5c0d7d70-ab86-44d6-a539-2d9a80046edc"
+      },
+      "created_time": "2022-02-03T01:10:00.000Z",
+      "last_edited_time": "2022-02-03T02:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "V0: A new standard",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "V0: A new standard",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "eb00320c-4c67-4ac0-96b5-a0ce94ef02d6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5c0d7d70-ab86-44d6-a539-2d9a80046edc"
+      },
+      "created_time": "2022-02-03T01:15:00.000Z",
+      "last_edited_time": "2022-02-03T05:29:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Two or more grantmaking orgs standardize on a set of questions to ask (eg Google Form). Here are the common questions we’ve seen:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Two or more grantmaking orgs standardize on a set of questions to ask (eg Google Form). Here are the common questions we’ve seen:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "42f5d914-c3e2-4985-a89d-c699e49e611d",
+          "parent": {
+            "type": "block_id",
+            "block_id": "eb00320c-4c67-4ac0-96b5-a0ce94ef02d6"
+          },
+          "created_time": "2022-02-03T01:09:00.000Z",
+          "last_edited_time": "2022-02-03T02:03:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Two sentence intro",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Two sentence intro",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "a7c23010-e58e-4a1e-9643-49a248db0941",
+          "parent": {
+            "type": "block_id",
+            "block_id": "eb00320c-4c67-4ac0-96b5-a0ce94ef02d6"
+          },
+          "created_time": "2022-02-03T01:09:00.000Z",
+          "last_edited_time": "2022-02-03T02:03:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "One page project explainer",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "One page project explainer",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "70491de1-e142-4013-bc75-68cf07f6a08b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "eb00320c-4c67-4ac0-96b5-a0ce94ef02d6"
+          },
+          "created_time": "2022-02-03T01:10:00.000Z",
+          "last_edited_time": "2022-02-03T02:03:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Bios of people running the project",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Bios of people running the project",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "5d0eaffc-5bbf-4fe8-af04-4b75b95ead89",
+          "parent": {
+            "type": "block_id",
+            "block_id": "eb00320c-4c67-4ac0-96b5-a0ce94ef02d6"
+          },
+          "created_time": "2022-02-03T01:53:00.000Z",
+          "last_edited_time": "2022-02-03T02:03:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "How much money do you want",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "How much money do you want",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "db597fb7-0f13-4db3-9ec0-2d3bbd1c1792",
+          "parent": {
+            "type": "block_id",
+            "block_id": "eb00320c-4c67-4ac0-96b5-a0ce94ef02d6"
+          },
+          "created_time": "2022-02-03T01:10:00.000Z",
+          "last_edited_time": "2022-02-03T02:03:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "What you’ll do with the money",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "What you’ll do with the money",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "f1d9baca-2a67-4578-be7a-eb82e4cb6d3d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5c0d7d70-ab86-44d6-a539-2d9a80046edc"
+      },
+      "created_time": "2022-02-03T01:15:00.000Z",
+      "last_edited_time": "2022-02-03T02:28:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Opt-in public database where other granters can see proposals (eg Google Spreadsheet)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Opt-in public database where other granters can see proposals (eg Google Spreadsheet)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "327d0a75-46df-46d9-ac1b-9936b26df19e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5c0d7d70-ab86-44d6-a539-2d9a80046edc"
+      },
+      "created_time": "2022-02-03T01:15:00.000Z",
+      "last_edited_time": "2022-02-03T05:28:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "V1: A new website",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "V1: A new website",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "c954e8f4-6008-444a-8e38-1775452e7fb3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5c0d7d70-ab86-44d6-a539-2d9a80046edc"
+      },
+      "created_time": "2022-02-03T01:55:00.000Z",
+      "last_edited_time": "2022-02-03T05:28:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Funders can set up profiles, listing:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Funders can set up profiles, listing:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "75607522-4ea9-417e-971f-14aa8f3c39cb",
+          "parent": {
+            "type": "block_id",
+            "block_id": "c954e8f4-6008-444a-8e38-1775452e7fb3"
+          },
+          "created_time": "2022-02-03T01:56:00.000Z",
+          "last_edited_time": "2022-02-03T05:28:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "What they’re looking for",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "What they’re looking for",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "f311a759-52ac-435b-a335-f159c9c620af",
+          "parent": {
+            "type": "block_id",
+            "block_id": "c954e8f4-6008-444a-8e38-1775452e7fb3"
+          },
+          "created_time": "2022-02-03T05:28:00.000Z",
+          "last_edited_time": "2022-02-03T05:28:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Funding timelines",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Funding timelines",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "2feaf6e8-78ad-4526-89b9-77eb5674d691",
+          "parent": {
+            "type": "block_id",
+            "block_id": "c954e8f4-6008-444a-8e38-1775452e7fb3"
+          },
+          "created_time": "2022-02-03T05:28:00.000Z",
+          "last_edited_time": "2022-02-03T05:28:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Decision criteria",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Decision criteria",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "4c49c15c-fe6f-4bf5-9549-2a1e87991bf0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5c0d7d70-ab86-44d6-a539-2d9a80046edc"
+      },
+      "created_time": "2022-02-03T01:16:00.000Z",
+      "last_edited_time": "2022-02-03T02:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Applicants can submit grant proposals to multiple funders at once",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Applicants can submit grant proposals to multiple funders at once",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "e7a7b521-546b-4ab9-8781-5f1d48ec17aa",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5c0d7d70-ab86-44d6-a539-2d9a80046edc"
+      },
+      "created_time": "2022-02-03T01:17:00.000Z",
+      "last_edited_time": "2022-02-03T02:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Grantmaking orgs can browse through public proposals on an ongoing basis",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Grantmaking orgs can browse through public proposals on an ongoing basis",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1adefbcb-b21a-4aed-aae6-0d7f4e608a64",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5c0d7d70-ab86-44d6-a539-2d9a80046edc"
+      },
+      "created_time": "2022-02-03T01:30:00.000Z",
+      "last_edited_time": "2022-02-03T02:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "V2: And beyond",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "V2: And beyond",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "5e665bab-4d06-4084-9019-a6624cb491b8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5c0d7d70-ab86-44d6-a539-2d9a80046edc"
+      },
+      "created_time": "2022-02-03T02:33:00.000Z",
+      "last_edited_time": "2022-02-03T05:28:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "The platform could allow funders to coordinate on particular projects",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "The platform could allow funders to coordinate on particular projects",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "2a133b61-3fe3-4f5e-a4e1-aa61f556d265",
+          "parent": {
+            "type": "block_id",
+            "block_id": "5e665bab-4d06-4084-9019-a6624cb491b8"
+          },
+          "created_time": "2022-02-03T02:34:00.000Z",
+          "last_edited_time": "2022-02-03T05:27:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Share vetting notes and decisions",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Share vetting notes and decisions",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "78371ffc-5315-4192-900e-8de1aae814c5",
+          "parent": {
+            "type": "block_id",
+            "block_id": "5e665bab-4d06-4084-9019-a6624cb491b8"
+          },
+          "created_time": "2022-02-03T02:34:00.000Z",
+          "last_edited_time": "2022-02-03T05:27:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Split up what portion of funding gap to fill",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Split up what portion of funding gap to fill",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "8ef4a5ab-42cb-4675-bf12-61374a49591f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5c0d7d70-ab86-44d6-a539-2d9a80046edc"
+      },
+      "created_time": "2022-02-03T01:30:00.000Z",
+      "last_edited_time": "2022-02-03T05:28:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Grant proposals could be opened to the public ala Kickstarter?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Grant proposals could be opened to the public ala Kickstarter?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "6ec20c5b-0921-42f5-8c22-907e7e1b5322",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5c0d7d70-ab86-44d6-a539-2d9a80046edc"
+      },
+      "created_time": "2022-02-03T01:30:00.000Z",
+      "last_edited_time": "2022-02-03T05:28:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Quadratic funding",
+              "link": {
+                "url": "https://vitalik.ca/general/2019/12/07/quadratic.html"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Quadratic funding",
+            "href": "https://vitalik.ca/general/2019/12/07/quadratic.html"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " could be used to (see ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " could be used to (see ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Gitcoin Grants",
+              "link": {
+                "url": "https://gitcoin.co/grants/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Gitcoin Grants",
+            "href": "https://gitcoin.co/grants/"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ")",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ")",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2e3279ce-7ce4-4512-9498-5ecf232b22dd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5c0d7d70-ab86-44d6-a539-2d9a80046edc"
+      },
+      "created_time": "2022-02-03T01:26:00.000Z",
+      "last_edited_time": "2022-02-03T02:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Problems a Common App could solve",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Problems a Common App could solve",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "0c4199da-bcf0-48b0-9513-90f6f65f90f7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5c0d7d70-ab86-44d6-a539-2d9a80046edc"
+      },
+      "created_time": "2022-02-03T01:26:00.000Z",
+      "last_edited_time": "2022-02-03T02:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Applicants save time applying to different funds",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Applicants save time applying to different funds",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3a56f3fa-6842-42b2-92ce-a80f7595182e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5c0d7d70-ab86-44d6-a539-2d9a80046edc"
+      },
+      "created_time": "2022-02-03T01:40:00.000Z",
+      "last_edited_time": "2022-02-03T02:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Applicants can discover more funding sources",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Applicants can discover more funding sources",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "916307ed-f5d5-4128-9b85-29002dab4e8e",
+          "parent": {
+            "type": "block_id",
+            "block_id": "3a56f3fa-6842-42b2-92ce-a80f7595182e"
+          },
+          "created_time": "2022-02-03T01:40:00.000Z",
+          "last_edited_time": "2022-02-03T02:09:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Navigating EA funding has been tricky, e.g. we thought Manifold (not being a 501c3) was ineligible for SFF, until Nuno mentioned Rethink Charity. And I’m fairly deep into EA!",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Navigating EA funding has been tricky, e.g. we thought Manifold (not being a 501c3) was ineligible for SFF, until Nuno mentioned Rethink Charity. And I’m fairly deep into EA!",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "da4714d8-8724-42be-8b0e-81ba051fa36a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5c0d7d70-ab86-44d6-a539-2d9a80046edc"
+      },
+      "created_time": "2022-02-03T01:27:00.000Z",
+      "last_edited_time": "2022-02-03T01:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Funders can see more project applications",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Funders can see more project applications",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "d93c7a00-47bb-4b1f-96f8-901d53f4156a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5c0d7d70-ab86-44d6-a539-2d9a80046edc"
+      },
+      "created_time": "2022-02-03T01:31:00.000Z",
+      "last_edited_time": "2022-02-03T02:07:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "New funders like Scott can get started without needing to invent infrastructure from whole cloth",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "New funders like Scott can get started without needing to invent infrastructure from whole cloth",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "277b2260-2847-4b33-9714-84ee4de9a9d4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5c0d7d70-ab86-44d6-a539-2d9a80046edc"
+      },
+      "created_time": "2022-02-03T01:57:00.000Z",
+      "last_edited_time": "2022-02-03T02:07:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Funders can see who else is funding and adjust accordingly, reducing over & underfunding",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Funders can see who else is funding and adjust accordingly, reducing over & underfunding",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "ef7cd779-cf1b-4d10-a134-4c0eab69ff83",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5c0d7d70-ab86-44d6-a539-2d9a80046edc"
+      },
+      "created_time": "2022-02-03T05:12:00.000Z",
+      "last_edited_time": "2022-02-03T05:12:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "5ae66ad2-6f51-448c-a224-064262cf741e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5c0d7d70-ab86-44d6-a539-2d9a80046edc"
+      },
+      "created_time": "2022-02-03T05:12:00.000Z",
+      "last_edited_time": "2022-02-03T05:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Cost effectiveness estimate",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Cost effectiveness estimate",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "a0d6ab01-0c90-4b7d-8893-d71c6710d40d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5c0d7d70-ab86-44d6-a539-2d9a80046edc"
+      },
+      "created_time": "2022-02-03T05:13:00.000Z",
+      "last_edited_time": "2022-02-03T05:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "warning, here be dragons",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "warning, here be dragons",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "0505133a-9935-4a0c-b83a-3aa34796b18f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5c0d7d70-ab86-44d6-a539-2d9a80046edc"
+      },
+      "created_time": "2022-02-03T05:13:00.000Z",
+      "last_edited_time": "2022-02-03T05:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "There were 656 applicants to the first round of ACX grants.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "There were 656 applicants to the first round of ACX grants.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "7b641102-e863-4dd7-b4f0-ffd0e62fec37",
+          "parent": {
+            "type": "block_id",
+            "block_id": "0505133a-9935-4a0c-b83a-3aa34796b18f"
+          },
+          "created_time": "2022-02-03T05:17:00.000Z",
+          "last_edited_time": "2022-02-03T05:17:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "If 10% of those continue on to apply to EA Funds,",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "If 10% of those continue on to apply to EA Funds,",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "b5474b50-c3bf-44d8-8fcc-a1b0c2e20dfc",
+          "parent": {
+            "type": "block_id",
+            "block_id": "0505133a-9935-4a0c-b83a-3aa34796b18f"
+          },
+          "created_time": "2022-02-03T05:17:00.000Z",
+          "last_edited_time": "2022-02-03T05:18:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "and 10% apply to the FTX EA Fellowship,",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "and 10% apply to the FTX EA Fellowship,",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "4cdf24e5-3355-4229-a802-e1375b90d2f4",
+          "parent": {
+            "type": "block_id",
+            "block_id": "0505133a-9935-4a0c-b83a-3aa34796b18f"
+          },
+          "created_time": "2022-02-03T05:17:00.000Z",
+          "last_edited_time": "2022-02-03T05:18:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "and a common application saves 1 hour per additional application",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "and a common application saves 1 hour per additional application",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "2ef7ee81-776b-4ae1-ae5e-8e0fb45eb7e2",
+          "parent": {
+            "type": "block_id",
+            "block_id": "0505133a-9935-4a0c-b83a-3aa34796b18f"
+          },
+          "created_time": "2022-02-03T05:17:00.000Z",
+          "last_edited_time": "2022-02-03T05:18:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "that’s 130 hours saved, or about 3 weeks of full-time work",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "that’s 130 hours saved, or about 3 weeks of full-time work",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "e3eb8c8a-0c66-45e2-976d-8265fab537b7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5c0d7d70-ab86-44d6-a539-2d9a80046edc"
+      },
+      "created_time": "2022-02-03T05:18:00.000Z",
+      "last_edited_time": "2022-02-03T05:26:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "3 weeks of full-time work is also my rough estimate of how long V0 and V1 would take to build out; so after a single grant round, the Common App would pay for itself. ACX and FTX have both indicated interest in future rounds, and EA Funds presumably will be open for a long time.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "3 weeks of full-time work is also my rough estimate of how long V0 and V1 would take to build out; so after a single grant round, the Common App would pay for itself. ACX and FTX have both indicated interest in future rounds, and EA Funds presumably will be open for a long time.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "f5638bf7-9536-448b-a28e-c704c46d6358",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5c0d7d70-ab86-44d6-a539-2d9a80046edc"
+      },
+      "created_time": "2022-02-03T05:21:00.000Z",
+      "last_edited_time": "2022-02-03T05:26:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "(This calculation doesn’t include funder time saved, or the positive externality of more/better proposals being funded through a standardized system. You may also want to discount for a less than 100% chance of success, and the opportunity cost for an engineer-hour vs the average applicant-hour.)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "(This calculation doesn’t include funder time saved, or the positive externality of more/better proposals being funded through a standardized system. You may also want to discount for a less than 100% chance of success, and the opportunity cost for an engineer-hour vs the average applicant-hour.)",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "f0a42c1c-2290-45a1-ab5c-4be8ae6076ed",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5c0d7d70-ab86-44d6-a539-2d9a80046edc"
+      },
+      "created_time": "2022-02-03T01:07:00.000Z",
+      "last_edited_time": "2022-02-03T01:58:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Caveats",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Caveats",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2e5d5970-b91f-4894-9105-1e9c813a1810",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5c0d7d70-ab86-44d6-a539-2d9a80046edc"
+      },
+      "created_time": "2022-02-03T01:11:00.000Z",
+      "last_edited_time": "2022-02-03T02:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Funders may have specific criteria they’re looking to fund",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Funders may have specific criteria they’re looking to fund",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "c68a0ff0-4eb2-4f2a-a4b1-b4b68c500135",
+          "parent": {
+            "type": "block_id",
+            "block_id": "2e5d5970-b91f-4894-9105-1e9c813a1810"
+          },
+          "created_time": "2022-02-03T01:11:00.000Z",
+          "last_edited_time": "2022-02-03T02:29:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "But just like the college Common App, funders can add supplementary questions, essays, or interviews",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "But just like the college Common App, funders can add supplementary questions, essays, or interviews",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "2ce842dd-d670-4504-9bd7-5728acc5c09b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5c0d7d70-ab86-44d6-a539-2d9a80046edc"
+      },
+      "created_time": "2022-02-03T01:07:00.000Z",
+      "last_edited_time": "2022-02-03T02:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Increasing the total number of applicants could increase filtering load on funders",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Increasing the total number of applicants could increase filtering load on funders",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "82e48a11-d670-4a25-8564-6dfc21e900eb",
+          "parent": {
+            "type": "block_id",
+            "block_id": "2ce842dd-d670-4504-9bd7-5728acc5c09b"
+          },
+          "created_time": "2022-02-03T01:49:00.000Z",
+          "last_edited_time": "2022-02-03T01:50:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Solution: funders with too much work add more essays, or delist themselves",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Solution: funders with too much work add more essays, or delist themselves",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "a7f9b199-0229-4fec-a20b-797df15e8bd9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5c0d7d70-ab86-44d6-a539-2d9a80046edc"
+      },
+      "created_time": "2022-02-03T01:08:00.000Z",
+      "last_edited_time": "2022-02-03T01:10:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Big chunk of value of winning a grant is in the prestige of winning",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Big chunk of value of winning a grant is in the prestige of winning",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "e750e90b-7662-4fa2-9587-1052755f20a2",
+          "parent": {
+            "type": "block_id",
+            "block_id": "a7f9b199-0229-4fec-a20b-797df15e8bd9"
+          },
+          "created_time": "2022-02-03T01:09:00.000Z",
+          "last_edited_time": "2022-02-03T02:27:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "But individual funders can still publicize the grants they chose to distribute",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "But individual funders can still publicize the grants they chose to distribute",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "5a731891-b2fa-4d16-8286-e091a516eb27",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5c0d7d70-ab86-44d6-a539-2d9a80046edc"
+      },
+      "created_time": "2022-02-03T01:10:00.000Z",
+      "last_edited_time": "2022-02-03T02:26:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Another chunk of grant value is in the network of other winners",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Another chunk of grant value is in the network of other winners",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "433cdf59-6cdc-465b-a0d3-dd6d1a4a3283",
+          "parent": {
+            "type": "block_id",
+            "block_id": "5a731891-b2fa-4d16-8286-e091a516eb27"
+          },
+          "created_time": "2022-02-03T01:10:00.000Z",
+          "last_edited_time": "2022-02-03T02:27:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Again, funders can still do this",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Again, funders can still do this",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "2f3fc99c-3f70-4c06-9ca5-b77da94f2ca1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5c0d7d70-ab86-44d6-a539-2d9a80046edc"
+      },
+      "created_time": "2022-02-03T01:12:00.000Z",
+      "last_edited_time": "2022-02-03T02:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Getting any marketplace/network off the ground is hard (aka cost of convincing funders to get on board)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Getting any marketplace/network off the ground is hard (aka cost of convincing funders to get on board)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "a722071b-0e95-49cc-b56f-0c199a485961",
+          "parent": {
+            "type": "block_id",
+            "block_id": "2f3fc99c-3f70-4c06-9ca5-b77da94f2ca1"
+          },
+          "created_time": "2022-02-03T01:26:00.000Z",
+          "last_edited_time": "2022-02-03T02:12:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "E.g. Would Tyler Cowen want to run Emergent Ventures through this common app?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "E.g. Would Tyler Cowen want to run Emergent Ventures through this common app?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "53bfb379-f508-43fd-9a32-7922e9ad8416",
+          "parent": {
+            "type": "block_id",
+            "block_id": "2f3fc99c-3f70-4c06-9ca5-b77da94f2ca1"
+          },
+          "created_time": "2022-02-03T01:42:00.000Z",
+          "last_edited_time": "2022-02-03T02:38:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Don’t think this is a huge issue; a common app is already usable if any single funder uses it, and valuable once 2+ funders do",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Don’t think this is a huge issue; a common app is already usable if any single funder uses it, and valuable once 2+ funders do",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "9dca441d-ce4e-456d-a98d-3662749f0c46",
+              "parent": {
+                "type": "block_id",
+                "block_id": "53bfb379-f508-43fd-9a32-7922e9ad8416"
+              },
+              "created_time": "2022-02-03T01:42:00.000Z",
+              "last_edited_time": "2022-02-03T02:38:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Also, the common app could branch out of EA, and work for charities in general (and hopefully draw in more people towards EA causes)",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Also, the common app could branch out of EA, and work for charities in general (and hopefully draw in more people towards EA causes)",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "d2b0dc85-82a2-49f1-83b3-8008b27b3773",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5c0d7d70-ab86-44d6-a539-2d9a80046edc"
+      },
+      "created_time": "2022-02-03T02:11:00.000Z",
+      "last_edited_time": "2022-02-03T02:30:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Opportunity cost of building this out",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Opportunity cost of building this out",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "0e66d0bd-a9e8-4e0c-bb0e-05c19f1ac376",
+          "parent": {
+            "type": "block_id",
+            "block_id": "d2b0dc85-82a2-49f1-83b3-8008b27b3773"
+          },
+          "created_time": "2022-02-03T02:14:00.000Z",
+          "last_edited_time": "2022-02-03T02:15:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "2-4 weeks of 1 full-time engineer",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "2-4 weeks of 1 full-time engineer",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "4121057b-4114-4b47-9da3-3c01ec1d52c8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5c0d7d70-ab86-44d6-a539-2d9a80046edc"
+      },
+      "created_time": "2022-02-03T01:50:00.000Z",
+      "last_edited_time": "2022-02-03T02:30:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "A new common app might compete for funding mindshare",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "A new common app might compete for funding mindshare",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "a45b751c-566b-4f4c-b4bb-4dd1065de259",
+          "parent": {
+            "type": "block_id",
+            "block_id": "4121057b-4114-4b47-9da3-3c01ec1d52c8"
+          },
+          "created_time": "2022-02-03T01:50:00.000Z",
+          "last_edited_time": "2022-02-03T01:51:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "image",
+          "image": {
+            "caption": [],
+            "type": "external",
+            "external": {
+              "url": "https://imgs.xkcd.com/comics/standards.png"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "bd975bff-9844-430b-beda-2fa1b8759be2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5c0d7d70-ab86-44d6-a539-2d9a80046edc"
+      },
+      "created_time": "2022-02-03T01:51:00.000Z",
+      "last_edited_time": "2022-02-03T02:30:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Maybe this is what EA Funds already is?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Maybe this is what EA Funds already is?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "d99d3c2b-e581-4008-b413-162ba8ae1999",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5c0d7d70-ab86-44d6-a539-2d9a80046edc"
+      },
+      "created_time": "2022-02-03T01:25:00.000Z",
+      "last_edited_time": "2022-02-03T02:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Unknown unknowns: maybe I don’t understand the funding space",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Unknown unknowns: maybe I don’t understand the funding space",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "29e33502-4259-4688-856b-479e5a2d3abd",
+          "parent": {
+            "type": "block_id",
+            "block_id": "d99d3c2b-e581-4008-b413-162ba8ae1999"
+          },
+          "created_time": "2022-02-03T01:18:00.000Z",
+          "last_edited_time": "2022-02-03T02:10:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Haven’t done much grantmaking myself; would love to chat with grantmaking orgs!",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Haven’t done much grantmaking myself; would love to chat with grantmaking orgs!",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "0a2c9b2d-6cfe-43e5-9995-5eafcc365212",
+          "parent": {
+            "type": "block_id",
+            "block_id": "d99d3c2b-e581-4008-b413-162ba8ae1999"
+          },
+          "created_time": "2022-02-03T01:29:00.000Z",
+          "last_edited_time": "2022-02-03T02:10:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Maybe grantmakers already have too many applications to review",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Maybe grantmakers already have too many applications to review",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "c3b17f73-4249-49f6-be6e-a0576bf8740e",
+          "parent": {
+            "type": "block_id",
+            "block_id": "d99d3c2b-e581-4008-b413-162ba8ae1999"
+          },
+          "created_time": "2022-02-03T01:29:00.000Z",
+          "last_edited_time": "2022-02-03T01:50:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Maybe most grant applicants only fit for one or two categories, and have an easy time discovering those",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Maybe most grant applicants only fit for one or two categories, and have an easy time discovering those",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "13a0f787-b1e1-43f2-bf6f-35aa574f35b4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5c0d7d70-ab86-44d6-a539-2d9a80046edc"
+      },
+      "created_time": "2022-02-03T01:18:00.000Z",
+      "last_edited_time": "2022-02-03T02:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Who should implement this?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Who should implement this?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "23cde915-50f1-4966-aeee-0e7e5130e41d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5c0d7d70-ab86-44d6-a539-2d9a80046edc"
+      },
+      "created_time": "2022-02-03T01:20:00.000Z",
+      "last_edited_time": "2022-02-03T01:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "EA Funds, probably",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "EA Funds, probably",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "ca77bdb9-649a-413b-a2fd-7bce38a1f0b4",
+          "parent": {
+            "type": "block_id",
+            "block_id": "23cde915-50f1-4966-aeee-0e7e5130e41d"
+          },
+          "created_time": "2022-02-03T01:21:00.000Z",
+          "last_edited_time": "2022-02-03T01:59:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "ACX Grants already runs through EA Funds infrastructure",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "ACX Grants already runs through EA Funds infrastructure",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "5421d577-f9db-4f6b-a785-f9210c472feb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5c0d7d70-ab86-44d6-a539-2d9a80046edc"
+      },
+      "created_time": "2022-02-03T01:23:00.000Z",
+      "last_edited_time": "2022-02-03T02:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Lightcone/LessWrong team, maybe",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Lightcone/LessWrong team, maybe",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "5db7bcf1-c76d-4616-8441-bbc5baf87706",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5c0d7d70-ab86-44d6-a539-2d9a80046edc"
+      },
+      "created_time": "2022-02-03T01:23:00.000Z",
+      "last_edited_time": "2022-02-03T02:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Manifold could build this as a side project... if somebody wants to fund us to do it 😉",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Manifold could build this as a side project... if somebody wants to fund us to do it 😉",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    }
+  ]
+}

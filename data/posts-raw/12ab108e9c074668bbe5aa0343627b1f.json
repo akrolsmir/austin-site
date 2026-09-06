@@ -1,0 +1,827 @@
+{
+  "page": {
+    "id": "12ab108e9c074668bbe5aa0343627b1f",
+    "title": "Product < People < Process",
+    "date": "2022-06-13",
+    "edited": "2022-06-13T17:10:00.000Z",
+    "url": "https://akrolsmir.notion.site/Product-People-Process-12ab108e9c074668bbe5aa0343627b1f",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "dece3e61-0a07-43c6-b71c-4faaf73a825f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "12ab108e-9c07-4668-bbe5-aa0343627b1f"
+      },
+      "created_time": "2022-06-13T17:07:00.000Z",
+      "last_edited_time": "2022-06-13T17:07:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Product",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Product",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1c6df460-0d2f-4e31-a205-ac3392812079",
+      "parent": {
+        "type": "page_id",
+        "page_id": "12ab108e-9c07-4668-bbe5-aa0343627b1f"
+      },
+      "created_time": "2022-06-13T17:07:00.000Z",
+      "last_edited_time": "2022-06-13T17:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "The thing that you make, the thing that you sell",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "The thing that you make, the thing that you sell",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1c1e688f-4eb0-4307-93f4-88e8756161cf",
+      "parent": {
+        "type": "page_id",
+        "page_id": "12ab108e-9c07-4668-bbe5-aa0343627b1f"
+      },
+      "created_time": "2022-06-13T17:09:00.000Z",
+      "last_edited_time": "2022-06-13T17:10:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Pretty important! With a good product, you can make millions",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Pretty important! With a good product, you can make millions",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "53f9965b-4271-42fb-b43e-344635a38b9c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "12ab108e-9c07-4668-bbe5-aa0343627b1f"
+      },
+      "created_time": "2022-06-13T17:07:00.000Z",
+      "last_edited_time": "2022-06-13T17:07:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "b38b788c-cd48-4112-8b95-28e6852b7708",
+      "parent": {
+        "type": "page_id",
+        "page_id": "12ab108e-9c07-4668-bbe5-aa0343627b1f"
+      },
+      "created_time": "2022-06-13T17:07:00.000Z",
+      "last_edited_time": "2022-06-13T17:07:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "People",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "People",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "0d70822b-88e4-439d-b7fa-639b3d3a193d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "12ab108e-9c07-4668-bbe5-aa0343627b1f"
+      },
+      "created_time": "2022-06-13T17:07:00.000Z",
+      "last_edited_time": "2022-06-13T17:07:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Everyone says “people are the most important”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Everyone says “people are the most important”",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "cdd5f2aa-4320-469e-936e-2b4c82cf7897",
+      "parent": {
+        "type": "page_id",
+        "page_id": "12ab108e-9c07-4668-bbe5-aa0343627b1f"
+      },
+      "created_time": "2022-06-13T17:07:00.000Z",
+      "last_edited_time": "2022-06-13T17:07:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Kind of! Good people will fix a bad product, or set up a new one",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Kind of! Good people will fix a bad product, or set up a new one",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "35f7cd65-50f2-497f-b4b1-75f964b79bce",
+      "parent": {
+        "type": "page_id",
+        "page_id": "12ab108e-9c07-4668-bbe5-aa0343627b1f"
+      },
+      "created_time": "2022-06-13T17:09:00.000Z",
+      "last_edited_time": "2022-06-13T17:10:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "With the right people, you can make billions",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "With the right people, you can make billions",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2aea95e8-7a72-4e62-a8df-07917d61ce4b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "12ab108e-9c07-4668-bbe5-aa0343627b1f"
+      },
+      "created_time": "2022-06-13T17:10:00.000Z",
+      "last_edited_time": "2022-06-13T17:10:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "664c6062-a318-451d-90a1-b21ca86bc6cb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "12ab108e-9c07-4668-bbe5-aa0343627b1f"
+      },
+      "created_time": "2022-06-13T17:07:00.000Z",
+      "last_edited_time": "2022-06-13T17:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Process",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Process",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "c5882d54-efe3-4e99-a47f-cab057e618c6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "12ab108e-9c07-4668-bbe5-aa0343627b1f"
+      },
+      "created_time": "2022-06-13T17:07:00.000Z",
+      "last_edited_time": "2022-06-13T17:07:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Gwern: Why don’t companies replicate?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Gwern: Why don’t companies replicate?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "6ea23bc3-5f17-400f-9581-46127a00f651",
+      "parent": {
+        "type": "page_id",
+        "page_id": "12ab108e-9c07-4668-bbe5-aa0343627b1f"
+      },
+      "created_time": "2022-06-13T17:08:00.000Z",
+      "last_edited_time": "2022-06-13T17:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Rule of law",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Rule of law",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "24000daf-02af-4359-b52e-53c772b966a1",
+          "parent": {
+            "type": "block_id",
+            "block_id": "6ea23bc3-5f17-400f-9581-46127a00f651"
+          },
+          "created_time": "2022-06-13T17:08:00.000Z",
+          "last_edited_time": "2022-06-13T17:08:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Claim: US process is the magic that made things work",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Claim: US process is the magic that made things work",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "d440e342-3a0a-4033-976c-e9845c7c2480",
+          "parent": {
+            "type": "block_id",
+            "block_id": "6ea23bc3-5f17-400f-9581-46127a00f651"
+          },
+          "created_time": "2022-06-13T17:08:00.000Z",
+          "last_edited_time": "2022-06-13T17:08:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Not specific leaders, but the framework that was set up by the founders",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Not specific leaders, but the framework that was set up by the founders",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "27330283-a773-4908-9309-e0133d31c70f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "12ab108e-9c07-4668-bbe5-aa0343627b1f"
+      },
+      "created_time": "2022-06-13T17:08:00.000Z",
+      "last_edited_time": "2022-06-13T17:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Governance",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Governance",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "19c45af5-0f74-47e2-b912-2af07df525ab",
+          "parent": {
+            "type": "block_id",
+            "block_id": "27330283-a773-4908-9309-e0133d31c70f"
+          },
+          "created_time": "2022-06-13T17:08:00.000Z",
+          "last_edited_time": "2022-06-13T17:09:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Needs more experiment",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Needs more experiment",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "ed8c5aff-d256-4ce4-be18-0ce4defa551d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "12ab108e-9c07-4668-bbe5-aa0343627b1f"
+      },
+      "created_time": "2022-06-13T17:09:00.000Z",
+      "last_edited_time": "2022-06-13T17:10:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "With good process, “you” (the US) can make trillions",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "With good process, “you” (the US) can make trillions",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "c7796672-3887-4fc8-90b1-fbcbfbed1bac",
+      "parent": {
+        "type": "page_id",
+        "page_id": "12ab108e-9c07-4668-bbe5-aa0343627b1f"
+      },
+      "created_time": "2022-06-13T17:08:00.000Z",
+      "last_edited_time": "2022-06-13T17:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Few companies have figured this out",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Few companies have figured this out",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "fe48af33-781d-4303-b561-fe52a0824c9f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "12ab108e-9c07-4668-bbe5-aa0343627b1f"
+      },
+      "created_time": "2022-06-13T17:08:00.000Z",
+      "last_edited_time": "2022-06-13T17:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Google? with Waymo, Bets, etc",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Google? with Waymo, Bets, etc",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "7426a858-85ab-447c-9f16-aacbccd60d08",
+      "parent": {
+        "type": "page_id",
+        "page_id": "12ab108e-9c07-4668-bbe5-aa0343627b1f"
+      },
+      "created_time": "2022-06-13T17:08:00.000Z",
+      "last_edited_time": "2022-06-13T17:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [],
+        "color": "default"
+      }
+    }
+  ]
+}

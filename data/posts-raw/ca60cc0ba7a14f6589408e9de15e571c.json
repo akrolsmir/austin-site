@@ -1,0 +1,543 @@
+{
+  "page": {
+    "id": "ca60cc0ba7a14f6589408e9de15e571c",
+    "title": "Things I’ve tried for a month",
+    "date": "2023-05-11T09:12:00.000+00:00",
+    "edited": "2023-05-11T09:16:00.000Z",
+    "url": "https://akrolsmir.notion.site/Things-I-ve-tried-for-a-month-ca60cc0ba7a14f6589408e9de15e571c",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "6c066349-6831-4e2b-85d4-ea55751fb301",
+      "parent": {
+        "type": "page_id",
+        "page_id": "ca60cc0b-a7a1-4f65-8940-8e9de15e571c"
+      },
+      "created_time": "2023-05-11T09:13:00.000Z",
+      "last_edited_time": "2023-05-11T09:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Not eating out (Lent 2023)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Not eating out (Lent 2023)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "4720739a-563f-4d2b-a101-2e368ffd7d53",
+      "parent": {
+        "type": "page_id",
+        "page_id": "ca60cc0b-a7a1-4f65-8940-8e9de15e571c"
+      },
+      "created_time": "2023-05-11T09:12:00.000Z",
+      "last_edited_time": "2023-05-11T09:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Drawing something every day (Inktober 2021)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Drawing something every day (Inktober 2021)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "d92b2d31-5532-49e8-ab4f-5455e95fb613",
+      "parent": {
+        "type": "page_id",
+        "page_id": "ca60cc0b-a7a1-4f65-8940-8e9de15e571c"
+      },
+      "created_time": "2023-05-11T09:15:00.000Z",
+      "last_edited_time": "2023-05-11T09:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Write part of a book (Nanowrimo 2016? 2017?)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Write part of a book (Nanowrimo 2016? 2017?)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "47d13973-01cc-4817-b4da-65d3852753c1",
+          "parent": {
+            "type": "block_id",
+            "block_id": "d92b2d31-5532-49e8-ab4f-5455e95fb613"
+          },
+          "created_time": "2023-05-11T09:15:00.000Z",
+          "last_edited_time": "2023-05-11T09:15:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "I’ve tried this on two separate years and never got very far. Writing fiction just might not really be my thing, especially longform fiction.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "I’ve tried this on two separate years and never got very far. Writing fiction just might not really be my thing, especially longform fiction.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "211cba93-1e70-4fbb-801a-d9f87c839001",
+      "parent": {
+        "type": "page_id",
+        "page_id": "ca60cc0b-a7a1-4f65-8940-8e9de15e571c"
+      },
+      "created_time": "2023-05-11T09:13:00.000Z",
+      "last_edited_time": "2023-05-11T09:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "65573176-d6b0-4800-aa6f-4f0d1a3edbc7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "ca60cc0b-a7a1-4f65-8940-8e9de15e571c"
+      },
+      "created_time": "2023-05-11T09:13:00.000Z",
+      "last_edited_time": "2023-05-11T09:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Thoughts",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Thoughts",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "630052c0-90bd-4264-a828-bb9d3314f69f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "ca60cc0b-a7a1-4f65-8940-8e9de15e571c"
+      },
+      "created_time": "2023-05-11T09:13:00.000Z",
+      "last_edited_time": "2023-05-11T09:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Nice to have a challenge start and end date",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Nice to have a challenge start and end date",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "272fefd6-e59a-4033-a24e-4ee0166874f7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "ca60cc0b-a7a1-4f65-8940-8e9de15e571c"
+      },
+      "created_time": "2023-05-11T09:13:00.000Z",
+      "last_edited_time": "2023-05-11T09:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "f5845a36-765a-4de7-8795-c73e8ed2aa24",
+      "parent": {
+        "type": "page_id",
+        "page_id": "ca60cc0b-a7a1-4f65-8940-8e9de15e571c"
+      },
+      "created_time": "2023-05-11T09:13:00.000Z",
+      "last_edited_time": "2023-05-11T09:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Things that might be nice to try",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Things that might be nice to try",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "be1a19da-b7ab-443f-b813-7e4384ee5fc8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "ca60cc0b-a7a1-4f65-8940-8e9de15e571c"
+      },
+      "created_time": "2023-05-11T09:14:00.000Z",
+      "last_edited_time": "2023-05-11T09:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "No sexual activities for a month (May 2023)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "No sexual activities for a month (May 2023)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "e8b48800-aed9-4d82-b4a3-5ea3cd2c66fc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "ca60cc0b-a7a1-4f65-8940-8e9de15e571c"
+      },
+      "created_time": "2023-05-11T09:15:00.000Z",
+      "last_edited_time": "2023-05-11T09:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "No internet for a month (?!)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "No internet for a month (?!)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "121f358f-f69a-43f0-a853-830e3ed260f0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "ca60cc0b-a7a1-4f65-8940-8e9de15e571c"
+      },
+      "created_time": "2023-05-11T09:13:00.000Z",
+      "last_edited_time": "2023-05-11T09:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Blogging every day",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Blogging every day",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "cb60b8f7-1fe8-4326-84f5-aec494fa49b2",
+          "parent": {
+            "type": "block_id",
+            "block_id": "121f358f-f69a-43f0-a853-830e3ed260f0"
+          },
+          "created_time": "2023-05-11T09:13:00.000Z",
+          "last_edited_time": "2023-05-11T09:14:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Though in practice, blogging energy seems to ebb and flow based on my personal energy. Any chance it’s cause and effect?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Though in practice, blogging energy seems to ebb and flow based on my personal energy. Any chance it’s cause and effect?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    }
+  ]
+}

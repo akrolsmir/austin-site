@@ -1,0 +1,1307 @@
+{
+  "page": {
+    "id": "fd4e10ba87124cbca6516fce53894964",
+    "title": "Questions about money",
+    "date": "2023-01-28",
+    "edited": "2023-01-29T01:37:00.000Z",
+    "url": "https://akrolsmir.notion.site/Questions-about-money-fd4e10ba87124cbca6516fce53894964",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "fc3b332d-53ef-4d93-96b5-06cbcccd1cd7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "fd4e10ba-8712-4cbc-a651-6fce53894964"
+      },
+      "created_time": "2023-01-29T01:18:00.000Z",
+      "last_edited_time": "2023-01-29T01:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Why can’t big companies be as productive as startups?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Why can’t big companies be as productive as startups?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "a48028c7-61eb-49f5-96bb-9db470dff4b5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "fd4e10ba-8712-4cbc-a651-6fce53894964"
+      },
+      "created_time": "2023-01-29T01:19:00.000Z",
+      "last_edited_time": "2023-01-29T01:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Why doesn't Google split up into mini startups, with more equity upside in doing well? (",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Why doesn't Google split up into mini startups, with more equity upside in doing well? (",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "https://en.wikipedia.org/wiki/The_Nature_of_the_Firm",
+              "link": {
+                "url": "https://en.wikipedia.org/wiki/The_Nature_of_the_Firm"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://en.wikipedia.org/wiki/The_Nature_of_the_Firm",
+            "href": "https://en.wikipedia.org/wiki/The_Nature_of_the_Firm"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ")",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ")",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "b6dac55e-03ed-4b01-b499-0320d9b00066",
+      "parent": {
+        "type": "page_id",
+        "page_id": "fd4e10ba-8712-4cbc-a651-6fce53894964"
+      },
+      "created_time": "2023-01-29T01:19:00.000Z",
+      "last_edited_time": "2023-01-29T01:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "How to fight decline in ownership?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "How to fight decline in ownership?",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1710c3e0-990e-48ad-a9af-3c44eb553244",
+      "parent": {
+        "type": "page_id",
+        "page_id": "fd4e10ba-8712-4cbc-a651-6fce53894964"
+      },
+      "created_time": "2023-01-29T01:19:00.000Z",
+      "last_edited_time": "2023-01-29T01:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Why don't any US consumer social apps have money built in?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Why don't any US consumer social apps have money built in?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3dcc2955-241e-4cc1-a03c-d45348c55a94",
+      "parent": {
+        "type": "page_id",
+        "page_id": "fd4e10ba-8712-4cbc-a651-6fce53894964"
+      },
+      "created_time": "2023-01-29T01:18:00.000Z",
+      "last_edited_time": "2023-01-29T01:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Aka Why no mega-apps like WeChat in US?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Aka Why no mega-apps like WeChat in US?",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2d7a998e-c90b-434a-9373-3e0f01295eb0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "fd4e10ba-8712-4cbc-a651-6fce53894964"
+      },
+      "created_time": "2023-01-29T01:18:00.000Z",
+      "last_edited_time": "2023-01-29T01:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "5333ec3b-a247-4972-8560-278893d69a17",
+      "parent": {
+        "type": "page_id",
+        "page_id": "fd4e10ba-8712-4cbc-a651-6fce53894964"
+      },
+      "created_time": "2023-01-29T01:18:00.000Z",
+      "last_edited_time": "2023-01-29T01:28:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "How can capitalism account for the welfare of nonhumans?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "How can capitalism account for the welfare of nonhumans?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "ba987f60-20c2-4eeb-933f-4edbf0e2e061",
+      "parent": {
+        "type": "page_id",
+        "page_id": "fd4e10ba-8712-4cbc-a651-6fce53894964"
+      },
+      "created_time": "2023-01-29T01:20:00.000Z",
+      "last_edited_time": "2023-01-29T01:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Animals? AI? Institutions/corporations/nations? Future beings?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Animals? AI? Institutions/corporations/nations? Future beings?",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "56f10a1b-a35e-476e-b1da-24e0b3703941",
+      "parent": {
+        "type": "page_id",
+        "page_id": "fd4e10ba-8712-4cbc-a651-6fce53894964"
+      },
+      "created_time": "2023-01-29T01:28:00.000Z",
+      "last_edited_time": "2023-01-29T01:28:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "See ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "See ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "https://aiimpacts.org/we-dont-trade-with-ants/",
+              "link": {
+                "url": "https://aiimpacts.org/we-dont-trade-with-ants/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://aiimpacts.org/we-dont-trade-with-ants/",
+            "href": "https://aiimpacts.org/we-dont-trade-with-ants/"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ", ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ", ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "https://www.thinkingcomplete.com/2022/07/moral-strategies-at-different.html",
+              "link": {
+                "url": "https://www.thinkingcomplete.com/2022/07/moral-strategies-at-different.html"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://www.thinkingcomplete.com/2022/07/moral-strategies-at-different.html",
+            "href": "https://www.thinkingcomplete.com/2022/07/moral-strategies-at-different.html"
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "5a08826d-5445-43c8-adde-027018333010",
+      "parent": {
+        "type": "page_id",
+        "page_id": "fd4e10ba-8712-4cbc-a651-6fce53894964"
+      },
+      "created_time": "2023-01-29T01:18:00.000Z",
+      "last_edited_time": "2023-01-29T01:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Why don't bounties or prizes work?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Why don't bounties or prizes work?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "ea149f59-db3e-406e-80b7-dd099d75d1ad",
+      "parent": {
+        "type": "page_id",
+        "page_id": "fd4e10ba-8712-4cbc-a651-6fce53894964"
+      },
+      "created_time": "2023-01-29T01:20:00.000Z",
+      "last_edited_time": "2023-01-29T01:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "To a first order approximation, almost no work in the world is accomplished via a bounty or prize. Serious work tends to be done by fulltime professionals. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "To a first order approximation, almost no work in the world is accomplished via a bounty or prize. Serious work tends to be done by fulltime professionals. ",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "9121f4dc-bc98-4816-86e0-d33b2e9c5b22",
+      "parent": {
+        "type": "page_id",
+        "page_id": "fd4e10ba-8712-4cbc-a651-6fce53894964"
+      },
+      "created_time": "2023-01-29T01:21:00.000Z",
+      "last_edited_time": "2023-01-29T01:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Returns to focus are extremely high?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Returns to focus are extremely high?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "952bee5d-ed1e-4148-baf5-6700fb886096",
+      "parent": {
+        "type": "page_id",
+        "page_id": "fd4e10ba-8712-4cbc-a651-6fce53894964"
+      },
+      "created_time": "2023-01-29T01:18:00.000Z",
+      "last_edited_time": "2023-01-29T01:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "9f8b23e0-4241-4c17-8c7e-8272923e1dbf",
+      "parent": {
+        "type": "page_id",
+        "page_id": "fd4e10ba-8712-4cbc-a651-6fce53894964"
+      },
+      "created_time": "2023-01-29T01:18:00.000Z",
+      "last_edited_time": "2023-01-29T01:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "What is the gap between retroactive bounty payments and other forms of trade (payments, taxes)?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "What is the gap between retroactive bounty payments and other forms of trade (payments, taxes)?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "6b30c72a-7a8a-4534-9f70-75368886a6be",
+      "parent": {
+        "type": "page_id",
+        "page_id": "fd4e10ba-8712-4cbc-a651-6fce53894964"
+      },
+      "created_time": "2023-01-29T01:18:00.000Z",
+      "last_edited_time": "2023-01-29T01:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Problem: how much to value of a thing after already receiving the thing -- proactive payments reveal true preferences; retroactive payments encourage lying",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Problem: how much to value of a thing after already receiving the thing -- proactive payments reveal true preferences; retroactive payments encourage lying",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "c2dc47cd-f6cc-4a5e-9a5b-88c121443df4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "fd4e10ba-8712-4cbc-a651-6fce53894964"
+      },
+      "created_time": "2023-01-29T01:22:00.000Z",
+      "last_edited_time": "2023-01-29T01:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Maybe: representative democracy seems to do a pretty good job; corporations are kind of representative democracy (except votes are mostly dollars)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Maybe: representative democracy seems to do a pretty good job; corporations are kind of representative democracy (except votes are mostly dollars)",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "b439b2b2-e793-49bb-b971-1a2d38b18cc1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "fd4e10ba-8712-4cbc-a651-6fce53894964"
+      },
+      "created_time": "2023-01-29T01:22:00.000Z",
+      "last_edited_time": "2023-01-29T01:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "How do you decide how much to pay under a QF situation?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "How do you decide how much to pay under a QF situation?",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "c63a055b-eef8-4943-a0bb-349ec5c97428",
+      "parent": {
+        "type": "page_id",
+        "page_id": "fd4e10ba-8712-4cbc-a651-6fce53894964"
+      },
+      "created_time": "2023-01-29T01:22:00.000Z",
+      "last_edited_time": "2023-01-29T01:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Is Quadratic Funding any good?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Is Quadratic Funding any good?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "a2dbed0f-4387-4e69-9464-2c008040817e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "fd4e10ba-8712-4cbc-a651-6fce53894964"
+      },
+      "created_time": "2023-01-29T01:22:00.000Z",
+      "last_edited_time": "2023-01-29T01:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Vitalik seems to like it, but outside of a few test cases like Gitcoin it hasn’t gotten wider traction. One might expect actually good decisionmaking criteria to be adopted by curious orgs.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Vitalik seems to like it, but outside of a few test cases like Gitcoin it hasn’t gotten wider traction. One might expect actually good decisionmaking criteria to be adopted by curious orgs.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1266cd22-d0d3-4176-8193-f317660a7644",
+      "parent": {
+        "type": "page_id",
+        "page_id": "fd4e10ba-8712-4cbc-a651-6fce53894964"
+      },
+      "created_time": "2023-01-29T01:22:00.000Z",
+      "last_edited_time": "2023-01-29T01:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "d162886e-d0c6-43db-bc0e-b27d4fe16f04",
+      "parent": {
+        "type": "page_id",
+        "page_id": "fd4e10ba-8712-4cbc-a651-6fce53894964"
+      },
+      "created_time": "2023-01-29T01:22:00.000Z",
+      "last_edited_time": "2023-01-29T01:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "How would you design an information feed, based on economic principles?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "How would you design an information feed, based on economic principles?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "4c218e53-6565-497f-ae44-31b814d243e2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "fd4e10ba-8712-4cbc-a651-6fce53894964"
+      },
+      "created_time": "2023-01-29T01:22:00.000Z",
+      "last_edited_time": "2023-01-29T01:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Paying to promote information to specific individuals? Or to widely broadcast? An HFT algorithm could replace the regular ML one to decide which pieces of content are valuable to you (or to the person showing it to you). (is this what neural networks kinda are?)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Paying to promote information to specific individuals? Or to widely broadcast? An HFT algorithm could replace the regular ML one to decide which pieces of content are valuable to you (or to the person showing it to you). (is this what neural networks kinda are?)",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1174af21-3b2e-42d2-b5d8-698a6e7abbad",
+      "parent": {
+        "type": "page_id",
+        "page_id": "fd4e10ba-8712-4cbc-a651-6fce53894964"
+      },
+      "created_time": "2023-01-29T01:23:00.000Z",
+      "last_edited_time": "2023-01-29T01:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "bfcbc743-e506-47f9-8b43-369844364bc5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "fd4e10ba-8712-4cbc-a651-6fce53894964"
+      },
+      "created_time": "2023-01-29T01:23:00.000Z",
+      "last_edited_time": "2023-01-29T01:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Why isn’t Bitclout (stocks for people) more popular?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Why isn’t Bitclout (stocks for people) more popular?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "fc337380-3b7a-4a02-9dc3-bffe62d776fb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "fd4e10ba-8712-4cbc-a651-6fce53894964"
+      },
+      "created_time": "2023-01-29T01:23:00.000Z",
+      "last_edited_time": "2023-01-29T01:29:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Is it just because it’s crypto? High onramp costs? Because it’s hard to understand what you’re paying for?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Is it just because it’s crypto? High onramp costs? Because it’s hard to understand what you’re paying for?",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "58af0722-8a17-48bc-8c9e-a173e2e51fc3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "fd4e10ba-8712-4cbc-a651-6fce53894964"
+      },
+      "created_time": "2023-01-29T01:29:00.000Z",
+      "last_edited_time": "2023-01-29T01:29:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Would people buy shares of their own friends? Some minor examples, but mostly for novelty.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Would people buy shares of their own friends? Some minor examples, but mostly for novelty.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "abb82d94-c5ed-4b45-bf97-88c5da9dcade",
+      "parent": {
+        "type": "page_id",
+        "page_id": "fd4e10ba-8712-4cbc-a651-6fce53894964"
+      },
+      "created_time": "2023-01-29T01:29:00.000Z",
+      "last_edited_time": "2023-01-29T01:29:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Problem of introducing money into social dynamics, extrinsic motivation killing intrinisic?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Problem of introducing money into social dynamics, extrinsic motivation killing intrinisic?",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "c5d25fbf-3ed8-4e20-bb63-75a06f30dcd3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "fd4e10ba-8712-4cbc-a651-6fce53894964"
+      },
+      "created_time": "2023-01-29T01:23:00.000Z",
+      "last_edited_time": "2023-01-29T01:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "88c355b7-3115-4a9e-bc06-20e51921b5eb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "fd4e10ba-8712-4cbc-a651-6fce53894964"
+      },
+      "created_time": "2023-01-29T01:18:00.000Z",
+      "last_edited_time": "2023-01-29T01:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "See also ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "See also ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Patrick Collison",
+              "link": {
+                "url": "https://patrickcollison.com/questions"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Patrick Collison",
+            "href": "https://patrickcollison.com/questions"
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    }
+  ]
+}

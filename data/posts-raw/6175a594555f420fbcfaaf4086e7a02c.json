@@ -1,0 +1,1057 @@
+{
+  "page": {
+    "id": "6175a594555f420fbcfaaf4086e7a02c",
+    "title": "EA Software Project Ideas",
+    "date": "2022-09-14",
+    "edited": "2023-05-09T20:41:00.000Z",
+    "url": "https://akrolsmir.notion.site/EA-Software-Project-Ideas-6175a594555f420fbcfaaf4086e7a02c",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "d4f4b2d8-b982-4a0f-8cfa-ab496f5a17c1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "6175a594-555f-420f-bcfa-af4086e7a02c"
+      },
+      "created_time": "2022-09-11T01:35:00.000Z",
+      "last_edited_time": "2022-09-11T01:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "eee5703a-8e05-4074-8ca1-8e95f2a26c68",
+      "parent": {
+        "type": "page_id",
+        "page_id": "6175a594-555f-420f-bcfa-af4086e7a02c"
+      },
+      "created_time": "2022-09-11T01:34:00.000Z",
+      "last_edited_time": "2022-09-11T01:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Funding things better",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Funding things better",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "49958b9c-0faf-4063-8231-19d21ba4f50d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "6175a594-555f-420f-bcfa-af4086e7a02c"
+      },
+      "created_time": "2022-09-11T01:36:00.000Z",
+      "last_edited_time": "2022-09-11T01:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Impact certs",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Impact certs",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "8424034f-96e9-4915-80c6-1ea79b1089e0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "6175a594-555f-420f-bcfa-af4086e7a02c"
+      },
+      "created_time": "2022-09-11T01:36:00.000Z",
+      "last_edited_time": "2022-09-11T01:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "S-Process, usable by anyone",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "S-Process, usable by anyone",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "4d80e2ef-99d4-4041-a2e1-4019c043b059",
+      "parent": {
+        "type": "page_id",
+        "page_id": "6175a594-555f-420f-bcfa-af4086e7a02c"
+      },
+      "created_time": "2022-09-11T01:43:00.000Z",
+      "last_edited_time": "2022-09-11T01:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Quadratic funding where individual EAs participate",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Quadratic funding where individual EAs participate",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "344b9282-cdbd-4474-9cd3-5652270b0a69",
+      "parent": {
+        "type": "page_id",
+        "page_id": "6175a594-555f-420f-bcfa-af4086e7a02c"
+      },
+      "created_time": "2022-09-11T01:49:00.000Z",
+      "last_edited_time": "2022-09-11T01:50:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Bountied Rationality but more integrated",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Bountied Rationality but more integrated",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3c041096-8e15-4a49-b053-d9d928ad1091",
+      "parent": {
+        "type": "page_id",
+        "page_id": "6175a594-555f-420f-bcfa-af4086e7a02c"
+      },
+      "created_time": "2022-09-11T01:36:00.000Z",
+      "last_edited_time": "2022-09-11T01:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Organizing data better",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Organizing data better",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "b0c82f97-5407-4c8f-b48f-9d9ab8890821",
+      "parent": {
+        "type": "page_id",
+        "page_id": "6175a594-555f-420f-bcfa-af4086e7a02c"
+      },
+      "created_time": "2022-09-11T01:43:00.000Z",
+      "last_edited_time": "2022-09-11T01:44:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Unified database of people (Linkedin)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Unified database of people (Linkedin)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "f0b15d86-05d4-459c-a5f7-d684b4129bde",
+          "parent": {
+            "type": "block_id",
+            "block_id": "b0c82f97-5407-4c8f-b48f-9d9ab8890821"
+          },
+          "created_time": "2022-09-11T01:44:00.000Z",
+          "last_edited_time": "2022-09-11T01:44:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Could just build this out of EAG applications/Swapcard scrape",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Could just build this out of EAG applications/Swapcard scrape",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "9374b03b-417c-42fc-9650-e5984b784a0a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "6175a594-555f-420f-bcfa-af4086e7a02c"
+      },
+      "created_time": "2022-09-11T01:43:00.000Z",
+      "last_edited_time": "2022-09-14T17:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Unified database of orgs (Crunchbase)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Unified database of orgs (Crunchbase)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "f29836cb-3c8f-4b22-b484-71cf88f3faba",
+          "parent": {
+            "type": "block_id",
+            "block_id": "9374b03b-417c-42fc-9650-e5984b784a0a"
+          },
+          "created_time": "2022-09-11T01:44:00.000Z",
+          "last_edited_time": "2022-09-11T01:51:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Show how much funding each org has, who’s backed them, who works where",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Show how much funding each org has, who’s backed them, who works where",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "7669777e-1244-4ddc-8f50-bfe29f70bdd6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "6175a594-555f-420f-bcfa-af4086e7a02c"
+      },
+      "created_time": "2022-09-11T01:37:00.000Z",
+      "last_edited_time": "2022-09-11T01:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "List of good ideas with significant bounties attached",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "List of good ideas with significant bounties attached",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "74311892-25d9-4ccd-859c-2401cd2b752c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "6175a594-555f-420f-bcfa-af4086e7a02c"
+      },
+      "created_time": "2022-09-11T01:34:00.000Z",
+      "last_edited_time": "2022-09-11T01:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Network effects",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Network effects",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1289a7be-e648-4cfd-a67f-7fe095a91225",
+      "parent": {
+        "type": "page_id",
+        "page_id": "6175a594-555f-420f-bcfa-af4086e7a02c"
+      },
+      "created_time": "2022-09-11T01:35:00.000Z",
+      "last_edited_time": "2022-09-11T01:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "A chat system (like Discord, Slack) that everyone is on",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "A chat system (like Discord, Slack) that everyone is on",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "e43d571b-46d0-4f05-b029-15a1f43bcd69",
+      "parent": {
+        "type": "page_id",
+        "page_id": "6175a594-555f-420f-bcfa-af4086e7a02c"
+      },
+      "created_time": "2022-09-11T01:35:00.000Z",
+      "last_edited_time": "2022-09-11T01:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Job board that is actually good",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Job board that is actually good",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "8c115612-be24-4465-92dc-8d49f6e3be7b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "6175a594-555f-420f-bcfa-af4086e7a02c"
+      },
+      "created_time": "2022-09-11T01:38:00.000Z",
+      "last_edited_time": "2022-09-11T01:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Reverse job board - applicants list their skills",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Reverse job board - applicants list their skills",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "61682287-4b47-4594-bdf7-c74413acb9d7",
+          "parent": {
+            "type": "block_id",
+            "block_id": "8c115612-be24-4465-92dc-8d49f6e3be7b"
+          },
+          "created_time": "2022-09-11T01:37:00.000Z",
+          "last_edited_time": "2022-09-11T01:38:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Cofounder matching",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Cofounder matching",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "2b9640fa-5b59-45af-8d06-a7829ac46413",
+      "parent": {
+        "type": "page_id",
+        "page_id": "6175a594-555f-420f-bcfa-af4086e7a02c"
+      },
+      "created_time": "2022-09-11T01:38:00.000Z",
+      "last_edited_time": "2022-09-11T01:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Wikipedia/Notion that every EA uses",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Wikipedia/Notion that every EA uses",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "175c3a25-2fad-4073-ac86-771eb207574f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "6175a594-555f-420f-bcfa-af4086e7a02c"
+      },
+      "created_time": "2022-09-11T01:46:00.000Z",
+      "last_edited_time": "2022-09-11T01:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Polls and voting systems",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Polls and voting systems",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "70fba789-b34e-4e4e-9b9e-e59a4b4937b1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "6175a594-555f-420f-bcfa-af4086e7a02c"
+      },
+      "created_time": "2022-09-11T01:46:00.000Z",
+      "last_edited_time": "2022-09-11T01:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Doing research better",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Doing research better",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "db6cf41a-ad1d-436f-bb99-12bfa61eebdf",
+      "parent": {
+        "type": "page_id",
+        "page_id": "6175a594-555f-420f-bcfa-af4086e7a02c"
+      },
+      "created_time": "2022-09-11T01:46:00.000Z",
+      "last_edited_time": "2022-09-11T01:50:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Easier feedback? Public iteration cycles? Talk page for drafts?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Easier feedback? Public iteration cycles? Talk page for drafts?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "ca05b895-a6e9-4e9d-a808-f51d60e399f2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "6175a594-555f-420f-bcfa-af4086e7a02c"
+      },
+      "created_time": "2022-09-14T17:39:00.000Z",
+      "last_edited_time": "2022-09-14T17:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Other stuff",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Other stuff",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "733ed05c-d68a-4a0b-9b7f-2916b220e0e3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "6175a594-555f-420f-bcfa-af4086e7a02c"
+      },
+      "created_time": "2022-09-14T17:39:00.000Z",
+      "last_edited_time": "2022-09-14T17:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "levels.fyi",
+              "link": {
+                "url": "http://levels.fyi/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "levels.fyi",
+            "href": "http://levels.fyi/"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " for researchers and grants",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " for researchers and grants",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "90889f56-e180-4790-a1dc-babe25a15278",
+      "parent": {
+        "type": "page_id",
+        "page_id": "6175a594-555f-420f-bcfa-af4086e7a02c"
+      },
+      "created_time": "2022-09-14T17:39:00.000Z",
+      "last_edited_time": "2022-09-14T17:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Micromort calculators but for everything",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Micromort calculators but for everything",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    }
+  ]
+}

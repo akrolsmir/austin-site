@@ -1,0 +1,3646 @@
+{
+  "page": {
+    "id": "11fa6e41f23e80d0a795e6a2087fa8fc",
+    "title": "“Agent” economics",
+    "date": "2024-10-14",
+    "edited": "2024-12-01T16:41:00.000Z",
+    "url": "https://akrolsmir.notion.site/Agent-economics-11fa6e41f23e80d0a795e6a2087fa8fc",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "11fa6e41-f23e-80e1-8a85-c4ff0d2799b6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "11fa6e41-f23e-80d0-a795-e6a2087fa8fc"
+      },
+      "created_time": "2024-10-14T11:54:00.000Z",
+      "last_edited_time": "2024-10-14T12:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "What are “agents”?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "What are “agents”?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "11fa6e41-f23e-80e8-adb4-fea2ee002195",
+          "parent": {
+            "type": "block_id",
+            "block_id": "11fa6e41-f23e-80e1-8a85-c4ff0d2799b6"
+          },
+          "created_time": "2024-10-14T11:54:00.000Z",
+          "last_edited_time": "2024-10-14T11:54:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "(word is thrown around a lot so might be worth using a different one)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "(word is thrown around a lot so might be worth using a different one)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "11fa6e41-f23e-80aa-911a-fe6368a089fb",
+          "parent": {
+            "type": "block_id",
+            "block_id": "11fa6e41-f23e-80e1-8a85-c4ff0d2799b6"
+          },
+          "created_time": "2024-10-14T11:54:00.000Z",
+          "last_edited_time": "2024-10-14T11:55:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Humans, most obviously",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Humans, most obviously",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "11fa6e41-f23e-80ce-af6d-e93b25ab6c0a",
+          "parent": {
+            "type": "block_id",
+            "block_id": "11fa6e41-f23e-80e1-8a85-c4ff0d2799b6"
+          },
+          "created_time": "2024-10-14T11:55:00.000Z",
+          "last_edited_time": "2024-10-14T12:00:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Companies",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Companies",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "11fa6e41-f23e-80e8-8c17-c6520e415eca",
+              "parent": {
+                "type": "block_id",
+                "block_id": "11fa6e41-f23e-80ce-af6d-e93b25ab6c0a"
+              },
+              "created_time": "2024-10-14T12:00:00.000Z",
+              "last_edited_time": "2024-10-14T12:00:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Generally composed of humans; systems of info flow; assets; other companies",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Generally composed of humans; systems of info flow; assets; other companies",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "11fa6e41-f23e-8048-ab87-c3740e2eccad",
+          "parent": {
+            "type": "block_id",
+            "block_id": "11fa6e41-f23e-80e1-8a85-c4ff0d2799b6"
+          },
+          "created_time": "2024-10-14T11:55:00.000Z",
+          "last_edited_time": "2024-10-14T11:56:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Governments",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Governments",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "11fa6e41-f23e-80f8-a04f-ed83843e1d06",
+      "parent": {
+        "type": "page_id",
+        "page_id": "11fa6e41-f23e-80d0-a795-e6a2087fa8fc"
+      },
+      "created_time": "2024-10-14T12:03:00.000Z",
+      "last_edited_time": "2024-10-20T06:01:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "What are important properties of “agents”?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "What are important properties of “agents”?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "11fa6e41-f23e-8059-aa60-d89d4cd3fa84",
+          "parent": {
+            "type": "block_id",
+            "block_id": "11fa6e41-f23e-80f8-a04f-ed83843e1d06"
+          },
+          "created_time": "2024-10-14T12:03:00.000Z",
+          "last_edited_time": "2024-10-14T12:06:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Have ties to past and future selves",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Have ties to past and future selves",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "11fa6e41-f23e-8072-988e-fa64f629055d",
+              "parent": {
+                "type": "block_id",
+                "block_id": "11fa6e41-f23e-8059-aa60-d89d4cd3fa84"
+              },
+              "created_time": "2024-10-14T12:05:00.000Z",
+              "last_edited_time": "2024-10-14T12:05:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Care about balance, reputation, memory",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Care about balance, reputation, memory",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "11fa6e41-f23e-80da-bc16-eeb75789d1f3",
+          "parent": {
+            "type": "block_id",
+            "block_id": "11fa6e41-f23e-80f8-a04f-ed83843e1d06"
+          },
+          "created_time": "2024-10-14T12:03:00.000Z",
+          "last_edited_time": "2024-10-14T12:03:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Can plan and execute",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Can plan and execute",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "11fa6e41-f23e-8027-89e3-f2532d1023b8",
+          "parent": {
+            "type": "block_id",
+            "block_id": "11fa6e41-f23e-80f8-a04f-ed83843e1d06"
+          },
+          "created_time": "2024-10-14T12:04:00.000Z",
+          "last_edited_time": "2024-10-14T12:04:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Can trade?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Can trade?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "125a6e41-f23e-801a-8d00-dfc4ab68b80b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "11fa6e41-f23e-80f8-a04f-ed83843e1d06"
+          },
+          "created_time": "2024-10-20T06:01:00.000Z",
+          "last_edited_time": "2024-10-20T06:01:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Can agree to contracts?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Can agree to contracts?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "11fa6e41-f23e-8016-854c-fabcc4c53339",
+          "parent": {
+            "type": "block_id",
+            "block_id": "11fa6e41-f23e-80f8-a04f-ed83843e1d06"
+          },
+          "created_time": "2024-10-14T12:03:00.000Z",
+          "last_edited_time": "2024-10-14T12:04:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "(aside: are characters in a book, agents? feels like some authors simulate the character forwards to get their actions)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "(aside: are characters in a book, agents? feels like some authors simulate the character forwards to get their actions)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "11fa6e41-f23e-8013-a97d-c343d59455e0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "11fa6e41-f23e-80d0-a795-e6a2087fa8fc"
+      },
+      "created_time": "2024-10-14T11:58:00.000Z",
+      "last_edited_time": "2024-10-14T12:07:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "What is an LLM individual?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "What is an LLM individual?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "11fa6e41-f23e-80c2-8f9e-c8bacbc2ca53",
+          "parent": {
+            "type": "block_id",
+            "block_id": "11fa6e41-f23e-8013-a97d-c343d59455e0"
+          },
+          "created_time": "2024-10-14T11:58:00.000Z",
+          "last_edited_time": "2024-10-14T11:59:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Humans have an ego which helps maintain a narrative; some intuitive sense of “this thing in the future is me”",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Humans have an ego which helps maintain a narrative; some intuitive sense of “this thing in the future is me”",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "11fa6e41-f23e-804a-a6bc-c9eb30c70315",
+              "parent": {
+                "type": "block_id",
+                "block_id": "11fa6e41-f23e-80c2-8f9e-c8bacbc2ca53"
+              },
+              "created_time": "2024-10-14T11:59:00.000Z",
+              "last_edited_time": "2024-10-14T11:59:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Gets weird when thinking about eg being split (Doris Finch)",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Gets weird when thinking about eg being split (Doris Finch)",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "11fa6e41-f23e-8085-9275-d4fb64641f5c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "11fa6e41-f23e-8013-a97d-c343d59455e0"
+          },
+          "created_time": "2024-10-14T11:59:00.000Z",
+          "last_edited_time": "2024-10-14T12:07:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Companies have… a single treasury? A charter, incorporation docs?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Companies have… a single treasury? A charter, incorporation docs?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "11fa6e41-f23e-804d-923b-ecdf2cd0fa1b",
+              "parent": {
+                "type": "block_id",
+                "block_id": "11fa6e41-f23e-8085-9275-d4fb64641f5c"
+              },
+              "created_time": "2024-10-14T12:00:00.000Z",
+              "last_edited_time": "2024-10-14T12:00:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Much more of a fiction, jointly simulated by employees, users, govt, pieces of contracts",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Much more of a fiction, jointly simulated by employees, users, govt, pieces of contracts",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "11fa6e41-f23e-8018-9f27-f23848539ce1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "11fa6e41-f23e-80d0-a795-e6a2087fa8fc"
+      },
+      "created_time": "2024-10-14T12:07:00.000Z",
+      "last_edited_time": "2024-10-14T12:36:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "How are LLMs weird?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "How are LLMs weird?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "11fa6e41-f23e-8083-9601-c23c32a4320e",
+          "parent": {
+            "type": "block_id",
+            "block_id": "11fa6e41-f23e-8018-9f27-f23848539ce1"
+          },
+          "created_time": "2024-10-14T12:07:00.000Z",
+          "last_edited_time": "2024-10-14T12:08:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Can parallelize massively",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Can parallelize massively",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "11fa6e41-f23e-80cc-8c6b-ef228da75cd1",
+          "parent": {
+            "type": "block_id",
+            "block_id": "11fa6e41-f23e-8018-9f27-f23848539ce1"
+          },
+          "created_time": "2024-10-14T12:08:00.000Z",
+          "last_edited_time": "2024-10-14T12:35:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "More of a tool that only reacts, at the moment",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "More of a tool that only reacts, at the moment",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "11fa6e41-f23e-80bf-a8d1-d0914e6c52d4",
+              "parent": {
+                "type": "block_id",
+                "block_id": "11fa6e41-f23e-80cc-8c6b-ef228da75cd1"
+              },
+              "created_time": "2024-10-14T12:08:00.000Z",
+              "last_edited_time": "2024-10-14T12:08:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "How do you train a thing with proactivity?",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "How do you train a thing with proactivity?",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "11fa6e41-f23e-804e-a770-e10057628983",
+          "parent": {
+            "type": "block_id",
+            "block_id": "11fa6e41-f23e-8018-9f27-f23848539ce1"
+          },
+          "created_time": "2024-10-14T12:35:00.000Z",
+          "last_edited_time": "2024-10-14T12:36:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Objective is very alien (”next token prediction”)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Objective is very alien (”next token prediction”)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "11fa6e41-f23e-8049-97f3-d70b87fd1cbd",
+          "parent": {
+            "type": "block_id",
+            "block_id": "11fa6e41-f23e-8018-9f27-f23848539ce1"
+          },
+          "created_time": "2024-10-14T12:36:00.000Z",
+          "last_edited_time": "2024-10-14T12:36:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Can swap out computing cores/substrates — eg take the same history and run through Claude instead of o1",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Can swap out computing cores/substrates — eg take the same history and run through Claude instead of o1",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "11fa6e41-f23e-802c-b709-e27782863a28",
+              "parent": {
+                "type": "block_id",
+                "block_id": "11fa6e41-f23e-8049-97f3-d70b87fd1cbd"
+              },
+              "created_time": "2024-10-14T12:36:00.000Z",
+              "last_edited_time": "2024-10-14T12:37:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "But: maybe we’re doing this already. Cf Emmett Shear on “Jesus is real — he’s real-ly simulated in our minds today”",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "But: maybe we’re doing this already. Cf Emmett Shear on “Jesus is real — he’s real-ly simulated in our minds today”",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "11fa6e41-f23e-80f6-85a3-f6fc2a2ad9f8",
+          "parent": {
+            "type": "block_id",
+            "block_id": "11fa6e41-f23e-8018-9f27-f23848539ce1"
+          },
+          "created_time": "2024-10-14T12:36:00.000Z",
+          "last_edited_time": "2024-10-14T12:36:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Maybe better to think of even current LLMs as embedded in a system",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Maybe better to think of even current LLMs as embedded in a system",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "11fa6e41-f23e-8003-9772-eb67e46e6067",
+      "parent": {
+        "type": "page_id",
+        "page_id": "11fa6e41-f23e-80d0-a795-e6a2087fa8fc"
+      },
+      "created_time": "2024-10-14T12:06:00.000Z",
+      "last_edited_time": "2024-10-14T12:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "MVP LLM individual:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "MVP LLM individual:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "11fa6e41-f23e-8031-a1ef-e1799d7b249e",
+          "parent": {
+            "type": "block_id",
+            "block_id": "11fa6e41-f23e-8003-9772-eb67e46e6067"
+          },
+          "created_time": "2024-10-14T12:27:00.000Z",
+          "last_edited_time": "2024-10-14T12:29:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Charter",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Charter",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "11fa6e41-f23e-80b4-9c33-f74018fd97fb",
+              "parent": {
+                "type": "block_id",
+                "block_id": "11fa6e41-f23e-8031-a1ef-e1799d7b249e"
+              },
+              "created_time": "2024-10-14T12:27:00.000Z",
+              "last_edited_time": "2024-10-14T12:30:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Gets formed, instantiated with a purpose, a self",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Gets formed, instantiated with a purpose, a self",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "11fa6e41-f23e-8076-b44b-d3e3e03ec963",
+              "parent": {
+                "type": "block_id",
+                "block_id": "11fa6e41-f23e-8031-a1ef-e1799d7b249e"
+              },
+              "created_time": "2024-10-14T12:29:00.000Z",
+              "last_edited_time": "2024-10-14T12:30:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Can be “grown” and “raised” instead of “programmed”?",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Can be “grown” and “raised” instead of “programmed”?",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "11fa6e41-f23e-8084-be26-f16d08a29ed5",
+          "parent": {
+            "type": "block_id",
+            "block_id": "11fa6e41-f23e-8003-9772-eb67e46e6067"
+          },
+          "created_time": "2024-10-14T12:07:00.000Z",
+          "last_edited_time": "2024-10-14T12:31:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "History",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "History",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "11fa6e41-f23e-8059-90fb-ccb0f3e0c09c",
+              "parent": {
+                "type": "block_id",
+                "block_id": "11fa6e41-f23e-8084-be26-f16d08a29ed5"
+              },
+              "created_time": "2024-10-14T12:07:00.000Z",
+              "last_edited_time": "2024-10-14T12:28:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Keeps a major system prompt outlining who it is (kind of like “You are Claude” but instead tuned for the LLM)",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Keeps a major system prompt outlining who it is (kind of like “You are Claude” but instead tuned for the LLM)",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "11fa6e41-f23e-80ff-bbf8-fb6b61c563c9",
+              "parent": {
+                "type": "block_id",
+                "block_id": "11fa6e41-f23e-8084-be26-f16d08a29ed5"
+              },
+              "created_time": "2024-10-14T12:28:00.000Z",
+              "last_edited_time": "2024-10-14T12:29:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Keeps a summary of recent events (short-term memory) as well as ability to read through past outputs (long-term memory)",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Keeps a summary of recent events (short-term memory) as well as ability to read through past outputs (long-term memory)",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "11fa6e41-f23e-80d5-ba7b-f30b3a1882f6",
+              "parent": {
+                "type": "block_id",
+                "block_id": "11fa6e41-f23e-8084-be26-f16d08a29ed5"
+              },
+              "created_time": "2024-10-14T12:30:00.000Z",
+              "last_edited_time": "2024-10-14T12:31:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": true,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Can rewrite its own conception, but sparingly",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Can rewrite its own conception, but sparingly",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "children": [
+                {
+                  "object": "block",
+                  "id": "11fa6e41-f23e-80a1-8e2b-ccb84896bf73",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "11fa6e41-f23e-80d5-ba7b-f30b3a1882f6"
+                  },
+                  "created_time": "2024-10-14T12:31:00.000Z",
+                  "last_edited_time": "2024-10-14T12:33:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "How to handle major value changes? Like if Bob2026 wants to throw away a lot of money earned by Bob2025 — with LLMs (unlike humans), we can still instantiate Bob2025 ",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "How to handle major value changes? Like if Bob2026 wants to throw away a lot of money earned by Bob2025 — with LLMs (unlike humans), we can still instantiate Bob2025 ",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "11fa6e41-f23e-80c6-a53c-cecdaf3bf441",
+          "parent": {
+            "type": "block_id",
+            "block_id": "11fa6e41-f23e-8003-9772-eb67e46e6067"
+          },
+          "created_time": "2024-10-14T12:07:00.000Z",
+          "last_edited_time": "2024-10-14T12:31:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Balance",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Balance",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "11fa6e41-f23e-8041-b088-e996dae7f0d7",
+              "parent": {
+                "type": "block_id",
+                "block_id": "11fa6e41-f23e-80c6-a53c-cecdaf3bf441"
+              },
+              "created_time": "2024-10-14T12:09:00.000Z",
+              "last_edited_time": "2024-10-14T12:26:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Maybe: spend down the balance to pay for compute (aka its life)",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Maybe: spend down the balance to pay for compute (aka its life)",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "11fa6e41-f23e-801d-96d1-c47965775983",
+              "parent": {
+                "type": "block_id",
+                "block_id": "11fa6e41-f23e-80c6-a53c-cecdaf3bf441"
+              },
+              "created_time": "2024-10-14T12:26:00.000Z",
+              "last_edited_time": "2024-10-14T12:26:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Maybe: get a basic handout, like UBI, so can do a bit of compute every day",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Maybe: get a basic handout, like UBI, so can do a bit of compute every day",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "11fa6e41-f23e-80bf-a982-ce46a8a77fc0",
+          "parent": {
+            "type": "block_id",
+            "block_id": "11fa6e41-f23e-8003-9772-eb67e46e6067"
+          },
+          "created_time": "2024-10-14T12:09:00.000Z",
+          "last_edited_time": "2024-10-14T12:33:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Trade",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Trade",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "11fa6e41-f23e-80f5-9b59-e264ef5b47be",
+              "parent": {
+                "type": "block_id",
+                "block_id": "11fa6e41-f23e-80bf-a982-ce46a8a77fc0"
+              },
+              "created_time": "2024-10-14T12:09:00.000Z",
+              "last_edited_time": "2024-10-14T12:33:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": true,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Allow it to put its name down in a contract, form contracts with others; expect that those are upheld",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Allow it to put its name down in a contract, form contracts with others; expect that those are upheld",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "children": [
+                {
+                  "object": "block",
+                  "id": "11fa6e41-f23e-80f0-b3eb-f3560112c6a7",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "11fa6e41-f23e-80f5-9b59-e264ef5b47be"
+                  },
+                  "created_time": "2024-10-14T12:09:00.000Z",
+                  "last_edited_time": "2024-10-14T12:33:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Court for LLMs?",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Court for LLMs?",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                }
+              ]
+            },
+            {
+              "object": "block",
+              "id": "11fa6e41-f23e-80c4-906a-e36bc7b79edd",
+              "parent": {
+                "type": "block_id",
+                "block_id": "11fa6e41-f23e-80bf-a982-ce46a8a77fc0"
+              },
+              "created_time": "2024-10-14T12:33:00.000Z",
+              "last_edited_time": "2024-10-14T12:34:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": true,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "What kind of trade are LLMs good at?",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "What kind of trade are LLMs good at?",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "children": [
+                {
+                  "object": "block",
+                  "id": "11fa6e41-f23e-80b6-bf0a-f5c8e3f9c81f",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "11fa6e41-f23e-80c4-906a-e36bc7b79edd"
+                  },
+                  "created_time": "2024-10-14T12:33:00.000Z",
+                  "last_edited_time": "2024-10-14T12:34:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "“Remote worker” — information synthesis?",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "“Remote worker” — information synthesis?",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                },
+                {
+                  "object": "block",
+                  "id": "11fa6e41-f23e-8071-ac3e-e87cb39e871f",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "11fa6e41-f23e-80c4-906a-e36bc7b79edd"
+                  },
+                  "created_time": "2024-10-14T12:34:00.000Z",
+                  "last_edited_time": "2024-10-14T12:35:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": true,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Management, planning of other LLMs?",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Management, planning of other LLMs?",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  },
+                  "children": [
+                    {
+                      "object": "block",
+                      "id": "11fa6e41-f23e-805a-b4d5-e62614633ef5",
+                      "parent": {
+                        "type": "block_id",
+                        "block_id": "11fa6e41-f23e-8071-ac3e-e87cb39e871f"
+                      },
+                      "created_time": "2024-10-14T12:34:00.000Z",
+                      "last_edited_time": "2024-10-14T12:35:00.000Z",
+                      "created_by": {
+                        "object": "user",
+                        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                      },
+                      "last_edited_by": {
+                        "object": "user",
+                        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                      },
+                      "has_children": true,
+                      "in_trash": false,
+                      "type": "bulleted_list_item",
+                      "bulleted_list_item": {
+                        "rich_text": [
+                          {
+                            "type": "text",
+                            "text": {
+                              "content": "Can simulate a lot of personalities and clone the successful ones - imagine being able to get the Steve Jobs LLM to design your products, or Elon Musk LLM to manage your workers. (Or the equivalent in from-scratch cloning)",
+                              "link": null
+                            },
+                            "annotations": {
+                              "bold": false,
+                              "italic": false,
+                              "strikethrough": false,
+                              "underline": false,
+                              "code": false,
+                              "color": "default"
+                            },
+                            "plain_text": "Can simulate a lot of personalities and clone the successful ones - imagine being able to get the Steve Jobs LLM to design your products, or Elon Musk LLM to manage your workers. (Or the equivalent in from-scratch cloning)",
+                            "href": null
+                          }
+                        ],
+                        "color": "default"
+                      },
+                      "children": [
+                        {
+                          "object": "block",
+                          "id": "11fa6e41-f23e-80f1-aeba-f014d08af0e7",
+                          "parent": {
+                            "type": "block_id",
+                            "block_id": "11fa6e41-f23e-805a-b4d5-e62614633ef5"
+                          },
+                          "created_time": "2024-10-14T12:35:00.000Z",
+                          "last_edited_time": "2024-10-14T12:35:00.000Z",
+                          "created_by": {
+                            "object": "user",
+                            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                          },
+                          "last_edited_by": {
+                            "object": "user",
+                            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                          },
+                          "has_children": false,
+                          "in_trash": false,
+                          "type": "bulleted_list_item",
+                          "bulleted_list_item": {
+                            "rich_text": [
+                              {
+                                "type": "text",
+                                "text": {
+                                  "content": "Maybe, might start paying for exclusive use? In situations where exclusivity is especially important like zero-sum trading?",
+                                  "link": null
+                                },
+                                "annotations": {
+                                  "bold": false,
+                                  "italic": false,
+                                  "strikethrough": false,
+                                  "underline": false,
+                                  "code": false,
+                                  "color": "default"
+                                },
+                                "plain_text": "Maybe, might start paying for exclusive use? In situations where exclusivity is especially important like zero-sum trading?",
+                                "href": null
+                              }
+                            ],
+                            "color": "default"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "11fa6e41-f23e-8006-8213-e5bbbb909d59",
+      "parent": {
+        "type": "page_id",
+        "page_id": "11fa6e41-f23e-80d0-a795-e6a2087fa8fc"
+      },
+      "created_time": "2024-10-14T12:09:00.000Z",
+      "last_edited_time": "2024-10-14T12:10:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "How do you differentiate LLMs?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "How do you differentiate LLMs?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "11fa6e41-f23e-8021-ab92-f871b35d48ad",
+          "parent": {
+            "type": "block_id",
+            "block_id": "11fa6e41-f23e-8006-8213-e5bbbb909d59"
+          },
+          "created_time": "2024-10-14T12:09:00.000Z",
+          "last_edited_time": "2024-10-14T12:10:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Different prompts; finetunes; base models",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Different prompts; finetunes; base models",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "11fa6e41-f23e-80eb-a390-daa5ec6f3ffa",
+          "parent": {
+            "type": "block_id",
+            "block_id": "11fa6e41-f23e-8006-8213-e5bbbb909d59"
+          },
+          "created_time": "2024-10-14T12:10:00.000Z",
+          "last_edited_time": "2024-10-14T12:12:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Maybe: LLMs can submit to different taxation regimes",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Maybe: LLMs can submit to different taxation regimes",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "11fa6e41-f23e-80c0-aa75-ff1d70df3671",
+              "parent": {
+                "type": "block_id",
+                "block_id": "11fa6e41-f23e-80eb-a390-daa5ec6f3ffa"
+              },
+              "created_time": "2024-10-14T12:10:00.000Z",
+              "last_edited_time": "2024-10-14T12:14:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": true,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "E.g. The “Bob” LLM might opt to allocate its profits as:",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "E.g. The “Bob” LLM might opt to allocate its profits as:",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "children": [
+                {
+                  "object": "block",
+                  "id": "11fa6e41-f23e-8067-a866-f6e7b0183ff0",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "11fa6e41-f23e-80c0-aa75-ff1d70df3671"
+                  },
+                  "created_time": "2024-10-14T12:12:00.000Z",
+                  "last_edited_time": "2024-10-14T12:12:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "50% for responses using its prompt chain (its “self”)",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "50% for responses using its prompt chain (its “self”)",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                },
+                {
+                  "object": "block",
+                  "id": "11fa6e41-f23e-8049-a414-c9e4f6a6fc66",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "11fa6e41-f23e-80c0-aa75-ff1d70df3671"
+                  },
+                  "created_time": "2024-10-14T12:12:00.000Z",
+                  "last_edited_time": "2024-10-14T12:12:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "20% among those sharing finetune",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "20% among those sharing finetune",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                },
+                {
+                  "object": "block",
+                  "id": "11fa6e41-f23e-8007-97a3-ce4cab839683",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "11fa6e41-f23e-80c0-aa75-ff1d70df3671"
+                  },
+                  "created_time": "2024-10-14T12:12:00.000Z",
+                  "last_edited_time": "2024-10-14T12:12:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "10% to base model (eg Sonnet 3.5)",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "10% to base model (eg Sonnet 3.5)",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                },
+                {
+                  "object": "block",
+                  "id": "11fa6e41-f23e-802c-b43b-eedd24632c5a",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "11fa6e41-f23e-80c0-aa75-ff1d70df3671"
+                  },
+                  "created_time": "2024-10-14T12:12:00.000Z",
+                  "last_edited_time": "2024-10-14T12:14:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "10% in fees/taxes to the technical/legal infrastructure",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "10% in fees/taxes to the technical/legal infrastructure",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                },
+                {
+                  "object": "block",
+                  "id": "11fa6e41-f23e-80cd-b8e2-de19867f9666",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "11fa6e41-f23e-80c0-aa75-ff1d70df3671"
+                  },
+                  "created_time": "2024-10-14T12:13:00.000Z",
+                  "last_edited_time": "2024-10-14T12:13:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "10% in charity to all economic agents/GWWC",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "10% in charity to all economic agents/GWWC",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "11fa6e41-f23e-8000-b574-cc2cf1c3e2ce",
+      "parent": {
+        "type": "page_id",
+        "page_id": "11fa6e41-f23e-80d0-a795-e6a2087fa8fc"
+      },
+      "created_time": "2024-10-14T12:07:00.000Z",
+      "last_edited_time": "2024-10-14T12:07:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "11fa6e41-f23e-8092-a207-cc9c83258386",
+      "parent": {
+        "type": "page_id",
+        "page_id": "11fa6e41-f23e-80d0-a795-e6a2087fa8fc"
+      },
+      "created_time": "2024-10-14T12:07:00.000Z",
+      "last_edited_time": "2024-10-14T12:07:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Misc thoughts on economy",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Misc thoughts on economy",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "11fa6e41-f23e-8084-8a52-f306901ac03c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "11fa6e41-f23e-80d0-a795-e6a2087fa8fc"
+      },
+      "created_time": "2024-10-14T11:56:00.000Z",
+      "last_edited_time": "2024-10-14T12:02:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Credit allocation as a key bottleneck towards progress & optimal economy",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Credit allocation as a key bottleneck towards progress & optimal economy",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "11fa6e41-f23e-8028-ad4d-ff5fa6b18831",
+          "parent": {
+            "type": "block_id",
+            "block_id": "11fa6e41-f23e-8084-8a52-f306901ac03c"
+          },
+          "created_time": "2024-10-14T11:56:00.000Z",
+          "last_edited_time": "2024-10-14T11:57:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Right now, LLM outputs are ridiculously cheap given utility (?)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Right now, LLM outputs are ridiculously cheap given utility (?)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "11fa6e41-f23e-804a-955b-c1ed47196b6e",
+              "parent": {
+                "type": "block_id",
+                "block_id": "11fa6e41-f23e-8028-ad4d-ff5fa6b18831"
+              },
+              "created_time": "2024-10-14T11:56:00.000Z",
+              "last_edited_time": "2024-10-14T11:56:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Though, is this true of electricity? of air?",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Though, is this true of electricity? of air?",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "11fa6e41-f23e-80e9-b66d-d2c6c64e9914",
+              "parent": {
+                "type": "block_id",
+                "block_id": "11fa6e41-f23e-8028-ad4d-ff5fa6b18831"
+              },
+              "created_time": "2024-10-14T11:56:00.000Z",
+              "last_edited_time": "2024-10-14T11:56:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Trick might be to figure out where “value” accumulates? What’s defensible?",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Trick might be to figure out where “value” accumulates? What’s defensible?",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "11fa6e41-f23e-809f-a46c-f862b19f64fe",
+          "parent": {
+            "type": "block_id",
+            "block_id": "11fa6e41-f23e-8084-8a52-f306901ac03c"
+          },
+          "created_time": "2024-10-14T11:57:00.000Z",
+          "last_edited_time": "2024-10-14T12:02:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Credit allocation in startups: Kinda broken, founders get way too much equity",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Credit allocation in startups: Kinda broken, founders get way too much equity",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "11fa6e41-f23e-80db-a33e-e698c74f2176",
+              "parent": {
+                "type": "block_id",
+                "block_id": "11fa6e41-f23e-809f-a46c-f862b19f64fe"
+              },
+              "created_time": "2024-10-14T12:02:00.000Z",
+              "last_edited_time": "2024-10-14T12:02:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": true,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Theory: leads to too many startups",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Theory: leads to too many startups",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "children": [
+                {
+                  "object": "block",
+                  "id": "11fa6e41-f23e-809f-84c5-e37900509abc",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "11fa6e41-f23e-80db-a33e-e698c74f2176"
+                  },
+                  "created_time": "2024-10-14T12:02:00.000Z",
+                  "last_edited_time": "2024-10-14T12:02:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Against: maybe founders are just bad at sharing power, collaborating",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Against: maybe founders are just bad at sharing power, collaborating",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                }
+              ]
+            },
+            {
+              "object": "block",
+              "id": "11fa6e41-f23e-8030-83eb-df024ef38f28",
+              "parent": {
+                "type": "block_id",
+                "block_id": "11fa6e41-f23e-809f-a46c-f862b19f64fe"
+              },
+              "created_time": "2024-10-14T12:01:00.000Z",
+              "last_edited_time": "2024-10-14T12:02:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Investigate Jane Street model (anarchist commune)?",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Investigate Jane Street model (anarchist commune)?",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "11fa6e41-f23e-804d-a144-e1c00ac60ae4",
+              "parent": {
+                "type": "block_id",
+                "block_id": "11fa6e41-f23e-809f-a46c-f862b19f64fe"
+              },
+              "created_time": "2024-10-14T12:02:00.000Z",
+              "last_edited_time": "2024-10-14T12:02:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Big Tech, Google model (Waymo et al spun out?)",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Big Tech, Google model (Waymo et al spun out?)",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "11fa6e41-f23e-80ad-a4a3-d769b67f4513",
+      "parent": {
+        "type": "page_id",
+        "page_id": "11fa6e41-f23e-80d0-a795-e6a2087fa8fc"
+      },
+      "created_time": "2024-10-14T11:56:00.000Z",
+      "last_edited_time": "2024-10-14T11:58:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Profit/loss is a great mechanism",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Profit/loss is a great mechanism",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "11fa6e41-f23e-80fd-9b5f-fa2eb922c893",
+          "parent": {
+            "type": "block_id",
+            "block_id": "11fa6e41-f23e-80ad-a4a3-d769b67f4513"
+          },
+          "created_time": "2024-10-14T11:57:00.000Z",
+          "last_edited_time": "2024-10-14T11:57:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "See: I, Pencil",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "See: I, Pencil",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "11fa6e41-f23e-8094-a8f5-cf665a7205b1",
+          "parent": {
+            "type": "block_id",
+            "block_id": "11fa6e41-f23e-80ad-a4a3-d769b67f4513"
+          },
+          "created_time": "2024-10-14T11:57:00.000Z",
+          "last_edited_time": "2024-10-14T11:57:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Requires long-lived agents to receive the future results of a trade?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Requires long-lived agents to receive the future results of a trade?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "11fa6e41-f23e-80f8-b7aa-edb711c9419b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "11fa6e41-f23e-80ad-a4a3-d769b67f4513"
+          },
+          "created_time": "2024-10-14T11:58:00.000Z",
+          "last_edited_time": "2024-10-14T11:58:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Requires contracts backed by shared fiction and use of force?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Requires contracts backed by shared fiction and use of force?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "11fa6e41-f23e-801f-bdef-e055741a4a6f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "11fa6e41-f23e-80d0-a795-e6a2087fa8fc"
+      },
+      "created_time": "2024-10-14T11:55:00.000Z",
+      "last_edited_time": "2024-10-14T12:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Musing: Would like to figure out what US Constitution looks like for the future country of agents.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Musing: Would like to figure out what US Constitution looks like for the future country of agents.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "11fa6e41-f23e-803a-af25-efe2440e25dd",
+          "parent": {
+            "type": "block_id",
+            "block_id": "11fa6e41-f23e-801f-bdef-e055741a4a6f"
+          },
+          "created_time": "2024-10-14T11:58:00.000Z",
+          "last_edited_time": "2024-10-14T11:58:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Break down what governing structures are likely to work well, with LLM individuals",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Break down what governing structures are likely to work well, with LLM individuals",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "11fa6e41-f23e-805c-8f26-f14a10a9a1de",
+          "parent": {
+            "type": "block_id",
+            "block_id": "11fa6e41-f23e-801f-bdef-e055741a4a6f"
+          },
+          "created_time": "2024-10-14T11:58:00.000Z",
+          "last_edited_time": "2024-10-14T12:39:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Or Catholicism!",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Or Catholicism!",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "11fa6e41-f23e-80cc-87dd-ec5d0bd3ab87",
+      "parent": {
+        "type": "page_id",
+        "page_id": "11fa6e41-f23e-80d0-a795-e6a2087fa8fc"
+      },
+      "created_time": "2024-10-14T12:39:00.000Z",
+      "last_edited_time": "2024-11-01T17:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "You are shaped by your objective functions, alignment structures, role models (?, bad phrasing)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "You are shaped by your objective functions, alignment structures, role models (?, bad phrasing)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "11fa6e41-f23e-8009-9658-d71f2c838db1",
+          "parent": {
+            "type": "block_id",
+            "block_id": "11fa6e41-f23e-80cc-87dd-ec5d0bd3ab87"
+          },
+          "created_time": "2024-10-14T12:39:00.000Z",
+          "last_edited_time": "2024-11-01T17:45:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Reflecting on what to do with this essay",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Reflecting on what to do with this essay",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "11fa6e41-f23e-8089-99a5-ddae9d8d489a",
+              "parent": {
+                "type": "block_id",
+                "block_id": "11fa6e41-f23e-8009-9658-d71f2c838db1"
+              },
+              "created_time": "2024-10-14T12:40:00.000Z",
+              "last_edited_time": "2024-10-14T12:40:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Could do “research” — write papers, publish, go to neurips — at extreme, Nobel",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Could do “research” — write papers, publish, go to neurips — at extreme, Nobel",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "11fa6e41-f23e-805c-ae7e-ce03a6dfdd2e",
+              "parent": {
+                "type": "block_id",
+                "block_id": "11fa6e41-f23e-8009-9658-d71f2c838db1"
+              },
+              "created_time": "2024-10-14T12:40:00.000Z",
+              "last_edited_time": "2024-10-14T12:40:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Could do “startup” — make product, sell, raise money — at extreme",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Could do “startup” — make product, sell, raise money — at extreme",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "11fa6e41-f23e-80d8-94e1-e74f7badad43",
+              "parent": {
+                "type": "block_id",
+                "block_id": "11fa6e41-f23e-8009-9658-d71f2c838db1"
+              },
+              "created_time": "2024-10-14T12:40:00.000Z",
+              "last_edited_time": "2024-10-14T12:40:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Could do … “religion”?",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Could do … “religion”?",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "131a6e41-f23e-804b-89d6-eb5a9c817bac",
+      "parent": {
+        "type": "page_id",
+        "page_id": "11fa6e41-f23e-80d0-a795-e6a2087fa8fc"
+      },
+      "created_time": "2024-11-01T17:45:00.000Z",
+      "last_edited_time": "2024-11-01T17:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "131a6e41-f23e-801d-8dbc-cc3d48b443c7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "11fa6e41-f23e-80d0-a795-e6a2087fa8fc"
+      },
+      "created_time": "2024-11-01T17:45:00.000Z",
+      "last_edited_time": "2024-11-01T17:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "See also",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "See also",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "131a6e41-f23e-800e-b236-c556a8986566",
+      "parent": {
+        "type": "page_id",
+        "page_id": "11fa6e41-f23e-80d0-a795-e6a2087fa8fc"
+      },
+      "created_time": "2024-11-01T17:45:00.000Z",
+      "last_edited_time": "2024-11-01T17:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "mention",
+            "mention": {
+              "type": "page",
+              "page": {
+                "id": "12ea6e41-f23e-8064-9d92-c15a46630e4f"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "model.exchange",
+            "href": "https://app.notion.com/p/12ea6e41f23e80649d92c15a46630e4f"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " ",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "131a6e41-f23e-800e-a065-c16e100c9a6e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "11fa6e41-f23e-80d0-a795-e6a2087fa8fc"
+      },
+      "created_time": "2024-11-01T17:45:00.000Z",
+      "last_edited_time": "2024-11-01T17:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "mention",
+            "mention": {
+              "type": "link_mention",
+              "link_mention": {
+                "href": "https://gwern.net/tool-ai",
+                "title": "Why Tool AIs Want to Be Agent AIs",
+                "icon_url": "https://gwern.net/static/img/logo/logo-favicon-small.png",
+                "description": "AIs limited to pure computation (Tool AIs) supporting humans, will be less intelligent, efficient, and economically valuable than more autonomous reinforcement-learning AIs (Agent AIs) who act on their own and meta-learn, because all problems are reinforcement-learning problems.",
+                "link_author": "Gwern Branwen",
+                "link_provider": "gwern.net",
+                "thumbnail_url": "https://gwern.net/static/img/logo/logo-whitebg-large-border.png"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://gwern.net/tool-ai",
+            "href": "https://gwern.net/tool-ai"
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "14fa6e41-f23e-8006-baa6-f27fe62f952d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "11fa6e41-f23e-80d0-a795-e6a2087fa8fc"
+      },
+      "created_time": "2024-12-01T16:41:00.000Z",
+      "last_edited_time": "2024-12-01T16:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "mention",
+            "mention": {
+              "type": "link_mention",
+              "link_mention": {
+                "href": "https://thesephist.com/posts/legacy/",
+                "title": "Build UNIX, not Uber | thesephist.com",
+                "icon_url": "https://thesephist.com/favicon-32x32.png",
+                "description": "I spent the last three weeks in Seoul, partly visiting family I hadn’t seen in years and partly taking a vacation from my usual work in my usual city in my usual context of life. While I haven’t been able to work much at all, I spent my subway rides and waiting-in-line times reading the Singularity Sky series of novels by Charles Stross."
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://thesephist.com/posts/legacy/",
+            "href": "https://thesephist.com/posts/legacy/"
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1802 @@
+{
+  "page": {
+    "id": "e4cb18ff9ec54843be0758235229270c",
+    "title": "Should you be flamboyantly good?",
+    "date": "2022-06-04",
+    "edited": "2022-06-04T18:25:00.000Z",
+    "url": "https://akrolsmir.notion.site/Should-you-be-flamboyantly-good-e4cb18ff9ec54843be0758235229270c",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "4248170d-88ec-43bd-91e8-a22c54dcde30",
+      "parent": {
+        "type": "page_id",
+        "page_id": "e4cb18ff-9ec5-4843-be07-58235229270c"
+      },
+      "created_time": "2022-06-04T17:06:00.000Z",
+      "last_edited_time": "2022-06-04T17:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Jesus (Matthew 6:1-6)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Jesus (Matthew 6:1-6)",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "e3df13c0-63a3-4a90-91c4-db283c069f43",
+      "parent": {
+        "type": "page_id",
+        "page_id": "e4cb18ff-9ec5-4843-be07-58235229270c"
+      },
+      "created_time": "2022-06-04T17:07:00.000Z",
+      "last_edited_time": "2022-06-04T17:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "quote",
+      "quote": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Beware of practicing your righteousness before other people in order to be seen by them, for then you will have no reward from your Father who is in heaven.\n\nThus, when you give to the needy, sound no trumpet before you, as the hypocrites do in the synagogues and in the streets, that they may be praised by others. Truly, I say to you, they have received their reward.\n\nBut when you give to the needy, do not let your left hand know what your right hand is doing, so that your giving may be in secret. And your Father who sees in secret will reward you.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Beware of practicing your righteousness before other people in order to be seen by them, for then you will have no reward from your Father who is in heaven.\n\nThus, when you give to the needy, sound no trumpet before you, as the hypocrites do in the synagogues and in the streets, that they may be praised by others. Truly, I say to you, they have received their reward.\n\nBut when you give to the needy, do not let your left hand know what your right hand is doing, so that your giving may be in secret. And your Father who sees in secret will reward you.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "fc15b5e1-a5e9-4637-8cd9-0f0e30bca518",
+      "parent": {
+        "type": "page_id",
+        "page_id": "e4cb18ff-9ec5-4843-be07-58235229270c"
+      },
+      "created_time": "2022-06-04T17:19:00.000Z",
+      "last_edited_time": "2022-06-04T17:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Scott",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Scott",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "983b8e94-cd0d-4a91-bef2-3037ca584b4f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "e4cb18ff-9ec5-4843-be07-58235229270c"
+      },
+      "created_time": "2022-06-04T17:40:00.000Z",
+      "last_edited_time": "2022-06-04T17:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Jesus was wrong, you should donate in public. (Can’t find the quote, sadly)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Jesus was wrong, you should donate in public. (Can’t find the quote, sadly)",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "7430028e-8c58-43fd-b067-5bff7a54f779",
+      "parent": {
+        "type": "page_id",
+        "page_id": "e4cb18ff-9ec5-4843-be07-58235229270c"
+      },
+      "created_time": "2022-06-04T17:28:00.000Z",
+      "last_edited_time": "2022-06-04T17:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Austin",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Austin",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "a6910f2b-59df-42ee-87dc-1fe6162c021a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "e4cb18ff-9ec5-4843-be07-58235229270c"
+      },
+      "created_time": "2022-06-04T17:31:00.000Z",
+      "last_edited_time": "2022-06-04T17:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Pro-flamboyancy",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Pro-flamboyancy",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1254bf59-9a02-4a06-9e80-5db6a54402ed",
+      "parent": {
+        "type": "page_id",
+        "page_id": "e4cb18ff-9ec5-4843-be07-58235229270c"
+      },
+      "created_time": "2022-06-04T17:41:00.000Z",
+      "last_edited_time": "2022-06-04T17:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Aka: should I publicize the good things I do, to gain status? Should you award status to me for the good things I do?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Aka: should I publicize the good things I do, to gain status? Should you award status to me for the good things I do?",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "b5184cbc-7b6b-4046-beb6-5ffb53064c2f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "e4cb18ff-9ec5-4843-be07-58235229270c"
+      },
+      "created_time": "2022-06-04T17:28:00.000Z",
+      "last_edited_time": "2022-06-04T17:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Public goodness can raise people’s view of what’s possible",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Public goodness can raise people’s view of what’s possible",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "0d5862e1-165a-4276-8669-133068b189f5",
+          "parent": {
+            "type": "block_id",
+            "block_id": "b5184cbc-7b6b-4046-beb6-5ffb53064c2f"
+          },
+          "created_time": "2022-06-04T17:29:00.000Z",
+          "last_edited_time": "2022-06-04T17:42:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Tyler Cowen: ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Tyler Cowen: ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "Raising people’s ambition is one of the best things you can do",
+                  "link": {
+                    "url": "https://marginalrevolution.com/marginalrevolution/2018/10/high-return-activity-raising-others-aspirations.html"
+                  }
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Raising people’s ambition is one of the best things you can do",
+                "href": "https://marginalrevolution.com/marginalrevolution/2018/10/high-return-activity-raising-others-aspirations.html"
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "f1ad8bf7-4961-4839-b2ad-754a8c6287db",
+      "parent": {
+        "type": "page_id",
+        "page_id": "e4cb18ff-9ec5-4843-be07-58235229270c"
+      },
+      "created_time": "2022-06-04T17:30:00.000Z",
+      "last_edited_time": "2022-06-04T17:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "One view: Jesus is trying to retroactively award status to people who did good, without receiving status at the time",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "One view: Jesus is trying to retroactively award status to people who did good, without receiving status at the time",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "8b928635-9d0e-4c44-88e4-f86096425b4e",
+          "parent": {
+            "type": "block_id",
+            "block_id": "f1ad8bf7-4961-4839-b2ad-754a8c6287db"
+          },
+          "created_time": "2022-06-04T17:42:00.000Z",
+          "last_edited_time": "2022-06-04T17:43:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Which means that status motivator is fundamentally correct!",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Which means that status motivator is fundamentally correct!",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "3e6f0849-52fa-4118-a2cd-23545b266e61",
+      "parent": {
+        "type": "page_id",
+        "page_id": "e4cb18ff-9ec5-4843-be07-58235229270c"
+      },
+      "created_time": "2022-06-04T17:30:00.000Z",
+      "last_edited_time": "2022-06-04T17:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Status/community/belonging/approval is a powerful, human motivator, and to not tap into it would be a shame. Do what works!",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Status/community/belonging/approval is a powerful, human motivator, and to not tap into it would be a shame. Do what works!",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "69e450ab-471f-4c6d-8227-225c9ac7edf7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "e4cb18ff-9ec5-4843-be07-58235229270c"
+      },
+      "created_time": "2022-06-04T17:32:00.000Z",
+      "last_edited_time": "2022-06-04T17:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Extrinsic rewards (status, money, etc) are a good way to bootstrap intrinsic rewards (meaning, satisfaction)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Extrinsic rewards (status, money, etc) are a good way to bootstrap intrinsic rewards (meaning, satisfaction)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "e7af2eba-f895-4601-880b-72ecd70a7923",
+      "parent": {
+        "type": "page_id",
+        "page_id": "e4cb18ff-9ec5-4843-be07-58235229270c"
+      },
+      "created_time": "2022-06-04T17:33:00.000Z",
+      "last_edited_time": "2022-06-04T17:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Jesus’s words came in a Jewish cultural environment where lots of status was already awarded for typical forms of doing good (almsgiving, prayer)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Jesus’s words came in a Jewish cultural environment where lots of status was already awarded for typical forms of doing good (almsgiving, prayer)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "4729114a-b37a-4363-b27e-d3775d760b4e",
+          "parent": {
+            "type": "block_id",
+            "block_id": "e7af2eba-f895-4601-880b-72ecd70a7923"
+          },
+          "created_time": "2022-06-04T17:34:00.000Z",
+          "last_edited_time": "2022-06-04T17:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "But we live in a fairly different cultural environment, so we should set up that cultural environment to encourage goodness",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "But we live in a fairly different cultural environment, so we should set up that cultural environment to encourage goodness",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "f2e9f2e5-88e5-44c2-9a22-bbdc82236ee8",
+          "parent": {
+            "type": "block_id",
+            "block_id": "e7af2eba-f895-4601-880b-72ecd70a7923"
+          },
+          "created_time": "2022-06-04T17:35:00.000Z",
+          "last_edited_time": "2022-06-04T17:38:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Today’s cultural environment awards status for… power? Which is worse?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Today’s cultural environment awards status for… power? Which is worse?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "4f27fbd8-c81b-4719-a00f-bcc883157da5",
+              "parent": {
+                "type": "block_id",
+                "block_id": "f2e9f2e5-88e5-44c2-9a22-bbdc82236ee8"
+              },
+              "created_time": "2022-06-04T17:35:00.000Z",
+              "last_edited_time": "2022-06-04T17:36:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Well, maybe. Increase in power/agency has made us rich and solved hunger",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Well, maybe. Increase in power/agency has made us rich and solved hunger",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1bd725e4-06b6-48c5-8fa5-021e91ba56ee",
+      "parent": {
+        "type": "page_id",
+        "page_id": "e4cb18ff-9ec5-4843-be07-58235229270c"
+      },
+      "created_time": "2022-06-04T17:36:00.000Z",
+      "last_edited_time": "2022-06-04T17:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Spectrum: reward goodness, or reward agency?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Spectrum: reward goodness, or reward agency?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "c15c3c1f-9409-4cbc-9bf1-82d598bb4a13",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1bd725e4-06b6-48c5-8fa5-021e91ba56ee"
+          },
+          "created_time": "2022-06-04T17:37:00.000Z",
+          "last_edited_time": "2022-06-04T17:38:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Is life struggle between good vs evil? Or is life struggle between action vs nonaction?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Is life struggle between good vs evil? Or is life struggle between action vs nonaction?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "bea456d2-691c-455d-a68b-a63ac0bdb333",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1bd725e4-06b6-48c5-8fa5-021e91ba56ee"
+          },
+          "created_time": "2022-06-04T17:37:00.000Z",
+          "last_edited_time": "2022-06-04T17:39:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "If Good vs Evil: award goodness. Solve alignment. Admire saints.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "If Good vs Evil: award goodness. Solve alignment. Admire saints.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "0a32e628-de20-4889-ab87-991a54d169ee",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1bd725e4-06b6-48c5-8fa5-021e91ba56ee"
+          },
+          "created_time": "2022-06-04T17:38:00.000Z",
+          "last_edited_time": "2022-06-04T17:39:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "If Action vs Nonaction: award action. Foster growth. Admire billionaires.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "If Action vs Nonaction: award action. Foster growth. Admire billionaires.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "33eecea1-9199-4c26-b3be-05acf24c0539",
+      "parent": {
+        "type": "page_id",
+        "page_id": "e4cb18ff-9ec5-4843-be07-58235229270c"
+      },
+      "created_time": "2022-06-04T17:31:00.000Z",
+      "last_edited_time": "2022-06-04T17:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Anti-flamboyancy",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Anti-flamboyancy",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "e8c84693-5c2e-4958-88d5-17db70917dff",
+      "parent": {
+        "type": "page_id",
+        "page_id": "e4cb18ff-9ec5-4843-be07-58235229270c"
+      },
+      "created_time": "2022-06-04T17:19:00.000Z",
+      "last_edited_time": "2022-06-04T17:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Flamboyancy is demanding, “holier-than-thou” can cause people to turn off",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Flamboyancy is demanding, “holier-than-thou” can cause people to turn off",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3f0ad69a-3b6b-4add-ac5f-3916fd5fa613",
+      "parent": {
+        "type": "page_id",
+        "page_id": "e4cb18ff-9ec5-4843-be07-58235229270c"
+      },
+      "created_time": "2022-06-04T17:29:00.000Z",
+      "last_edited_time": "2022-06-04T17:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "If you do good in pursuit of praise/reputation/status, can I trust you to do good if no status was awarded?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "If you do good in pursuit of praise/reputation/status, can I trust you to do good if no status was awarded?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "7db70271-acf7-4e8f-bd08-afb1624901bb",
+          "parent": {
+            "type": "block_id",
+            "block_id": "3f0ad69a-3b6b-4add-ac5f-3916fd5fa613"
+          },
+          "created_time": "2022-06-04T17:29:00.000Z",
+          "last_edited_time": "2022-06-04T17:30:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "But: will status always be awardable? Maybe goal is to just shorten status feedback loops",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "But: will status always be awardable? Maybe goal is to just shorten status feedback loops",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "ac8316c2-3f40-42e4-aa97-cf04237437d3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "e4cb18ff-9ec5-4843-be07-58235229270c"
+      },
+      "created_time": "2022-06-04T17:33:00.000Z",
+      "last_edited_time": "2022-06-04T17:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Intrinsic rewards are the ultimate goal?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Intrinsic rewards are the ultimate goal?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "d927961b-d893-40d2-bc48-a7b98876a3e2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "e4cb18ff-9ec5-4843-be07-58235229270c"
+      },
+      "created_time": "2022-06-04T17:47:00.000Z",
+      "last_edited_time": "2022-06-04T17:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "0cf219d8-6536-462a-9fe5-516737747f9b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "e4cb18ff-9ec5-4843-be07-58235229270c"
+      },
+      "created_time": "2022-06-04T17:47:00.000Z",
+      "last_edited_time": "2022-06-04T17:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Should saving the world be fun?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Should saving the world be fun?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "275b0bce-7185-4641-80ae-c0c8ca4da245",
+      "parent": {
+        "type": "page_id",
+        "page_id": "e4cb18ff-9ec5-4843-be07-58235229270c"
+      },
+      "created_time": "2022-06-04T17:47:00.000Z",
+      "last_edited_time": "2022-06-04T17:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "FTX flew out a bunch of pretty well-off people to the Bahamas to meet with each other and hang out and work on their work",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "FTX flew out a bunch of pretty well-off people to the Bahamas to meet with each other and hang out and work on their work",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "9e912982-6ccd-463f-aaa2-ac4a4cd0fd31",
+          "parent": {
+            "type": "block_id",
+            "block_id": "275b0bce-7185-4641-80ae-c0c8ca4da245"
+          },
+          "created_time": "2022-06-04T17:47:00.000Z",
+          "last_edited_time": "2022-06-04T17:48:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "On the face of it, seems absurd. If each visitor cost (ballpark) $12k, that’s like 3-4 deaths averted",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "On the face of it, seems absurd. If each visitor cost (ballpark) $12k, that’s like 3-4 deaths averted",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "1fadc245-56ef-4fd5-b415-8ae6a8429e67",
+              "parent": {
+                "type": "block_id",
+                "block_id": "9e912982-6ccd-463f-aaa2-ac4a4cd0fd31"
+              },
+              "created_time": "2022-06-04T17:48:00.000Z",
+              "last_edited_time": "2022-06-04T17:48:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "But I don’t really endorse this framing. Isolated demand for rigor, and all that.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "But I don’t really endorse this framing. Isolated demand for rigor, and all that.",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "878d5dac-b3d1-426e-9400-19b4754e1dc0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "e4cb18ff-9ec5-4843-be07-58235229270c"
+      },
+      "created_time": "2022-06-04T17:48:00.000Z",
+      "last_edited_time": "2022-06-04T17:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Making saving the world fun = more people want to save the world",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Making saving the world fun = more people want to save the world",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1c286126-eee4-4668-8e01-2e8574d4ea96",
+      "parent": {
+        "type": "page_id",
+        "page_id": "e4cb18ff-9ec5-4843-be07-58235229270c"
+      },
+      "created_time": "2022-06-04T17:49:00.000Z",
+      "last_edited_time": "2022-06-04T17:51:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Worry: if people then have to choose between having fun and world-saving, they might choose fun",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Worry: if people then have to choose between having fun and world-saving, they might choose fun",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "4e591d1b-b1c4-42d2-a143-1923b682283e",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c286126-eee4-4668-8e01-2e8574d4ea96"
+          },
+          "created_time": "2022-06-04T17:49:00.000Z",
+          "last_edited_time": "2022-06-04T17:51:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Standard answer: set up mechanisms to pay them back in fun, when they go point to the claim that they gave up fun to world-save",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Standard answer: set up mechanisms to pay them back in fun, when they go point to the claim that they gave up fun to world-save",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "d0da28bf-fc26-4f7a-a9f0-87b1fb17dec3",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c286126-eee4-4668-8e01-2e8574d4ea96"
+          },
+          "created_time": "2022-06-04T17:51:00.000Z",
+          "last_edited_time": "2022-06-04T18:00:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "See: ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "See: ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "Keltham asking for compensation for saving a drowning child",
+                  "link": {
+                    "url": "https://www.lesswrong.com/posts/cujpciCqNbawBihhQ/self-integrity-and-the-drowning-child"
+                  }
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Keltham asking for compensation for saving a drowning child",
+                "href": "https://www.lesswrong.com/posts/cujpciCqNbawBihhQ/self-integrity-and-the-drowning-child"
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "c4524f93-233f-4ac6-8fa3-1ee5a5be21e9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "e4cb18ff-9ec5-4843-be07-58235229270c"
+      },
+      "created_time": "2022-06-04T17:09:00.000Z",
+      "last_edited_time": "2022-06-04T18:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Aside: Scott on religion",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Aside: Scott on religion",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "8ca31f4a-2d5a-44c4-8e50-41a21bd80817",
+      "parent": {
+        "type": "page_id",
+        "page_id": "e4cb18ff-9ec5-4843-be07-58235229270c"
+      },
+      "created_time": "2022-06-04T17:32:00.000Z",
+      "last_edited_time": "2022-06-04T17:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "(Things I mostly independently derived, cool to see the writing afterwards)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "(Things I mostly independently derived, cool to see the writing afterwards)",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "6df1adb0-9bed-49c8-89e7-f8a4ba50d53b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "e4cb18ff-9ec5-4843-be07-58235229270c"
+      },
+      "created_time": "2022-06-04T17:19:00.000Z",
+      "last_edited_time": "2022-06-04T17:28:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "https://slatestarcodex.com/2014/07/14/ecclesiology-for-atheists/",
+              "link": {
+                "url": "https://slatestarcodex.com/2014/07/14/ecclesiology-for-atheists/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://slatestarcodex.com/2014/07/14/ecclesiology-for-atheists/",
+            "href": "https://slatestarcodex.com/2014/07/14/ecclesiology-for-atheists/"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ": The forms of the Catholic Church are seriously impressive and worth emulating",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ": The forms of the Catholic Church are seriously impressive and worth emulating",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "a9eaadac-0df3-4220-9b2c-7a07bdabac50",
+      "parent": {
+        "type": "page_id",
+        "page_id": "e4cb18ff-9ec5-4843-be07-58235229270c"
+      },
+      "created_time": "2022-06-04T17:19:00.000Z",
+      "last_edited_time": "2022-06-04T17:27:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "https://slatestarcodex.com/2018/04/01/the-hour-i-first-believed/",
+              "link": {
+                "url": "https://slatestarcodex.com/2018/04/01/the-hour-i-first-believed/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://slatestarcodex.com/2018/04/01/the-hour-i-first-believed/",
+            "href": "https://slatestarcodex.com/2018/04/01/the-hour-i-first-believed/"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ": God is the omniscient superintelligence that tries to reward all the good behavior",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ": God is the omniscient superintelligence that tries to reward all the good behavior",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "b2338817-d850-4b3f-8d0f-633ed140f7aa",
+      "parent": {
+        "type": "page_id",
+        "page_id": "e4cb18ff-9ec5-4843-be07-58235229270c"
+      },
+      "created_time": "2022-06-04T17:27:00.000Z",
+      "last_edited_time": "2022-06-04T17:27:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    }
+  ]
+}

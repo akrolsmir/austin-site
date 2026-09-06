@@ -1,0 +1,475 @@
+{
+  "page": {
+    "id": "885e5a3ec419444bbeb16255777c2751",
+    "title": "Brag about what you did, not what you’re going to do",
+    "date": "2022-06-01",
+    "edited": "2022-06-01T16:37:00.000Z",
+    "url": "https://akrolsmir.notion.site/Brag-about-what-you-did-not-what-you-re-going-to-do-885e5a3ec419444bbeb16255777c2751",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "c792673f-5b51-421e-b180-f7a23fc73d4e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "885e5a3e-c419-444b-beb1-6255777c2751"
+      },
+      "created_time": "2022-06-01T16:32:00.000Z",
+      "last_edited_time": "2022-06-01T16:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "quote",
+      "quote": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Another way to save time is not verbally going over what we accomplished yesterday. We could all take a minute to read each other's written updates and only verbally say what we're going to do today.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Another way to save time is not verbally going over what we accomplished yesterday. We could all take a minute to read each other's written updates and only verbally say what we're going to do today.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "b08e5e6a-219c-4abc-bff0-9f1a4b113a5b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "885e5a3e-c419-444b-beb1-6255777c2751"
+      },
+      "created_time": "2022-06-01T16:32:00.000Z",
+      "last_edited_time": "2022-06-01T16:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I can definitely see how reading written updates would be time-saving, but I actually feel like -- it's really important to spend our shared attention time during a meeting on \"celebrating the things people have already done\", as opposed to just \"talking about things people might do\".",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I can definitely see how reading written updates would be time-saving, but I actually feel like -- it's really important to spend our shared attention time during a meeting on \"celebrating the things people have already done\", as opposed to just \"talking about things people might do\".",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1ac2e33b-a2f7-405f-b1be-336c757a61d5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "885e5a3e-c419-444b-beb1-6255777c2751"
+      },
+      "created_time": "2022-06-01T16:32:00.000Z",
+      "last_edited_time": "2022-06-01T16:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "This is pretty counterintuitive, right? Like, who cares what already happened, what we should focus on is what can happen next, right?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "This is pretty counterintuitive, right? Like, who cares what already happened, what we should focus on is what can happen next, right?",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "731c9e20-f9c9-42e2-a3ea-b8fbd370da0c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "885e5a3e-c419-444b-beb1-6255777c2751"
+      },
+      "created_time": "2022-06-01T16:32:00.000Z",
+      "last_edited_time": "2022-06-01T16:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "But spending time on people report what they accomplished provide social feedback, where everyone in the meeting gives kudos in the form of attention for the things that were actually delivered. This means that what we reward is getting work done, as opposed to just talking about work that could happen.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "But spending time on people report what they accomplished provide social feedback, where everyone in the meeting gives kudos in the form of attention for the things that were actually delivered. This means that what we reward is getting work done, as opposed to just talking about work that could happen.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "dd55fffd-5679-4152-965e-9bb515f33b42",
+      "parent": {
+        "type": "page_id",
+        "page_id": "885e5a3e-c419-444b-beb1-6255777c2751"
+      },
+      "created_time": "2022-06-01T16:32:00.000Z",
+      "last_edited_time": "2022-06-01T16:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Another thing: it's really easy to enjoy talking about hypotheticals and what-ifs, but this is actually really dangerous from a motivational perspective! There's a social psychological finding where eg telling your friends \"hey I'm going to write a book\" actually DECREASES your motivation to write a book, because you already get the social kudos up front. I'm almost a believer in keeping my plans secret until they've succeeded, so I don't fall victim to this haha.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Another thing: it's really easy to enjoy talking about hypotheticals and what-ifs, but this is actually really dangerous from a motivational perspective! There's a social psychological finding where eg telling your friends \"hey I'm going to write a book\" actually DECREASES your motivation to write a book, because you already get the social kudos up front. I'm almost a believer in keeping my plans secret until they've succeeded, so I don't fall victim to this haha.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "7f5eb33e-9293-4316-9697-98ec4862f206",
+      "parent": {
+        "type": "page_id",
+        "page_id": "885e5a3e-c419-444b-beb1-6255777c2751"
+      },
+      "created_time": "2022-06-01T16:32:00.000Z",
+      "last_edited_time": "2022-06-01T16:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "(Incidentally, this is why I split up a section for Demos. Let's reward the work that has been accomplished to date!)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "(Incidentally, this is why I split up a section for Demos. Let's reward the work that has been accomplished to date!)",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "4dde5f75-4223-43a7-9f37-d42fb780312f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "885e5a3e-c419-444b-beb1-6255777c2751"
+      },
+      "created_time": "2022-06-01T16:32:00.000Z",
+      "last_edited_time": "2022-06-01T16:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "(All of this is also an argument for why retroactive funding is much better than forward-looking funding haha)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "(All of this is also an argument for why retroactive funding is much better than forward-looking funding haha)",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "994f26b2-7aeb-449d-b254-eb21f9c35f31",
+      "parent": {
+        "type": "page_id",
+        "page_id": "885e5a3e-c419-444b-beb1-6255777c2751"
+      },
+      "created_time": "2022-06-01T16:34:00.000Z",
+      "last_edited_time": "2022-06-01T16:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "c5a01d43-2412-44bc-b08e-8c9cb44dcb4c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "885e5a3e-c419-444b-beb1-6255777c2751"
+      },
+      "created_time": "2022-06-01T16:34:00.000Z",
+      "last_edited_time": "2022-06-01T16:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Other thoughts",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Other thoughts",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "ee3148f8-49ad-4bce-87da-d5547ea7425e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "885e5a3e-c419-444b-beb1-6255777c2751"
+      },
+      "created_time": "2022-06-01T16:34:00.000Z",
+      "last_edited_time": "2022-06-01T16:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "We want to reward good execution more than good ideas",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "We want to reward good execution more than good ideas",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "c8958958-3d6e-4e92-9c71-36b720281306",
+      "parent": {
+        "type": "page_id",
+        "page_id": "885e5a3e-c419-444b-beb1-6255777c2751"
+      },
+      "created_time": "2022-06-01T16:35:00.000Z",
+      "last_edited_time": "2022-06-01T16:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "To temper my case a bit: discussing what you're going to do is the best mechanism for coordinating between people; many problems are better solved through collaborations between people rather than alone. And definitely, one major function of standup is to serve as a time for coordination and getting unblocked.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "To temper my case a bit: discussing what you're going to do is the best mechanism for coordinating between people; many problems are better solved through collaborations between people rather than alone. And definitely, one major function of standup is to serve as a time for coordination and getting unblocked.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    }
+  ]
+}

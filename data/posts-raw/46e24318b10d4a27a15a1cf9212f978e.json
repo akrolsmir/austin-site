@@ -1,0 +1,963 @@
+{
+  "page": {
+    "id": "46e24318b10d4a27a15a1cf9212f978e",
+    "title": "You don’t need to be on web3 to be decentralized",
+    "date": "2022-06-29",
+    "edited": "2022-07-02T04:05:00.000Z",
+    "url": "https://akrolsmir.notion.site/You-don-t-need-to-be-on-web3-to-be-decentralized-46e24318b10d4a27a15a1cf9212f978e",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "7d8b76e9-d930-4dde-aa9d-17fbd3c9a930",
+      "parent": {
+        "type": "page_id",
+        "page_id": "46e24318-b10d-4a27-a15a-1cf9212f978e"
+      },
+      "created_time": "2022-06-18T05:36:00.000Z",
+      "last_edited_time": "2022-06-18T05:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "People think “decentralization” means “I can run this on my own computer, nobody can stop me, I own everything”. But this isn’t a super useful definition. Nobody cares about it.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "People think “decentralization” means “I can run this on my own computer, nobody can stop me, I own everything”. But this isn’t a super useful definition. Nobody cares about it.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1cd5c880-8f0f-4cc6-978d-7ffddb4ca249",
+      "parent": {
+        "type": "page_id",
+        "page_id": "46e24318-b10d-4a27-a15a-1cf9212f978e"
+      },
+      "created_time": "2022-06-18T05:31:00.000Z",
+      "last_edited_time": "2022-06-18T05:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Decentralization in practice is mostly be about:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Decentralization in practice is mostly be about:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "c326dd2f-18b6-4a36-a87d-cdf055e9cddd",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1cd5c880-8f0f-4cc6-978d-7ffddb4ca249"
+          },
+          "created_time": "2022-06-18T05:35:00.000Z",
+          "last_edited_time": "2022-06-18T05:37:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "“can I actually do the thing I want to do”",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "“can I actually do the thing I want to do”",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "e0be1de8-36ec-43e4-afc0-1172bb63b164",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1cd5c880-8f0f-4cc6-978d-7ffddb4ca249"
+          },
+          "created_time": "2022-06-18T05:32:00.000Z",
+          "last_edited_time": "2022-06-18T05:36:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "“how much permission do I need to do what I want to do?”",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "“how much permission do I need to do what I want to do?”",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "044665d3-817c-400e-8741-5bdb0c73fd6f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1cd5c880-8f0f-4cc6-978d-7ffddb4ca249"
+          },
+          "created_time": "2022-06-18T05:32:00.000Z",
+          "last_edited_time": "2022-06-18T05:37:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "“who can veto the thing after I’ve done it?”",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "“who can veto the thing after I’ve done it?”",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "e2cc9c8d-bc8d-4138-a37a-99cb214c4c1d",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1cd5c880-8f0f-4cc6-978d-7ffddb4ca249"
+          },
+          "created_time": "2022-06-18T05:37:00.000Z",
+          "last_edited_time": "2022-06-18T05:37:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [],
+            "icon": null,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "e50811a3-748d-4a20-8abd-dde5f6adfbeb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "46e24318-b10d-4a27-a15a-1cf9212f978e"
+      },
+      "created_time": "2022-06-18T05:33:00.000Z",
+      "last_edited_time": "2022-06-18T05:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Examples",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Examples",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "0a01d1ab-e41d-49ec-a3b7-e2dfec2c751a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "46e24318-b10d-4a27-a15a-1cf9212f978e"
+      },
+      "created_time": "2022-06-18T05:33:00.000Z",
+      "last_edited_time": "2022-06-18T05:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Polymarket vs Manifold",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Polymarket vs Manifold",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "e3b0f71a-f63a-4d04-ab5f-c01fbcad7572",
+      "parent": {
+        "type": "page_id",
+        "page_id": "46e24318-b10d-4a27-a15a-1cf9212f978e"
+      },
+      "created_time": "2022-06-18T05:33:00.000Z",
+      "last_edited_time": "2022-06-18T05:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Even though Polymarket is crypto and thus “decentralized”, it’s only on Manifold that you can actually ask any question you want",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Even though Polymarket is crypto and thus “decentralized”, it’s only on Manifold that you can actually ask any question you want",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "10c97548-8399-4cb2-9974-c9a4b714b8df",
+      "parent": {
+        "type": "page_id",
+        "page_id": "46e24318-b10d-4a27-a15a-1cf9212f978e"
+      },
+      "created_time": "2022-06-18T05:34:00.000Z",
+      "last_edited_time": "2022-06-18T05:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "a0ddb8ea-af31-4afb-b0ce-37609af1324a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "46e24318-b10d-4a27-a15a-1cf9212f978e"
+      },
+      "created_time": "2022-06-18T05:33:00.000Z",
+      "last_edited_time": "2022-06-18T05:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Strangemood vs Steam",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Strangemood vs Steam",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "fbbbdb09-9585-4e07-81e1-4d31ffb8018b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "46e24318-b10d-4a27-a15a-1cf9212f978e"
+      },
+      "created_time": "2022-06-18T05:33:00.000Z",
+      "last_edited_time": "2022-06-18T05:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Even though Strangemood is on crypto and you can upload anything hypothetically, the thing you ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Even though Strangemood is on crypto and you can upload anything hypothetically, the thing you ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "actually",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "actually",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " want to do is not “list games” but “sell games”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " want to do is not “list games” but “sell games”",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "3e31acaa-8120-44b0-8807-021d0be86880",
+          "parent": {
+            "type": "block_id",
+            "block_id": "fbbbdb09-9585-4e07-81e1-4d31ffb8018b"
+          },
+          "created_time": "2022-06-18T05:34:00.000Z",
+          "last_edited_time": "2022-06-18T05:35:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "So the platform that puts the power of “selling games” into the hands of the game maker, is the more “decentralized” one.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "So the platform that puts the power of “selling games” into the hands of the game maker, is the more “decentralized” one.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "a286527a-1e7c-4f5d-9b54-415258f3ea63",
+      "parent": {
+        "type": "page_id",
+        "page_id": "46e24318-b10d-4a27-a15a-1cf9212f978e"
+      },
+      "created_time": "2022-06-18T05:34:00.000Z",
+      "last_edited_time": "2022-06-18T05:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "0760f892-eea8-4014-9595-c191c4df3c6b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "46e24318-b10d-4a27-a15a-1cf9212f978e"
+      },
+      "created_time": "2022-06-18T05:33:00.000Z",
+      "last_edited_time": "2022-06-18T05:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Mastodon vs Twitter",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Mastodon vs Twitter",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "51b39808-29b5-4c30-bfd9-7adcb8797957",
+      "parent": {
+        "type": "page_id",
+        "page_id": "46e24318-b10d-4a27-a15a-1cf9212f978e"
+      },
+      "created_time": "2022-06-18T05:35:00.000Z",
+      "last_edited_time": "2022-06-18T05:51:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Similar example. On Twitter, you can basically say anything and get it seen by really cool people. That’s the thing users want, not some ability to self-host their client.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Similar example. On Twitter, you can basically say anything and get it seen by really cool people. That’s the thing users want, not some ability to self-host their client.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "42838bc1-5f75-4c84-8fb1-4905f81e076c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "46e24318-b10d-4a27-a15a-1cf9212f978e"
+      },
+      "created_time": "2022-06-18T05:51:00.000Z",
+      "last_edited_time": "2022-06-18T05:51:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "9e26555f-f2fc-4b6c-aa3b-d419cbd15707",
+      "parent": {
+        "type": "page_id",
+        "page_id": "46e24318-b10d-4a27-a15a-1cf9212f978e"
+      },
+      "created_time": "2022-06-18T05:51:00.000Z",
+      "last_edited_time": "2022-06-18T05:51:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Central platforms are held in check by their community",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Central platforms are held in check by their community",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "c2c9f15f-2faf-4047-a5f8-eacf739ea125",
+      "parent": {
+        "type": "page_id",
+        "page_id": "46e24318-b10d-4a27-a15a-1cf9212f978e"
+      },
+      "created_time": "2022-06-18T05:51:00.000Z",
+      "last_edited_time": "2022-06-18T05:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "The biggest reason people cite for wanting to move off of central platforms is that central platforms can censor or take down content; they have theoretic veto power over ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "The biggest reason people cite for wanting to move off of central platforms is that central platforms can censor or take down content; they have theoretic veto power over ",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "d433a649-6c11-480f-a418-c3c23a6bb6f7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "46e24318-b10d-4a27-a15a-1cf9212f978e"
+      },
+      "created_time": "2022-06-18T05:52:00.000Z",
+      "last_edited_time": "2022-06-18T05:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "But: in general, note that this veto power is rarely abused (and the times it is abused, it gets intense media scrutiny). Central platforms live and die by the community behind them",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "But: in general, note that this veto power is rarely abused (and the times it is abused, it gets intense media scrutiny). Central platforms live and die by the community behind them",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "7b1f2337-7c6a-4b97-a509-57013209ad6e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "46e24318-b10d-4a27-a15a-1cf9212f978e"
+      },
+      "created_time": "2022-06-18T05:36:00.000Z",
+      "last_edited_time": "2022-06-18T05:36:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "01c6e723-203e-4a09-81bf-7e591fc21164",
+      "parent": {
+        "type": "page_id",
+        "page_id": "46e24318-b10d-4a27-a15a-1cf9212f978e"
+      },
+      "created_time": "2022-06-18T05:36:00.000Z",
+      "last_edited_time": "2022-06-18T05:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Decentralizing is about relative power between platform and users",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Decentralizing is about relative power between platform and users",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "c10955f5-fdb5-4488-aa44-03656d5868f2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "46e24318-b10d-4a27-a15a-1cf9212f978e"
+      },
+      "created_time": "2022-06-18T05:36:00.000Z",
+      "last_edited_time": "2022-06-18T05:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Think about what powers you’re granting onto your users. That’s what true decentralization is. Maximize user power instead of minimizing platform control.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Think about what powers you’re granting onto your users. That’s what true decentralization is. Maximize user power instead of minimizing platform control.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    }
+  ]
+}

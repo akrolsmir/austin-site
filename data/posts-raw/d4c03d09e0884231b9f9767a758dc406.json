@@ -1,0 +1,3472 @@
+{
+  "page": {
+    "id": "d4c03d09e0884231b9f9767a758dc406",
+    "title": "EA needs better software",
+    "date": "2022-02-16",
+    "edited": "2022-08-24T20:25:00.000Z",
+    "url": "https://akrolsmir.notion.site/EA-needs-better-software-d4c03d09e0884231b9f9767a758dc406",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "47ba672c-4482-4e2a-8606-d1e111e04553",
+      "parent": {
+        "type": "page_id",
+        "page_id": "d4c03d09-e088-4231-b9f9-767a758dc406"
+      },
+      "created_time": "2022-02-16T10:26:00.000Z",
+      "last_edited_time": "2022-02-16T11:01:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Main points",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Main points",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "8f5826dc-fdb6-4dd8-aaf6-c729d644c6d6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "d4c03d09-e088-4231-b9f9-767a758dc406"
+      },
+      "created_time": "2022-07-22T22:20:00.000Z",
+      "last_edited_time": "2022-07-22T22:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "On the margin, the amount of money EA spends on software is like an order of magnitude too low",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "On the margin, the amount of money EA spends on software is like an order of magnitude too low",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "d36a288e-51e8-4cf8-ab75-1cb355e93dff",
+          "parent": {
+            "type": "block_id",
+            "block_id": "8f5826dc-fdb6-4dd8-aaf6-c729d644c6d6"
+          },
+          "created_time": "2022-07-22T22:21:00.000Z",
+          "last_edited_time": "2022-07-22T22:21:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Examine: SFF, FTX, OP grants",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Examine: SFF, FTX, OP grants",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "de5878ae-7722-489f-bc9c-1a97161c88d3",
+          "parent": {
+            "type": "block_id",
+            "block_id": "8f5826dc-fdb6-4dd8-aaf6-c729d644c6d6"
+          },
+          "created_time": "2022-02-16T10:26:00.000Z",
+          "last_edited_time": "2022-07-22T22:21:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Software made up like 10% of the last funding round of SFF",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Software made up like 10% of the last funding round of SFF",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "945c0c6d-8c01-4a4d-a351-52fd7429f1f1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "d4c03d09-e088-4231-b9f9-767a758dc406"
+      },
+      "created_time": "2022-02-16T10:27:00.000Z",
+      "last_edited_time": "2022-02-16T10:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Effective Altruism is good at producing ideas but not as good at executing",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Effective Altruism is good at producing ideas but not as good at executing",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "56ec8405-1b06-4789-9588-5d22af51fdab",
+          "parent": {
+            "type": "block_id",
+            "block_id": "945c0c6d-8c01-4a4d-a351-52fd7429f1f1"
+          },
+          "created_time": "2022-02-16T10:27:00.000Z",
+          "last_edited_time": "2022-02-16T10:34:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Silicon Valley startups are highly competent",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Silicon Valley startups are highly competent",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "7fe22327-cbcf-4f9a-810e-98aaaa8bbd72",
+          "parent": {
+            "type": "block_id",
+            "block_id": "945c0c6d-8c01-4a4d-a351-52fd7429f1f1"
+          },
+          "created_time": "2022-02-16T10:34:00.000Z",
+          "last_edited_time": "2022-02-16T10:34:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "“Professionals talk logistics”",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "“Professionals talk logistics”",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "18c85072-df96-4e62-a396-e06cd1a3820d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "d4c03d09-e088-4231-b9f9-767a758dc406"
+      },
+      "created_time": "2022-02-16T10:26:00.000Z",
+      "last_edited_time": "2022-07-22T22:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Research writes onto paper; software writes onto minds.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Research writes onto paper; software writes onto minds.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "c8f30bff-7778-42c8-9c09-482c5647d507",
+          "parent": {
+            "type": "block_id",
+            "block_id": "18c85072-df96-4e62-a396-e06cd1a3820d"
+          },
+          "created_time": "2022-02-16T10:30:00.000Z",
+          "last_edited_time": "2022-02-16T10:30:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "E.g. social networks, video games shape the way people think",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "E.g. social networks, video games shape the way people think",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "7672881c-dd70-404a-a2f5-0d61eb83e836",
+          "parent": {
+            "type": "block_id",
+            "block_id": "18c85072-df96-4e62-a396-e06cd1a3820d"
+          },
+          "created_time": "2022-07-22T22:15:00.000Z",
+          "last_edited_time": "2022-07-22T22:16:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Think about how much time you spend in front of a screen. The ability to change what gets brought up changes how productive you are",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Think about how much time you spend in front of a screen. The ability to change what gets brought up changes how productive you are",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "2073a186-878f-4061-a8d2-cda63683c711",
+      "parent": {
+        "type": "page_id",
+        "page_id": "d4c03d09-e088-4231-b9f9-767a758dc406"
+      },
+      "created_time": "2022-02-16T10:39:00.000Z",
+      "last_edited_time": "2022-07-22T22:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Just like research is a public good, software is a public good",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Just like research is a public good, software is a public good",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "0439ebd0-d507-4eb9-bd98-a5ad56ff3d83",
+          "parent": {
+            "type": "block_id",
+            "block_id": "2073a186-878f-4061-a8d2-cda63683c711"
+          },
+          "created_time": "2022-07-22T22:16:00.000Z",
+          "last_edited_time": "2022-07-22T22:17:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "So we should expect it to be underfunded, especially on EA teams",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "So we should expect it to be underfunded, especially on EA teams",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "9d5d4249-3980-4b9c-92e2-d9f7cac02f24",
+      "parent": {
+        "type": "page_id",
+        "page_id": "d4c03d09-e088-4231-b9f9-767a758dc406"
+      },
+      "created_time": "2022-02-16T10:50:00.000Z",
+      "last_edited_time": "2022-07-22T22:17:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "With a good team, software development can be very cheap in terms of time",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "With a good team, software development can be very cheap in terms of time",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "345a4e52-c8b2-43cb-a3c5-88e948074417",
+          "parent": {
+            "type": "block_id",
+            "block_id": "9d5d4249-3980-4b9c-92e2-d9f7cac02f24"
+          },
+          "created_time": "2022-07-22T22:17:00.000Z",
+          "last_edited_time": "2022-07-22T22:17:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "We built the MVP of Manifold in 3 weeks",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "We built the MVP of Manifold in 3 weeks",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "4eebc352-d371-46a0-bb39-661c71fa8a22",
+      "parent": {
+        "type": "page_id",
+        "page_id": "d4c03d09-e088-4231-b9f9-767a758dc406"
+      },
+      "created_time": "2022-02-21T03:44:00.000Z",
+      "last_edited_time": "2022-07-22T22:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Why does EA software suck? (or does not exist)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Why does EA software suck? (or does not exist)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "e94ca4a7-1148-4623-b4a8-a926fad4cc5e",
+          "parent": {
+            "type": "block_id",
+            "block_id": "4eebc352-d371-46a0-bb39-661c71fa8a22"
+          },
+          "created_time": "2022-04-22T09:24:00.000Z",
+          "last_edited_time": "2022-04-22T09:25:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Very surprising given overlap in EA & engineering mindset",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Very surprising given overlap in EA & engineering mindset",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "2efe64eb-5b42-4055-a266-9e3544361181",
+          "parent": {
+            "type": "block_id",
+            "block_id": "4eebc352-d371-46a0-bb39-661c71fa8a22"
+          },
+          "created_time": "2022-07-22T22:07:00.000Z",
+          "last_edited_time": "2022-07-22T22:24:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Also surprising given that roughly all the money in EA came from one of 3 tech initiatives (FB/Asana, Skype, SBF)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Also surprising given that roughly all the money in EA came from one of 3 tech initiatives (FB/Asana, Skype, SBF)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "69a46934-792d-4318-9ae7-2d385b396567",
+      "parent": {
+        "type": "page_id",
+        "page_id": "d4c03d09-e088-4231-b9f9-767a758dc406"
+      },
+      "created_time": "2022-02-16T11:01:00.000Z",
+      "last_edited_time": "2022-02-16T11:01:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "cef73e1b-d74d-474e-8d92-2479eb914539",
+      "parent": {
+        "type": "page_id",
+        "page_id": "d4c03d09-e088-4231-b9f9-767a758dc406"
+      },
+      "created_time": "2022-02-16T11:01:00.000Z",
+      "last_edited_time": "2022-02-16T11:01:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Notes",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Notes",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "25241a0f-4b1c-4a7c-b7dc-f772345e61cc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "d4c03d09-e088-4231-b9f9-767a758dc406"
+      },
+      "created_time": "2022-02-16T11:01:00.000Z",
+      "last_edited_time": "2022-07-22T22:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "By software I tend to mean “apps” not “sites”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "By software I tend to mean “apps” not “sites”",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "1700232b-3d60-4b43-b8f7-f02efbf3ab9d",
+          "parent": {
+            "type": "block_id",
+            "block_id": "25241a0f-4b1c-4a7c-b7dc-f772345e61cc"
+          },
+          "created_time": "2022-02-16T11:03:00.000Z",
+          "last_edited_time": "2022-02-16T11:05:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Distinction: “apps” are focus on interaction (Gmail); “sites” focus on static content (80k hours). Definitely a spectrum though.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Distinction: “apps” are focus on interaction (Gmail); “sites” focus on static content (80k hours). Definitely a spectrum though.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "a43b8eb4-4747-4801-8799-a43818dd5e16",
+          "parent": {
+            "type": "block_id",
+            "block_id": "25241a0f-4b1c-4a7c-b7dc-f772345e61cc"
+          },
+          "created_time": "2022-07-22T22:21:00.000Z",
+          "last_edited_time": "2022-07-22T22:22:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Example EA apps: EA Forum; Ought; Metaculus; Manifold; Guesstimate/QURI",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Example EA apps: EA Forum; Ought; Metaculus; Manifold; Guesstimate/QURI",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "705a4afe-4ca7-4a9a-bdb0-0d4761539259",
+          "parent": {
+            "type": "block_id",
+            "block_id": "25241a0f-4b1c-4a7c-b7dc-f772345e61cc"
+          },
+          "created_time": "2022-07-22T22:23:00.000Z",
+          "last_edited_time": "2022-07-22T22:23:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "For comparison: Number of people in university groups, look at funding tables",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "For comparison: Number of people in university groups, look at funding tables",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "e9e4cd2e-0f25-4b60-a57a-d79bc9283b05",
+      "parent": {
+        "type": "page_id",
+        "page_id": "d4c03d09-e088-4231-b9f9-767a758dc406"
+      },
+      "created_time": "2022-02-16T11:47:00.000Z",
+      "last_edited_time": "2022-02-16T11:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "63aa0626-1047-4fb3-b5c1-08eac8c1bd5c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "d4c03d09-e088-4231-b9f9-767a758dc406"
+      },
+      "created_time": "2022-02-16T10:30:00.000Z",
+      "last_edited_time": "2022-02-16T10:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Meta Proposals",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Meta Proposals",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "e4d9bc00-ac83-4890-af3f-e3eae8b5ee96",
+      "parent": {
+        "type": "page_id",
+        "page_id": "d4c03d09-e088-4231-b9f9-767a758dc406"
+      },
+      "created_time": "2022-02-16T10:30:00.000Z",
+      "last_edited_time": "2022-02-16T10:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "YCombinator for EA software",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "YCombinator for EA software",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "59921688-d47b-4017-a8c5-55b64531d452",
+          "parent": {
+            "type": "block_id",
+            "block_id": "e4d9bc00-ac83-4890-af3f-e3eae8b5ee96"
+          },
+          "created_time": "2022-02-16T10:31:00.000Z",
+          "last_edited_time": "2022-02-16T10:32:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Standard terms: $400k for 7% of teams",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Standard terms: $400k for 7% of teams",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "a95ed62f-dede-45d1-879c-00afcc5e1a45",
+          "parent": {
+            "type": "block_id",
+            "block_id": "e4d9bc00-ac83-4890-af3f-e3eae8b5ee96"
+          },
+          "created_time": "2022-02-16T10:33:00.000Z",
+          "last_edited_time": "2022-02-16T10:33:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Fly teams in to a physical location; weekly demo days",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Fly teams in to a physical location; weekly demo days",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "c595fbbc-defd-47c5-8e27-0428da8db435",
+          "parent": {
+            "type": "block_id",
+            "block_id": "e4d9bc00-ac83-4890-af3f-e3eae8b5ee96"
+          },
+          "created_time": "2022-02-16T10:31:00.000Z",
+          "last_edited_time": "2022-02-16T10:31:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "FTX Fellowship, ACX Grant are steps in this direction but not wholly done",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "FTX Fellowship, ACX Grant are steps in this direction but not wholly done",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "3a9e98b3-d691-49fc-9ac0-145c04fd551a",
+          "parent": {
+            "type": "block_id",
+            "block_id": "e4d9bc00-ac83-4890-af3f-e3eae8b5ee96"
+          },
+          "created_time": "2022-02-16T10:36:00.000Z",
+          "last_edited_time": "2022-02-16T10:37:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Incubating new project founders",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Incubating new project founders",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "7e4c968d-eff3-4427-b3fc-c3ebe55d6fa9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "d4c03d09-e088-4231-b9f9-767a758dc406"
+      },
+      "created_time": "2022-02-16T10:32:00.000Z",
+      "last_edited_time": "2022-02-16T11:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Software consultancy for EA orgs",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Software consultancy for EA orgs",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "469ac5b3-e866-438b-9fae-560d30b22739",
+          "parent": {
+            "type": "block_id",
+            "block_id": "7e4c968d-eff3-4427-b3fc-c3ebe55d6fa9"
+          },
+          "created_time": "2022-02-16T10:35:00.000Z",
+          "last_edited_time": "2022-02-16T10:36:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Team of 5-10 software eng who are loaned out to different teams to execute on short-term projects",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Team of 5-10 software eng who are loaned out to different teams to execute on short-term projects",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "d1e1f649-4835-4e1c-b444-e54a70114350",
+          "parent": {
+            "type": "block_id",
+            "block_id": "7e4c968d-eff3-4427-b3fc-c3ebe55d6fa9"
+          },
+          "created_time": "2022-02-16T10:35:00.000Z",
+          "last_edited_time": "2022-02-16T11:35:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Allows for lots of benefits of software teams ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Allows for lots of benefits of software teams ",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "65679962-33b3-4f20-9db4-b231f54affc8",
+              "parent": {
+                "type": "block_id",
+                "block_id": "d1e1f649-4835-4e1c-b444-e54a70114350"
+              },
+              "created_time": "2022-02-16T10:35:00.000Z",
+              "last_edited_time": "2022-02-16T10:35:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Code review",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Code review",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "c60b3a62-2f1e-4650-a82c-b3ead73998c4",
+              "parent": {
+                "type": "block_id",
+                "block_id": "d1e1f649-4835-4e1c-b444-e54a70114350"
+              },
+              "created_time": "2022-02-16T10:35:00.000Z",
+              "last_edited_time": "2022-02-16T10:36:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Infrastructure build-out",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Infrastructure build-out",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "518df423-e03a-4703-abd7-82d44ba76c0e",
+              "parent": {
+                "type": "block_id",
+                "block_id": "d1e1f649-4835-4e1c-b444-e54a70114350"
+              },
+              "created_time": "2022-02-16T10:35:00.000Z",
+              "last_edited_time": "2022-02-16T10:36:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Consistent ladder",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Consistent ladder",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "2694fc8f-eb07-4945-9f21-2852189a9eff",
+      "parent": {
+        "type": "page_id",
+        "page_id": "d4c03d09-e088-4231-b9f9-767a758dc406"
+      },
+      "created_time": "2022-02-16T11:35:00.000Z",
+      "last_edited_time": "2022-02-16T11:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Directing top software engineers into working on EA projects",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Directing top software engineers into working on EA projects",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "75ddeda5-7e0d-4b2a-bbce-ac1925a7d278",
+          "parent": {
+            "type": "block_id",
+            "block_id": "2694fc8f-eb07-4945-9f21-2852189a9eff"
+          },
+          "created_time": "2022-02-16T11:35:00.000Z",
+          "last_edited_time": "2022-02-16T11:36:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "A lot of software engineers are already sympathetic to EA",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "A lot of software engineers are already sympathetic to EA",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "f5c90c39-2769-428d-9cff-a391345cac8b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "2694fc8f-eb07-4945-9f21-2852189a9eff"
+          },
+          "created_time": "2022-02-16T11:36:00.000Z",
+          "last_edited_time": "2022-02-16T11:41:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "But the “work” done in EA seems to be mostly by researchers",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "But the “work” done in EA seems to be mostly by researchers",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "df59a1ac-166c-49b0-89be-71b63bc798a7",
+              "parent": {
+                "type": "block_id",
+                "block_id": "f5c90c39-2769-428d-9cff-a391345cac8b"
+              },
+              "created_time": "2022-02-16T11:36:00.000Z",
+              "last_edited_time": "2022-02-16T11:36:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "e.g. in terms of full time headcount",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "e.g. in terms of full time headcount",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "afcc6601-8be1-4a1a-8248-c6664abbc892",
+          "parent": {
+            "type": "block_id",
+            "block_id": "2694fc8f-eb07-4945-9f21-2852189a9eff"
+          },
+          "created_time": "2022-02-16T11:41:00.000Z",
+          "last_edited_time": "2022-02-16T11:42:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Reach out to EA groups at Google/Facebook etc",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Reach out to EA groups at Google/Facebook etc",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "eedae5b1-743e-43f0-a938-fe87fc309f94",
+          "parent": {
+            "type": "block_id",
+            "block_id": "2694fc8f-eb07-4945-9f21-2852189a9eff"
+          },
+          "created_time": "2022-02-16T11:41:00.000Z",
+          "last_edited_time": "2022-02-16T11:42:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Match them up with open headcount roles",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Match them up with open headcount roles",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "95543d0e-d002-4e80-98d7-30201fb484ca",
+      "parent": {
+        "type": "page_id",
+        "page_id": "d4c03d09-e088-4231-b9f9-767a758dc406"
+      },
+      "created_time": "2022-02-16T10:37:00.000Z",
+      "last_edited_time": "2022-02-16T10:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2d26c86d-400a-4b8f-92fb-26e3269dc99f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "d4c03d09-e088-4231-b9f9-767a758dc406"
+      },
+      "created_time": "2022-02-16T10:33:00.000Z",
+      "last_edited_time": "2022-02-16T10:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Project Proposals",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Project Proposals",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "43a96fab-9931-443d-b5c9-4c8d1d73e19a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "d4c03d09-e088-4231-b9f9-767a758dc406"
+      },
+      "created_time": "2022-02-16T10:37:00.000Z",
+      "last_edited_time": "2022-02-16T11:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Utility: Make independent funding much easier to get",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Utility: Make independent funding much easier to get",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "4eefddf2-54fb-4625-a4b7-b12606fd0de4",
+          "parent": {
+            "type": "block_id",
+            "block_id": "43a96fab-9931-443d-b5c9-4c8d1d73e19a"
+          },
+          "created_time": "2022-02-16T10:38:00.000Z",
+          "last_edited_time": "2022-02-16T11:41:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Lots of funding programs at the moment; hard to navigate",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Lots of funding programs at the moment; hard to navigate",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "908acef8-5d56-4441-9d4c-5165ca954ceb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "d4c03d09-e088-4231-b9f9-767a758dc406"
+      },
+      "created_time": "2022-02-16T10:39:00.000Z",
+      "last_edited_time": "2022-02-16T11:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Shaping the way people think: Actually effective education",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Shaping the way people think: Actually effective education",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "4599ffca-ede6-44fb-8169-8d29efd7c033",
+          "parent": {
+            "type": "block_id",
+            "block_id": "908acef8-5d56-4441-9d4c-5165ca954ceb"
+          },
+          "created_time": "2022-02-16T10:58:00.000Z",
+          "last_edited_time": "2022-02-16T11:38:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Not: “here’s a badge for reading this article”",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Not: “here’s a badge for reading this article”",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "4b3efb23-5d4d-4051-a80d-c1690f1a58ff",
+          "parent": {
+            "type": "block_id",
+            "block_id": "908acef8-5d56-4441-9d4c-5165ca954ceb"
+          },
+          "created_time": "2022-02-16T10:41:00.000Z",
+          "last_edited_time": "2022-02-16T11:38:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "E.g. Anki flashcards; see Andy Mutsachak and Quantum Country",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "E.g. Anki flashcards; see Andy Mutsachak and Quantum Country",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "c1381f66-37f5-4100-a71e-5da3cc5fd7a0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "d4c03d09-e088-4231-b9f9-767a758dc406"
+      },
+      "created_time": "2022-02-16T10:41:00.000Z",
+      "last_edited_time": "2022-02-16T10:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Shaping the way people think: microcovid on steroids",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Shaping the way people think: microcovid on steroids",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "6a4af71d-9c8f-4cb2-ae93-ff92c7311bea",
+          "parent": {
+            "type": "block_id",
+            "block_id": "c1381f66-37f5-4100-a71e-5da3cc5fd7a0"
+          },
+          "created_time": "2022-02-16T10:46:00.000Z",
+          "last_edited_time": "2022-02-16T10:46:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Micromorts, micromarriages, microjobs",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Micromorts, micromarriages, microjobs",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "0e7830b7-14c0-41ba-9ffd-009c275a7e45",
+          "parent": {
+            "type": "block_id",
+            "block_id": "c1381f66-37f5-4100-a71e-5da3cc5fd7a0"
+          },
+          "created_time": "2022-02-16T10:44:00.000Z",
+          "last_edited_time": "2022-02-16T10:46:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Help people quantify risks and rewards of different actions",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Help people quantify risks and rewards of different actions",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "e63e16c0-b020-418c-9796-0e2963aa8346",
+          "parent": {
+            "type": "block_id",
+            "block_id": "c1381f66-37f5-4100-a71e-5da3cc5fd7a0"
+          },
+          "created_time": "2022-02-16T10:44:00.000Z",
+          "last_edited_time": "2022-02-16T10:46:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "e.g. “A burger costs 10 micromorts, aka 2 hours off your life”",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "e.g. “A burger costs 10 micromorts, aka 2 hours off your life”",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "90ca19de-f552-4826-a435-745c18f3e422",
+      "parent": {
+        "type": "page_id",
+        "page_id": "d4c03d09-e088-4231-b9f9-767a758dc406"
+      },
+      "created_time": "2022-02-16T10:46:00.000Z",
+      "last_edited_time": "2022-08-24T20:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Shaping the way people think: Games that teaches EA principles",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Shaping the way people think: Games that teaches EA principles",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "589bdb43-3576-4032-808c-9ad312effa20",
+          "parent": {
+            "type": "block_id",
+            "block_id": "90ca19de-f552-4826-a435-745c18f3e422"
+          },
+          "created_time": "2022-02-16T10:56:00.000Z",
+          "last_edited_time": "2022-02-16T11:01:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Factorio teaches you how to automate",
+                  "link": {
+                    "url": "https://www.thediff.co/p/the-factorio-mindset"
+                  }
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Factorio teaches you how to automate",
+                "href": "https://www.thediff.co/p/the-factorio-mindset"
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "6724be7e-4588-4f0f-a482-e7c94c7c0d07",
+          "parent": {
+            "type": "block_id",
+            "block_id": "90ca19de-f552-4826-a435-745c18f3e422"
+          },
+          "created_time": "2022-02-16T11:01:00.000Z",
+          "last_edited_time": "2022-02-16T11:03:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Hanabi taught me to see from other’s perspectives",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Hanabi taught me to see from other’s perspectives",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "5e34864a-868b-41a3-aa4b-82cc1095dcbb",
+          "parent": {
+            "type": "block_id",
+            "block_id": "90ca19de-f552-4826-a435-745c18f3e422"
+          },
+          "created_time": "2022-02-16T11:38:00.000Z",
+          "last_edited_time": "2022-02-16T11:39:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "E.g. calculating cost effectiveness for different interventions",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "E.g. calculating cost effectiveness for different interventions",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "3d3e47dc-04cb-4383-9b82-51fb79035366",
+          "parent": {
+            "type": "block_id",
+            "block_id": "90ca19de-f552-4826-a435-745c18f3e422"
+          },
+          "created_time": "2022-02-16T11:38:00.000Z",
+          "last_edited_time": "2022-02-16T11:38:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "E.g. managing longtail risks",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "E.g. managing longtail risks",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "c568d7d4-3176-483a-959d-b6c9728f95dc",
+          "parent": {
+            "type": "block_id",
+            "block_id": "90ca19de-f552-4826-a435-745c18f3e422"
+          },
+          "created_time": "2022-02-16T11:39:00.000Z",
+          "last_edited_time": "2022-02-16T11:39:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "E.g. empathizing with the life of a factory farmed chicken",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "E.g. empathizing with the life of a factory farmed chicken",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "f6f61f8c-777d-44bb-82a9-55ce7191622b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "d4c03d09-e088-4231-b9f9-767a758dc406"
+      },
+      "created_time": "2022-08-24T20:25:00.000Z",
+      "last_edited_time": "2022-08-24T20:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Making it easier to move money around",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Making it easier to move money around",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "16cd4709-69b6-445b-b217-93f24a790f9e",
+          "parent": {
+            "type": "block_id",
+            "block_id": "f6f61f8c-777d-44bb-82a9-55ce7191622b"
+          },
+          "created_time": "2022-08-24T20:25:00.000Z",
+          "last_edited_time": "2022-08-24T20:25:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Actually going from “yeah this person should have a lot of money”",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Actually going from “yeah this person should have a lot of money”",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "3a20a03b-77b4-4d33-8102-fcb15d287ec6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "d4c03d09-e088-4231-b9f9-767a758dc406"
+      },
+      "created_time": "2022-07-22T22:09:00.000Z",
+      "last_edited_time": "2022-07-22T22:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "49153764-39ad-4e32-a997-a2f4fdb820fb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "d4c03d09-e088-4231-b9f9-767a758dc406"
+      },
+      "created_time": "2022-02-16T11:37:00.000Z",
+      "last_edited_time": "2022-07-22T22:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "unsupported",
+      "unsupported": {
+        "block_type": "alias"
+      }
+    },
+    {
+      "object": "block",
+      "id": "0d00183c-4af5-4605-a2fb-bb68c387bf7f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "d4c03d09-e088-4231-b9f9-767a758dc406"
+      },
+      "created_time": "2022-02-16T10:38:00.000Z",
+      "last_edited_time": "2022-02-16T10:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Cons",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Cons",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "64b46b34-f682-42ad-8d8b-08c266a48b45",
+      "parent": {
+        "type": "page_id",
+        "page_id": "d4c03d09-e088-4231-b9f9-767a758dc406"
+      },
+      "created_time": "2022-02-16T10:39:00.000Z",
+      "last_edited_time": "2022-02-16T11:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Software development has high opportunity costs; that is, founders and employees can make a lot of money in other roles.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Software development has high opportunity costs; that is, founders and employees can make a lot of money in other roles.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "e91a8daa-e2e0-4f57-a598-84d24aeb8304",
+          "parent": {
+            "type": "block_id",
+            "block_id": "64b46b34-f682-42ad-8d8b-08c266a48b45"
+          },
+          "created_time": "2022-02-16T11:46:00.000Z",
+          "last_edited_time": "2022-02-16T11:47:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Google fresh grad makes $200k, at senior (e.g. 3-4 years of experience) makes $400k",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Google fresh grad makes $200k, at senior (e.g. 3-4 years of experience) makes $400k",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "dd1db94e-6f76-4758-8451-49b8073b3b1e",
+              "parent": {
+                "type": "block_id",
+                "block_id": "e91a8daa-e2e0-4f57-a598-84d24aeb8304"
+              },
+              "created_time": "2022-02-16T11:45:00.000Z",
+              "last_edited_time": "2022-02-16T11:47:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Software engineers can reasonably earn to give",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Software engineers can reasonably earn to give",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "0d72cd71-77b1-4b3a-8297-071bb4e1e318",
+          "parent": {
+            "type": "block_id",
+            "block_id": "64b46b34-f682-42ad-8d8b-08c266a48b45"
+          },
+          "created_time": "2022-02-16T10:40:00.000Z",
+          "last_edited_time": "2022-04-22T09:25:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "This is evidence that software dev is very valuable, and thus worth EA funding.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "This is evidence that software dev is very valuable, and thus worth EA funding.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "ac110053-e1fd-4ee0-90ad-e1bb609d08af",
+              "parent": {
+                "type": "block_id",
+                "block_id": "0d72cd71-77b1-4b3a-8297-071bb4e1e318"
+              },
+              "created_time": "2022-02-16T10:40:00.000Z",
+              "last_edited_time": "2022-02-16T11:42:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Unless for some reason it’s more valuable to the for-profit world than nonprofit. I doubt this though.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Unless for some reason it’s more valuable to the for-profit world than nonprofit. I doubt this though.",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "0685ba70-1bbf-4a39-9668-5a160610f819",
+          "parent": {
+            "type": "block_id",
+            "block_id": "64b46b34-f682-42ad-8d8b-08c266a48b45"
+          },
+          "created_time": "2022-02-16T11:46:00.000Z",
+          "last_edited_time": "2022-04-22T09:25:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Founder: could aim to be Dustin Moskovitz/SBF instead of Holden Karnofsky??",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Founder: could aim to be Dustin Moskovitz/SBF instead of Holden Karnofsky??",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "693c5ed9-7aca-4bd2-b63e-363de968c31e",
+          "parent": {
+            "type": "block_id",
+            "block_id": "64b46b34-f682-42ad-8d8b-08c266a48b45"
+          },
+          "created_time": "2022-02-16T11:47:00.000Z",
+          "last_edited_time": "2022-02-16T11:47:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [],
+            "icon": null,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "d3868eb2-c924-4d90-aee1-260b30bad151",
+      "parent": {
+        "type": "page_id",
+        "page_id": "d4c03d09-e088-4231-b9f9-767a758dc406"
+      },
+      "created_time": "2022-07-22T22:09:00.000Z",
+      "last_edited_time": "2022-07-22T22:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Specialized software vs general software",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Specialized software vs general software",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "4e867740-6e48-4425-a358-d57dc61aeec2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "d4c03d09-e088-4231-b9f9-767a758dc406"
+      },
+      "created_time": "2022-07-22T22:09:00.000Z",
+      "last_edited_time": "2022-07-22T22:10:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "One possible thesis: “EA doesn’t have to fund software; EA’s software needs are quite minor, and general purpose software like Google Docs and Slack will suffice!”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "One possible thesis: “EA doesn’t have to fund software; EA’s software needs are quite minor, and general purpose software like Google Docs and Slack will suffice!”",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "0f92d6c1-e26c-4693-a768-2b5fe6c822fa",
+      "parent": {
+        "type": "page_id",
+        "page_id": "d4c03d09-e088-4231-b9f9-767a758dc406"
+      },
+      "created_time": "2022-07-22T22:10:00.000Z",
+      "last_edited_time": "2022-07-22T22:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Counterpoints:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Counterpoints:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "d44e9e30-479f-4b43-ba0e-c0ef791971bc",
+          "parent": {
+            "type": "block_id",
+            "block_id": "0f92d6c1-e26c-4693-a768-2b5fe6c822fa"
+          },
+          "created_time": "2022-07-22T22:11:00.000Z",
+          "last_edited_time": "2022-07-22T22:13:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Specialized software is really, really great; highly leveraged, acts as a force multiplier in different industries. Eg. Dentists.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Specialized software is really, really great; highly leveraged, acts as a force multiplier in different industries. Eg. Dentists.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "dce3a9f9-a40c-47cb-bd79-8830e0f62614",
+          "parent": {
+            "type": "block_id",
+            "block_id": "0f92d6c1-e26c-4693-a768-2b5fe6c822fa"
+          },
+          "created_time": "2022-07-22T22:11:00.000Z",
+          "last_edited_time": "2022-07-22T22:12:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Funding models for typical SV software require a strong growth story; so if something would be especially useful for the population of 3000 EAs, it might not get funded",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Funding models for typical SV software require a strong growth story; so if something would be especially useful for the population of 3000 EAs, it might not get funded",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "06295d47-1b97-4fa6-8f34-520f58e50ea5",
+          "parent": {
+            "type": "block_id",
+            "block_id": "0f92d6c1-e26c-4693-a768-2b5fe6c822fa"
+          },
+          "created_time": "2022-07-22T22:13:00.000Z",
+          "last_edited_time": "2022-07-22T22:15:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Google Sheets and Google Forms are actually quite unusable, by people. They trade off ease of setup against unfriendliness of site",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Google Sheets and Google Forms are actually quite unusable, by people. They trade off ease of setup against unfriendliness of site",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "cf4d983c-407e-4d9e-a4e1-e403a3c21a36",
+              "parent": {
+                "type": "block_id",
+                "block_id": "06295d47-1b97-4fa6-8f34-520f58e50ea5"
+              },
+              "created_time": "2022-07-22T22:14:00.000Z",
+              "last_edited_time": "2022-07-22T22:14:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Pick on Nonlinear team for their Airbnb house thing",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Pick on Nonlinear team for their Airbnb house thing",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "e9db67fc-ab6a-4def-b002-bca74b9d6279",
+          "parent": {
+            "type": "block_id",
+            "block_id": "0f92d6c1-e26c-4693-a768-2b5fe6c822fa"
+          },
+          "created_time": "2022-07-22T22:24:00.000Z",
+          "last_edited_time": "2022-07-22T22:24:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [],
+            "icon": null,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "386dc96f-89d3-4be7-ae24-ec91436303f6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "d4c03d09-e088-4231-b9f9-767a758dc406"
+      },
+      "created_time": "2022-07-22T22:15:00.000Z",
+      "last_edited_time": "2022-07-22T22:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Importance",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Importance",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2c2c3739-5c02-4f97-af54-96532922d436",
+      "parent": {
+        "type": "page_id",
+        "page_id": "d4c03d09-e088-4231-b9f9-767a758dc406"
+      },
+      "created_time": "2022-07-22T22:24:00.000Z",
+      "last_edited_time": "2022-07-22T22:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Neglectedness",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Neglectedness",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "625bdc09-4413-4fbe-bdd3-c3b5e16e26eb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "d4c03d09-e088-4231-b9f9-767a758dc406"
+      },
+      "created_time": "2022-07-22T22:24:00.000Z",
+      "last_edited_time": "2022-07-22T22:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Tractability",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Tractability",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    }
+  ]
+}

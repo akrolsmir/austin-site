@@ -1,0 +1,1921 @@
+{
+  "page": {
+    "id": "259a6e41f23e805c9c61c3c185bd66a2",
+    "title": "Melding my mind",
+    "date": "2025-08-24T18:25:00.000+00:00",
+    "edited": "2025-08-24T20:03:00.000Z",
+    "url": "https://akrolsmir.notion.site/Melding-my-mind-259a6e41f23e805c9c61c3c185bd66a2",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "259a6e41-f23e-808c-a540-cfbc69379863",
+      "parent": {
+        "type": "page_id",
+        "page_id": "259a6e41-f23e-805c-9c61-c3c185bd66a2"
+      },
+      "created_time": "2025-08-24T18:30:00.000Z",
+      "last_edited_time": "2025-08-24T19:54:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I’m interested in a particular phenomenon; loosely, when I meld my mind with some other entity. Some examples:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I’m interested in a particular phenomenon; loosely, when I meld my mind with some other entity. Some examples:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "259a6e41-f23e-80bb-a71e-ca620b321da1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "259a6e41-f23e-805c-9c61-c3c185bd66a2"
+      },
+      "created_time": "2025-08-24T18:32:00.000Z",
+      "last_edited_time": "2025-08-24T19:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "With other individual humans",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "With other individual humans",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "259a6e41-f23e-8063-86cc-f49bcefc2b66",
+          "parent": {
+            "type": "block_id",
+            "block_id": "259a6e41-f23e-80bb-a71e-ca620b321da1"
+          },
+          "created_time": "2025-08-24T18:32:00.000Z",
+          "last_edited_time": "2025-08-24T18:46:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "In a really great 1:1 conversation, I feel like I take on aspects of my dialog partner, and I notice them doing the same eg picking up on specific turns of phrases that I use, and reflecting that back at me.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "In a really great 1:1 conversation, I feel like I take on aspects of my dialog partner, and I notice them doing the same eg picking up on specific turns of phrases that I use, and reflecting that back at me.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "259a6e41-f23e-8097-b6a6-f66bff93e630",
+              "parent": {
+                "type": "block_id",
+                "block_id": "259a6e41-f23e-8063-86cc-f49bcefc2b66"
+              },
+              "created_time": "2025-08-24T18:46:00.000Z",
+              "last_edited_time": "2025-08-24T19:49:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "When I talk with someone smart, I feel like I’m becoming 20 IQ points smarter; when I talk with someone gracious and kind, I feel like I also become a tad bit kinder",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "When I talk with someone smart, I feel like I’m becoming 20 IQ points smarter; when I talk with someone gracious and kind, I feel like I also become a tad bit kinder",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "259a6e41-f23e-80ce-8bac-dfe5b5584589",
+          "parent": {
+            "type": "block_id",
+            "block_id": "259a6e41-f23e-80bb-a71e-ca620b321da1"
+          },
+          "created_time": "2025-08-24T18:32:00.000Z",
+          "last_edited_time": "2025-08-24T19:39:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Through longterm relationships (friend,",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Through longterm relationships (friend,",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": " ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": " ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "lover, relative)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "lover, relative)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "259a6e41-f23e-8022-8bca-ec428b73dcd8",
+              "parent": {
+                "type": "block_id",
+                "block_id": "259a6e41-f23e-80ce-8bac-dfe5b5584589"
+              },
+              "created_time": "2025-08-24T19:34:00.000Z",
+              "last_edited_time": "2025-08-24T19:39:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": true,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Some people speak of modeling their friends as imaginary advisors sitting on their shoulders, able to ask “What would <X> do?” and get a useful answer. This feels similar to a successful mind meld",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Some people speak of modeling their friends as imaginary advisors sitting on their shoulders, able to ask “What would <X> do?” and get a useful answer. This feels similar to a successful mind meld",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "children": [
+                {
+                  "object": "block",
+                  "id": "259a6e41-f23e-80c6-a016-fc9846017f0a",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "259a6e41-f23e-8022-8bca-ec428b73dcd8"
+                  },
+                  "created_time": "2025-08-24T19:36:00.000Z",
+                  "last_edited_time": "2025-08-24T19:45:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Sometimes, as I drift off to sleep, I’m able to generate monologues of random nonsense, spoken in the voice of someone who I’ve heard a lot from, close family or friends. The output seems a bit like a Markov chain, or perhaps like the bizarre dream images produced when you invert an image classifier to produce the highest likelihood “dog”.",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Sometimes, as I drift off to sleep, I’m able to generate monologues of random nonsense, spoken in the voice of someone who I’ve heard a lot from, close family or friends. The output seems a bit like a Markov chain, or perhaps like the bizarre dream images produced when you invert an image classifier to produce the highest likelihood “dog”.",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                }
+              ]
+            },
+            {
+              "object": "block",
+              "id": "259a6e41-f23e-802f-a075-f0fb4c291c65",
+              "parent": {
+                "type": "block_id",
+                "block_id": "259a6e41-f23e-80ce-8bac-dfe5b5584589"
+              },
+              "created_time": "2025-08-24T19:36:00.000Z",
+              "last_edited_time": "2025-08-24T19:37:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Really good sex feels like both a body and a mind meld",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Really good sex feels like both a body and a mind meld",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "259a6e41-f23e-8031-bb3e-d0b1a3f2b759",
+              "parent": {
+                "type": "block_id",
+                "block_id": "259a6e41-f23e-80ce-8bac-dfe5b5584589"
+              },
+              "created_time": "2025-08-24T19:14:00.000Z",
+              "last_edited_time": "2025-08-24T19:46:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": true,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "While I’m spending time with my daughter Aad, I feel like I’m playacting some character that would be embarrassing/inane in other contexts:",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "While I’m spending time with my daughter Aad, I feel like I’m playacting some character that would be embarrassing/inane in other contexts:",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "children": [
+                {
+                  "object": "block",
+                  "id": "259a6e41-f23e-802d-a604-ee5f3fcd605f",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "259a6e41-f23e-8031-bb3e-d0b1a3f2b759"
+                  },
+                  "created_time": "2025-08-24T19:15:00.000Z",
+                  "last_edited_time": "2025-08-24T19:15:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "image",
+                  "image": {
+                    "caption": [],
+                    "type": "file",
+                    "file": {
+                      "url": "https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/259a6e41f23e805c9c61c3c185bd66a2/259a6e41f23e802da604ee5f3fcd605f-20250824191500.png"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "259a6e41-f23e-807f-a470-d3aea09da5fc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "259a6e41-f23e-805c-9c61-c3c185bd66a2"
+      },
+      "created_time": "2025-08-24T18:33:00.000Z",
+      "last_edited_time": "2025-08-24T19:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "With a group of humans",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "With a group of humans",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "259a6e41-f23e-80cf-a2c3-f563ae34ab7a",
+          "parent": {
+            "type": "block_id",
+            "block_id": "259a6e41-f23e-807f-a470-d3aea09da5fc"
+          },
+          "created_time": "2025-08-24T18:42:00.000Z",
+          "last_edited_time": "2025-08-24T19:14:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Especially when I’m eg moderating lightning talks amidst a group of 30 people, it feels like I’m directing the group, that I’m a conduit for a shared enjoyable activity",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Especially when I’m eg moderating lightning talks amidst a group of 30 people, it feels like I’m directing the group, that I’m a conduit for a shared enjoyable activity",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "259a6e41-f23e-802a-9d4a-c278940c7752",
+              "parent": {
+                "type": "block_id",
+                "block_id": "259a6e41-f23e-80cf-a2c3-f563ae34ab7a"
+              },
+              "created_time": "2025-08-24T19:13:00.000Z",
+              "last_edited_time": "2025-08-24T19:14:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Rather than focusing on the details of each talk, I’m scanning the room, looking at people’s faces to see whether they’re interested, trying to gauge how people feel about the topic, the questions being asked, how much their",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Rather than focusing on the details of each talk, I’m scanning the room, looking at people’s faces to see whether they’re interested, trying to gauge how people feel about the topic, the questions being asked, how much their",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "259a6e41-f23e-80d2-86ae-d9b0aa1bc803",
+          "parent": {
+            "type": "block_id",
+            "block_id": "259a6e41-f23e-807f-a470-d3aea09da5fc"
+          },
+          "created_time": "2025-08-24T19:11:00.000Z",
+          "last_edited_time": "2025-08-24T19:13:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "In Xenocide by Orson Scott Card, one of the characters describes the feeling of being spiritually connected to the crowd while rabble-rousing for a pogrom — and then losing that connection as the crowd moves on against his wishes.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "In Xenocide by Orson Scott Card, one of the characters describes the feeling of being spiritually connected to the crowd while rabble-rousing for a pogrom — and then losing that connection as the crowd moves on against his wishes.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "259a6e41-f23e-8026-87ba-e2b332fc41e7",
+          "parent": {
+            "type": "block_id",
+            "block_id": "259a6e41-f23e-807f-a470-d3aea09da5fc"
+          },
+          "created_time": "2025-08-24T18:43:00.000Z",
+          "last_edited_time": "2025-08-24T19:13:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "My friend Joel often orchestrates a small group singing around campfires; he describes his instrument of choice, not as the guitar he’s holding, but rather as “the crowd”",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "My friend Joel often orchestrates a small group singing around campfires; he describes his instrument of choice, not as the guitar he’s holding, but rather as “the crowd”",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "259a6e41-f23e-808a-8321-c0ddde6d2cd2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "259a6e41-f23e-805c-9c61-c3c185bd66a2"
+      },
+      "created_time": "2025-08-24T18:33:00.000Z",
+      "last_edited_time": "2025-08-24T19:28:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "With an organization or corporation",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "With an organization or corporation",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "259a6e41-f23e-808d-be54-d0d1e7e8def1",
+          "parent": {
+            "type": "block_id",
+            "block_id": "259a6e41-f23e-808a-8321-c0ddde6d2cd2"
+          },
+          "created_time": "2025-08-24T18:33:00.000Z",
+          "last_edited_time": "2025-08-24T19:28:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Sometimes I look at corporations as symbiotic to humans, as software programs running on the hardware of human brains",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Sometimes I look at corporations as symbiotic to humans, as software programs running on the hardware of human brains",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "259a6e41-f23e-8002-a1ff-d6437cf75522",
+              "parent": {
+                "type": "block_id",
+                "block_id": "259a6e41-f23e-808d-be54-d0d1e7e8def1"
+              },
+              "created_time": "2025-08-24T18:38:00.000Z",
+              "last_edited_time": "2025-08-24T19:28:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "(Sometimes, I look at corporations as demons of old, ritually summoned to fulfill a particular niche or bargain, but having goals and reasoning processes quite alien to our own.)",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "(Sometimes, I look at corporations as demons of old, ritually summoned to fulfill a particular niche or bargain, but having goals and reasoning processes quite alien to our own.)",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "259a6e41-f23e-8000-841a-e26c107e26f6",
+          "parent": {
+            "type": "block_id",
+            "block_id": "259a6e41-f23e-808a-8321-c0ddde6d2cd2"
+          },
+          "created_time": "2025-08-24T18:40:00.000Z",
+          "last_edited_time": "2025-08-24T19:27:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Aaron describes a particular kind of melding where by deeply understanding the line by line finances and spending of a small business, you become that business. ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Aaron describes a particular kind of melding where by deeply understanding the line by line finances and spending of a small business, you become that business. ",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "259a6e41-f23e-80c3-bfbb-eecbf4ab7fcf",
+              "parent": {
+                "type": "block_id",
+                "block_id": "259a6e41-f23e-8000-841a-e26c107e26f6"
+              },
+              "created_time": "2025-08-24T18:48:00.000Z",
+              "last_edited_time": "2025-08-24T19:27:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "One common startup value is to “act like an owner”. (And, the point of equity alignment is so that employees in fact are owners). ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "One common startup value is to “act like an owner”. (And, the point of equity alignment is so that employees in fact are owners). ",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "259a6e41-f23e-8037-add0-f0a0e63ccc45",
+      "parent": {
+        "type": "page_id",
+        "page_id": "259a6e41-f23e-805c-9c61-c3c185bd66a2"
+      },
+      "created_time": "2025-08-24T18:32:00.000Z",
+      "last_edited_time": "2025-08-24T19:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "With a strategy in a game",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "With a strategy in a game",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "259a6e41-f23e-800b-ae6c-d6ff3e0e2c9e",
+          "parent": {
+            "type": "block_id",
+            "block_id": "259a6e41-f23e-8037-add0-f0a0e63ccc45"
+          },
+          "created_time": "2025-08-24T18:34:00.000Z",
+          "last_edited_time": "2025-08-24T18:38:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "The experience of playing a board game, sometimes feels like renting my mind as raw compute, to explore a specific strategy path hinted at by the game designer. I ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "The experience of playing a board game, sometimes feels like renting my mind as raw compute, to explore a specific strategy path hinted at by the game designer. I ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "become",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": true,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "become",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": " my deck, my meeple, my choices.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": " my deck, my meeple, my choices.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "259a6e41-f23e-80aa-a315-d9f06015ebbe",
+              "parent": {
+                "type": "block_id",
+                "block_id": "259a6e41-f23e-800b-ae6c-d6ff3e0e2c9e"
+              },
+              "created_time": "2025-08-24T18:36:00.000Z",
+              "last_edited_time": "2025-08-24T18:45:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Working on a puzzle hunt or escape room has hints of this too",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Working on a puzzle hunt or escape room has hints of this too",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "259a6e41-f23e-8089-95ba-f8cf060179ec",
+          "parent": {
+            "type": "block_id",
+            "block_id": "259a6e41-f23e-8037-add0-f0a0e63ccc45"
+          },
+          "created_time": "2025-08-24T18:37:00.000Z",
+          "last_edited_time": "2025-08-24T19:17:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Some collaborative games like Hanabi, Crew, and The Mind also feel like an extended version of this mind meld, where we’re all different nodes",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Some collaborative games like Hanabi, Crew, and The Mind also feel like an extended version of this mind meld, where we’re all different nodes",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "259a6e41-f23e-80c1-9825-ffea492b6f58",
+              "parent": {
+                "type": "block_id",
+                "block_id": "259a6e41-f23e-8089-95ba-f8cf060179ec"
+              },
+              "created_time": "2025-08-24T19:17:00.000Z",
+              "last_edited_time": "2025-08-24T19:28:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "And again with a puzzle hunt or a startup, jointly solving a set of puzzles together quickly is an intense join",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "And again with a puzzle hunt or a startup, jointly solving a set of puzzles together quickly is an intense join",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "259a6e41-f23e-8015-a303-dbbab30205dd",
+          "parent": {
+            "type": "block_id",
+            "block_id": "259a6e41-f23e-8037-add0-f0a0e63ccc45"
+          },
+          "created_time": "2025-08-24T19:23:00.000Z",
+          "last_edited_time": "2025-08-24T19:24:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "See also ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "See also ",
+                "href": null
+              },
+              {
+                "type": "mention",
+                "mention": {
+                  "type": "page",
+                  "page": {
+                    "id": "9e4dfa0d-8436-400e-8161-f1ff16b950ec"
+                  }
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "My brain is a simulator",
+                "href": "https://app.notion.com/p/9e4dfa0d8436400e8161f1ff16b950ec"
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": " ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": " ",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "259a6e41-f23e-8011-8871-deb5d9dc2e88",
+      "parent": {
+        "type": "page_id",
+        "page_id": "259a6e41-f23e-805c-9c61-c3c185bd66a2"
+      },
+      "created_time": "2025-08-24T18:45:00.000Z",
+      "last_edited_time": "2025-08-24T19:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "With a belief, ideology, or religion",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "With a belief, ideology, or religion",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "259a6e41-f23e-80ea-a3a3-ffc9710f4c60",
+          "parent": {
+            "type": "block_id",
+            "block_id": "259a6e41-f23e-8011-8871-deb5d9dc2e88"
+          },
+          "created_time": "2025-08-24T19:06:00.000Z",
+          "last_edited_time": "2025-08-24T19:56:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Soldier mindset — arguing on behalf of a specific idea — may not be epistemically virtuous, but it is quite mind-meldy",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Soldier mindset — arguing on behalf of a specific idea — may not be epistemically virtuous, but it is quite mind-meldy",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "259a6e41-f23e-809a-8f0a-f87f3f294e31",
+              "parent": {
+                "type": "block_id",
+                "block_id": "259a6e41-f23e-80ea-a3a3-ffc9710f4c60"
+              },
+              "created_time": "2025-08-24T19:55:00.000Z",
+              "last_edited_time": "2025-08-24T19:56:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "The mind melding is most notable when I hold a belief that those around me don’t, and I feel called to represent and support it",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "The mind melding is most notable when I hold a belief that those around me don’t, and I feel called to represent and support it",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "259a6e41-f23e-802c-9a50-cab6eadbea44",
+          "parent": {
+            "type": "block_id",
+            "block_id": "259a6e41-f23e-8011-8871-deb5d9dc2e88"
+          },
+          "created_time": "2025-08-24T19:18:00.000Z",
+          "last_edited_time": "2025-08-24T19:50:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "The mass, prayers, structures of Catholicism call attention to particular virtues, helping me know how to meld with it, so that I can act on its behalf",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "The mass, prayers, structures of Catholicism call attention to particular virtues, helping me know how to meld with it, so that I can act on its behalf",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "259a6e41-f23e-805e-b456-c58a516ba1f4",
+          "parent": {
+            "type": "block_id",
+            "block_id": "259a6e41-f23e-8011-8871-deb5d9dc2e88"
+          },
+          "created_time": "2025-08-24T19:57:00.000Z",
+          "last_edited_time": "2025-08-24T19:57:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "(I feel like it’s harder to write examples for this section, but also that mind-melding with a belief is maybe the most important kind of example for this entire piece. Odd…)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "(I feel like it’s harder to write examples for this section, but also that mind-melding with a belief is maybe the most important kind of example for this entire piece. Odd…)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "259a6e41-f23e-80b4-953a-e941f8bb2be0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "259a6e41-f23e-805c-9c61-c3c185bd66a2"
+      },
+      "created_time": "2025-08-24T18:45:00.000Z",
+      "last_edited_time": "2025-08-24T18:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "259a6e41-f23e-801e-909d-e75ae7a66b5e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "259a6e41-f23e-805c-9c61-c3c185bd66a2"
+      },
+      "created_time": "2025-08-24T18:45:00.000Z",
+      "last_edited_time": "2025-08-24T19:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Reflections on mind melding",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Reflections on mind melding",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "259a6e41-f23e-8005-8743-c2766f26f6eb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "259a6e41-f23e-805c-9c61-c3c185bd66a2"
+      },
+      "created_time": "2025-08-24T19:09:00.000Z",
+      "last_edited_time": "2025-08-24T19:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Mind melding can be quite pleasurable — great games, convos, work, sex are often peak experiences for me. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Mind melding can be quite pleasurable — great games, convos, work, sex are often peak experiences for me. ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "259a6e41-f23e-8008-90f7-c9c2ceac2f84",
+          "parent": {
+            "type": "block_id",
+            "block_id": "259a6e41-f23e-8005-8743-c2766f26f6eb"
+          },
+          "created_time": "2025-08-24T19:28:00.000Z",
+          "last_edited_time": "2025-08-24T19:54:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Flow state, often sought by programmers and writers, feels like a related concept",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Flow state, often sought by programmers and writers, feels like a related concept",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "259a6e41-f23e-80bc-a276-d045a1e55284",
+      "parent": {
+        "type": "page_id",
+        "page_id": "259a6e41-f23e-805c-9c61-c3c185bd66a2"
+      },
+      "created_time": "2025-08-24T19:09:00.000Z",
+      "last_edited_time": "2025-08-24T20:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "But also, the aftereffects of mind melding can be scary, introduce new obligations, or demands on your mental space. Even when I’m alone, I often find my thoughts drifting towards past mind melds.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "But also, the aftereffects of mind melding can be scary, introduce new obligations, or demands on your mental space. Even when I’m alone, I often find my thoughts drifting towards past mind melds.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "259a6e41-f23e-8015-a399-f2d990321f9c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "259a6e41-f23e-80bc-a276-d045a1e55284"
+          },
+          "created_time": "2025-08-24T19:29:00.000Z",
+          "last_edited_time": "2025-08-24T19:33:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Cf ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Cf ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "the top idea in your head",
+                  "link": {
+                    "url": "https://www.paulgraham.com/top.html"
+                  }
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "the top idea in your head",
+                "href": "https://www.paulgraham.com/top.html"
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": ", “bringing your work home”, being unable to sleep because your mind is racing. I’ve spent countless hours simulating the cards and games of past Magic drafts, when I really should have been doing something else.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": ", “bringing your work home”, being unable to sleep because your mind is racing. I’ve spent countless hours simulating the cards and games of past Magic drafts, when I really should have been doing something else.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "259a6e41-f23e-807d-902f-df244288db2b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "259a6e41-f23e-80bc-a276-d045a1e55284"
+          },
+          "created_time": "2025-08-24T18:36:00.000Z",
+          "last_edited_time": "2025-08-24T20:03:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Lately, I’ve seen this in the sprawl of obligations arise from having my fingers in many pies",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Lately, I’ve seen this in the sprawl of obligations arise from having my fingers in many pies",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "259a6e41-f23e-807b-96ec-e3ff136f9a8a",
+              "parent": {
+                "type": "block_id",
+                "block_id": "259a6e41-f23e-807d-902f-df244288db2b"
+              },
+              "created_time": "2025-08-24T20:03:00.000Z",
+              "last_edited_time": "2025-08-24T20:03:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "How might I develop “mental hygiene”? Is this different than meditation/focus?",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "How might I develop “mental hygiene”? Is this different than meditation/focus?",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "259a6e41-f23e-8018-878a-fd98479f941a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "259a6e41-f23e-805c-9c61-c3c185bd66a2"
+      },
+      "created_time": "2025-08-24T19:20:00.000Z",
+      "last_edited_time": "2025-08-24T19:58:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "The process of writing is not quite melding with some other thing (perhaps: melding with the page?), but it shares some aspects with the above",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "The process of writing is not quite melding with some other thing (perhaps: melding with the page?), but it shares some aspects with the above",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "259a6e41-f23e-802a-85be-fae129247f34",
+      "parent": {
+        "type": "page_id",
+        "page_id": "259a6e41-f23e-805c-9c61-c3c185bd66a2"
+      },
+      "created_time": "2025-08-24T19:23:00.000Z",
+      "last_edited_time": "2025-08-24T19:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Is melding at odds with decoupling? Decoupling is the ability to separate eg an idea from its context, or an idea from its speaker. I think that a high-decoupling discussion or argument would be one in which the participants treat it as the sport of debate. But maybe this denies some kind of fundamental important emotional meld between a speaker and the idea that they represent.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Is melding at odds with decoupling? Decoupling is the ability to separate eg an idea from its context, or an idea from its speaker. I think that a high-decoupling discussion or argument would be one in which the participants treat it as the sport of debate. But maybe this denies some kind of fundamental important emotional meld between a speaker and the idea that they represent.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    }
+  ]
+}

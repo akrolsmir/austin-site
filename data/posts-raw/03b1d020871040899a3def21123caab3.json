@@ -1,0 +1,1048 @@
+{
+  "page": {
+    "id": "03b1d020871040899a3def21123caab3",
+    "title": "What to do with $10m",
+    "date": "2022-07-01",
+    "edited": "2022-09-21T17:13:00.000Z",
+    "url": "https://akrolsmir.notion.site/What-to-do-with-10m-03b1d020871040899a3def21123caab3",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "1e823234-9211-4405-98a6-05ddeda3e1ae",
+      "parent": {
+        "type": "page_id",
+        "page_id": "03b1d020-8710-4089-9a3d-ef21123caab3"
+      },
+      "created_time": "2022-08-25T17:45:00.000Z",
+      "last_edited_time": "2022-08-25T17:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Note: This was a prompt for the application to the Future Forum. Reposting here in case someone decides to hand me $10m to spend.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Note: This was a prompt for the application to the Future Forum. Reposting here in case someone decides to hand me $10m to spend.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "77931a8a-0641-4d8c-9d87-786aa44df18a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "03b1d020-8710-4089-9a3d-ef21123caab3"
+      },
+      "created_time": "2022-07-02T03:43:00.000Z",
+      "last_edited_time": "2022-08-25T17:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I would poach 20 of my friends from the Silicon Valley FAANG circuit, and start 7-10 startups of 2-3 people each. Each person gets $500k in exchange for 7% investment (suggested: 2 years of salary at $150k/year, plus $200k for spend on hiring/compute/other stuff), to work on a tech project. Project ideas:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I would poach 20 of my friends from the Silicon Valley FAANG circuit, and start 7-10 startups of 2-3 people each. Each person gets $500k in exchange for 7% investment (suggested: 2 years of salary at $150k/year, plus $200k for spend on hiring/compute/other stuff), to work on a tech project. Project ideas:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "d7d67471-9c60-4ac9-8925-04e080c04fd7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "03b1d020-8710-4089-9a3d-ef21123caab3"
+      },
+      "created_time": "2022-07-02T06:53:00.000Z",
+      "last_edited_time": "2022-07-02T06:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Public goods funding, scientific funding mechanisms",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Public goods funding, scientific funding mechanisms",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "116a6d05-503c-430f-9e01-ceb9702d91c8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "03b1d020-8710-4089-9a3d-ef21123caab3"
+      },
+      "created_time": "2022-07-02T06:53:00.000Z",
+      "last_edited_time": "2022-07-02T06:54:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Universal job application for EA jobs",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Universal job application for EA jobs",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "45d451fd-fed0-4a30-be4c-e5f09be76e12",
+      "parent": {
+        "type": "page_id",
+        "page_id": "03b1d020-8710-4089-9a3d-ef21123caab3"
+      },
+      "created_time": "2022-07-02T06:53:00.000Z",
+      "last_edited_time": "2022-07-02T06:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Better institutional governance mechanisms (see Holden Karnofsky on \"Why Nonprofit Boards Are Weird)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Better institutional governance mechanisms (see Holden Karnofsky on \"Why Nonprofit Boards Are Weird)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "b9f43646-e141-4aeb-a8b0-42d097aed354",
+      "parent": {
+        "type": "page_id",
+        "page_id": "03b1d020-8710-4089-9a3d-ef21123caab3"
+      },
+      "created_time": "2022-07-02T06:53:00.000Z",
+      "last_edited_time": "2022-07-02T06:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Microcovid-type calculators for other areas of life (jobs, marriages, exercise, productivity)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Microcovid-type calculators for other areas of life (jobs, marriages, exercise, productivity)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "6c880b16-aba2-48d0-add2-bb3ae4ed5125",
+      "parent": {
+        "type": "page_id",
+        "page_id": "03b1d020-8710-4089-9a3d-ef21123caab3"
+      },
+      "created_time": "2022-07-02T06:54:00.000Z",
+      "last_edited_time": "2022-07-02T06:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Economic concept simulators/games providing an intuition for things like diminishing marginal returns, land value tax, comparative advantage",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Economic concept simulators/games providing an intuition for things like diminishing marginal returns, land value tax, comparative advantage",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "8dc98383-d9f3-4172-be43-a998f11ee435",
+      "parent": {
+        "type": "page_id",
+        "page_id": "03b1d020-8710-4089-9a3d-ef21123caab3"
+      },
+      "created_time": "2022-07-02T03:46:00.000Z",
+      "last_edited_time": "2022-07-02T03:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "d1781879-4da9-47a9-a4de-cb48d8233046",
+      "parent": {
+        "type": "page_id",
+        "page_id": "03b1d020-8710-4089-9a3d-ef21123caab3"
+      },
+      "created_time": "2022-07-02T03:46:00.000Z",
+      "last_edited_time": "2022-07-02T03:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "The people I would poach:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "The people I would poach:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "05f8b8b3-f9bc-4d4a-ac20-0d4922b036bb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "03b1d020-8710-4089-9a3d-ef21123caab3"
+      },
+      "created_time": "2022-07-02T04:07:00.000Z",
+      "last_edited_time": "2022-09-13T06:28:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "child_database",
+      "child_database": {
+        "title": "People I’d fund"
+      }
+    },
+    {
+      "object": "block",
+      "id": "68fcd933-4bf3-40c3-956e-edec1af916f0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "03b1d020-8710-4089-9a3d-ef21123caab3"
+      },
+      "created_time": "2022-08-25T06:00:00.000Z",
+      "last_edited_time": "2022-09-13T06:11:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "86ffa23f-cbe2-499b-b8b0-6a47ba360731",
+      "parent": {
+        "type": "page_id",
+        "page_id": "03b1d020-8710-4089-9a3d-ef21123caab3"
+      },
+      "created_time": "2022-08-25T06:00:00.000Z",
+      "last_edited_time": "2022-09-13T06:11:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "e255d016-d18a-42e1-913a-6954c14a577a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "03b1d020-8710-4089-9a3d-ef21123caab3"
+      },
+      "created_time": "2022-08-25T06:00:00.000Z",
+      "last_edited_time": "2022-09-13T06:11:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Other awesome folks",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Other awesome folks",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "e82cacad-61ab-4be0-8804-9abed2cdbd7c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "03b1d020-8710-4089-9a3d-ef21123caab3"
+      },
+      "created_time": "2022-08-25T06:00:00.000Z",
+      "last_edited_time": "2022-08-25T06:00:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Anna Wang",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Anna Wang",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "b837e631-4d16-4dca-adf7-9b7165c0619b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "03b1d020-8710-4089-9a3d-ef21123caab3"
+      },
+      "created_time": "2022-08-25T06:00:00.000Z",
+      "last_edited_time": "2022-08-25T06:00:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Ted Suzman",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Ted Suzman",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1d1cf699-77e1-4c0f-9c88-0debe9e98e98",
+      "parent": {
+        "type": "page_id",
+        "page_id": "03b1d020-8710-4089-9a3d-ef21123caab3"
+      },
+      "created_time": "2022-08-25T06:00:00.000Z",
+      "last_edited_time": "2022-08-25T06:00:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Ben Cogan",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Ben Cogan",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "5907d796-4d09-4870-a50c-e05398251526",
+      "parent": {
+        "type": "page_id",
+        "page_id": "03b1d020-8710-4089-9a3d-ef21123caab3"
+      },
+      "created_time": "2022-08-25T17:47:00.000Z",
+      "last_edited_time": "2022-08-25T17:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Conor Barnes",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Conor Barnes",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "f6ffb037-843f-48a0-831d-ff715ff55f55",
+      "parent": {
+        "type": "page_id",
+        "page_id": "03b1d020-8710-4089-9a3d-ef21123caab3"
+      },
+      "created_time": "2022-08-25T06:00:00.000Z",
+      "last_edited_time": "2022-08-25T17:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Barak Gila",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Barak Gila",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "03939396-614f-486e-8c6d-a2f3efbcf444",
+      "parent": {
+        "type": "page_id",
+        "page_id": "03b1d020-8710-4089-9a3d-ef21123caab3"
+      },
+      "created_time": "2022-09-03T00:10:00.000Z",
+      "last_edited_time": "2022-09-03T00:10:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Keri Warr",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Keri Warr",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "64630c30-b675-4346-8940-58e451d7c825",
+      "parent": {
+        "type": "page_id",
+        "page_id": "03b1d020-8710-4089-9a3d-ef21123caab3"
+      },
+      "created_time": "2022-09-03T00:10:00.000Z",
+      "last_edited_time": "2022-09-03T00:10:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Peter Hartree",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Peter Hartree",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "b946a670-d8fb-47c2-9f12-dd6d8d1ddd3d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "03b1d020-8710-4089-9a3d-ef21123caab3"
+      },
+      "created_time": "2022-09-21T17:05:00.000Z",
+      "last_edited_time": "2022-09-21T17:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "77b1322d-25ad-4dc5-8c6f-b0448d10d638",
+      "parent": {
+        "type": "page_id",
+        "page_id": "03b1d020-8710-4089-9a3d-ef21123caab3"
+      },
+      "created_time": "2022-09-21T17:05:00.000Z",
+      "last_edited_time": "2022-09-21T17:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Retroactively fund:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Retroactively fund:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2c948090-ae93-4096-b9f7-2ecc20e47eb5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "03b1d020-8710-4089-9a3d-ef21123caab3"
+      },
+      "created_time": "2022-09-21T17:05:00.000Z",
+      "last_edited_time": "2022-09-21T17:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Vipul Naik",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Vipul Naik",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "25eac8a2-90d3-43ae-a307-1f2d6b1ef7e4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "03b1d020-8710-4089-9a3d-ef21123caab3"
+      },
+      "created_time": "2022-09-21T17:05:00.000Z",
+      "last_edited_time": "2022-09-21T17:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Microcovid",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Microcovid",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "6c715e1b-f3e5-42ed-a260-4a315a8e35f2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "03b1d020-8710-4089-9a3d-ef21123caab3"
+      },
+      "created_time": "2022-09-21T17:05:00.000Z",
+      "last_edited_time": "2022-09-21T17:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Berkeley coworking space",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Berkeley coworking space",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "d61a75b0-b9bf-464e-9a3f-57ce9a41b84f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "03b1d020-8710-4089-9a3d-ef21123caab3"
+      },
+      "created_time": "2022-09-21T17:06:00.000Z",
+      "last_edited_time": "2022-09-21T17:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Agrippa",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Agrippa",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    }
+  ]
+}

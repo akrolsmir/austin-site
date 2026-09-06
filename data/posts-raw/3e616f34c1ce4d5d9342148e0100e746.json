@@ -1,0 +1,60 @@
+{
+  "page": {
+    "id": "3e616f34c1ce4d5d9342148e0100e746",
+    "title": "Forecasting Workshop (EAG DC 2022)",
+    "date": "2022-09-22",
+    "edited": "2024-11-01T17:32:00.000Z",
+    "url": "https://akrolsmir.notion.site/Forecasting-Workshop-EAG-DC-2022-3e616f34c1ce4d5d9342148e0100e746",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "825213c1-4163-45cd-806e-303eece0ea5f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3e616f34-c1ce-4d5d-9342-148e0100e746"
+      },
+      "created_time": "2022-09-22T05:32:00.000Z",
+      "last_edited_time": "2022-09-22T05:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "unsupported",
+      "unsupported": {
+        "block_type": "drive"
+      }
+    },
+    {
+      "object": "block",
+      "id": "131a6e41-f23e-80e6-af71-d7ff9d30c411",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3e616f34-c1ce-4d5d-9342-148e0100e746"
+      },
+      "created_time": "2024-11-01T17:32:00.000Z",
+      "last_edited_time": "2025-08-17T19:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "131a6e41-f23e-81d2-9b22-0027a138ae9b"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "link_preview",
+      "link_preview": {
+        "url": "https://docs.google.com/presentation/d/1gredzyQblFk_h-fOZzWZ3LsGU1_RSAuVG5nvuNj40wE/edit#slide=id.p1"
+      }
+    }
+  ]
+}

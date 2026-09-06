@@ -1,0 +1,1858 @@
+{
+  "page": {
+    "id": "bf274a390a204734863e5417afd23baa",
+    "title": "Questions about conferences",
+    "date": "2024-05-12",
+    "edited": "2024-05-13T04:52:00.000Z",
+    "url": "https://akrolsmir.notion.site/Questions-about-conferences-bf274a390a204734863e5417afd23baa",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "87dd20a7-942b-4e60-912c-1db089aa55e5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "bf274a39-0a20-4734-863e-5417afd23baa"
+      },
+      "created_time": "2024-05-13T04:20:00.000Z",
+      "last_edited_time": "2024-05-13T04:50:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "How scaleable are conferences? (How could we scale up Manifest?)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "How scaleable are conferences? (How could we scale up Manifest?)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "ccd75441-de95-471f-aa48-7e9b2800865c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "87dd20a7-942b-4e60-912c-1db089aa55e5"
+          },
+          "created_time": "2024-05-13T04:25:00.000Z",
+          "last_edited_time": "2024-05-13T04:37:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "What restricts conference growth?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "What restricts conference growth?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "a2e21541-f11a-49ab-9af9-a42639a091bc",
+              "parent": {
+                "type": "block_id",
+                "block_id": "ccd75441-de95-471f-aa48-7e9b2800865c"
+              },
+              "created_time": "2024-05-13T04:25:00.000Z",
+              "last_edited_time": "2024-05-13T04:25:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Size of venues?",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Size of venues?",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "24e0b94b-d228-40c7-a8df-158226d46358",
+              "parent": {
+                "type": "block_id",
+                "block_id": "ccd75441-de95-471f-aa48-7e9b2800865c"
+              },
+              "created_time": "2024-05-13T04:25:00.000Z",
+              "last_edited_time": "2024-05-13T04:25:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Audience and marketing ability?",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Audience and marketing ability?",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "d489af8e-5894-480d-9263-4c84c902d706",
+              "parent": {
+                "type": "block_id",
+                "block_id": "ccd75441-de95-471f-aa48-7e9b2800865c"
+              },
+              "created_time": "2024-05-13T04:25:00.000Z",
+              "last_edited_time": "2024-05-13T04:25:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Distance people are willing to travel?",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Distance people are willing to travel?",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "e43b9fae-3ca2-4a72-b861-73e0480b2ade",
+          "parent": {
+            "type": "block_id",
+            "block_id": "87dd20a7-942b-4e60-912c-1db089aa55e5"
+          },
+          "created_time": "2024-05-13T04:28:00.000Z",
+          "last_edited_time": "2024-05-13T04:49:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "How could we run conferences much more cheaply?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "How could we run conferences much more cheaply?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "5b05dabb-e101-401a-a310-10f1123c6929",
+              "parent": {
+                "type": "block_id",
+                "block_id": "e43b9fae-3ca2-4a72-b861-73e0480b2ade"
+              },
+              "created_time": "2024-05-13T04:49:00.000Z",
+              "last_edited_time": "2024-05-13T04:50:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Planning time is expensive; also reputationally expensive.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Planning time is expensive; also reputationally expensive.",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "99ac045e-0205-416a-86a9-0f5deffd6d11",
+          "parent": {
+            "type": "block_id",
+            "block_id": "87dd20a7-942b-4e60-912c-1db089aa55e5"
+          },
+          "created_time": "2024-05-13T04:28:00.000Z",
+          "last_edited_time": "2024-05-13T04:50:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "How much time needs to elapse between conferences? (if we ran Manifest every 2 months, would people come?)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "How much time needs to elapse between conferences? (if we ran Manifest every 2 months, would people come?)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "8440e769-bb08-4450-8c22-daad877f327d",
+              "parent": {
+                "type": "block_id",
+                "block_id": "99ac045e-0205-416a-86a9-0f5deffd6d11"
+              },
+              "created_time": "2024-05-13T04:50:00.000Z",
+              "last_edited_time": "2024-05-13T04:51:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Could imagine running it in other locations ala EA Global… How to franchise a conference?",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Could imagine running it in other locations ala EA Global… How to franchise a conference?",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "ccf6c254-0e77-497b-a4ce-e842584c2a89",
+      "parent": {
+        "type": "page_id",
+        "page_id": "bf274a39-0a20-4734-863e-5417afd23baa"
+      },
+      "created_time": "2024-05-13T04:49:00.000Z",
+      "last_edited_time": "2024-05-13T04:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Why do virtual conferences suck?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Why do virtual conferences suck?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "4de95ea0-1d32-4387-8090-f745b84391f7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "bf274a39-0a20-4734-863e-5417afd23baa"
+      },
+      "created_time": "2024-05-13T04:25:00.000Z",
+      "last_edited_time": "2024-05-13T04:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "How profitable can a conference be?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "How profitable can a conference be?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "ed467aa2-48ba-4897-a133-324541237f46",
+      "parent": {
+        "type": "page_id",
+        "page_id": "bf274a39-0a20-4734-863e-5417afd23baa"
+      },
+      "created_time": "2024-05-13T04:20:00.000Z",
+      "last_edited_time": "2024-05-13T04:52:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "What are the most successful conferences and festivals?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "What are the most successful conferences and festivals?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "23c0b2b3-1f9f-4647-90cb-734761b50f24",
+          "parent": {
+            "type": "block_id",
+            "block_id": "ed467aa2-48ba-4897-a133-324541237f46"
+          },
+          "created_time": "2024-05-13T04:21:00.000Z",
+          "last_edited_time": "2024-05-13T04:24:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Burning Man?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Burning Man?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "470085f2-023e-4761-b4d0-14f1effa7017",
+          "parent": {
+            "type": "block_id",
+            "block_id": "ed467aa2-48ba-4897-a133-324541237f46"
+          },
+          "created_time": "2024-05-13T04:21:00.000Z",
+          "last_edited_time": "2024-05-13T04:24:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Anime Expo?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Anime Expo?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "28a98e56-f684-4165-87af-ea31d076328c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "ed467aa2-48ba-4897-a133-324541237f46"
+          },
+          "created_time": "2024-05-13T04:23:00.000Z",
+          "last_edited_time": "2024-05-13T04:24:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "YC Demo Day?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "YC Demo Day?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "c784437d-9e9e-4e4b-ac0e-403e9a40adde",
+          "parent": {
+            "type": "block_id",
+            "block_id": "ed467aa2-48ba-4897-a133-324541237f46"
+          },
+          "created_time": "2024-05-13T04:24:00.000Z",
+          "last_edited_time": "2024-05-13T04:24:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "WEF at Davos?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "WEF at Davos?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "91410094-ee0d-44a3-a26c-ca82b3e28641",
+          "parent": {
+            "type": "block_id",
+            "block_id": "ed467aa2-48ba-4897-a133-324541237f46"
+          },
+          "created_time": "2024-05-13T04:52:00.000Z",
+          "last_edited_time": "2024-05-13T04:52:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Taylor Swift’s Eras Tour?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Taylor Swift’s Eras Tour?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "e23d6643-d263-48c4-b7ee-f53b0efa2875",
+          "parent": {
+            "type": "block_id",
+            "block_id": "ed467aa2-48ba-4897-a133-324541237f46"
+          },
+          "created_time": "2024-05-13T04:24:00.000Z",
+          "last_edited_time": "2024-05-13T04:51:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "What ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "What ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "is",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": true,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "is",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": " success here (total value added? value captured? number attendees?)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": " success here (total value added? value captured? number attendees?)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "2f1d203b-63d1-4554-a973-b97271ee3a34",
+      "parent": {
+        "type": "page_id",
+        "page_id": "bf274a39-0a20-4734-863e-5417afd23baa"
+      },
+      "created_time": "2024-05-13T04:22:00.000Z",
+      "last_edited_time": "2024-05-13T04:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "What’s different between:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "What’s different between:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "3234a734-edff-4da6-b888-3edc839b52a6",
+          "parent": {
+            "type": "block_id",
+            "block_id": "2f1d203b-63d1-4554-a973-b97271ee3a34"
+          },
+          "created_time": "2024-05-13T04:22:00.000Z",
+          "last_edited_time": "2024-05-13T04:22:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Party",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Party",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "92de4211-c7ff-4fe2-92ec-de3698db5828",
+          "parent": {
+            "type": "block_id",
+            "block_id": "2f1d203b-63d1-4554-a973-b97271ee3a34"
+          },
+          "created_time": "2024-05-13T04:22:00.000Z",
+          "last_edited_time": "2024-05-13T04:22:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Meetup",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Meetup",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "b7519681-e45c-4843-9559-d285e4700f67",
+          "parent": {
+            "type": "block_id",
+            "block_id": "2f1d203b-63d1-4554-a973-b97271ee3a34"
+          },
+          "created_time": "2024-05-13T04:22:00.000Z",
+          "last_edited_time": "2024-05-13T04:22:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Conference",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Conference",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "1898da2a-70cd-45c6-8d62-6ff449274e1d",
+          "parent": {
+            "type": "block_id",
+            "block_id": "2f1d203b-63d1-4554-a973-b97271ee3a34"
+          },
+          "created_time": "2024-05-13T04:22:00.000Z",
+          "last_edited_time": "2024-05-13T04:22:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Festival",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Festival",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "1791c684-f60a-44fe-83f0-04082a8f690a",
+          "parent": {
+            "type": "block_id",
+            "block_id": "2f1d203b-63d1-4554-a973-b97271ee3a34"
+          },
+          "created_time": "2024-05-13T04:22:00.000Z",
+          "last_edited_time": "2024-05-13T04:22:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Convention",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Convention",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "58aaeaa4-34c8-4b3e-a9e6-88b9153f5ad5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "bf274a39-0a20-4734-863e-5417afd23baa"
+      },
+      "created_time": "2024-05-13T04:21:00.000Z",
+      "last_edited_time": "2024-05-13T04:36:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Why are conferences kind of uncool now?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Why are conferences kind of uncool now?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "871077da-3b48-4f6b-b0c1-2ec6df463d86",
+          "parent": {
+            "type": "block_id",
+            "block_id": "58aaeaa4-34c8-4b3e-a9e6-88b9153f5ad5"
+          },
+          "created_time": "2024-05-13T04:36:00.000Z",
+          "last_edited_time": "2024-05-13T04:52:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Thesis: Going to a conference feels a bit like “make work”. The coolest people ship code instead of socializing.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Thesis: Going to a conference feels a bit like “make work”. The coolest people ship code instead of socializing.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "c53a1993-7c0d-425c-b114-cd472c80a744",
+      "parent": {
+        "type": "page_id",
+        "page_id": "bf274a39-0a20-4734-863e-5417afd23baa"
+      },
+      "created_time": "2024-05-13T04:31:00.000Z",
+      "last_edited_time": "2024-05-13T04:36:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "How many conferences can exist in an ecosystem? What’s the saturation point?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "How many conferences can exist in an ecosystem? What’s the saturation point?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "249088f5-2fb8-42c5-bd11-2c428bf8b541",
+      "parent": {
+        "type": "page_id",
+        "page_id": "bf274a39-0a20-4734-863e-5417afd23baa"
+      },
+      "created_time": "2024-05-13T04:21:00.000Z",
+      "last_edited_time": "2024-05-13T04:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Why do people enjoy going to conferences?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Why do people enjoy going to conferences?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "bd46b113-e58a-468e-9bc3-7105898f53f1",
+          "parent": {
+            "type": "block_id",
+            "block_id": "249088f5-2fb8-42c5-bd11-2c428bf8b541"
+          },
+          "created_time": "2024-05-13T04:26:00.000Z",
+          "last_edited_time": "2024-05-13T04:26:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Meeting other people",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Meeting other people",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "1c2a830d-495f-4e73-a4fb-f7c02d7f7169",
+          "parent": {
+            "type": "block_id",
+            "block_id": "249088f5-2fb8-42c5-bd11-2c428bf8b541"
+          },
+          "created_time": "2024-05-13T04:26:00.000Z",
+          "last_edited_time": "2024-05-13T04:26:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Seeing the exhibitions",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Seeing the exhibitions",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "475a3ce5-3f86-4fd1-9b0c-1a0ec7452839",
+          "parent": {
+            "type": "block_id",
+            "block_id": "249088f5-2fb8-42c5-bd11-2c428bf8b541"
+          },
+          "created_time": "2024-05-13T04:26:00.000Z",
+          "last_edited_time": "2024-05-13T04:26:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Listening to talks",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Listening to talks",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "14ca1604-5033-4914-9df1-815f91436bd6",
+          "parent": {
+            "type": "block_id",
+            "block_id": "249088f5-2fb8-42c5-bd11-2c428bf8b541"
+          },
+          "created_time": "2024-05-13T04:38:00.000Z",
+          "last_edited_time": "2024-05-13T04:38:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Experiencing the crowds",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Experiencing the crowds",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "d71a8d3a-2432-4bc1-8ad7-eb18a7e9e4fb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "bf274a39-0a20-4734-863e-5417afd23baa"
+      },
+      "created_time": "2024-05-13T04:34:00.000Z",
+      "last_edited_time": "2024-05-13T04:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "de4463d3-fa15-440f-b719-db02d74f1a1a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "bf274a39-0a20-4734-863e-5417afd23baa"
+      },
+      "created_time": "2024-05-13T04:32:00.000Z",
+      "last_edited_time": "2024-05-13T04:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Other lists",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Other lists",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "0162fa2c-ef68-42bd-8464-e92fa5f12fa4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "bf274a39-0a20-4734-863e-5417afd23baa"
+      },
+      "created_time": "2024-05-13T04:26:00.000Z",
+      "last_edited_time": "2024-05-13T04:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Things conferences are kind of like:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Things conferences are kind of like:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "c63e299b-32c9-4c8d-86e4-785b40f3b298",
+          "parent": {
+            "type": "block_id",
+            "block_id": "0162fa2c-ef68-42bd-8464-e92fa5f12fa4"
+          },
+          "created_time": "2024-05-13T04:20:00.000Z",
+          "last_edited_time": "2024-05-13T04:29:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Snowball/avalanche: Once you have a few good speakers lined up, more people are excited to come.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Snowball/avalanche: Once you have a few good speakers lined up, more people are excited to come.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "8d44bae4-2781-43c1-b602-2290c018a936",
+          "parent": {
+            "type": "block_id",
+            "block_id": "0162fa2c-ef68-42bd-8464-e92fa5f12fa4"
+          },
+          "created_time": "2024-05-13T04:29:00.000Z",
+          "last_edited_time": "2024-05-13T04:38:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Markets in people: where we match up supply of speakers to demand of attendees",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Markets in people: where we match up supply of speakers to demand of attendees",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "3212abe7-2e2a-4fd4-b69b-bf6bfe974070",
+              "parent": {
+                "type": "block_id",
+                "block_id": "8d44bae4-2781-43c1-b602-2290c018a936"
+              },
+              "created_time": "2024-05-13T04:38:00.000Z",
+              "last_edited_time": "2024-05-13T04:38:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "There’s a magical quality to having lots of people; things that cater to people will spring up to serve them. (like cafes popping up in a dense city)",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "There’s a magical quality to having lots of people; things that cater to people will spring up to serve them. (like cafes popping up in a dense city)",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "ee4e7525-42b4-4924-9b4c-f30de68a3ff4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "bf274a39-0a20-4734-863e-5417afd23baa"
+      },
+      "created_time": "2024-05-13T04:29:00.000Z",
+      "last_edited_time": "2024-05-13T04:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Conferences that have helped me a lot:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Conferences that have helped me a lot:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "c9b5c47d-ac7c-4d0c-ae73-dd4bba22bbb2",
+          "parent": {
+            "type": "block_id",
+            "block_id": "ee4e7525-42b4-4924-9b4c-f30de68a3ff4"
+          },
+          "created_time": "2024-05-13T04:35:00.000Z",
+          "last_edited_time": "2024-05-13T04:35:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Hereticon (pitching Manifold, meeting Paul Gu & Andy)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Hereticon (pitching Manifold, meeting Paul Gu & Andy)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "1d6f8b55-9c1f-4287-9183-139aea679bef",
+          "parent": {
+            "type": "block_id",
+            "block_id": "ee4e7525-42b4-4924-9b4c-f30de68a3ff4"
+          },
+          "created_time": "2024-05-13T04:35:00.000Z",
+          "last_edited_time": "2024-05-13T04:35:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "EA Global (I think? Met Aron?)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "EA Global (I think? Met Aron?)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "9f47b6a7-e2b8-43d1-b104-7d11815c8de0",
+          "parent": {
+            "type": "block_id",
+            "block_id": "ee4e7525-42b4-4924-9b4c-f30de68a3ff4"
+          },
+          "created_time": "2024-05-13T04:35:00.000Z",
+          "last_edited_time": "2024-05-13T04:36:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Future Forum ❤️",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Future Forum ❤️",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    }
+  ]
+}

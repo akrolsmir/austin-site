@@ -1,0 +1,878 @@
+{
+  "page": {
+    "id": "4ae2dcb8a2244fbfa41041ed06ead7a7",
+    "title": "Why I’m donating to Lightcone",
+    "date": "2024-05-09",
+    "edited": "2024-06-04T05:57:00.000Z",
+    "url": "https://akrolsmir.notion.site/Why-I-m-donating-to-Lightcone-4ae2dcb8a2244fbfa41041ed06ead7a7",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "d539cecb-08be-46b2-bfba-ad5ed91a3c94",
+      "parent": {
+        "type": "page_id",
+        "page_id": "4ae2dcb8-a224-4fbf-a410-41ed06ead7a7"
+      },
+      "created_time": "2024-06-04T05:56:00.000Z",
+      "last_edited_time": "2024-06-04T05:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Comment originally posted on ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Comment originally posted on ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Manifund",
+              "link": {
+                "url": "https://manifund.org//projects/lightcone-infrastructure?tab=comments#3385b764-0850-4339-9189-ed9b082d2b74"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Manifund",
+            "href": "https://manifund.org//projects/lightcone-infrastructure?tab=comments#3385b764-0850-4339-9189-ed9b082d2b74"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ".",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ".",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "25a5703e-f8cc-4a02-86a1-8fba285d820e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "4ae2dcb8-a224-4fbf-a410-41ed06ead7a7"
+      },
+      "created_time": "2024-05-09T21:39:00.000Z",
+      "last_edited_time": "2024-05-09T21:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I really appreciated this writeup of Lightcone's impact and future goals. I thought I knew a fair bit about Lightcone given our past collaborations (eg on Manifest and integrating Manifold's markets) and convos with Oli, but there was a lot that was new to me here: counterfactual impact and growth from LW2.0, years and years of support for ACX and other rationality meetups, the Icecone visiting fellowship, Lightcone's influence on Constellation and FAR.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I really appreciated this writeup of Lightcone's impact and future goals. I thought I knew a fair bit about Lightcone given our past collaborations (eg on Manifest and integrating Manifold's markets) and convos with Oli, but there was a lot that was new to me here: counterfactual impact and growth from LW2.0, years and years of support for ACX and other rationality meetups, the Icecone visiting fellowship, Lightcone's influence on Constellation and FAR.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "14b27180-3031-49b6-abf8-164c82661595",
+      "parent": {
+        "type": "page_id",
+        "page_id": "4ae2dcb8-a224-4fbf-a410-41ed06ead7a7"
+      },
+      "created_time": "2024-05-09T21:39:00.000Z",
+      "last_edited_time": "2024-05-09T21:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "For now, I'm putting down $5000 in support of Lightcone broadly. I arrived at this amount by estimating the value of Lightcone (primarily Lesswrong and Lighthaven) existing to be ~$200/month to me personally; this seems quite reasonable given that I'm happy to pay ~$100/month for a membership at eg a climbing gym or The Commons. So with this $5000 donation, I'm retroactively covering my last ~2 years of usage -- approximately the length of time I'd consider myself to be highly engaged with EA/rationality. (I would also encourage the Lightcone team to just make something like a high-dollar patron model a thing we can directly pay for.)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "For now, I'm putting down $5000 in support of Lightcone broadly. I arrived at this amount by estimating the value of Lightcone (primarily Lesswrong and Lighthaven) existing to be ~$200/month to me personally; this seems quite reasonable given that I'm happy to pay ~$100/month for a membership at eg a climbing gym or The Commons. So with this $5000 donation, I'm retroactively covering my last ~2 years of usage -- approximately the length of time I'd consider myself to be highly engaged with EA/rationality. (I would also encourage the Lightcone team to just make something like a high-dollar patron model a thing we can directly pay for.)",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "7ddec897-6f98-411a-ad21-3960315d2dfe",
+      "parent": {
+        "type": "page_id",
+        "page_id": "4ae2dcb8-a224-4fbf-a410-41ed06ead7a7"
+      },
+      "created_time": "2024-05-09T21:39:00.000Z",
+      "last_edited_time": "2024-05-09T21:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "On Lightcone's future plans, I think the overall approach of \"we're not sure but here are our best guesses as to what's good to build\" is both good and honest. My quick takes:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "On Lightcone's future plans, I think the overall approach of \"we're not sure but here are our best guesses as to what's good to build\" is both good and honest. My quick takes:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "ecf6baa6-d91e-4c57-ac93-4bce388591f7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "4ae2dcb8-a224-4fbf-a410-41ed06ead7a7"
+      },
+      "created_time": "2024-05-09T21:39:00.000Z",
+      "last_edited_time": "2024-05-09T21:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Lighthaven: we've made great use of this for Manifest, both last year and this. Lighthaven was counterfactually responsible for Manifest existing at all; the origin story for Manifest is approximately \"Austin walking around the campus during an SSC meetup and thinking, hey, we could do a conference here.\" The Lightcone team is great to work with, in a way that I do not expect other venues to provide.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Lighthaven: we've made great use of this for Manifest, both last year and this. Lighthaven was counterfactually responsible for Manifest existing at all; the origin story for Manifest is approximately \"Austin walking around the campus during an SSC meetup and thinking, hey, we could do a conference here.\" The Lightcone team is great to work with, in a way that I do not expect other venues to provide.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "d33b8809-f834-4335-9999-7bdef84384a1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "4ae2dcb8-a224-4fbf-a410-41ed06ead7a7"
+      },
+      "created_time": "2024-05-09T21:39:00.000Z",
+      "last_edited_time": "2024-05-09T21:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "\"The world’s best online research platform\": I find the vision of to be pretty compelling. As a software person myself, I feel a little bit qualified to remark on website/engineering quality, and I cannot think of many sites that are crafted as well as LW; certainly no discussion platforms. Personally, it's one of the few sites I have blocked on my devices for being too addicting; EA Forum (using the same codebase) is another.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\"The world’s best online research platform\": I find the vision of to be pretty compelling. As a software person myself, I feel a little bit qualified to remark on website/engineering quality, and I cannot think of many sites that are crafted as well as LW; certainly no discussion platforms. Personally, it's one of the few sites I have blocked on my devices for being too addicting; EA Forum (using the same codebase) is another.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "c4b64472-6d84-44e6-b36b-0758eba2bb4c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "d33b8809-f834-4335-9999-7bdef84384a1"
+          },
+          "created_time": "2024-05-09T21:39:00.000Z",
+          "last_edited_time": "2024-05-09T21:39:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "I would be very excited to see Lightcone push harder on this vision. Some things that could be cool:",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "I would be very excited to see Lightcone push harder on this vision. Some things that could be cool:",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "bf4a0431-ed6a-448a-859b-df3e41b1ee60",
+              "parent": {
+                "type": "block_id",
+                "block_id": "c4b64472-6d84-44e6-b36b-0758eba2bb4c"
+              },
+              "created_time": "2024-05-09T21:39:00.000Z",
+              "last_edited_time": "2024-05-09T21:39:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Incorporating payments and funding for good research & writing (patron/substack-like subscriptions? impact certs for prize payouts on the yearly review?)",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Incorporating payments and funding for good research & writing (patron/substack-like subscriptions? impact certs for prize payouts on the yearly review?)",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "01eebdc4-8946-460f-9811-c85c0964cdff",
+              "parent": {
+                "type": "block_id",
+                "block_id": "c4b64472-6d84-44e6-b36b-0758eba2bb4c"
+              },
+              "created_time": "2024-05-09T21:39:00.000Z",
+              "last_edited_time": "2024-05-09T21:39:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": true,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Onboarding other scientific research fields and communities. There's still a long way to go before Lesswrong becomes as popular as Arxiv or top scientific journals. This would also put LW in the position of being able to make many of the long-complained fixes to science; one straw example would be replication prediction markets.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Onboarding other scientific research fields and communities. There's still a long way to go before Lesswrong becomes as popular as Arxiv or top scientific journals. This would also put LW in the position of being able to make many of the long-complained fixes to science; one straw example would be replication prediction markets.",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "children": [
+                {
+                  "object": "block",
+                  "id": "c3182af4-9bc6-4b30-bf98-ce21c84915fe",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "01eebdc4-8946-460f-9811-c85c0964cdff"
+                  },
+                  "created_time": "2024-05-09T21:39:00.000Z",
+                  "last_edited_time": "2024-05-09T21:39:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "FWIW, I feel like the \"clone and host a separate instance\" strategy for ForumMagnum makes scaling quite hard; EA Forum seems to be doing okay but",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "FWIW, I feel like the \"clone and host a separate instance\" strategy for ForumMagnum makes scaling quite hard; EA Forum seems to be doing okay but",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                }
+              ]
+            },
+            {
+              "object": "block",
+              "id": "ccad8a2b-b0d4-4ffe-a11b-17e195e13105",
+              "parent": {
+                "type": "block_id",
+                "block_id": "c4b64472-6d84-44e6-b36b-0758eba2bb4c"
+              },
+              "created_time": "2024-05-09T21:39:00.000Z",
+              "last_edited_time": "2024-05-09T21:39:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Other experiments on better online discourse, similar to Discussions. (Also literally, just getting Discussions to work well.) Off the top of my head, there's no good podcast or video platform for this, which are plausible areas to expand into.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Other experiments on better online discourse, similar to Discussions. (Also literally, just getting Discussions to work well.) Off the top of my head, there's no good podcast or video platform for this, which are plausible areas to expand into.",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "defa17f2-fec5-4955-b8ff-078eeeccabcf",
+      "parent": {
+        "type": "page_id",
+        "page_id": "4ae2dcb8-a224-4fbf-a410-41ed06ead7a7"
+      },
+      "created_time": "2024-05-09T21:39:00.000Z",
+      "last_edited_time": "2024-05-09T21:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "\"FHI of the West\": This is probably where I'm least excited; though it's possible I just am not as impressed with FHI as everybody else, due to my own ignorance -- maybe \"Parc\" or \"GMU\" would be more compelling?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\"FHI of the West\": This is probably where I'm least excited; though it's possible I just am not as impressed with FHI as everybody else, due to my own ignorance -- maybe \"Parc\" or \"GMU\" would be more compelling?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "6c763950-c11b-453a-8b43-2b95bbbd5fad",
+      "parent": {
+        "type": "page_id",
+        "page_id": "4ae2dcb8-a224-4fbf-a410-41ed06ead7a7"
+      },
+      "created_time": "2024-05-09T21:39:00.000Z",
+      "last_edited_time": "2024-05-09T21:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Lightcone Chord: I'm excited for the thrust of this project; I think something in the space of AI-enabled coordination is going to be, like, bigger than (if not owned by) Facebook. Of course, execution is everything here, and on that it's a bit too early to tell.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Lightcone Chord: I'm excited for the thrust of this project; I think something in the space of AI-enabled coordination is going to be, like, bigger than (if not owned by) Facebook. Of course, execution is everything here, and on that it's a bit too early to tell.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3a158ec9-8137-41b8-b0b6-d01297247b3e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "4ae2dcb8-a224-4fbf-a410-41ed06ead7a7"
+      },
+      "created_time": "2024-05-09T21:39:00.000Z",
+      "last_edited_time": "2024-05-09T21:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Finally: I feel a bit obliged to list my concerns with Lightcone. These are very, very minor compared to all the good stuff above, and it's very easy to armchair quarterback and hard to actually do the right thing. But in the spirit of constructive feedback:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Finally: I feel a bit obliged to list my concerns with Lightcone. These are very, very minor compared to all the good stuff above, and it's very easy to armchair quarterback and hard to actually do the right thing. But in the spirit of constructive feedback:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "a4e514cc-0133-4cc5-a105-5e6d599a1a7b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "4ae2dcb8-a224-4fbf-a410-41ed06ead7a7"
+      },
+      "created_time": "2024-05-09T21:39:00.000Z",
+      "last_edited_time": "2024-05-09T21:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "The split in attention between Lesswrong, Lighthaven, and other endeavors across the team feels a bit suboptimal. I do think that individual initiatives are promising, and that there's much value of information in what Lightcone tries out, but the mark of a good startup is discipline and focus. (Me making this remark is very much the pot calling the kettle black, haha). Tentatively I feel like Lighthaven could be spun out as a separate org, as the skills to do a good website and a good event space feel fairly disjoint.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "The split in attention between Lesswrong, Lighthaven, and other endeavors across the team feels a bit suboptimal. I do think that individual initiatives are promising, and that there's much value of information in what Lightcone tries out, but the mark of a good startup is discipline and focus. (Me making this remark is very much the pot calling the kettle black, haha). Tentatively I feel like Lighthaven could be spun out as a separate org, as the skills to do a good website and a good event space feel fairly disjoint.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "ee34c17b-a397-412a-aea3-0cffe6ac22e9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "4ae2dcb8-a224-4fbf-a410-41ed06ead7a7"
+      },
+      "created_time": "2024-05-09T21:39:00.000Z",
+      "last_edited_time": "2024-05-09T21:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I feel a bit weird about the opulence of Lighthaven. I have something of an aesthetic preference for scrappy/\"ramen profitable\", and it seems suspicious that work on this venue means that the Lightcone team spends much of their day lounging in paradise, like, maybe it'll make them softer or sth. (OTOH, this opulence has been quite good for Manifest; and I do broadly think optically questionable things like EA Bahamas or Wytham Abbey are Good Actually).",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I feel a bit weird about the opulence of Lighthaven. I have something of an aesthetic preference for scrappy/\"ramen profitable\", and it seems suspicious that work on this venue means that the Lightcone team spends much of their day lounging in paradise, like, maybe it'll make them softer or sth. (OTOH, this opulence has been quite good for Manifest; and I do broadly think optically questionable things like EA Bahamas or Wytham Abbey are Good Actually).",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "f3241b34-71ca-4663-93ea-4e8d60c786da",
+      "parent": {
+        "type": "page_id",
+        "page_id": "4ae2dcb8-a224-4fbf-a410-41ed06ead7a7"
+      },
+      "created_time": "2024-05-09T21:39:00.000Z",
+      "last_edited_time": "2024-05-09T21:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I do feel less excited nowadays about posts and comments on LW (and even more so for the EA Forum). I think Substack has eaten some of LW's lunch; and there is something of an eternal September effect from the new commenters.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I do feel less excited nowadays about posts and comments on LW (and even more so for the EA Forum). I think Substack has eaten some of LW's lunch; and there is something of an eternal September effect from the new commenters.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "22c8061f-49ab-48f9-86de-6954d6011538",
+          "parent": {
+            "type": "block_id",
+            "block_id": "f3241b34-71ca-4663-93ea-4e8d60c786da"
+          },
+          "created_time": "2024-05-09T21:39:00.000Z",
+          "last_edited_time": "2024-05-09T21:39:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "I especially don't feel like Lesswrong is much of a \"community\", for me; aka not a place I hang out, more of a utility or place I get news. And I'm curious how true this is for others. Egoistically, I think Manifold does (did?) better on this angle; the flavor of Manifold is more fun, social, colorful. We're also just much younger and smaller, which help.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "I especially don't feel like Lesswrong is much of a \"community\", for me; aka not a place I hang out, more of a utility or place I get news. And I'm curious how true this is for others. Egoistically, I think Manifold does (did?) better on this angle; the flavor of Manifold is more fun, social, colorful. We're also just much younger and smaller, which help.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "f49e9703-9e2d-4124-9b20-4b58e1e5b13d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "4ae2dcb8-a224-4fbf-a410-41ed06ead7a7"
+      },
+      "created_time": "2024-05-09T21:39:00.000Z",
+      "last_edited_time": "2024-05-09T21:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "FWIW, I don't consider myself a rationalist; I put myself closer to EA, startups, and on some days Catholicism. I think there are some serious shortcomings with the rationalist approach (overemphasis of individual vs group intelligence; analytic rather than iterative mindset; lack of warmth); the lack of successful rationalist startups is pretty damning. (Though, I do expect Lightcone to be robustly good even if you're skeptical of rationality specifically)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "FWIW, I don't consider myself a rationalist; I put myself closer to EA, startups, and on some days Catholicism. I think there are some serious shortcomings with the rationalist approach (overemphasis of individual vs group intelligence; analytic rather than iterative mindset; lack of warmth); the lack of successful rationalist startups is pretty damning. (Though, I do expect Lightcone to be robustly good even if you're skeptical of rationality specifically)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    }
+  ]
+}

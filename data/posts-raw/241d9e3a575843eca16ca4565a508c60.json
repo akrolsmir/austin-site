@@ -1,0 +1,846 @@
+{
+  "page": {
+    "id": "241d9e3a575843eca16ca4565a508c60",
+    "title": "Biggest questions with Manifold",
+    "date": "2022-04-03",
+    "edited": "2022-04-19T17:34:00.000Z",
+    "url": "https://akrolsmir.notion.site/Biggest-questions-with-Manifold-241d9e3a575843eca16ca4565a508c60",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "99ebca86-9b7d-4bf7-907f-9e73edd8aee5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "241d9e3a-5758-43ec-a16c-a4565a508c60"
+      },
+      "created_time": "2022-02-13T22:05:00.000Z",
+      "last_edited_time": "2022-02-13T22:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Are prediction markets actually valuable?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Are prediction markets actually valuable?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "a7997ddb-12c1-49e9-be06-58fa6fe9d6be",
+      "parent": {
+        "type": "page_id",
+        "page_id": "241d9e3a-5758-43ec-a16c-a4565a508c60"
+      },
+      "created_time": "2022-02-13T22:05:00.000Z",
+      "last_edited_time": "2022-02-13T22:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Are decision markets actually valuable?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Are decision markets actually valuable?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "804fb6ec-619d-4ce4-b058-dbec38d2dfa4",
+          "parent": {
+            "type": "block_id",
+            "block_id": "a7997ddb-12c1-49e9-be06-58fa6fe9d6be"
+          },
+          "created_time": "2022-02-13T22:10:00.000Z",
+          "last_edited_time": "2022-02-13T22:11:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Manifold Plays Wordle didn’t seem that awesome",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Manifold Plays Wordle didn’t seem that awesome",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "7b6ac58a-47aa-4abb-b9a7-f51df961cb04",
+              "parent": {
+                "type": "block_id",
+                "block_id": "804fb6ec-619d-4ce4-b058-dbec38d2dfa4"
+              },
+              "created_time": "2022-02-13T22:11:00.000Z",
+              "last_edited_time": "2022-02-13T22:11:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": true,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Though: bulk-create was a lot better",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Though: bulk-create was a lot better",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "children": [
+                {
+                  "object": "block",
+                  "id": "06bd548f-dad0-4060-b017-1cd8ac663c18",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "7b6ac58a-47aa-4abb-b9a7-f51df961cb04"
+                  },
+                  "created_time": "2022-02-13T22:11:00.000Z",
+                  "last_edited_time": "2022-02-13T22:12:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "What are the next two 10x improvements on reducing time?",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "What are the next two 10x improvements on reducing time?",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "c31c692b-1488-4555-ac6e-233468f78f69",
+          "parent": {
+            "type": "block_id",
+            "block_id": "a7997ddb-12c1-49e9-be06-58fa6fe9d6be"
+          },
+          "created_time": "2022-02-13T22:11:00.000Z",
+          "last_edited_time": "2022-02-13T22:11:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Chess? ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Chess? ",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "fa657873-1c8d-46a3-9a87-8e45a44866e0",
+          "parent": {
+            "type": "block_id",
+            "block_id": "a7997ddb-12c1-49e9-be06-58fa6fe9d6be"
+          },
+          "created_time": "2022-02-13T22:12:00.000Z",
+          "last_edited_time": "2022-02-13T22:24:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "For futarchy to be tested you need a futarchic agent; something that obeys the decisions of futarchy",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "For futarchy to be tested you need a futarchic agent; something that obeys the decisions of futarchy",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "9ab8961b-194b-46dc-8b75-cd5fe6714758",
+              "parent": {
+                "type": "block_id",
+                "block_id": "fa657873-1c8d-46a3-9a87-8e45a44866e0"
+              },
+              "created_time": "2022-02-13T22:22:00.000Z",
+              "last_edited_time": "2022-02-13T22:24:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": true,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Would be best as an entirely single-player game where you can try and profit from futarchy?",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Would be best as an entirely single-player game where you can try and profit from futarchy?",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "children": [
+                {
+                  "object": "block",
+                  "id": "95385f70-1203-4619-9d62-763f3fd28e26",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "9ab8961b-194b-46dc-8b75-cd5fe6714758"
+                  },
+                  "created_time": "2022-02-13T22:24:00.000Z",
+                  "last_edited_time": "2022-02-13T22:24:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Trade against bots",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Trade against bots",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                }
+              ]
+            },
+            {
+              "object": "block",
+              "id": "bf31bacf-617f-4ba6-b606-afb8ae78927b",
+              "parent": {
+                "type": "block_id",
+                "block_id": "fa657873-1c8d-46a3-9a87-8e45a44866e0"
+              },
+              "created_time": "2022-02-13T22:23:00.000Z",
+              "last_edited_time": "2022-02-13T22:23:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": true,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Lets you test different designs faster",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Lets you test different designs faster",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "children": [
+                {
+                  "object": "block",
+                  "id": "46eefb04-116d-4b69-8c1e-304ba75f9545",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "bf31bacf-617f-4ba6-b606-afb8ae78927b"
+                  },
+                  "created_time": "2022-02-13T22:23:00.000Z",
+                  "last_edited_time": "2022-02-13T22:23:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Different choices of metric",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Different choices of metric",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                },
+                {
+                  "object": "block",
+                  "id": "da8c954a-4bcc-4bdc-9367-f576f2724bdb",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "bf31bacf-617f-4ba6-b606-afb8ae78927b"
+                  },
+                  "created_time": "2022-02-13T22:23:00.000Z",
+                  "last_edited_time": "2022-02-13T22:24:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Random selection of markets rather than deterministic",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Random selection of markets rather than deterministic",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "6242f0fe-9814-40b7-9412-bec1dd0ab06c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "a7997ddb-12c1-49e9-be06-58fa6fe9d6be"
+          },
+          "created_time": "2022-02-13T22:21:00.000Z",
+          "last_edited_time": "2022-02-13T22:22:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Reading from Vitalik: ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Reading from Vitalik: ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "https://blog.ethereum.org/2014/08/21/introduction-futarchy/",
+                  "link": {
+                    "url": "https://blog.ethereum.org/2014/08/21/introduction-futarchy/"
+                  }
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "https://blog.ethereum.org/2014/08/21/introduction-futarchy/",
+                "href": "https://blog.ethereum.org/2014/08/21/introduction-futarchy/"
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "4e29f60d-c35b-4d17-9b3f-b47022bc734c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "241d9e3a-5758-43ec-a16c-a4565a508c60"
+      },
+      "created_time": "2022-02-13T22:05:00.000Z",
+      "last_edited_time": "2022-02-13T22:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "How hard is crypto?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "How hard is crypto?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "4741cc33-0319-430a-9edc-231d3f222533",
+      "parent": {
+        "type": "page_id",
+        "page_id": "241d9e3a-5758-43ec-a16c-a4565a508c60"
+      },
+      "created_time": "2022-02-13T22:06:00.000Z",
+      "last_edited_time": "2022-02-13T22:10:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "What emergent properties happen to markets at scale?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "What emergent properties happen to markets at scale?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "680c308e-a828-4229-8e09-2a0169e7f39a",
+          "parent": {
+            "type": "block_id",
+            "block_id": "4741cc33-0319-430a-9edc-231d3f222533"
+          },
+          "created_time": "2022-02-13T22:09:00.000Z",
+          "last_edited_time": "2022-02-13T22:09:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "E.g. fraud, regulation, etc",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "E.g. fraud, regulation, etc",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "d6000af1-042f-461d-a7f2-a3497370ae7e",
+          "parent": {
+            "type": "block_id",
+            "block_id": "4741cc33-0319-430a-9edc-231d3f222533"
+          },
+          "created_time": "2022-02-13T22:09:00.000Z",
+          "last_edited_time": "2022-02-13T22:10:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Actually: maybe don’t worry about this until we’ve scaled",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Actually: maybe don’t worry about this until we’ve scaled",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "be753425-0155-49eb-867a-2cfc96c77612",
+              "parent": {
+                "type": "block_id",
+                "block_id": "d6000af1-042f-461d-a7f2-a3497370ae7e"
+              },
+              "created_time": "2022-02-13T22:10:00.000Z",
+              "last_edited_time": "2022-02-13T22:10:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Except insofar as these scare our users and prevent us from scaling",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Except insofar as these scare our users and prevent us from scaling",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "05d7725d-a4dc-4023-b889-1a37774b5533",
+      "parent": {
+        "type": "page_id",
+        "page_id": "241d9e3a-5758-43ec-a16c-a4565a508c60"
+      },
+      "created_time": "2022-02-13T22:08:00.000Z",
+      "last_edited_time": "2022-02-13T22:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [],
+        "color": "default"
+      }
+    }
+  ]
+}

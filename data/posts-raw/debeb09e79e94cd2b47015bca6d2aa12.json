@@ -1,0 +1,2584 @@
+{
+  "page": {
+    "id": "debeb09e79e94cd2b47015bca6d2aa12",
+    "title": "How EA funders can help grantees more",
+    "date": "2023-05-08",
+    "edited": "2023-05-10T00:55:00.000Z",
+    "url": "https://akrolsmir.notion.site/How-EA-funders-can-help-grantees-more-debeb09e79e94cd2b47015bca6d2aa12",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "9b6139ca-7314-4bd9-bea4-9f0abca28844",
+      "parent": {
+        "type": "page_id",
+        "page_id": "debeb09e-79e9-4cd2-b470-15bca6d2aa12"
+      },
+      "created_time": "2023-05-09T04:46:00.000Z",
+      "last_edited_time": "2023-05-09T20:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Status: Draft",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Status: Draft",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "af5812c2-db43-4961-9c91-04b6504e3236",
+      "parent": {
+        "type": "page_id",
+        "page_id": "debeb09e-79e9-4cd2-b470-15bca6d2aa12"
+      },
+      "created_time": "2023-05-09T04:46:00.000Z",
+      "last_edited_time": "2023-05-09T20:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "As Manifold works through a new round of grant applications, and considers funding its own initiatives on ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "As Manifold works through a new round of grant applications, and considers funding its own initiatives on ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Manifund",
+              "link": {
+                "url": "https://manifund.org/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Manifund",
+            "href": "https://manifund.org/"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ", I wanted to give my thoughts on how EA funders could help applicants and grantees more.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ", I wanted to give my thoughts on how EA funders could help applicants and grantees more.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b953415-70e4-4cc9-adeb-d15e34396078",
+      "parent": {
+        "type": "page_id",
+        "page_id": "debeb09e-79e9-4cd2-b470-15bca6d2aa12"
+      },
+      "created_time": "2023-05-09T19:57:00.000Z",
+      "last_edited_time": "2023-05-09T20:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "My thoughts are primarily based on interactions with: ACX Grants, SFF, LTFF, and FTX Future Fund (rip)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "My thoughts are primarily based on interactions with: ACX Grants, SFF, LTFF, and FTX Future Fund (rip)",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "c6907f90-238a-4272-b97e-2232bcea6fa1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "debeb09e-79e9-4cd2-b470-15bca6d2aa12"
+      },
+      "created_time": "2023-05-09T04:46:00.000Z",
+      "last_edited_time": "2023-05-09T04:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Review applications faster; send money faster",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Review applications faster; send money faster",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2f71bf54-37b5-469e-94c2-440b001236b0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "debeb09e-79e9-4cd2-b470-15bca6d2aa12"
+      },
+      "created_time": "2023-05-09T04:50:00.000Z",
+      "last_edited_time": "2023-05-09T20:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "The worst thing about applying for funding is the waiting time between submitting the application and hearing back. While waiting for a decision, you’re stuck in limbo, not knowing whether you can pursue the project you’ve been planning. Hiring a promising candidate, booking out a venue, announcing your org’s new direction are all things that are blocked by the confirmation of funds. Worse is if you’re implicitly counting on a particular grant to be approved, and you end up surprised that the grant fails. In all these cases, a short review time (ideally just a couple days) is key.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "The worst thing about applying for funding is the waiting time between submitting the application and hearing back. While waiting for a decision, you’re stuck in limbo, not knowing whether you can pursue the project you’ve been planning. Hiring a promising candidate, booking out a venue, announcing your org’s new direction are all things that are blocked by the confirmation of funds. Worse is if you’re implicitly counting on a particular grant to be approved, and you end up surprised that the grant fails. In all these cases, a short review time (ideally just a couple days) is key.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "cc3b2c67-0521-41c0-a8ad-f429ddff3d19",
+      "parent": {
+        "type": "page_id",
+        "page_id": "debeb09e-79e9-4cd2-b470-15bca6d2aa12"
+      },
+      "created_time": "2023-05-09T05:22:00.000Z",
+      "last_edited_time": "2023-05-09T20:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "There’s also often a gap between the announcement of a grant and it’s delivery to the grantee’s bank account; in the worst cases, this gap can run into multiple months. Especially for grantees who are not financially secure, the promise of funding does not and equate to actual funding. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "There’s also often a gap between the announcement of a grant and it’s delivery to the grantee’s bank account; in the worst cases, this gap can run into multiple months. Especially for grantees who are not financially secure, the promise of funding does not and equate to actual funding. ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "As Paul Graham says",
+              "link": {
+                "url": "http://www.paulgraham.com/fr.html"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "As Paul Graham says",
+            "href": "http://www.paulgraham.com/fr.html"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ", “It's not a deal till the money's in the bank.”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ", “It's not a deal till the money's in the bank.”",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "4f76385b-80bd-4020-bf80-889fa580c6f6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "debeb09e-79e9-4cd2-b470-15bca6d2aa12"
+      },
+      "created_time": "2023-05-09T05:40:00.000Z",
+      "last_edited_time": "2023-05-09T05:44:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "See also: ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "See also: ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Fast Grants",
+              "link": {
+                "url": "https://fastgrants.org/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Fast Grants",
+            "href": "https://fastgrants.org/"
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "190d1acd-4e4f-421e-b3c7-c0335f253ad2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "debeb09e-79e9-4cd2-b470-15bca6d2aa12"
+      },
+      "created_time": "2023-05-09T20:06:00.000Z",
+      "last_edited_time": "2023-05-09T20:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Basic improvements: Provide applicants a timeline on when they should hear back; track turnaround time in a dashboard",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Basic improvements: Provide applicants a timeline on when they should hear back; track turnaround time in a dashboard",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "a6e86cbd-b1bf-41d7-9d17-b38499d8678d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "debeb09e-79e9-4cd2-b470-15bca6d2aa12"
+      },
+      "created_time": "2023-05-09T20:11:00.000Z",
+      "last_edited_time": "2023-05-09T20:17:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "callout",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Shoutout to: Future Fund, with its 72-hour goal on its regranting program",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Shoutout to: Future Fund, with its 72-hour goal on its regranting program",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "emoji",
+          "emoji": "🎉"
+        },
+        "color": "gray_background"
+      }
+    },
+    {
+      "object": "block",
+      "id": "4a4c181b-e61c-476e-b33c-0ae3244bd6ae",
+      "parent": {
+        "type": "page_id",
+        "page_id": "debeb09e-79e9-4cd2-b470-15bca6d2aa12"
+      },
+      "created_time": "2023-05-09T04:49:00.000Z",
+      "last_edited_time": "2023-05-09T20:12:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Could improve: SFF, with 3 months between application and announcement + 2 months of due diligence.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Could improve: SFF, with 3 months between application and announcement + 2 months of due diligence.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "4d4497a8-2a33-4c86-ae9c-24346eea9aad",
+      "parent": {
+        "type": "page_id",
+        "page_id": "debeb09e-79e9-4cd2-b470-15bca6d2aa12"
+      },
+      "created_time": "2023-05-09T20:13:00.000Z",
+      "last_edited_time": "2023-05-09T20:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Side note for grantees: Consider just doing your project anyways while waiting for a funding decision. Manifold did this twice: we built out our MVP before the first ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Side note for grantees: Consider just doing your project anyways while waiting for a funding decision. Manifold did this twice: we built out our MVP before the first ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "ACX grants round",
+              "link": {
+                "url": "https://astralcodexten.substack.com/p/acx-grants-results"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ACX grants round",
+            "href": "https://astralcodexten.substack.com/p/acx-grants-results"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " results were announced, and we rolled out ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " results were announced, and we rolled out ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Charity Prediction Markets",
+              "link": {
+                "url": "https://forum.effectivealtruism.org/posts/mbBfFHKEDBTwTSSJX/predicting-for-good-charity-prediction-markets"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Charity Prediction Markets",
+            "href": "https://forum.effectivealtruism.org/posts/mbBfFHKEDBTwTSSJX/predicting-for-good-charity-prediction-markets"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " on our site before hearing back from Future Fund.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " on our site before hearing back from Future Fund.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2059e9b4-7941-426e-9052-96c5a60c4413",
+      "parent": {
+        "type": "page_id",
+        "page_id": "debeb09e-79e9-4cd2-b470-15bca6d2aa12"
+      },
+      "created_time": "2023-05-09T04:46:00.000Z",
+      "last_edited_time": "2023-05-09T04:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Give feedback to successful applicants",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Give feedback to successful applicants",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "ea28096f-f445-4e15-b1d4-a287d6d8b9f4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "debeb09e-79e9-4cd2-b470-15bca6d2aa12"
+      },
+      "created_time": "2023-05-09T04:53:00.000Z",
+      "last_edited_time": "2023-05-09T05:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "There’s been a lot written about how anyone running a screening process could help by providing feedback on why a particular application was rejected. However, feedback is also incredibly valuable for people who have received a grant! It’s often not clear which parts of the application stood out, or what ended up being the deciding factor in proceeding with the grant. Hearing about this helps align the plans of the grantee with the goals of the grantmaker.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "There’s been a lot written about how anyone running a screening process could help by providing feedback on why a particular application was rejected. However, feedback is also incredibly valuable for people who have received a grant! It’s often not clear which parts of the application stood out, or what ended up being the deciding factor in proceeding with the grant. Hearing about this helps align the plans of the grantee with the goals of the grantmaker.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3bc79f10-69d3-4cdc-8164-b3f1f0be292a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "debeb09e-79e9-4cd2-b470-15bca6d2aa12"
+      },
+      "created_time": "2023-05-09T04:49:00.000Z",
+      "last_edited_time": "2023-05-09T20:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "callout",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Shoutout to: LTFF and specifically Linchuan Zhang, for writing up his thoughts and meeting up with the Manifold team after our Feb 2022 grant.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Shoutout to: LTFF and specifically Linchuan Zhang, for writing up his thoughts and meeting up with the Manifold team after our Feb 2022 grant.",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "emoji",
+          "emoji": "🎉"
+        },
+        "color": "gray_background"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "d25c16f7-d976-4c45-8d17-b06b914b0866",
+          "parent": {
+            "type": "block_id",
+            "block_id": "3bc79f10-69d3-4cdc-8164-b3f1f0be292a"
+          },
+          "created_time": "2023-05-09T04:57:00.000Z",
+          "last_edited_time": "2023-05-09T05:04:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "toggle",
+          "toggle": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Email to Linch asking for feedback",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": true,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Email to Linch asking for feedback",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "ff88a0c1-d057-47ca-8b65-37fd3cd1d8e8",
+              "parent": {
+                "type": "block_id",
+                "block_id": "d25c16f7-d976-4c45-8d17-b06b914b0866"
+              },
+              "created_time": "2023-05-09T04:57:00.000Z",
+              "last_edited_time": "2023-05-09T04:57:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Austin from Manifold here; thanks for your evaluation work for EA Funds! I've been a longtime fan of your work and writing (e.g. on the EA Forum). We'd love to hear any feedback you'd like to share about our project!",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Austin from Manifold here; thanks for your evaluation work for EA Funds! I've been a longtime fan of your work and writing (e.g. on the EA Forum). We'd love to hear any feedback you'd like to share about our project!",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "df616459-79b8-4108-afd0-19644190c37d",
+              "parent": {
+                "type": "block_id",
+                "block_id": "d25c16f7-d976-4c45-8d17-b06b914b0866"
+              },
+              "created_time": "2023-05-09T04:57:00.000Z",
+              "last_edited_time": "2023-05-09T04:57:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Here are some of Manifold's biggest areas of uncertainty:",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Here are some of Manifold's biggest areas of uncertainty:",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "0adb1603-56c5-4e0e-a00a-1d2ac5373e8b",
+              "parent": {
+                "type": "block_id",
+                "block_id": "d25c16f7-d976-4c45-8d17-b06b914b0866"
+              },
+              "created_time": "2023-05-09T04:57:00.000Z",
+              "last_edited_time": "2023-05-09T04:59:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": true,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "How do we make the trading currency valuable without running afoul of regulatory issues? We have a few candidate ideas:\n1. Play money (current strategy, also Metaculus)\n2. Crypto (eg Polymarket)\n3. Cash prize tournaments (eg Metaculus)\n4. Just distribute fiat and see what happens (eg Versusgame)\n5. Go through the long process of CFTC approval (eg Kalshi)\n6. Allow withdrawals to charities (see ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "How do we make the trading currency valuable without running afoul of regulatory issues? We have a few candidate ideas:\n1. Play money (current strategy, also Metaculus)\n2. Crypto (eg Polymarket)\n3. Cash prize tournaments (eg Metaculus)\n4. Just distribute fiat and see what happens (eg Versusgame)\n5. Go through the long process of CFTC approval (eg Kalshi)\n6. Allow withdrawals to charities (see ",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Sam Harsimony's proposal",
+                      "link": {
+                        "url": "https://forum.effectivealtruism.org/posts/d43f6HCWawNSazZqb/charity-prediction-markets"
+                      }
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Sam Harsimony's proposal",
+                    "href": "https://forum.effectivealtruism.org/posts/d43f6HCWawNSazZqb/charity-prediction-markets"
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": ")",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": ")",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "children": [
+                {
+                  "object": "block",
+                  "id": "f1963167-6521-476c-882d-4216f91c968e",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "0adb1603-56c5-4e0e-a00a-1d2ac5373e8b"
+                  },
+                  "created_time": "2023-05-09T04:57:00.000Z",
+                  "last_edited_time": "2023-05-09T04:59:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "paragraph",
+                  "paragraph": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "(Our current approach is some combination of 1, 2, and 3; but I'd especially like your thoughts on 6. EA funds is already doing interesting work in this space through the EA donor lottery; I'd love to partner to see if charity prediction markets are viable.)",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "(Our current approach is some combination of 1, 2, and 3; but I'd especially like your thoughts on 6. EA funds is already doing interesting work in this space through the EA donor lottery; I'd love to partner to see if charity prediction markets are viable.)",
+                        "href": null
+                      }
+                    ],
+                    "icon": null,
+                    "color": "default"
+                  }
+                }
+              ]
+            },
+            {
+              "object": "block",
+              "id": "e41a805a-0af5-4b4f-86cb-fd5fd35deb8d",
+              "parent": {
+                "type": "block_id",
+                "block_id": "d25c16f7-d976-4c45-8d17-b06b914b0866"
+              },
+              "created_time": "2023-05-09T04:57:00.000Z",
+              "last_edited_time": "2023-05-09T04:57:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "How do we thread the needle between questions that are attractive to trade on, and questions that help individuals/teams make better decisions (eg futarchy)?",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "How do we thread the needle between questions that are attractive to trade on, and questions that help individuals/teams make better decisions (eg futarchy)?",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "a3c2b0b8-0359-4817-ac8d-c471fc45cb37",
+              "parent": {
+                "type": "block_id",
+                "block_id": "d25c16f7-d976-4c45-8d17-b06b914b0866"
+              },
+              "created_time": "2023-05-09T04:57:00.000Z",
+              "last_edited_time": "2023-05-09T04:57:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Similarly, how do we balance between short-term questions (which provide more feedback to traders and thus are more interesting) with long-term questions (which may reveal more novel or actionable insight)?",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Similarly, how do we balance between short-term questions (which provide more feedback to traders and thus are more interesting) with long-term questions (which may reveal more novel or actionable insight)?",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "323515e5-7025-43a4-b7f3-407e6e9fa90c",
+              "parent": {
+                "type": "block_id",
+                "block_id": "d25c16f7-d976-4c45-8d17-b06b914b0866"
+              },
+              "created_time": "2023-05-09T04:57:00.000Z",
+              "last_edited_time": "2023-05-09T04:57:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "From the perspective of EA Funds, what would a successful outcome for Manifold look like? E.g. what quantitative or qualitative metrics would make the case that Manifold is worth a follow-up grant or investment?",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "From the perspective of EA Funds, what would a successful outcome for Manifold look like? E.g. what quantitative or qualitative metrics would make the case that Manifold is worth a follow-up grant or investment?",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "42a909ec-409b-4c9c-8d6f-23af21a61653",
+              "parent": {
+                "type": "block_id",
+                "block_id": "d25c16f7-d976-4c45-8d17-b06b914b0866"
+              },
+              "created_time": "2023-05-09T04:57:00.000Z",
+              "last_edited_time": "2023-05-09T04:57:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "And then some things I'm just curious about:",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "And then some things I'm just curious about:",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "cdc2930c-8c04-4021-9efa-d2f310b55ca5",
+              "parent": {
+                "type": "block_id",
+                "block_id": "d25c16f7-d976-4c45-8d17-b06b914b0866"
+              },
+              "created_time": "2023-05-09T04:57:00.000Z",
+              "last_edited_time": "2023-05-09T04:57:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "What software infrastructure or tools seems tractable yet neglected in the space of improving institutional decisionmaking?",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "What software infrastructure or tools seems tractable yet neglected in the space of improving institutional decisionmaking?",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "37046eb4-7366-4614-bc74-43486a1bdd5b",
+              "parent": {
+                "type": "block_id",
+                "block_id": "d25c16f7-d976-4c45-8d17-b06b914b0866"
+              },
+              "created_time": "2023-05-09T04:57:00.000Z",
+              "last_edited_time": "2023-05-09T04:57:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Maybe concretely: what are your biggest bottlenecks in your work at Rethink Priorities and EA funds?",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Maybe concretely: what are your biggest bottlenecks in your work at Rethink Priorities and EA funds?",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "d99c85d2-9b81-46ca-8a4b-344a5e83af2e",
+              "parent": {
+                "type": "block_id",
+                "block_id": "d25c16f7-d976-4c45-8d17-b06b914b0866"
+              },
+              "created_time": "2023-05-09T04:57:00.000Z",
+              "last_edited_time": "2023-05-09T04:57:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Why do EA orgs employ so many researchers and so few software engineers?",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Why do EA orgs employ so many researchers and so few software engineers?",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "8376c6a8-bea1-4b5f-9162-42e47c129d7f",
+              "parent": {
+                "type": "block_id",
+                "block_id": "d25c16f7-d976-4c45-8d17-b06b914b0866"
+              },
+              "created_time": "2023-05-09T04:57:00.000Z",
+              "last_edited_time": "2023-05-09T04:57:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "It's a lot, and perhaps not all in your area of expertise; feel free to just focus on anything you'd like to discuss. And of course, I'm always happy to grab coffee (I'm based in SF) or meet for a vid chat (",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "It's a lot, and perhaps not all in your area of expertise; feel free to just focus on anything you'd like to discuss. And of course, I'm always happy to grab coffee (I'm based in SF) or meet for a vid chat (",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "any slot here",
+                      "link": {
+                        "url": "https://calendly.com/austinchen/manifold"
+                      }
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "any slot here",
+                    "href": "https://calendly.com/austinchen/manifold"
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": " is good, or lmk what works for you)!",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": " is good, or lmk what works for you)!",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "8b2b3425-607d-4388-bcdd-50617a347888",
+          "parent": {
+            "type": "block_id",
+            "block_id": "3bc79f10-69d3-4cdc-8164-b3f1f0be292a"
+          },
+          "created_time": "2023-05-09T04:58:00.000Z",
+          "last_edited_time": "2023-05-09T05:04:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Linch’s extremely informative reply",
+                  "link": {
+                    "url": "https://docs.google.com/document/d/1lCDrLj2tSP58GzNxIW2cm-X66z8IqDGIaD7dQ4hBUBc/edit"
+                  }
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": true,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Linch’s extremely informative reply",
+                "href": "https://docs.google.com/document/d/1lCDrLj2tSP58GzNxIW2cm-X66z8IqDGIaD7dQ4hBUBc/edit"
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "0d806ddf-91d8-4e5d-8621-4f3ecc953031",
+      "parent": {
+        "type": "page_id",
+        "page_id": "debeb09e-79e9-4cd2-b470-15bca6d2aa12"
+      },
+      "created_time": "2023-05-09T04:46:00.000Z",
+      "last_edited_time": "2023-05-09T05:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Check in / ask for updates",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Check in / ask for updates",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "7d71899c-d4ee-4cc0-97ce-ea49450ff804",
+      "parent": {
+        "type": "page_id",
+        "page_id": "debeb09e-79e9-4cd2-b470-15bca6d2aa12"
+      },
+      "created_time": "2023-05-09T04:46:00.000Z",
+      "last_edited_time": "2023-05-09T05:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "In Silicon Valley, it’s routine for tech startups to send out a monthly investor update. This serves as a forcing function for startups to reflect on their progress over the last month; it also gives startups a space to ask for investors for help with things like hiring, ops, legal, intros.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "In Silicon Valley, it’s routine for tech startups to send out a monthly investor update. This serves as a forcing function for startups to reflect on their progress over the last month; it also gives startups a space to ask for investors for help with things like hiring, ops, legal, intros.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "6b2d99c3-f046-4723-a0f6-9a0826349319",
+      "parent": {
+        "type": "page_id",
+        "page_id": "debeb09e-79e9-4cd2-b470-15bca6d2aa12"
+      },
+      "created_time": "2023-05-09T05:13:00.000Z",
+      "last_edited_time": "2023-05-09T05:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "As far as I’m aware, no EA funder asks for regular updates; at most, it comes in the form of a one-time evaluation eg 6 months after the original grant.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "As far as I’m aware, no EA funder asks for regular updates; at most, it comes in the form of a one-time evaluation eg 6 months after the original grant.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2882b911-4f53-42de-a061-112d1fa12584",
+      "parent": {
+        "type": "page_id",
+        "page_id": "debeb09e-79e9-4cd2-b470-15bca6d2aa12"
+      },
+      "created_time": "2023-05-09T05:11:00.000Z",
+      "last_edited_time": "2023-05-09T19:56:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "See also: ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "See also: ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Elad Gil on how to write an investor update email",
+              "link": {
+                "url": "https://blog.eladgil.com/p/investor-update-emails"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Elad Gil on how to write an investor update email",
+            "href": "https://blog.eladgil.com/p/investor-update-emails"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ", ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ", ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Manifold’s investor updates",
+              "link": {
+                "url": "/93786482e2ad47ee9614a3154035ccad"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Manifold’s investor updates",
+            "href": "/93786482e2ad47ee9614a3154035ccad"
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1689ba33-46e2-4ea8-80e8-e2ac8f91b7d8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "debeb09e-79e9-4cd2-b470-15bca6d2aa12"
+      },
+      "created_time": "2023-05-09T04:46:00.000Z",
+      "last_edited_time": "2023-05-09T05:12:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Foster a network among peers",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Foster a network among peers",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "06d47e9c-c743-42aa-9d58-6c5075b13959",
+      "parent": {
+        "type": "page_id",
+        "page_id": "debeb09e-79e9-4cd2-b470-15bca6d2aa12"
+      },
+      "created_time": "2023-05-09T05:02:00.000Z",
+      "last_edited_time": "2023-05-09T06:02:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "YCombinator founders and Emergent Ventures fellows often cite the peer group as the most important valuable aspect of the program. Not the funding received, or mentorship provided, or prestige gained; the real value-add was the friends we made along the way. A strong peer group energizes you, shows you what’s possible, fosters collaboration and incites a bit of competition.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "YCombinator founders and Emergent Ventures fellows often cite the peer group as the most important valuable aspect of the program. Not the funding received, or mentorship provided, or prestige gained; the real value-add was the friends we made along the way. A strong peer group energizes you, shows you what’s possible, fosters collaboration and incites a bit of competition.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "983f32a1-7ed4-4705-bcca-a6ef4eee3d54",
+      "parent": {
+        "type": "page_id",
+        "page_id": "debeb09e-79e9-4cd2-b470-15bca6d2aa12"
+      },
+      "created_time": "2023-05-09T19:56:00.000Z",
+      "last_edited_time": "2023-05-09T21:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "There seem to be some similar things in EA (Charity Entrepreneurship has cohorts, Constellation coworking space fosters connections) but from what I can tell, the major funders don’t do basic steps like “throw all grantees from a given quarter into the same Discord channel”, let alone hosting meetups or retreats.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "There seem to be some similar things in EA (Charity Entrepreneurship has cohorts, Constellation coworking space fosters connections) but from what I can tell, the major funders don’t do basic steps like “throw all grantees from a given quarter into the same Discord channel”, let alone hosting meetups or retreats.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "38a40ef5-7a36-48cb-b996-3859d6440e06",
+      "parent": {
+        "type": "page_id",
+        "page_id": "debeb09e-79e9-4cd2-b470-15bca6d2aa12"
+      },
+      "created_time": "2023-05-09T05:04:00.000Z",
+      "last_edited_time": "2023-05-09T20:27:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "callout",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Shoutout to: The EA Bahamas program, and specifically ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Shoutout to: The EA Bahamas program, and specifically ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Joel Becker for organizing it",
+              "link": {
+                "url": "https://forum.effectivealtruism.org/posts/AoqwhAY5faTHfYu4Z/some-intuitions-about-fellowship-programs"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Joel Becker for organizing it",
+            "href": "https://forum.effectivealtruism.org/posts/AoqwhAY5faTHfYu4Z/some-intuitions-about-fellowship-programs"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ". I’ve since done a bunch of “networking” at EA conferences and the like, but this 2-week stint on a tropical island allowed me to actually make friends.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ". I’ve since done a bunch of “networking” at EA conferences and the like, but this 2-week stint on a tropical island allowed me to actually make friends.",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "emoji",
+          "emoji": "🎉"
+        },
+        "color": "gray_background"
+      }
+    },
+    {
+      "object": "block",
+      "id": "fd506422-1f8e-4652-80cf-9b4c2628d97b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "debeb09e-79e9-4cd2-b470-15bca6d2aa12"
+      },
+      "created_time": "2023-05-09T04:46:00.000Z",
+      "last_edited_time": "2023-05-09T05:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Promote your grantees",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Promote your grantees",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "5e123dc9-a9d3-4b5b-906d-5131b6a0dba6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "debeb09e-79e9-4cd2-b470-15bca6d2aa12"
+      },
+      "created_time": "2023-05-09T05:19:00.000Z",
+      "last_edited_time": "2023-05-09T06:04:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "It’s often the case that funders are much, much better connected than grantees. (TODO)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "It’s often the case that funders are much, much better connected than grantees. (TODO)",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "46e187db-f780-4949-ac32-932ca982cd38",
+      "parent": {
+        "type": "page_id",
+        "page_id": "debeb09e-79e9-4cd2-b470-15bca6d2aa12"
+      },
+      "created_time": "2023-05-09T05:19:00.000Z",
+      "last_edited_time": "2023-05-09T20:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "callout",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Shoutout to: Scott Alexander, for promoting ACX Grantees whenever they need a signal boost, be it for fundraising, usage, or otherwise. Scott’s early endorsement of Manifold, followed by the ACX community hopping on board, was the main way Manifold took off.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Shoutout to: Scott Alexander, for promoting ACX Grantees whenever they need a signal boost, be it for fundraising, usage, or otherwise. Scott’s early endorsement of Manifold, followed by the ACX community hopping on board, was the main way Manifold took off.",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "emoji",
+          "emoji": "🎉"
+        },
+        "color": "gray_background"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2844ec19-75bd-426c-b82d-7f7070f8272f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "debeb09e-79e9-4cd2-b470-15bca6d2aa12"
+      },
+      "created_time": "2023-05-09T05:02:00.000Z",
+      "last_edited_time": "2023-05-09T20:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "93b5449b-c136-4098-ba72-eb25b51cba99",
+      "parent": {
+        "type": "page_id",
+        "page_id": "debeb09e-79e9-4cd2-b470-15bca6d2aa12"
+      },
+      "created_time": "2023-05-09T06:04:00.000Z",
+      "last_edited_time": "2023-05-09T20:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Other speculative notes to grantmakers",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Other speculative notes to grantmakers",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "f614bd80-1706-4123-a92a-7f871e5ae3ff",
+      "parent": {
+        "type": "page_id",
+        "page_id": "debeb09e-79e9-4cd2-b470-15bca6d2aa12"
+      },
+      "created_time": "2023-05-09T20:15:00.000Z",
+      "last_edited_time": "2023-05-09T20:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Reframe your job from “giving money” to “making grantees succeed”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Reframe your job from “giving money” to “making grantees succeed”",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2bbaa9a5-7564-43ef-9761-cb552ec85142",
+      "parent": {
+        "type": "page_id",
+        "page_id": "debeb09e-79e9-4cd2-b470-15bca6d2aa12"
+      },
+      "created_time": "2023-05-09T04:46:00.000Z",
+      "last_edited_time": "2023-05-09T06:17:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Meta: ask for process feedback",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Meta: ask for process feedback",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "a0245f14-2c30-4d26-8579-2dee9d0af450",
+      "parent": {
+        "type": "page_id",
+        "page_id": "debeb09e-79e9-4cd2-b470-15bca6d2aa12"
+      },
+      "created_time": "2023-05-09T04:47:00.000Z",
+      "last_edited_time": "2023-05-09T20:04:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I've noticed I'm a lot more deferential to grantmakers, cutting them more slack than I would other parties in a day-to-day business context. (Imagine emailing a friend, or a company’s customer support, and not hearing back for 3 months!) I would expect grantmakers in general to not hear much critical feedback from grantees, out of a “don’t rock the boat” or “grateful just to get money” mentality.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I've noticed I'm a lot more deferential to grantmakers, cutting them more slack than I would other parties in a day-to-day business context. (Imagine emailing a friend, or a company’s customer support, and not hearing back for 3 months!) I would expect grantmakers in general to not hear much critical feedback from grantees, out of a “don’t rock the boat” or “grateful just to get money” mentality.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1eacde07-c19d-452e-9d84-ccf2157d9565",
+      "parent": {
+        "type": "page_id",
+        "page_id": "debeb09e-79e9-4cd2-b470-15bca6d2aa12"
+      },
+      "created_time": "2023-05-09T05:02:00.000Z",
+      "last_edited_time": "2023-05-09T06:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Meta: double down on grantees that are succeeding",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Meta: double down on grantees that are succeeding",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2987917c-05c1-4ff0-a5e5-fc9bd4e50660",
+      "parent": {
+        "type": "page_id",
+        "page_id": "debeb09e-79e9-4cd2-b470-15bca6d2aa12"
+      },
+      "created_time": "2023-05-09T05:09:00.000Z",
+      "last_edited_time": "2023-05-09T20:02:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "An analogy: While running a software company, it’s often tempting to chase new customers (”growth”), but just as important, if not more so, is figuring out how to keep and help your existing customers even more (”retention”).",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "An analogy: While running a software company, it’s often tempting to chase new customers (”growth”), but just as important, if not more so, is figuring out how to keep and help your existing customers even more (”retention”).",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "f9031e07-6810-4967-9271-1a86742d4ed2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "debeb09e-79e9-4cd2-b470-15bca6d2aa12"
+      },
+      "created_time": "2023-05-09T20:01:00.000Z",
+      "last_edited_time": "2023-05-09T20:04:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "So too with grants: once you’ve gone through the effort of screening and approving a particular candidate, following up with further funding, advice, or connections seems to be a good bet.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "So too with grants: once you’ve gone through the effort of screening and approving a particular candidate, following up with further funding, advice, or connections seems to be a good bet.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "e6dd9303-49bf-4d20-8949-5b4e3f139672",
+      "parent": {
+        "type": "page_id",
+        "page_id": "debeb09e-79e9-4cd2-b470-15bca6d2aa12"
+      },
+      "created_time": "2023-05-09T06:05:00.000Z",
+      "last_edited_time": "2023-05-09T20:26:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "See also: Linchuan Zhang on ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "See also: Linchuan Zhang on ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "the top grants are much much better than the marginal grants",
+              "link": {
+                "url": "https://forum.effectivealtruism.org/posts/vPMo5dRrgubTQGj9g/some-unfun-lessons-i-learned-as-a-junior-grantmaker#_Refresher__The_top_grants_are_much_much_better_than_the_marginal_grants__even_ex_ante_"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "the top grants are much much better than the marginal grants",
+            "href": "https://forum.effectivealtruism.org/posts/vPMo5dRrgubTQGj9g/some-unfun-lessons-i-learned-as-a-junior-grantmaker#_Refresher__The_top_grants_are_much_much_better_than_the_marginal_grants__even_ex_ante_"
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "dd96910a-519a-4d46-807e-d6e2c047a1bc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "debeb09e-79e9-4cd2-b470-15bca6d2aa12"
+      },
+      "created_time": "2023-05-09T05:02:00.000Z",
+      "last_edited_time": "2023-05-09T20:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Meta: study Silicon Valley VCs",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Meta: study Silicon Valley VCs",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "8616853b-f44b-4eeb-9596-31c8cc72365e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "debeb09e-79e9-4cd2-b470-15bca6d2aa12"
+      },
+      "created_time": "2023-05-09T06:07:00.000Z",
+      "last_edited_time": "2023-05-09T20:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Angels and VCs engage in much more competitive dynamics than EA funders; instead of charities begging for grants, the best startups can afford to limit the round to their favorite investors. (Note, this is not a problem Manifold had — though our investors ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Angels and VCs engage in much more competitive dynamics than EA funders; instead of charities begging for grants, the best startups can afford to limit the round to their favorite investors. (Note, this is not a problem Manifold had — though our investors ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "are",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "are",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " the best.) As a result, VCs start coming up with ways to add more value to their portfolio projects beyond just handing them cash.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " the best.) As a result, VCs start coming up with ways to add more value to their portfolio projects beyond just handing them cash.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    }
+  ]
+}

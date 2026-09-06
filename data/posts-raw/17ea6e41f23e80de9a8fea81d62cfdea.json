@@ -1,0 +1,1364 @@
+{
+  "page": {
+    "id": "17ea6e41f23e80de9a8fea81d62cfdea",
+    "title": "Free, or very expensive",
+    "date": "2025-01-17T21:45:00.000+00:00",
+    "edited": "2025-01-18T07:26:00.000Z",
+    "url": "https://akrolsmir.notion.site/Free-or-very-expensive-17ea6e41f23e80de9a8fea81d62cfdea",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "17ea6e41-f23e-806e-813f-e251586f8902",
+      "parent": {
+        "type": "page_id",
+        "page_id": "17ea6e41-f23e-80de-9a8f-ea81d62cfdea"
+      },
+      "created_time": "2025-01-17T21:45:00.000Z",
+      "last_edited_time": "2025-01-17T21:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "quote",
+      "quote": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Similarly, you can price it for free or you can price it for dear, but never price it for cheap.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Similarly, you can price it for free or you can price it for dear, but never price it for cheap.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "17ea6e41-f23e-806a-856a-f84e653a7eaa",
+      "parent": {
+        "type": "page_id",
+        "page_id": "17ea6e41-f23e-80de-9a8f-ea81d62cfdea"
+      },
+      "created_time": "2025-01-17T21:45:00.000Z",
+      "last_edited_time": "2025-01-17T21:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "— ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "— ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Patrick McKenzie",
+              "link": {
+                "url": "https://www.kalzumeus.com/2012/09/21/ramit-sethi-and-patrick-mckenzie-on-why-your-customers-would-be-happier-if-you-charged-more/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Patrick McKenzie",
+            "href": "https://www.kalzumeus.com/2012/09/21/ramit-sethi-and-patrick-mckenzie-on-why-your-customers-would-be-happier-if-you-charged-more/"
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "17ea6e41-f23e-8096-aa9e-c1d68aad65bf",
+      "parent": {
+        "type": "page_id",
+        "page_id": "17ea6e41-f23e-80de-9a8f-ea81d62cfdea"
+      },
+      "created_time": "2025-01-17T21:46:00.000Z",
+      "last_edited_time": "2025-01-17T21:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "17ea6e41-f23e-80e9-8990-e55a952e5999",
+      "parent": {
+        "type": "page_id",
+        "page_id": "17ea6e41-f23e-80de-9a8f-ea81d62cfdea"
+      },
+      "created_time": "2025-01-17T21:46:00.000Z",
+      "last_edited_time": "2025-01-18T04:28:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Taco Tuesday: why don’t we charge money?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Taco Tuesday: why don’t we charge money?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "17ea6e41-f23e-8079-89f5-e5dbee9fe876",
+          "parent": {
+            "type": "block_id",
+            "block_id": "17ea6e41-f23e-80e9-8990-e55a952e5999"
+          },
+          "created_time": "2025-01-17T21:56:00.000Z",
+          "last_edited_time": "2025-01-17T21:56:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "(aka: when to be generous)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "(aka: when to be generous)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "17ea6e41-f23e-8077-a0e2-d625e7ca1738",
+          "parent": {
+            "type": "block_id",
+            "block_id": "17ea6e41-f23e-80e9-8990-e55a952e5999"
+          },
+          "created_time": "2025-01-17T21:47:00.000Z",
+          "last_edited_time": "2025-01-17T21:56:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Network effects: Taco Tuesday gets better with more people, and new people; we want to lower the friction",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Network effects: Taco Tuesday gets better with more people, and new people; we want to lower the friction",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "17ea6e41-f23e-8008-8439-dfcf1626350e",
+              "parent": {
+                "type": "block_id",
+                "block_id": "17ea6e41-f23e-8077-a0e2-d625e7ca1738"
+              },
+              "created_time": "2025-01-17T21:53:00.000Z",
+              "last_edited_time": "2025-01-17T21:54:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "(though: space in the house is limited; diminishing returns)",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "(though: space in the house is limited; diminishing returns)",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "17ea6e41-f23e-8068-809a-fc4989ba6afa",
+          "parent": {
+            "type": "block_id",
+            "block_id": "17ea6e41-f23e-80e9-8990-e55a952e5999"
+          },
+          "created_time": "2025-01-17T21:47:00.000Z",
+          "last_edited_time": "2025-01-17T21:56:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Charging leads to incentives for growth, or focus on size (?), or reduction of costs",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Charging leads to incentives for growth, or focus on size (?), or reduction of costs",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "17ea6e41-f23e-80b5-836a-f2929295859a",
+          "parent": {
+            "type": "block_id",
+            "block_id": "17ea6e41-f23e-80e9-8990-e55a952e5999"
+          },
+          "created_time": "2025-01-17T21:54:00.000Z",
+          "last_edited_time": "2025-01-17T21:56:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Charging adds an obligation for support?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Charging adds an obligation for support?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "17ea6e41-f23e-80e5-b8ea-e14d0fbddd9e",
+          "parent": {
+            "type": "block_id",
+            "block_id": "17ea6e41-f23e-80e9-8990-e55a952e5999"
+          },
+          "created_time": "2025-01-17T21:53:00.000Z",
+          "last_edited_time": "2025-01-17T21:57:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Culture / “weirdness points” — charging and negotiating pricing for things that are uncommon, is hard",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Culture / “weirdness points” — charging and negotiating pricing for things that are uncommon, is hard",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "17ea6e41-f23e-8040-99ed-d848a901b0fa",
+          "parent": {
+            "type": "block_id",
+            "block_id": "17ea6e41-f23e-80e9-8990-e55a952e5999"
+          },
+          "created_time": "2025-01-17T21:57:00.000Z",
+          "last_edited_time": "2025-01-17T21:58:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "You can make trades between immediate monetization and longterm growth. When you give a thing away for free (or otherwise underprice it), people have a better experience, are more willing to promote it word-of-mouth",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "You can make trades between immediate monetization and longterm growth. When you give a thing away for free (or otherwise underprice it), people have a better experience, are more willing to promote it word-of-mouth",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "17fa6e41-f23e-80a3-a4bc-e2774ac40a7f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "17ea6e41-f23e-80de-9a8f-ea81d62cfdea"
+      },
+      "created_time": "2025-01-18T04:28:00.000Z",
+      "last_edited_time": "2025-01-18T04:28:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "17fa6e41-f23e-80d2-8d12-e247462f2c95",
+      "parent": {
+        "type": "page_id",
+        "page_id": "17ea6e41-f23e-80de-9a8f-ea81d62cfdea"
+      },
+      "created_time": "2025-01-18T04:28:00.000Z",
+      "last_edited_time": "2025-01-18T07:26:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Which things are free, which things to charge for?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Which things are free, which things to charge for?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "17fa6e41-f23e-801c-9ab9-dec2f70e5b96",
+          "parent": {
+            "type": "block_id",
+            "block_id": "17fa6e41-f23e-80d2-8d12-e247462f2c95"
+          },
+          "created_time": "2025-01-18T04:28:00.000Z",
+          "last_edited_time": "2025-01-18T04:29:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "For patio11: internet blog posts are free (though with an optional donation subscription); consulting ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "For patio11: internet blog posts are free (though with an optional donation subscription); consulting ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "hours",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": true,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "hours",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": " weeks are billed",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": " weeks are billed",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "17fa6e41-f23e-803b-bfb7-e6da9fb6e29a",
+          "parent": {
+            "type": "block_id",
+            "block_id": "17fa6e41-f23e-80d2-8d12-e247462f2c95"
+          },
+          "created_time": "2025-01-18T04:28:00.000Z",
+          "last_edited_time": "2025-01-18T04:30:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Information: marginal cost of production is 0, so much more easy to give out",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Information: marginal cost of production is 0, so much more easy to give out",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "17fa6e41-f23e-805b-8c9c-e49a88d13366",
+              "parent": {
+                "type": "block_id",
+                "block_id": "17fa6e41-f23e-803b-bfb7-e6da9fb6e29a"
+              },
+              "created_time": "2025-01-18T04:30:00.000Z",
+              "last_edited_time": "2025-01-18T04:31:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Advice, short engagements tend to be free",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Advice, short engagements tend to be free",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "17ea6e41-f23e-801b-b3b6-c5c044c8b194",
+      "parent": {
+        "type": "page_id",
+        "page_id": "17ea6e41-f23e-80de-9a8f-ea81d62cfdea"
+      },
+      "created_time": "2025-01-17T21:54:00.000Z",
+      "last_edited_time": "2025-01-17T21:54:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "17ea6e41-f23e-8024-ad71-fe7b838e75f9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "17ea6e41-f23e-80de-9a8f-ea81d62cfdea"
+      },
+      "created_time": "2025-01-17T21:46:00.000Z",
+      "last_edited_time": "2025-01-18T04:30:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "On the flip side: very few people get used to pricing things and selling things",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "On the flip side: very few people get used to pricing things and selling things",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "17ea6e41-f23e-8039-8fc0-fafe681e9937",
+          "parent": {
+            "type": "block_id",
+            "block_id": "17ea6e41-f23e-8024-ad71-fe7b838e75f9"
+          },
+          "created_time": "2025-01-17T21:56:00.000Z",
+          "last_edited_time": "2025-01-17T21:56:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "So charging for things might be a good muscle to develop",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "So charging for things might be a good muscle to develop",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "17ea6e41-f23e-80e9-b180-c4e8fdd97da9",
+          "parent": {
+            "type": "block_id",
+            "block_id": "17ea6e41-f23e-8024-ad71-fe7b838e75f9"
+          },
+          "created_time": "2025-01-17T21:46:00.000Z",
+          "last_edited_time": "2025-01-18T04:30:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "The thing that most people sell: their own time. Cf salary negotiations",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "The thing that most people sell: their own time. Cf salary negotiations",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "17fa6e41-f23e-80b7-a4d7-c5a9a0e20075",
+              "parent": {
+                "type": "block_id",
+                "block_id": "17ea6e41-f23e-80e9-b180-c4e8fdd97da9"
+              },
+              "created_time": "2025-01-18T04:30:00.000Z",
+              "last_edited_time": "2025-01-18T04:30:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Sometimes for money, sometimes for equity",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Sometimes for money, sometimes for equity",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "17ea6e41-f23e-806d-a883-e797438d7ba3",
+          "parent": {
+            "type": "block_id",
+            "block_id": "17ea6e41-f23e-8024-ad71-fe7b838e75f9"
+          },
+          "created_time": "2025-01-17T21:55:00.000Z",
+          "last_edited_time": "2025-01-18T04:27:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Personal journey of income over time",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Personal journey of income over time",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "17ea6e41-f23e-8016-b849-fedbfd42c290",
+          "parent": {
+            "type": "block_id",
+            "block_id": "17ea6e41-f23e-8024-ad71-fe7b838e75f9"
+          },
+          "created_time": "2025-01-17T21:52:00.000Z",
+          "last_edited_time": "2025-01-18T04:28:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Personal journey of sales over time:  $500/mo on One Word, to Manifold, to Manifest, to Manifund",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Personal journey of sales over time:  $500/mo on One Word, to Manifold, to Manifest, to Manifund",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "17ea6e41-f23e-800f-86bc-f5f7603754e4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "17ea6e41-f23e-80de-9a8f-ea81d62cfdea"
+      },
+      "created_time": "2025-01-17T21:53:00.000Z",
+      "last_edited_time": "2025-01-17T21:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "17ea6e41-f23e-80d5-a5e8-d0251f79dc57",
+      "parent": {
+        "type": "page_id",
+        "page_id": "17ea6e41-f23e-80de-9a8f-ea81d62cfdea"
+      },
+      "created_time": "2025-01-17T21:47:00.000Z",
+      "last_edited_time": "2025-01-17T21:52:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Things to try and assess value of:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Things to try and assess value of:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "17ea6e41-f23e-8044-918e-fbbce0097658",
+          "parent": {
+            "type": "block_id",
+            "block_id": "17ea6e41-f23e-80d5-a5e8-d0251f79dc57"
+          },
+          "created_time": "2025-01-17T21:49:00.000Z",
+          "last_edited_time": "2025-01-17T21:49:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Information (websites, books)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Information (websites, books)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "17ea6e41-f23e-805d-8dd9-e13f3ce3a79e",
+          "parent": {
+            "type": "block_id",
+            "block_id": "17ea6e41-f23e-80d5-a5e8-d0251f79dc57"
+          },
+          "created_time": "2025-01-17T21:49:00.000Z",
+          "last_edited_time": "2025-01-17T22:06:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Relationships: love, sex, friendships",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Relationships: love, sex, friendships",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "17ea6e41-f23e-80e2-a8f1-e30241f31c3d",
+          "parent": {
+            "type": "block_id",
+            "block_id": "17ea6e41-f23e-80d5-a5e8-d0251f79dc57"
+          },
+          "created_time": "2025-01-17T21:49:00.000Z",
+          "last_edited_time": "2025-01-17T21:51:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Freedom (cf ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Freedom (cf ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "nonmonetary payoffs to starting a company",
+                  "link": {
+                    "url": "https://www.gleech.org/nonmoney"
+                  }
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "nonmonetary payoffs to starting a company",
+                "href": "https://www.gleech.org/nonmoney"
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": ")",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": ")",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "17ea6e41-f23e-800a-9d2e-f72385ed619c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "17ea6e41-f23e-80d5-a5e8-d0251f79dc57"
+          },
+          "created_time": "2025-01-17T21:51:00.000Z",
+          "last_edited_time": "2025-01-17T21:51:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Commute",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Commute",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "17ea6e41-f23e-80c2-8aa8-ea9a6fc26d89",
+      "parent": {
+        "type": "page_id",
+        "page_id": "17ea6e41-f23e-80de-9a8f-ea81d62cfdea"
+      },
+      "created_time": "2025-01-17T21:51:00.000Z",
+      "last_edited_time": "2025-01-17T21:52:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Game idea: pilot a character through various “trades”, based on their value in life",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Game idea: pilot a character through various “trades”, based on their value in life",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "17ea6e41-f23e-80d9-af78-ea7102821196",
+      "parent": {
+        "type": "page_id",
+        "page_id": "17ea6e41-f23e-80de-9a8f-ea81d62cfdea"
+      },
+      "created_time": "2025-01-17T21:51:00.000Z",
+      "last_edited_time": "2025-01-17T21:51:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    }
+  ]
+}

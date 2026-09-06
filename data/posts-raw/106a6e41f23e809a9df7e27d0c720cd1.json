@@ -1,0 +1,2937 @@
+{
+  "page": {
+    "id": "106a6e41f23e809a9df7e27d0c720cd1",
+    "title": "Can orgs be moral patients?",
+    "date": "2024-09-20",
+    "edited": "2024-09-23T16:50:00.000Z",
+    "url": "https://akrolsmir.notion.site/Can-orgs-be-moral-patients-106a6e41f23e809a9df7e27d0c720cd1",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "10aa6e41-f23e-80ab-a488-dd4716a50e01",
+      "parent": {
+        "type": "page_id",
+        "page_id": "106a6e41-f23e-809a-9df7-e27d0c720cd1"
+      },
+      "created_time": "2024-09-23T15:07:00.000Z",
+      "last_edited_time": "2024-09-23T15:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Highly uncertain; this is more like a list of open questions than a defendable thesis.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Highly uncertain; this is more like a list of open questions than a defendable thesis.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "106a6e41-f23e-80f0-bc34-f41b88d2e734",
+      "parent": {
+        "type": "page_id",
+        "page_id": "106a6e41-f23e-809a-9df7-e27d0c720cd1"
+      },
+      "created_time": "2024-09-19T23:58:00.000Z",
+      "last_edited_time": "2024-09-20T00:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "What is an organization? Approximately, “a connected network of humans (or other moral patients)”. Some examples:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "What is an organization? Approximately, “a connected network of humans (or other moral patients)”. Some examples:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "7a13abe7-bb7a-4282-9210-91b296a6ba36",
+          "parent": {
+            "type": "block_id",
+            "block_id": "106a6e41-f23e-80f0-bc34-f41b88d2e734"
+          },
+          "created_time": "2024-09-19T23:58:00.000Z",
+          "last_edited_time": "2024-09-20T00:57:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Corporations, nonprofits",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Corporations, nonprofits",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "8a1dfe51-b0e0-47c3-abfc-18ad5e333bc9",
+          "parent": {
+            "type": "block_id",
+            "block_id": "106a6e41-f23e-80f0-bc34-f41b88d2e734"
+          },
+          "created_time": "2024-09-19T23:58:00.000Z",
+          "last_edited_time": "2024-09-20T00:14:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Religions, movements like EA",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Religions, movements like EA",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "898ed4d0-d207-476c-8d82-10a575a6aac9",
+          "parent": {
+            "type": "block_id",
+            "block_id": "106a6e41-f23e-80f0-bc34-f41b88d2e734"
+          },
+          "created_time": "2024-09-19T23:58:00.000Z",
+          "last_edited_time": "2024-09-20T00:57:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "1:1 relationships, marriages",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "1:1 relationships, marriages",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "106a6e41-f23e-8043-9e55-da477dd16131",
+          "parent": {
+            "type": "block_id",
+            "block_id": "106a6e41-f23e-80f0-bc34-f41b88d2e734"
+          },
+          "created_time": "2024-09-19T23:58:00.000Z",
+          "last_edited_time": "2024-09-20T00:57:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Countries, cities, neighborhoods",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Countries, cities, neighborhoods",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "107a6e41-f23e-803c-9816-d7fdb89c71d4",
+          "parent": {
+            "type": "block_id",
+            "block_id": "106a6e41-f23e-80f0-bc34-f41b88d2e734"
+          },
+          "created_time": "2024-09-20T00:13:00.000Z",
+          "last_edited_time": "2024-09-20T00:58:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Online hiveminds, like “Twitter” or “Reddit”",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Online hiveminds, like “Twitter” or “Reddit”",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "107a6e41-f23e-80d5-ba8d-d8aa2c0a81ea",
+          "parent": {
+            "type": "block_id",
+            "block_id": "106a6e41-f23e-80f0-bc34-f41b88d2e734"
+          },
+          "created_time": "2024-09-20T00:13:00.000Z",
+          "last_edited_time": "2024-09-20T00:44:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Future: AI agents, networks of agents (and humans, etc)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Future: AI agents, networks of agents (and humans, etc)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "107a6e41-f23e-8059-9af0-c4f0638e7c60",
+      "parent": {
+        "type": "page_id",
+        "page_id": "106a6e41-f23e-809a-9df7-e27d0c720cd1"
+      },
+      "created_time": "2024-09-20T00:17:00.000Z",
+      "last_edited_time": "2024-09-20T00:44:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Intuition pumps for why orgs might have moral patienthood:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Intuition pumps for why orgs might have moral patienthood:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "107a6e41-f23e-804b-96a9-cbaf221737c5",
+          "parent": {
+            "type": "block_id",
+            "block_id": "107a6e41-f23e-8059-9af0-c4f0638e7c60"
+          },
+          "created_time": "2024-09-20T00:16:00.000Z",
+          "last_edited_time": "2024-09-20T00:26:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "I notice I get a bit sad when a see that a local store has closed down",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "I notice I get a bit sad when a see that a local store has closed down",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "107a6e41-f23e-80f9-a915-c9382ace18b8",
+          "parent": {
+            "type": "block_id",
+            "block_id": "107a6e41-f23e-8059-9af0-c4f0638e7c60"
+          },
+          "created_time": "2024-09-20T00:16:00.000Z",
+          "last_edited_time": "2024-09-20T00:28:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "If Bob dies in a trolley accident, the global utility lost is not just from Bob himself, but also Alice his widow and the loss of their relationship",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "If Bob dies in a trolley accident, the global utility lost is not just from Bob himself, but also Alice his widow and the loss of their relationship",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "107a6e41-f23e-80b1-8c36-d2b92dc6ad17",
+              "parent": {
+                "type": "block_id",
+                "block_id": "107a6e41-f23e-80f9-a915-c9382ace18b8"
+              },
+              "created_time": "2024-09-20T00:26:00.000Z",
+              "last_edited_time": "2024-09-20T00:38:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "One might respond “that’s just summing utility between Bob + Alice” — but I think it might be more useful to identify “Bob and Alice’s marriage” as a thing that lives and can die",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "One might respond “that’s just summing utility between Bob + Alice” — but I think it might be more useful to identify “Bob and Alice’s marriage” as a thing that lives and can die",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "107a6e41-f23e-8093-82d3-f3355e5b2a5a",
+          "parent": {
+            "type": "block_id",
+            "block_id": "107a6e41-f23e-8059-9af0-c4f0638e7c60"
+          },
+          "created_time": "2024-09-20T00:22:00.000Z",
+          "last_edited_time": "2024-09-20T00:30:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "As a society, we set up a bunch of laws to ensure that humans treat each other fairly, but we also have a bunch of laws for corporations to treat each other fairly",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "As a society, we set up a bunch of laws to ensure that humans treat each other fairly, but we also have a bunch of laws for corporations to treat each other fairly",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "7b126074-e125-49b9-a6e3-06d380d9a12f",
+              "parent": {
+                "type": "block_id",
+                "block_id": "107a6e41-f23e-8093-82d3-f3355e5b2a5a"
+              },
+              "created_time": "2024-09-20T00:24:00.000Z",
+              "last_edited_time": "2024-09-20T00:25:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "See also ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "See also ",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "corporate personhood",
+                      "link": {
+                        "url": "https://en.wikipedia.org/wiki/Corporate_personhood"
+                      }
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "corporate personhood",
+                    "href": "https://en.wikipedia.org/wiki/Corporate_personhood"
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "107a6e41-f23e-80b0-a575-edd6329370eb",
+          "parent": {
+            "type": "block_id",
+            "block_id": "107a6e41-f23e-8059-9af0-c4f0638e7c60"
+          },
+          "created_time": "2024-09-20T00:30:00.000Z",
+          "last_edited_time": "2024-09-20T00:31:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Environmentalism: many people think of diverse biological ecosystems as valuable in and of themselves.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Environmentalism: many people think of diverse biological ecosystems as valuable in and of themselves.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "107a6e41-f23e-80b6-a21c-dcf660d66b45",
+              "parent": {
+                "type": "block_id",
+                "block_id": "107a6e41-f23e-80b0-a575-edd6329370eb"
+              },
+              "created_time": "2024-09-20T00:30:00.000Z",
+              "last_edited_time": "2024-09-20T00:38:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "When I was more naive hardcore utilitarian, I considered this irrational (and eg was in favor of ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "When I was more naive hardcore utilitarian, I considered this irrational (and eg was in favor of ",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "damming Hetch Hetchy",
+                      "link": {
+                        "url": "https://en.wikipedia.org/wiki/Hetch_Hetchy#Damming"
+                      }
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "damming Hetch Hetchy",
+                    "href": "https://en.wikipedia.org/wiki/Hetch_Hetchy#Damming"
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "); now I’m sympathetic",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "); now I’m sympathetic",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "107a6e41-f23e-801f-866a-d42d7e17d430",
+          "parent": {
+            "type": "block_id",
+            "block_id": "107a6e41-f23e-8059-9af0-c4f0638e7c60"
+          },
+          "created_time": "2024-09-20T00:09:00.000Z",
+          "last_edited_time": "2024-09-20T01:44:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Humans beings are also organizations of organs, which are organizations of cells, which are organizations of molecules",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Humans beings are also organizations of organs, which are organizations of cells, which are organizations of molecules",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "60d1ddbb-6d17-4bbb-8a35-c881ebaa040a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "106a6e41-f23e-809a-9df7-e27d0c720cd1"
+      },
+      "created_time": "2024-09-19T23:59:00.000Z",
+      "last_edited_time": "2024-09-20T01:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "How do you measure the utility of an organization like a company?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "How do you measure the utility of an organization like a company?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "106a6e41-f23e-8008-9287-dd29a66b5a8a",
+          "parent": {
+            "type": "block_id",
+            "block_id": "60d1ddbb-6d17-4bbb-8a35-c881ebaa040a"
+          },
+          "created_time": "2024-09-19T23:59:00.000Z",
+          "last_edited_time": "2024-09-20T00:04:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Naive answer is “profit” — it certainly is what companies are supposed to maximize",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Naive answer is “profit” — it certainly is what companies are supposed to maximize",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "aa28d760-087c-4d06-8181-acb3bb01a189",
+              "parent": {
+                "type": "block_id",
+                "block_id": "106a6e41-f23e-8008-9287-dd29a66b5a8a"
+              },
+              "created_time": "2024-09-20T00:00:00.000Z",
+              "last_edited_time": "2024-09-20T00:12:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "But this seems to me to be about as meaningful as measuring a human’s utility by their wealth or physical size. Not wholly uncorrelated, but very lossy metric.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "But this seems to me to be about as meaningful as measuring a human’s utility by their wealth or physical size. Not wholly uncorrelated, but very lossy metric.",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "848aa5ee-8f26-4a77-b676-44b87675e602",
+          "parent": {
+            "type": "block_id",
+            "block_id": "60d1ddbb-6d17-4bbb-8a35-c881ebaa040a"
+          },
+          "created_time": "2024-09-20T00:04:00.000Z",
+          "last_edited_time": "2024-09-20T00:12:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "The total utility of its constituents (employees), or shareholders?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "The total utility of its constituents (employees), or shareholders?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "107a6e41-f23e-809f-8b23-f1ad6841101a",
+          "parent": {
+            "type": "block_id",
+            "block_id": "60d1ddbb-6d17-4bbb-8a35-c881ebaa040a"
+          },
+          "created_time": "2024-09-20T00:34:00.000Z",
+          "last_edited_time": "2024-09-20T00:34:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Whether the company is fulfilling its founding mission?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Whether the company is fulfilling its founding mission?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1526d55f-66de-4b99-a356-3315ae9fca4f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "106a6e41-f23e-809a-9df7-e27d0c720cd1"
+      },
+      "created_time": "2024-09-20T00:03:00.000Z",
+      "last_edited_time": "2024-09-20T01:00:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "How do you talk to an organization, to elicit its values?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "How do you talk to an organization, to elicit its values?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "79336d26-17b2-4f61-b7f0-77c6871f8025",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1526d55f-66de-4b99-a356-3315ae9fca4f"
+          },
+          "created_time": "2024-09-20T00:08:00.000Z",
+          "last_edited_time": "2024-09-20T00:37:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "You can speak with a member of the org, but are you getting the full picture vs one tiny piece?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "You can speak with a member of the org, but are you getting the full picture vs one tiny piece?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "107a6e41-f23e-80c8-882d-d6a432c56839",
+              "parent": {
+                "type": "block_id",
+                "block_id": "79336d26-17b2-4f61-b7f0-77c6871f8025"
+              },
+              "created_time": "2024-09-20T00:35:00.000Z",
+              "last_edited_time": "2024-09-20T00:36:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "The owner of a one-man coffeeshop might accurately express its values; but a random American citizen might only very lossily speak for “America”",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "The owner of a one-man coffeeshop might accurately express its values; but a random American citizen might only very lossily speak for “America”",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "107a6e41-f23e-8075-a524-e129f6b3cf86",
+              "parent": {
+                "type": "block_id",
+                "block_id": "79336d26-17b2-4f61-b7f0-77c6871f8025"
+              },
+              "created_time": "2024-09-20T00:37:00.000Z",
+              "last_edited_time": "2024-09-20T01:45:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": true,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Trying to get eg customer support from Google can be like communicating with Cthulhu",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Trying to get eg customer support from Google can be like communicating with Cthulhu",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "children": [
+                {
+                  "object": "block",
+                  "id": "bc9ec63e-6f4a-4078-953b-a0b8021cbfb7",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "107a6e41-f23e-8075-a524-e129f6b3cf86"
+                  },
+                  "created_time": "2024-09-20T00:14:00.000Z",
+                  "last_edited_time": "2024-09-20T01:45:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Large organizations are also fractral — eg Google/Alphabet is a collection of mini companies each of which are broken down into many levels. America is a collection of states is a collection of cities.",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Large organizations are also fractral — eg Google/Alphabet is a collection of mini companies each of which are broken down into many levels. America is a collection of states is a collection of cities.",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "107a6e41-f23e-805a-8620-e66014538553",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1526d55f-66de-4b99-a356-3315ae9fca4f"
+          },
+          "created_time": "2024-09-20T00:06:00.000Z",
+          "last_edited_time": "2024-09-20T00:42:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Trade with many orgs seems pretty well established",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Trade with many orgs seems pretty well established",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "107a6e41-f23e-80a9-af82-eddc55d537dd",
+              "parent": {
+                "type": "block_id",
+                "block_id": "107a6e41-f23e-805a-8620-e66014538553"
+              },
+              "created_time": "2024-09-20T00:42:00.000Z",
+              "last_edited_time": "2024-09-20T00:43:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "My pet theory: patienthood is not “can they reason” nor “can they suffer” but “can they trade”?",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "My pet theory: patienthood is not “can they reason” nor “can they suffer” but “can they trade”?",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "9b63c328-c298-47b4-8981-4e742513a89e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "106a6e41-f23e-809a-9df7-e27d0c720cd1"
+      },
+      "created_time": "2024-09-20T00:01:00.000Z",
+      "last_edited_time": "2024-09-20T00:44:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Can ideas be moral patients? Orgs are fundamentally fictitious. They’re ideas that live in everyone’s head, and exist by fiat.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Can ideas be moral patients? Orgs are fundamentally fictitious. They’re ideas that live in everyone’s head, and exist by fiat.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "14947846-c5f6-4e22-aed8-201d0d148581",
+          "parent": {
+            "type": "block_id",
+            "block_id": "9b63c328-c298-47b4-8981-4e742513a89e"
+          },
+          "created_time": "2024-09-20T00:05:00.000Z",
+          "last_edited_time": "2024-09-20T00:41:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Though, maybe the concept of “individual human beings” or “consciousness” is equally fictitious so…",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Though, maybe the concept of “individual human beings” or “consciousness” is equally fictitious so…",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "9dc32875-a638-4c1d-acc8-459bd8150c23",
+      "parent": {
+        "type": "page_id",
+        "page_id": "106a6e41-f23e-809a-9df7-e27d0c720cd1"
+      },
+      "created_time": "2024-09-20T00:04:00.000Z",
+      "last_edited_time": "2024-09-20T01:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Why do we care about moral patienthood in the first place? (Why does this matter?)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Why do we care about moral patienthood in the first place? (Why does this matter?)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "107a6e41-f23e-80f0-a297-fc11289896d1",
+          "parent": {
+            "type": "block_id",
+            "block_id": "9dc32875-a638-4c1d-acc8-459bd8150c23"
+          },
+          "created_time": "2024-09-20T00:13:00.000Z",
+          "last_edited_time": "2024-09-20T00:28:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Helps us as a society coordinate on what rules to enforce",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Helps us as a society coordinate on what rules to enforce",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "107a6e41-f23e-80d8-a92e-c78513d12b57",
+          "parent": {
+            "type": "block_id",
+            "block_id": "9dc32875-a638-4c1d-acc8-459bd8150c23"
+          },
+          "created_time": "2024-09-20T00:28:00.000Z",
+          "last_edited_time": "2024-09-20T00:29:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Gives us a metric to decide on whether we’re moving in the right direction",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Gives us a metric to decide on whether we’re moving in the right direction",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "107a6e41-f23e-801a-aebd-e7f849e833a6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "106a6e41-f23e-809a-9df7-e27d0c720cd1"
+      },
+      "created_time": "2024-09-20T01:05:00.000Z",
+      "last_edited_time": "2024-09-20T01:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "What should one do differently if this is true?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "What should one do differently if this is true?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "84f334a9-daaa-40dd-bc4c-dd41134cf04f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "107a6e41-f23e-801a-aebd-e7f849e833a6"
+          },
+          "created_time": "2024-09-20T01:05:00.000Z",
+          "last_edited_time": "2024-09-20T01:08:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Uphold contracts with orgs; don’t steal money, or time, or intellectual property from them",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Uphold contracts with orgs; don’t steal money, or time, or intellectual property from them",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "c7d5f15f-a9c5-42b7-9fff-8afdb1d2226f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "107a6e41-f23e-801a-aebd-e7f849e833a6"
+          },
+          "created_time": "2024-09-20T01:05:00.000Z",
+          "last_edited_time": "2024-09-20T01:09:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Promote the flourishing of orgs?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Promote the flourishing of orgs?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "dbfa66bf-61be-422c-a4dd-3b6ff6fd8ccc",
+              "parent": {
+                "type": "block_id",
+                "block_id": "c7d5f15f-a9c5-42b7-9fff-8afdb1d2226f"
+              },
+              "created_time": "2024-09-20T01:06:00.000Z",
+              "last_edited_time": "2024-09-20T01:07:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Create more relationships in the world",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Create more relationships in the world",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "107a6e41-f23e-806e-b4fa-cd5561332001",
+              "parent": {
+                "type": "block_id",
+                "block_id": "c7d5f15f-a9c5-42b7-9fff-8afdb1d2226f"
+              },
+              "created_time": "2024-09-20T01:07:00.000Z",
+              "last_edited_time": "2024-09-20T01:07:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Reverse the “",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Reverse the “",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "bowling alone",
+                      "link": {
+                        "url": "https://en.wikipedia.org/wiki/Bowling_Alone"
+                      }
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "bowling alone",
+                    "href": "https://en.wikipedia.org/wiki/Bowling_Alone"
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "” trend",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "” trend",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "107a6e41-f23e-8091-8add-d70ded6e58ce",
+              "parent": {
+                "type": "block_id",
+                "block_id": "c7d5f15f-a9c5-42b7-9fff-8afdb1d2226f"
+              },
+              "created_time": "2024-09-20T01:09:00.000Z",
+              "last_edited_time": "2024-09-20T01:10:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Make your relationship to orgs more explicit? Eg “",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Make your relationship to orgs more explicit? Eg “",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "be proud to be an effective altruist",
+                      "link": {
+                        "url": "https://benthams.substack.com/p/be-proud-to-be-an-effective-altruist"
+                      }
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "be proud to be an effective altruist",
+                    "href": "https://benthams.substack.com/p/be-proud-to-be-an-effective-altruist"
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "”, contra “",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "”, contra “",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "keep your identity small",
+                      "link": {
+                        "url": "https://paulgraham.com/identity.html"
+                      }
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "keep your identity small",
+                    "href": "https://paulgraham.com/identity.html"
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "”",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "”",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "10aa6e41-f23e-805a-942a-e6c4881c4b0a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "106a6e41-f23e-809a-9df7-e27d0c720cd1"
+      },
+      "created_time": "2024-09-23T14:47:00.000Z",
+      "last_edited_time": "2024-09-23T14:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "10aa6e41-f23e-8091-989c-e45dacad5c1e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "106a6e41-f23e-809a-9df7-e27d0c720cd1"
+      },
+      "created_time": "2024-09-23T14:47:00.000Z",
+      "last_edited_time": "2024-09-23T14:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "107a6e41-f23e-80ad-8563-e119fd4ce329",
+      "parent": {
+        "type": "page_id",
+        "page_id": "106a6e41-f23e-809a-9df7-e27d0c720cd1"
+      },
+      "created_time": "2024-09-20T00:10:00.000Z",
+      "last_edited_time": "2024-09-23T16:36:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Pushback ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Pushback ",
+            "href": null
+          },
+          {
+            "type": "mention",
+            "mention": {
+              "type": "date",
+              "date": {
+                "start": "2024-09-23",
+                "end": null,
+                "time_zone": null
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "2024-09-23",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " ",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "10aa6e41-f23e-80b9-bd4e-fc653bedde1a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "106a6e41-f23e-809a-9df7-e27d0c720cd1"
+      },
+      "created_time": "2024-09-23T16:25:00.000Z",
+      "last_edited_time": "2024-09-23T16:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "A friend pushes back against the idea that “orgs have moral patienthood”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "A friend pushes back against the idea that “orgs have moral patienthood”",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "05146570-bcc5-409e-a55c-4a64732a6733",
+      "parent": {
+        "type": "page_id",
+        "page_id": "106a6e41-f23e-809a-9df7-e27d0c720cd1"
+      },
+      "created_time": "2024-09-23T14:47:00.000Z",
+      "last_edited_time": "2024-09-23T16:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "quote",
+      "quote": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I think you just have to ask yourself \"is there any situation where an action that harms all humans involved is still the best thing to do because it benefits an organization”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I think you just have to ask yourself \"is there any situation where an action that harms all humans involved is still the best thing to do because it benefits an organization”",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "10aa6e41-f23e-8094-9b24-c7faff867607",
+          "parent": {
+            "type": "block_id",
+            "block_id": "05146570-bcc5-409e-a55c-4a64732a6733"
+          },
+          "created_time": "2024-09-23T14:48:00.000Z",
+          "last_edited_time": "2024-09-23T14:48:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "And I cannot think of one",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "And I cannot think of one",
+                "href": null
+              }
+            ],
+            "icon": null,
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "ad377d70-d3dd-430a-a76e-616145c464a9",
+          "parent": {
+            "type": "block_id",
+            "block_id": "05146570-bcc5-409e-a55c-4a64732a6733"
+          },
+          "created_time": "2024-09-23T14:48:00.000Z",
+          "last_edited_time": "2024-09-23T16:48:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Stuff that harms people short term but benefits them long term doesn't count",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Stuff that harms people short term but benefits them long term doesn't count",
+                "href": null
+              }
+            ],
+            "icon": null,
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "10aa6e41-f23e-804f-859c-c104e49993c8",
+          "parent": {
+            "type": "block_id",
+            "block_id": "05146570-bcc5-409e-a55c-4a64732a6733"
+          },
+          "created_time": "2024-09-23T16:48:00.000Z",
+          "last_edited_time": "2024-09-23T16:48:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "E.g. killing one person to protect the US government or whatever",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "E.g. killing one person to protect the US government or whatever",
+                "href": null
+              }
+            ],
+            "icon": null,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "10aa6e41-f23e-801e-84d4-c243bbff2366",
+      "parent": {
+        "type": "page_id",
+        "page_id": "106a6e41-f23e-809a-9df7-e27d0c720cd1"
+      },
+      "created_time": "2024-09-23T14:49:00.000Z",
+      "last_edited_time": "2024-09-23T16:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "52b3c747-b1fa-40c3-aa66-b91b85ba0365",
+      "parent": {
+        "type": "page_id",
+        "page_id": "106a6e41-f23e-809a-9df7-e27d0c720cd1"
+      },
+      "created_time": "2024-09-23T15:10:00.000Z",
+      "last_edited_time": "2024-09-23T16:50:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Most of the sympathetic examples that come to mind do look like “harm people short term, benefit people long term”. E.g. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Most of the sympathetic examples that come to mind do look like “harm people short term, benefit people long term”. E.g. ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "a new restaurant",
+              "link": {
+                "url": "https://en.wikipedia.org/wiki/The_Bear_(TV_series)"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "a new restaurant",
+            "href": "https://en.wikipedia.org/wiki/The_Bear_(TV_series)"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " that starts by putting its staff and management through hell, accumulating recipes and process knowledge and brand loyalty, and then ends up paying out good dining experiences and profit over its lifetime.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " that starts by putting its staff and management through hell, accumulating recipes and process knowledge and brand loyalty, and then ends up paying out good dining experiences and profit over its lifetime.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "10aa6e41-f23e-809c-b052-cb90e75370ae",
+      "parent": {
+        "type": "page_id",
+        "page_id": "106a6e41-f23e-809a-9df7-e27d0c720cd1"
+      },
+      "created_time": "2024-09-23T15:13:00.000Z",
+      "last_edited_time": "2024-09-23T16:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "But I think this should count? My reasoning leans on the ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "But I think this should count? My reasoning leans on the ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "question of personal identity",
+              "link": {
+                "url": "https://www.cold-takes.com/what-counts-as-death/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "question of personal identity",
+            "href": "https://www.cold-takes.com/what-counts-as-death/"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ", as constructed out of numerous timeslices. If 5 people jump into a dirty river to rescue a drowning infant, we think that’s great, because the infant’s future timeslices will realize much positive utility. I claim this is because we expect a human person to produce large positive externalities throughout their lifetime — if the same infant was then confined to an experience machine for the rest of their life, society would value this trade much less.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ", as constructed out of numerous timeslices. If 5 people jump into a dirty river to rescue a drowning infant, we think that’s great, because the infant’s future timeslices will realize much positive utility. I claim this is because we expect a human person to produce large positive externalities throughout their lifetime — if the same infant was then confined to an experience machine for the rest of their life, society would value this trade much less.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "10aa6e41-f23e-800d-b9a9-ef1031356645",
+      "parent": {
+        "type": "page_id",
+        "page_id": "106a6e41-f23e-809a-9df7-e27d0c720cd1"
+      },
+      "created_time": "2024-09-23T16:21:00.000Z",
+      "last_edited_time": "2024-09-23T16:30:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "So an immediate sacrifice for an org that yields future benefits for other moral patients, is fundamentally similar to the tradeoffs we expect when deciding between humans in a moral scenario.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "So an immediate sacrifice for an org that yields future benefits for other moral patients, is fundamentally similar to the tradeoffs we expect when deciding between humans in a moral scenario.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "979ec946-a1cb-45bf-98b0-c1f8f38fc2db",
+      "parent": {
+        "type": "page_id",
+        "page_id": "106a6e41-f23e-809a-9df7-e27d0c720cd1"
+      },
+      "created_time": "2024-09-23T16:05:00.000Z",
+      "last_edited_time": "2024-09-23T16:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {}
+    },
+    {
+      "object": "block",
+      "id": "10aa6e41-f23e-80db-b247-c739ed18e9ca",
+      "parent": {
+        "type": "page_id",
+        "page_id": "106a6e41-f23e-809a-9df7-e27d0c720cd1"
+      },
+      "created_time": "2024-09-23T14:49:00.000Z",
+      "last_edited_time": "2024-09-23T16:29:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "In a moral framework typically one wants to disentangle 1) \"value from intrinsic moral patienthood\" from 2) \"valuable from instrumental utility\". When we say “all men are created equal” we mean Elon Musk and random US citizen hold equal weights under 1), but because of 2) society would prefer to save Elon Musk in a trolley situation.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "In a moral framework typically one wants to disentangle 1) \"value from intrinsic moral patienthood\" from 2) \"valuable from instrumental utility\". When we say “all men are created equal” we mean Elon Musk and random US citizen hold equal weights under 1), but because of 2) society would prefer to save Elon Musk in a trolley situation.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "10aa6e41-f23e-80da-9a9b-e13f75141d62",
+      "parent": {
+        "type": "page_id",
+        "page_id": "106a6e41-f23e-809a-9df7-e27d0c720cd1"
+      },
+      "created_time": "2024-09-23T14:50:00.000Z",
+      "last_edited_time": "2024-09-23T16:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "It’s clear that orgs have immense value under 2) — think of the people who are willing to die for their country, religion, ideology. (Or, the people who dedicate the majority of their waking hours and focus towards their work in a corporation.)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "It’s clear that orgs have immense value under 2) — think of the people who are willing to die for their country, religion, ideology. (Or, the people who dedicate the majority of their waking hours and focus towards their work in a corporation.)",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "10aa6e41-f23e-804a-be29-c8e9a98451e8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "106a6e41-f23e-809a-9df7-e27d0c720cd1"
+      },
+      "created_time": "2024-09-23T14:58:00.000Z",
+      "last_edited_time": "2024-09-23T16:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Furthermore, I’m unsure if 1) exists at all, or if it does how to ground it, or use it to guide our actions. Modern society is supposed to assign patienthood equally between living persons, but it sure feels like there’s wide variation in patienthood assigned to a US citizen vs a foreigner, let alone more exotic persons like children or animals.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Furthermore, I’m unsure if 1) exists at all, or if it does how to ground it, or use it to guide our actions. Modern society is supposed to assign patienthood equally between living persons, but it sure feels like there’s wide variation in patienthood assigned to a US citizen vs a foreigner, let alone more exotic persons like children or animals.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "10aa6e41-f23e-80a1-8253-d92d25e7727b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "106a6e41-f23e-809a-9df7-e27d0c720cd1"
+      },
+      "created_time": "2024-09-23T16:22:00.000Z",
+      "last_edited_time": "2024-09-23T16:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "(Upon reflection, I think “moral patienthood” might be a confusing term because it implies a binary yes or no, and that all patients are equal; this is less flexible and a less good model for reality compared to moral weights.)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "(Upon reflection, I think “moral patienthood” might be a confusing term because it implies a binary yes or no, and that all patients are equal; this is less flexible and a less good model for reality compared to moral weights.)",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "7d9d2736-0bc2-4a96-8871-bd6562860b83",
+      "parent": {
+        "type": "page_id",
+        "page_id": "106a6e41-f23e-809a-9df7-e27d0c720cd1"
+      },
+      "created_time": "2024-09-23T16:04:00.000Z",
+      "last_edited_time": "2024-09-23T16:04:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {}
+    },
+    {
+      "object": "block",
+      "id": "10aa6e41-f23e-80c1-b9e5-dd5a58045eba",
+      "parent": {
+        "type": "page_id",
+        "page_id": "106a6e41-f23e-809a-9df7-e27d0c720cd1"
+      },
+      "created_time": "2024-09-23T16:04:00.000Z",
+      "last_edited_time": "2024-09-23T16:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "What is “moral patienthood” about? I think of the process of identifying “who is a moral patient”, and more broadly the process of “moral philosophy”, as a joint negotiation between the set of “moral agents” — people and things (like orgs or AI) who have the ability to enact change in the world, and are also able to be reasoned with.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "What is “moral patienthood” about? I think of the process of identifying “who is a moral patient”, and more broadly the process of “moral philosophy”, as a joint negotiation between the set of “moral agents” — people and things (like orgs or AI) who have the ability to enact change in the world, and are also able to be reasoned with.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "10aa6e41-f23e-80e0-ad7c-c360de4ffefd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "106a6e41-f23e-809a-9df7-e27d0c720cd1"
+      },
+      "created_time": "2024-09-23T16:12:00.000Z",
+      "last_edited_time": "2024-09-23T16:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Many different moral agents hold different values, but morality lays down rules for positive-sum cooperation and trade. A difference in values cashes out to identifying different moral patients, or alternatively assigning different moral weights between moral patients.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Many different moral agents hold different values, but morality lays down rules for positive-sum cooperation and trade. A difference in values cashes out to identifying different moral patients, or alternatively assigning different moral weights between moral patients.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "10aa6e41-f23e-80ac-bf24-d2256e60adf9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "106a6e41-f23e-809a-9df7-e27d0c720cd1"
+      },
+      "created_time": "2024-09-23T16:14:00.000Z",
+      "last_edited_time": "2024-09-23T16:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "One reason orgs should probably be considered moral patients is that self-patienthood is extremely common among moral agents. That is, every human thinks of themself as a moral patient with very large weights — Bob’s own future timeslices are the most likely to share Bob’s current value system. I expect orgs to share this intuition, and to desire their own continued existence.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "One reason orgs should probably be considered moral patients is that self-patienthood is extremely common among moral agents. That is, every human thinks of themself as a moral patient with very large weights — Bob’s own future timeslices are the most likely to share Bob’s current value system. I expect orgs to share this intuition, and to desire their own continued existence.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "a9dd4447-cfd5-488e-9657-e28e6a76c8f0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "106a6e41-f23e-809a-9df7-e27d0c720cd1"
+      },
+      "created_time": "2024-09-23T14:49:00.000Z",
+      "last_edited_time": "2024-09-23T15:10:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {}
+    },
+    {
+      "object": "block",
+      "id": "10aa6e41-f23e-80b0-a59e-f3c32045cfb3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "106a6e41-f23e-809a-9df7-e27d0c720cd1"
+      },
+      "created_time": "2024-09-23T15:25:00.000Z",
+      "last_edited_time": "2024-09-23T15:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "10aa6e41-f23e-8019-9cbd-ccdf86937865",
+      "parent": {
+        "type": "page_id",
+        "page_id": "106a6e41-f23e-809a-9df7-e27d0c720cd1"
+      },
+      "created_time": "2024-09-23T15:17:00.000Z",
+      "last_edited_time": "2024-09-23T15:17:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    }
+  ]
+}

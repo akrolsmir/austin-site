@@ -1,0 +1,1958 @@
+{
+  "page": {
+    "id": "67682757811a459888d9b5954618b152",
+    "title": "Future SOTA model weights may be open",
+    "date": "2024-08-11",
+    "edited": "2024-08-12T19:30:00.000Z",
+    "url": "https://akrolsmir.notion.site/Future-SOTA-model-weights-may-be-open-67682757811a459888d9b5954618b152",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "35e9c825-0cf8-4945-b472-fdd449c029e3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "67682757-811a-4598-88d9-b5954618b152"
+      },
+      "created_time": "2024-08-12T00:46:00.000Z",
+      "last_edited_time": "2024-08-12T01:12:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Today, the best LLM models are Claude 3.5 Sonnet, GPT-4o, and Gemini 1.5, which are all closed-weights. The best open model, Llama 3.1, comes in fourth.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Today, the best LLM models are Claude 3.5 Sonnet, GPT-4o, and Gemini 1.5, which are all closed-weights. The best open model, Llama 3.1, comes in fourth.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3d66c128-1fd3-4c17-8289-0b08429a50e5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "67682757-811a-4598-88d9-b5954618b152"
+      },
+      "created_time": "2024-08-12T01:12:00.000Z",
+      "last_edited_time": "2024-08-12T01:12:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "6e718dd9-be0c-4cf7-8943-27e1d03529e2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "67682757-811a-4598-88d9-b5954618b152"
+      },
+      "created_time": "2024-08-12T01:11:00.000Z",
+      "last_edited_time": "2024-08-12T01:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "However, I suspect closed-weight models may not continue to be state of the art.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "However, I suspect closed-weight models may not continue to be state of the art.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "41db4bc4-5128-41d7-b29f-f282d741a7c0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "67682757-811a-4598-88d9-b5954618b152"
+      },
+      "created_time": "2024-08-12T00:47:00.000Z",
+      "last_edited_time": "2024-08-12T00:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Why might open model weights win?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Why might open model weights win?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "9769b4e3-edc4-4bd0-b285-eb1dec9845e6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "67682757-811a-4598-88d9-b5954618b152"
+      },
+      "created_time": "2024-08-12T00:51:00.000Z",
+      "last_edited_time": "2024-08-12T01:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Ecosystem: open ecosystems and platforms win when they can draw upon a wider base of users, developers, and partners to invest into the ecosystem",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Ecosystem: open ecosystems and platforms win when they can draw upon a wider base of users, developers, and partners to invest into the ecosystem",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "0f0089c0-8c36-4c10-bc93-51dd24dd76d8",
+          "parent": {
+            "type": "block_id",
+            "block_id": "9769b4e3-edc4-4bd0-b285-eb1dec9845e6"
+          },
+          "created_time": "2024-08-12T00:53:00.000Z",
+          "last_edited_time": "2024-08-12T01:17:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Today, Llama has a stronger finetuning ecosystem than its competitors",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Today, Llama has a stronger finetuning ecosystem than its competitors",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "8f7c1718-10b3-484e-8a06-cf0da3e15192",
+          "parent": {
+            "type": "block_id",
+            "block_id": "9769b4e3-edc4-4bd0-b285-eb1dec9845e6"
+          },
+          "created_time": "2024-08-12T00:59:00.000Z",
+          "last_edited_time": "2024-08-12T01:21:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Tom at Etched (a startup making cheaper ASICs for inference) tells me that their chip design is informed more by Llama architecture than others, because Llama was open",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Tom at Etched (a startup making cheaper ASICs for inference) tells me that their chip design is informed more by Llama architecture than others, because Llama was open",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "5798ea6b-ffa5-4683-98a0-18fda675cea6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "67682757-811a-4598-88d9-b5954618b152"
+      },
+      "created_time": "2024-08-12T01:24:00.000Z",
+      "last_edited_time": "2024-08-12T01:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Ideology: top AI researchers or company leaders may be drawn to open weights for society’s benefit",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Ideology: top AI researchers or company leaders may be drawn to open weights for society’s benefit",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "fa3686d5-ded3-4931-8563-d6a394392d65",
+      "parent": {
+        "type": "page_id",
+        "page_id": "67682757-811a-4598-88d9-b5954618b152"
+      },
+      "created_time": "2024-08-12T00:49:00.000Z",
+      "last_edited_time": "2024-08-12T01:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Economics: the marginal cost of duplication of model weights is zero, so there’s a economic pressure for companies which can profitably open model weights to do so.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Economics: the marginal cost of duplication of model weights is zero, so there’s a economic pressure for companies which can profitably open model weights to do so.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "5c3346e8-7dee-4a7f-b9e4-120a2fbbf885",
+          "parent": {
+            "type": "block_id",
+            "block_id": "fa3686d5-ded3-4931-8563-d6a394392d65"
+          },
+          "created_time": "2024-08-12T01:16:00.000Z",
+          "last_edited_time": "2024-08-12T01:17:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "See the fall in cost of music as a result of streaming services (though: music is still licensed via copyright)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "See the fall in cost of music as a result of streaming services (though: music is still licensed via copyright)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "24af7997-c84d-4259-90a6-466e2039fbff",
+      "parent": {
+        "type": "page_id",
+        "page_id": "67682757-811a-4598-88d9-b5954618b152"
+      },
+      "created_time": "2024-08-12T00:47:00.000Z",
+      "last_edited_time": "2024-08-12T00:56:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Case studies from open source code",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Case studies from open source code",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "0ac45f92-9aeb-4293-b2b5-e5249daccdcc",
+          "parent": {
+            "type": "block_id",
+            "block_id": "24af7997-c84d-4259-90a6-466e2039fbff"
+          },
+          "created_time": "2024-08-12T00:56:00.000Z",
+          "last_edited_time": "2024-08-12T00:56:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Code, like model weights, require high upfront costs to produce, but the output has ~0 marginal cost of duplication",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Code, like model weights, require high upfront costs to produce, but the output has ~0 marginal cost of duplication",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "b45439e4-9f78-41d8-b4e9-b7053502c456",
+          "parent": {
+            "type": "block_id",
+            "block_id": "24af7997-c84d-4259-90a6-466e2039fbff"
+          },
+          "created_time": "2024-08-12T00:49:00.000Z",
+          "last_edited_time": "2024-08-12T00:56:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Linux",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Linux",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "27973e02-5263-4f29-9c2c-f5650cbbae65",
+          "parent": {
+            "type": "block_id",
+            "block_id": "24af7997-c84d-4259-90a6-466e2039fbff"
+          },
+          "created_time": "2024-08-12T00:49:00.000Z",
+          "last_edited_time": "2024-08-12T00:56:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "React",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "React",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1e20210a-2edd-472f-9b6d-59a5a3ea6c08",
+      "parent": {
+        "type": "page_id",
+        "page_id": "67682757-811a-4598-88d9-b5954618b152"
+      },
+      "created_time": "2024-08-12T00:54:00.000Z",
+      "last_edited_time": "2024-08-12T01:27:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Pathways to open model weights",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Pathways to open model weights",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "2362e56a-0e80-4a5f-8b29-d009776ab83f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1e20210a-2edd-472f-9b6d-59a5a3ea6c08"
+          },
+          "created_time": "2024-08-12T00:51:00.000Z",
+          "last_edited_time": "2024-08-12T00:54:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "OpenAI or Anthropic decide that opening the weights help with their mission of safe AGI; or that it’s in their self-interest",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "OpenAI or Anthropic decide that opening the weights help with their mission of safe AGI; or that it’s in their self-interest",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "8ea95ef9-2838-4e9b-ab85-de346fca993d",
+              "parent": {
+                "type": "block_id",
+                "block_id": "2362e56a-0e80-4a5f-8b29-d009776ab83f"
+              },
+              "created_time": "2024-08-12T00:52:00.000Z",
+              "last_edited_time": "2024-08-12T00:54:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Not so crazy — this was the original formulation of OpenAI!",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Not so crazy — this was the original formulation of OpenAI!",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "b21aa75a-5e83-4b48-b2ea-837c1063aaa1",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1e20210a-2edd-472f-9b6d-59a5a3ea6c08"
+          },
+          "created_time": "2024-08-12T00:51:00.000Z",
+          "last_edited_time": "2024-08-12T01:27:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Meta AI takes the lead, and they uphold their commitments to open weights",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Meta AI takes the lead, and they uphold their commitments to open weights",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "9dc47ba8-0091-4529-aba2-4f3761eb3cef",
+              "parent": {
+                "type": "block_id",
+                "block_id": "b21aa75a-5e83-4b48-b2ea-837c1063aaa1"
+              },
+              "created_time": "2024-08-12T01:27:00.000Z",
+              "last_edited_time": "2024-08-12T01:28:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Also seems reasonable, commitments are meaningful and going back on it would be embarrassing",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Also seems reasonable, commitments are meaningful and going back on it would be embarrassing",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "b525e9e4-2a0f-4608-bfd5-0a3f602877c7",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1e20210a-2edd-472f-9b6d-59a5a3ea6c08"
+          },
+          "created_time": "2024-08-12T00:54:00.000Z",
+          "last_edited_time": "2024-08-12T01:28:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Government funded research initiative (like Leopold’s “the project”) decides its weights should be made public, or the public demands that its weights should be public",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Government funded research initiative (like Leopold’s “the project”) decides its weights should be made public, or the public demands that its weights should be public",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "3c3a1e5f-e2dc-41e3-a1d0-562d949291f4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "67682757-811a-4598-88d9-b5954618b152"
+      },
+      "created_time": "2024-08-12T00:47:00.000Z",
+      "last_edited_time": "2024-08-12T00:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Why not?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Why not?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "28765b7d-4ab5-4089-a9ef-33bddb9a7005",
+      "parent": {
+        "type": "page_id",
+        "page_id": "67682757-811a-4598-88d9-b5954618b152"
+      },
+      "created_time": "2024-08-12T00:48:00.000Z",
+      "last_edited_time": "2024-08-12T01:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Economics: It’s very expensive to train SOTA models, and keeping those weights private gives the trainers the ability to monetize",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Economics: It’s very expensive to train SOTA models, and keeping those weights private gives the trainers the ability to monetize",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "21b14297-8935-4b10-a47b-fa5b6ed6fa12",
+          "parent": {
+            "type": "block_id",
+            "block_id": "28765b7d-4ab5-4089-a9ef-33bddb9a7005"
+          },
+          "created_time": "2024-08-12T01:22:00.000Z",
+          "last_edited_time": "2024-08-12T01:26:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Though: for this to hold, one needs to explain why open source exists at all",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Though: for this to hold, one needs to explain why open source exists at all",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "47dafe6c-cc09-4e8c-97b7-ed02a74a2693",
+              "parent": {
+                "type": "block_id",
+                "block_id": "21b14297-8935-4b10-a47b-fa5b6ed6fa12"
+              },
+              "created_time": "2024-08-12T01:25:00.000Z",
+              "last_edited_time": "2024-08-12T01:26:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Is there more open source or closed source code in the world? Probably closed source.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Is there more open source or closed source code in the world? Probably closed source.",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "fc1d855f-1ed6-4b6e-847e-643d5919162e",
+              "parent": {
+                "type": "block_id",
+                "block_id": "21b14297-8935-4b10-a47b-fa5b6ed6fa12"
+              },
+              "created_time": "2024-08-12T01:26:00.000Z",
+              "last_edited_time": "2024-08-12T01:26:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Is more open source or closed source code run in the world? mu.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Is more open source or closed source code run in the world? mu.",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "0b890210-fe66-41aa-838c-4b37e641cb72",
+      "parent": {
+        "type": "page_id",
+        "page_id": "67682757-811a-4598-88d9-b5954618b152"
+      },
+      "created_time": "2024-08-12T01:22:00.000Z",
+      "last_edited_time": "2024-08-12T01:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Ecosystem: In LLM applications (eg Cursor) it’s pretty easy to switch out one API provider for another, meaning that applications themselves don’t care too much whether the model is open or not",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Ecosystem: In LLM applications (eg Cursor) it’s pretty easy to switch out one API provider for another, meaning that applications themselves don’t care too much whether the model is open or not",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "3accadb7-98db-4516-908e-511dfd67d6f5",
+          "parent": {
+            "type": "block_id",
+            "block_id": "0b890210-fe66-41aa-838c-4b37e641cb72"
+          },
+          "created_time": "2024-08-12T01:23:00.000Z",
+          "last_edited_time": "2024-08-12T01:26:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "So an alternative loop: apps will choose whichever model is SOTA, SOTA models can take those customer dollars and invest into larger models (or ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "So an alternative loop: apps will choose whichever model is SOTA, SOTA models can take those customer dollars and invest into larger models (or ",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "02618d81-b204-45d0-918e-f795426540a7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "67682757-811a-4598-88d9-b5954618b152"
+      },
+      "created_time": "2024-08-12T00:55:00.000Z",
+      "last_edited_time": "2024-08-12T01:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Case studies from non-open code:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Case studies from non-open code:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "5bb02e93-7415-4923-851c-323d2e4a3642",
+          "parent": {
+            "type": "block_id",
+            "block_id": "02618d81-b204-45d0-918e-f795426540a7"
+          },
+          "created_time": "2024-08-12T00:55:00.000Z",
+          "last_edited_time": "2024-08-12T00:55:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Google",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Google",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "a12a7f87-876d-4c0c-abec-bc55c297804c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "02618d81-b204-45d0-918e-f795426540a7"
+          },
+          "created_time": "2024-08-12T00:55:00.000Z",
+          "last_edited_time": "2024-08-12T00:55:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Facebook",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Facebook",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "df404e2f-9102-43e2-b56a-09b94d9f7c26",
+          "parent": {
+            "type": "block_id",
+            "block_id": "02618d81-b204-45d0-918e-f795426540a7"
+          },
+          "created_time": "2024-08-12T00:56:00.000Z",
+          "last_edited_time": "2024-08-12T00:56:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Reddit",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Reddit",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "f9252bf9-755a-47a9-b1ce-84d86d8df5ac",
+      "parent": {
+        "type": "page_id",
+        "page_id": "67682757-811a-4598-88d9-b5954618b152"
+      },
+      "created_time": "2024-08-12T01:13:00.000Z",
+      "last_edited_time": "2024-08-12T01:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Case studies from generative AI:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Case studies from generative AI:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "2e0004c9-4638-4e10-bb0e-a2c9e6e14e34",
+          "parent": {
+            "type": "block_id",
+            "block_id": "f9252bf9-755a-47a9-b1ce-84d86d8df5ac"
+          },
+          "created_time": "2024-08-12T01:14:00.000Z",
+          "last_edited_time": "2024-08-12T01:15:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "After a brief flourishing ecosystem, Stable Diffusion (the company) seems to have imploded",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "After a brief flourishing ecosystem, Stable Diffusion (the company) seems to have imploded",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "c1d1b2e4-9364-4237-8774-3d653788658d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "67682757-811a-4598-88d9-b5954618b152"
+      },
+      "created_time": "2024-08-12T00:47:00.000Z",
+      "last_edited_time": "2024-08-12T00:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "321f85a8-b500-4b08-8824-3c9387f91585",
+      "parent": {
+        "type": "page_id",
+        "page_id": "67682757-811a-4598-88d9-b5954618b152"
+      },
+      "created_time": "2024-08-12T00:47:00.000Z",
+      "last_edited_time": "2024-08-12T00:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "What would open model weights imply?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "What would open model weights imply?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "972ddf13-64e3-4d5c-b7c0-99e97347a1b9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "67682757-811a-4598-88d9-b5954618b152"
+      },
+      "created_time": "2024-08-12T00:47:00.000Z",
+      "last_edited_time": "2024-08-12T01:28:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Model weight security is not worth investing in",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Model weight security is not worth investing in",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "055d429a-a99c-4df1-9609-08160d5d27e5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "67682757-811a-4598-88d9-b5954618b152"
+      },
+      "created_time": "2024-08-12T00:48:00.000Z",
+      "last_edited_time": "2024-08-12T01:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Does more or less value accrue to:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Does more or less value accrue to:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "8aef344c-3083-488d-b408-f0275ffd0e42",
+          "parent": {
+            "type": "block_id",
+            "block_id": "055d429a-a99c-4df1-9609-08160d5d27e5"
+          },
+          "created_time": "2024-08-12T01:28:00.000Z",
+          "last_edited_time": "2024-08-12T01:29:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Chipmakers like Nvidia",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Chipmakers like Nvidia",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "75bcc80e-f748-45b9-9010-3945eba565ad",
+          "parent": {
+            "type": "block_id",
+            "block_id": "055d429a-a99c-4df1-9609-08160d5d27e5"
+          },
+          "created_time": "2024-08-12T01:29:00.000Z",
+          "last_edited_time": "2024-08-12T01:29:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Cloud hyperscalers like AWS/Google/Microsoft",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Cloud hyperscalers like AWS/Google/Microsoft",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "78cf5931-210a-4e75-b253-797612445a3b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "055d429a-a99c-4df1-9609-08160d5d27e5"
+          },
+          "created_time": "2024-08-12T01:29:00.000Z",
+          "last_edited_time": "2024-08-12T01:37:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Application developers?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Application developers?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "d7a063e5-3d70-42bb-9111-9521663725f2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "67682757-811a-4598-88d9-b5954618b152"
+      },
+      "created_time": "2024-08-12T01:08:00.000Z",
+      "last_edited_time": "2024-08-12T01:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "059297da-4b60-4e7b-a101-1324de977d60",
+      "parent": {
+        "type": "page_id",
+        "page_id": "67682757-811a-4598-88d9-b5954618b152"
+      },
+      "created_time": "2024-08-12T01:08:00.000Z",
+      "last_edited_time": "2024-08-12T01:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "More reading",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "More reading",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "fc825f22-6f99-4c63-9604-3d374adbd7e4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "67682757-811a-4598-88d9-b5954618b152"
+      },
+      "created_time": "2024-08-12T19:30:00.000Z",
+      "last_edited_time": "2024-08-12T19:30:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/",
+              "link": {
+                "url": "https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/",
+            "href": "https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "ed92eee7-71e3-4b44-b2a7-a3d77cc37c4c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "67682757-811a-4598-88d9-b5954618b152"
+      },
+      "created_time": "2024-08-12T01:08:00.000Z",
+      "last_edited_time": "2024-08-12T01:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "https://openai.com/global-affairs/openai-s-comment-to-the-ntia-on-open-model-weights/",
+              "link": {
+                "url": "https://openai.com/global-affairs/openai-s-comment-to-the-ntia-on-open-model-weights/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://openai.com/global-affairs/openai-s-comment-to-the-ntia-on-open-model-weights/",
+            "href": "https://openai.com/global-affairs/openai-s-comment-to-the-ntia-on-open-model-weights/"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "93679dee-fde2-4f68-b33f-13b83be7e95d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "67682757-811a-4598-88d9-b5954618b152"
+      },
+      "created_time": "2024-08-12T01:37:00.000Z",
+      "last_edited_time": "2024-08-12T01:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "https://www.etched.com/announcing-etched",
+              "link": {
+                "url": "https://www.etched.com/announcing-etched"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://www.etched.com/announcing-etched",
+            "href": "https://www.etched.com/announcing-etched"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "462852dc-fd70-4e56-abc3-84d05f3d1966",
+      "parent": {
+        "type": "page_id",
+        "page_id": "67682757-811a-4598-88d9-b5954618b152"
+      },
+      "created_time": "2024-08-12T00:47:00.000Z",
+      "last_edited_time": "2024-08-12T00:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    }
+  ]
+}

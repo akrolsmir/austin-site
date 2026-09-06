@@ -1,0 +1,2731 @@
+{
+  "page": {
+    "id": "a8f5d567ae6a4adba3dc39a12b36690f",
+    "title": "Taco Twosday retro",
+    "date": "2023-02-20",
+    "edited": "2025-02-05T06:48:00.000Z",
+    "url": "https://akrolsmir.notion.site/Taco-Twosday-retro-a8f5d567ae6a4adba3dc39a12b36690f",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "e34a1f83-a939-4d93-98de-6972d97e371d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "a8f5d567-ae6a-4adb-a3dc-39a12b36690f"
+      },
+      "created_time": "2023-02-21T06:34:00.000Z",
+      "last_edited_time": "2023-02-21T06:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Notes on a single’s mixer that Rachel and I ran, on Valentine’s day 2023.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Notes on a single’s mixer that Rachel and I ran, on Valentine’s day 2023.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "51a1e504-3397-4368-9269-93e3b0b756b6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "a8f5d567-ae6a-4adb-a3dc-39a12b36690f"
+      },
+      "created_time": "2023-02-21T06:37:00.000Z",
+      "last_edited_time": "2023-02-21T06:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "The invite",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "The invite",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "bd3d314a-7fe2-498c-8c87-c604cb6ca59d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "a8f5d567-ae6a-4adb-a3dc-39a12b36690f"
+      },
+      "created_time": "2023-02-21T06:35:00.000Z",
+      "last_edited_time": "2023-02-21T06:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "code",
+      "code": {
+        "caption": [],
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "On Tuesday, February 14th, we will be hosting an extra-special Valentine's edition of Taco Tuesday!\n\nWhere: ~~~~\nWhen: 7-10pm, Feb 14\nCost: $20 to cover food, drinks & activities\n\nWe're running a mixer with the intention of helping singles find a date. Over the evening, we'll pair up participants to do an activity together, e.g.\n- Board games\n- Deep questions\n- Cooking\nAnd rotate between partners throughout the night.\n\nAt the end, you can privately indicate which of your partners you'd like to see again; if they also want to see you, we'll let you both know, reciprocity-style!",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "On Tuesday, February 14th, we will be hosting an extra-special Valentine's edition of Taco Tuesday!\n\nWhere: ~~~~\nWhen: 7-10pm, Feb 14\nCost: $20 to cover food, drinks & activities\n\nWe're running a mixer with the intention of helping singles find a date. Over the evening, we'll pair up participants to do an activity together, e.g.\n- Board games\n- Deep questions\n- Cooking\nAnd rotate between partners throughout the night.\n\nAt the end, you can privately indicate which of your partners you'd like to see again; if they also want to see you, we'll let you both know, reciprocity-style!",
+            "href": null
+          }
+        ],
+        "language": "plain text"
+      }
+    },
+    {
+      "object": "block",
+      "id": "d347608e-7684-4513-b8f4-348d92f0f6fd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "a8f5d567-ae6a-4adb-a3dc-39a12b36690f"
+      },
+      "created_time": "2023-02-21T06:37:00.000Z",
+      "last_edited_time": "2023-02-21T06:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "We ended up with 13 men and 13 women; a combination of friends, regular Taco Tuesday attendees, and more distant connections.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "We ended up with 13 men and 13 women; a combination of friends, regular Taco Tuesday attendees, and more distant connections.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "b643da17-e8c5-480a-b833-3731baa8602c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "a8f5d567-ae6a-4adb-a3dc-39a12b36690f"
+      },
+      "created_time": "2023-02-15T08:38:00.000Z",
+      "last_edited_time": "2023-02-21T06:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "The schedule",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "The schedule",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "e91849b0-692d-484a-8c0a-d90dd3d2512f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "a8f5d567-ae6a-4adb-a3dc-39a12b36690f"
+      },
+      "created_time": "2023-02-15T09:00:00.000Z",
+      "last_edited_time": "2023-02-15T09:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "30 minute warm up",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "30 minute warm up",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "3886bb2a-3470-46ad-9a74-a7ce5c440769",
+          "parent": {
+            "type": "block_id",
+            "block_id": "e91849b0-692d-484a-8c0a-d90dd3d2512f"
+          },
+          "created_time": "2023-02-15T09:02:00.000Z",
+          "last_edited_time": "2023-02-17T07:33:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Kinda chaotic as we were letting people in, still picking up food last minutes",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Kinda chaotic as we were letting people in, still picking up food last minutes",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "4ac0a235-7c01-4262-988c-ff48bb568cac",
+          "parent": {
+            "type": "block_id",
+            "block_id": "e91849b0-692d-484a-8c0a-d90dd3d2512f"
+          },
+          "created_time": "2023-02-15T09:00:00.000Z",
+          "last_edited_time": "2023-02-15T09:02:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Didn’t seem especially great (roughly comparable to a normal Taco Tuesday or meetup)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Didn’t seem especially great (roughly comparable to a normal Taco Tuesday or meetup)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "724b26d5-df16-4193-aaf7-9eecbe25963a",
+          "parent": {
+            "type": "block_id",
+            "block_id": "e91849b0-692d-484a-8c0a-d90dd3d2512f"
+          },
+          "created_time": "2023-02-15T09:01:00.000Z",
+          "last_edited_time": "2023-02-15T09:05:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Perhaps setting expectations ahead of time would have been good?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Perhaps setting expectations ahead of time would have been good?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "f1984b7d-8a54-4d49-af62-d80c8bced4c2",
+              "parent": {
+                "type": "block_id",
+                "block_id": "724b26d5-df16-4193-aaf7-9eecbe25963a"
+              },
+              "created_time": "2023-02-15T09:01:00.000Z",
+              "last_edited_time": "2023-02-15T09:05:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "But we wanted people to show up on time with buffer",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "But we wanted people to show up on time with buffer",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "ea00c46c-8c16-4b58-b620-dd1ab2777680",
+          "parent": {
+            "type": "block_id",
+            "block_id": "e91849b0-692d-484a-8c0a-d90dd3d2512f"
+          },
+          "created_time": "2023-02-15T09:05:00.000Z",
+          "last_edited_time": "2023-02-15T09:05:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Perhaps add a bit more structure to warmup next time",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Perhaps add a bit more structure to warmup next time",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "849e8e3c-dd26-40c5-9e6d-748a0a9b4050",
+              "parent": {
+                "type": "block_id",
+                "block_id": "ea00c46c-8c16-4b58-b620-dd1ab2777680"
+              },
+              "created_time": "2023-02-15T09:05:00.000Z",
+              "last_edited_time": "2023-02-15T09:06:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Askhole? Nametag swap? ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Askhole? Nametag swap? ",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "388e3e11-ddc1-4f7d-b131-6448cd562111",
+      "parent": {
+        "type": "page_id",
+        "page_id": "a8f5d567-ae6a-4adb-a3dc-39a12b36690f"
+      },
+      "created_time": "2023-02-15T08:38:00.000Z",
+      "last_edited_time": "2023-02-15T09:12:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "6 rotations of 20 minutes each, with 5 minute transition period",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "6 rotations of 20 minutes each, with 5 minute transition period",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "95f5cb6e-f8d4-47e1-b72d-1fac673ca232",
+          "parent": {
+            "type": "block_id",
+            "block_id": "388e3e11-ddc1-4f7d-b131-6448cd562111"
+          },
+          "created_time": "2023-02-15T08:40:00.000Z",
+          "last_edited_time": "2023-02-15T09:12:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "1:1 time seemed important; other mixer events seem to focus more on group activities",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "1:1 time seemed important; other mixer events seem to focus more on group activities",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "1b670b2f-93f3-4d9c-8be3-0f890fe13a37",
+          "parent": {
+            "type": "block_id",
+            "block_id": "388e3e11-ddc1-4f7d-b131-6448cd562111"
+          },
+          "created_time": "2023-02-15T08:39:00.000Z",
+          "last_edited_time": "2023-02-15T09:12:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "20 minutes seemed like enough time to talk deeply, but also enough of a cutoff to leave people wanting more",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "20 minutes seemed like enough time to talk deeply, but also enough of a cutoff to leave people wanting more",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "a7e61975-88a1-4019-8952-213896390514",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1b670b2f-93f3-4d9c-8be3-0f890fe13a37"
+              },
+              "created_time": "2023-02-15T09:12:00.000Z",
+              "last_edited_time": "2023-02-15T09:12:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Improvement compared to an actual speed date of a couple minutes; or an actual 1:1 date of 1-2h.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Improvement compared to an actual speed date of a couple minutes; or an actual 1:1 date of 1-2h.",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "ca88d221-e428-4d59-aceb-38f216f8130e",
+          "parent": {
+            "type": "block_id",
+            "block_id": "388e3e11-ddc1-4f7d-b131-6448cd562111"
+          },
+          "created_time": "2023-02-15T09:12:00.000Z",
+          "last_edited_time": "2023-02-15T09:12:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "But mostly, participants liked having structure",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "But mostly, participants liked having structure",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "b52ebfa2-8ee0-45c3-a52e-6360653c48e2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "a8f5d567-ae6a-4adb-a3dc-39a12b36690f"
+      },
+      "created_time": "2023-02-15T09:00:00.000Z",
+      "last_edited_time": "2023-02-15T09:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Dinner (30m) - Slightly above par for Taco Tuesday, more intimate, people were spread out more, having good conversations",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Dinner (30m) - Slightly above par for Taco Tuesday, more intimate, people were spread out more, having good conversations",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "6bc428dc-3799-4607-8995-7e51a53e944b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "a8f5d567-ae6a-4adb-a3dc-39a12b36690f"
+      },
+      "created_time": "2023-02-15T09:03:00.000Z",
+      "last_edited_time": "2023-02-15T09:04:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Cleanup and convos afterwards - Pretty good",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Cleanup and convos afterwards - Pretty good",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "e3c771a5-f03b-4e9b-9fcc-0d08591ed3cd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "a8f5d567-ae6a-4adb-a3dc-39a12b36690f"
+      },
+      "created_time": "2023-02-15T08:40:00.000Z",
+      "last_edited_time": "2023-02-17T07:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "6 activities to choose from",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "6 activities to choose from",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "21e4e1ef-10f9-4955-945d-fdf3605e6e58",
+          "parent": {
+            "type": "block_id",
+            "block_id": "e3c771a5-f03b-4e9b-9fcc-0d08591ed3cd"
+          },
+          "created_time": "2023-02-15T08:40:00.000Z",
+          "last_edited_time": "2023-02-15T08:42:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "1:1 Questions - the most popular format. In the end, it seemed like most people wanted to just chat",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "1:1 Questions - the most popular format. In the end, it seemed like most people wanted to just chat",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "5b1e6fc2-9646-4e16-9bff-68c1da9d2dfd",
+          "parent": {
+            "type": "block_id",
+            "block_id": "e3c771a5-f03b-4e9b-9fcc-0d08591ed3cd"
+          },
+          "created_time": "2023-02-15T08:42:00.000Z",
+          "last_edited_time": "2025-02-05T06:48:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "“Painting” - We had canvases and paint markers, couples enjoyed sketching each other, playing tic-tac-toe",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "“Painting” - We had canvases and paint markers, couples enjoyed sketching each other, playing tic-tac-toe",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "48baebd9-1097-4b99-ae6c-b43c00f7ee86",
+          "parent": {
+            "type": "block_id",
+            "block_id": "e3c771a5-f03b-4e9b-9fcc-0d08591ed3cd"
+          },
+          "created_time": "2023-02-15T08:40:00.000Z",
+          "last_edited_time": "2025-02-05T06:42:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Board Games - Jenga was great, Taco Cat was played, 7 Wonders Duel was attempted. Did also devolve into conversations",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Board Games - Jenga was great, Taco Cat was played, 7 Wonders Duel was attempted. Did also devolve into conversations",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "3b7fc2f8-6239-4073-95f5-c31a3cf4bfd8",
+          "parent": {
+            "type": "block_id",
+            "block_id": "e3c771a5-f03b-4e9b-9fcc-0d08591ed3cd"
+          },
+          "created_time": "2023-02-15T08:43:00.000Z",
+          "last_edited_time": "2023-02-15T08:47:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Group questions - Askhole in a group setting, sitting around a living room table. This was the “catch-all” for people who didn’t have partners, or if the pairings didn’t line up. Good for logistics and people seemed to have a good time",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Group questions - Askhole in a group setting, sitting around a living room table. This was the “catch-all” for people who didn’t have partners, or if the pairings didn’t line up. Good for logistics and people seemed to have a good time",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "763f387b-387c-4e64-be17-cd5ce3f78660",
+          "parent": {
+            "type": "block_id",
+            "block_id": "e3c771a5-f03b-4e9b-9fcc-0d08591ed3cd"
+          },
+          "created_time": "2023-02-15T08:41:00.000Z",
+          "last_edited_time": "2023-02-15T09:00:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Cooking - Didn’t get too much uptake, but the couples who participated seemed to like it (especially for making cocktails). Heard one man avoid cooking because they weren’t “good at it” — so perhaps we needed to lower the barrier to entry?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Cooking - Didn’t get too much uptake, but the couples who participated seemed to like it (especially for making cocktails). Heard one man avoid cooking because they weren’t “good at it” — so perhaps we needed to lower the barrier to entry?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "47b19a0f-00b2-4a6d-ba3c-bb73cdceded5",
+          "parent": {
+            "type": "block_id",
+            "block_id": "e3c771a5-f03b-4e9b-9fcc-0d08591ed3cd"
+          },
+          "created_time": "2023-02-15T08:41:00.000Z",
+          "last_edited_time": "2023-02-17T07:33:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Scavenger Hunt - a few couples tried, but mostly it was too cold and dark outside. The couples who tried it seemed to enjoy it though?\n",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Scavenger Hunt - a few couples tried, but mostly it was too cold and dark outside. The couples who tried it seemed to enjoy it though?\n",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "36363f61-2fa7-47bc-b548-06d1e9c714a4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "a8f5d567-ae6a-4adb-a3dc-39a12b36690f"
+      },
+      "created_time": "2023-02-17T07:31:00.000Z",
+      "last_edited_time": "2023-02-17T07:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "What went well",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "What went well",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "6ead66d3-22ab-4c26-8f28-27273817d555",
+      "parent": {
+        "type": "page_id",
+        "page_id": "a8f5d567-ae6a-4adb-a3dc-39a12b36690f"
+      },
+      "created_time": "2023-02-15T09:06:00.000Z",
+      "last_edited_time": "2023-02-17T07:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Nametags!! Meeting lots of new people, esp important to remember names",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Nametags!! Meeting lots of new people, esp important to remember names",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "0084971c-9e51-49a5-ae2b-2e81cceb2855",
+      "parent": {
+        "type": "page_id",
+        "page_id": "a8f5d567-ae6a-4adb-a3dc-39a12b36690f"
+      },
+      "created_time": "2023-02-17T07:31:00.000Z",
+      "last_edited_time": "2023-02-17T07:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Taco Tuesday was a very established event already",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Taco Tuesday was a very established event already",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "a080adcd-2081-4d16-9348-2798831a6616",
+          "parent": {
+            "type": "block_id",
+            "block_id": "0084971c-9e51-49a5-ae2b-2e81cceb2855"
+          },
+          "created_time": "2023-02-17T07:31:00.000Z",
+          "last_edited_time": "2023-02-17T07:32:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Regular venue, regular cooking, regular crowd = fewer unknown variables",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Regular venue, regular cooking, regular crowd = fewer unknown variables",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "26d29615-15dd-4031-8004-1282151acdf4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "a8f5d567-ae6a-4adb-a3dc-39a12b36690f"
+      },
+      "created_time": "2023-02-17T07:31:00.000Z",
+      "last_edited_time": "2023-02-17T07:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Rachel and I had run many events before (meetups, retreats, a conference)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Rachel and I had run many events before (meetups, retreats, a conference)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3411ab5a-e3a2-4cc3-9097-b8d4a812b057",
+      "parent": {
+        "type": "page_id",
+        "page_id": "a8f5d567-ae6a-4adb-a3dc-39a12b36690f"
+      },
+      "created_time": "2023-02-17T07:32:00.000Z",
+      "last_edited_time": "2023-02-17T07:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Many people saw familiar faces at the event (part of the same larger social scene, EA-ish SF adults)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Many people saw familiar faces at the event (part of the same larger social scene, EA-ish SF adults)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "8d15bdb4-70cb-44de-998c-848934876203",
+      "parent": {
+        "type": "page_id",
+        "page_id": "a8f5d567-ae6a-4adb-a3dc-39a12b36690f"
+      },
+      "created_time": "2023-02-15T08:53:00.000Z",
+      "last_edited_time": "2023-02-15T08:54:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Unclear",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Unclear",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "f087b9f6-b50c-4879-92eb-30ac9b0133a8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "a8f5d567-ae6a-4adb-a3dc-39a12b36690f"
+      },
+      "created_time": "2023-02-15T08:48:00.000Z",
+      "last_edited_time": "2023-02-15T08:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Deliberate matchmaking?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Deliberate matchmaking?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "24810d1f-7d19-4abc-a285-95507b543306",
+          "parent": {
+            "type": "block_id",
+            "block_id": "f087b9f6-b50c-4879-92eb-30ac9b0133a8"
+          },
+          "created_time": "2023-02-15T08:51:00.000Z",
+          "last_edited_time": "2023-02-15T08:52:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Though we didn’t seem to have a significantly higher hit rate with the deliberate matches vs the random matches",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Though we didn’t seem to have a significantly higher hit rate with the deliberate matches vs the random matches",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "0db1e6f2-767f-4a30-8852-ee8c6b653073",
+      "parent": {
+        "type": "page_id",
+        "page_id": "a8f5d567-ae6a-4adb-a3dc-39a12b36690f"
+      },
+      "created_time": "2023-02-15T08:52:00.000Z",
+      "last_edited_time": "2023-02-15T08:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Unsure if couple pairing resulted in higher conversion rates?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Unsure if couple pairing resulted in higher conversion rates?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "a7a05877-ee61-4ccf-8b6a-f52fecef8e78",
+          "parent": {
+            "type": "block_id",
+            "block_id": "0db1e6f2-767f-4a30-8852-ee8c6b653073"
+          },
+          "created_time": "2023-02-15T08:54:00.000Z",
+          "last_edited_time": "2023-02-15T08:54:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Though participant feedback on the couple pairs was very positive",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Though participant feedback on the couple pairs was very positive",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "6db85f19-b564-4df1-b975-234e969f20f1",
+          "parent": {
+            "type": "block_id",
+            "block_id": "0db1e6f2-767f-4a30-8852-ee8c6b653073"
+          },
+          "created_time": "2023-02-15T08:56:00.000Z",
+          "last_edited_time": "2023-02-15T08:57:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "For comparison: normal Taco Tuesdays or the first 30m of hanging out",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "For comparison: normal Taco Tuesdays or the first 30m of hanging out",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "b2c94e33-3162-4c13-8e9f-8ab065b26fc4",
+              "parent": {
+                "type": "block_id",
+                "block_id": "6db85f19-b564-4df1-b975-234e969f20f1"
+              },
+              "created_time": "2023-02-15T08:56:00.000Z",
+              "last_edited_time": "2023-02-15T08:56:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "People are in groups; just making conversation, as opposed to trying to get to know each other",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "People are in groups; just making conversation, as opposed to trying to get to know each other",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "15a608e1-2331-4be4-92be-74598538bf4f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "a8f5d567-ae6a-4adb-a3dc-39a12b36690f"
+      },
+      "created_time": "2023-02-15T08:57:00.000Z",
+      "last_edited_time": "2023-02-17T07:27:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "1:1s we were hearing seemed like they were having at least an okay time, but very few of them converted into double opt-in matches",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "1:1s we were hearing seemed like they were having at least an okay time, but very few of them converted into double opt-in matches",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "0ac92843-efb2-4b3b-bc22-e0c003700e81",
+      "parent": {
+        "type": "page_id",
+        "page_id": "a8f5d567-ae6a-4adb-a3dc-39a12b36690f"
+      },
+      "created_time": "2023-02-15T08:38:00.000Z",
+      "last_edited_time": "2023-02-15T08:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "What went badly",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "What went badly",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "5bdeec42-cddd-4ae7-8086-500e3160d7de",
+      "parent": {
+        "type": "page_id",
+        "page_id": "a8f5d567-ae6a-4adb-a3dc-39a12b36690f"
+      },
+      "created_time": "2023-02-15T08:46:00.000Z",
+      "last_edited_time": "2023-02-15T08:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Planning the pairs took a lot of time; maybe could be solved with a simple software tool?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Planning the pairs took a lot of time; maybe could be solved with a simple software tool?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1b4595bf-7919-4bfd-b2b2-111c6dfcc01a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "a8f5d567-ae6a-4adb-a3dc-39a12b36690f"
+      },
+      "created_time": "2023-02-15T08:48:00.000Z",
+      "last_edited_time": "2023-02-15T08:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Making the pairs was a bit hard because we didn’t ask for date preferences (outside of simple orientation). This would be the biggest thing I would change for next time — ask for either a few sentences about themselves & what they’re looking for, or an entire dating doc.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Making the pairs was a bit hard because we didn’t ask for date preferences (outside of simple orientation). This would be the biggest thing I would change for next time — ask for either a few sentences about themselves & what they’re looking for, or an entire dating doc.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "4fa1ca78-63c2-443a-9096-83f6628ee584",
+      "parent": {
+        "type": "page_id",
+        "page_id": "a8f5d567-ae6a-4adb-a3dc-39a12b36690f"
+      },
+      "created_time": "2023-02-15T08:45:00.000Z",
+      "last_edited_time": "2023-02-15T08:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "People changed plans a lot - some people showed up late, or left early, meaning that we had to change the pairing matrices",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "People changed plans a lot - some people showed up late, or left early, meaning that we had to change the pairing matrices",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "7301166e-e267-4b10-a4ad-7e929ce23b98",
+      "parent": {
+        "type": "page_id",
+        "page_id": "a8f5d567-ae6a-4adb-a3dc-39a12b36690f"
+      },
+      "created_time": "2023-02-15T08:38:00.000Z",
+      "last_edited_time": "2023-02-15T08:58:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Ran out of food - it’s actually quite hard to keep 20+ people fed from cooking at home",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Ran out of food - it’s actually quite hard to keep 20+ people fed from cooking at home",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "c5084f2a-0862-4c7b-bb35-2d045372ec28",
+      "parent": {
+        "type": "page_id",
+        "page_id": "a8f5d567-ae6a-4adb-a3dc-39a12b36690f"
+      },
+      "created_time": "2023-02-15T09:03:00.000Z",
+      "last_edited_time": "2023-02-17T07:28:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Compared to normal Taco Tuesday, had less help with cooking and cleanup",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Compared to normal Taco Tuesday, had less help with cooking and cleanup",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "32bdc961-94b4-4227-9d67-6d2dbbbdb081",
+          "parent": {
+            "type": "block_id",
+            "block_id": "c5084f2a-0862-4c7b-bb35-2d045372ec28"
+          },
+          "created_time": "2023-02-15T08:56:00.000Z",
+          "last_edited_time": "2023-02-17T07:28:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Had the idea that people would be helping with setup and decorating, didn’t really happen",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Had the idea that people would be helping with setup and decorating, didn’t really happen",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "f62fe7a7-3ed7-4142-b025-3671b089ea6e",
+              "parent": {
+                "type": "block_id",
+                "block_id": "32bdc961-94b4-4227-9d67-6d2dbbbdb081"
+              },
+              "created_time": "2023-02-15T09:08:00.000Z",
+              "last_edited_time": "2023-02-15T09:09:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "In a normal Taco Tuesday, it’s good to ask people to help, they have more buy-in and feel like they’re contributing. But it’s hard to ask in a way such that people help and also get to know someone else",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "In a normal Taco Tuesday, it’s good to ask people to help, they have more buy-in and feel like they’re contributing. But it’s hard to ask in a way such that people help and also get to know someone else",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "e7880938-6b3f-4b88-ae44-9a044681cd05",
+              "parent": {
+                "type": "block_id",
+                "block_id": "32bdc961-94b4-4227-9d67-6d2dbbbdb081"
+              },
+              "created_time": "2023-02-15T09:09:00.000Z",
+              "last_edited_time": "2023-02-21T06:39:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Plus, more newcomers than usual = people around couldn’t help as much",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Plus, more newcomers than usual = people around couldn’t help as much",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "5f1005da-af70-4614-985c-74e23ff587c6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "a8f5d567-ae6a-4adb-a3dc-39a12b36690f"
+      },
+      "created_time": "2023-02-15T08:38:00.000Z",
+      "last_edited_time": "2023-02-21T06:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "What surprised us",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "What surprised us",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "bdf5d78a-0565-4102-adba-efac8a842d35",
+      "parent": {
+        "type": "page_id",
+        "page_id": "a8f5d567-ae6a-4adb-a3dc-39a12b36690f"
+      },
+      "created_time": "2023-02-15T08:38:00.000Z",
+      "last_edited_time": "2023-02-15T08:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Total demand for this activity! We expected between 10-20 people, and ended up with 27 (with a few more on the waitlist)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Total demand for this activity! We expected between 10-20 people, and ended up with 27 (with a few more on the waitlist)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "423c0e09-9b2f-4ebc-8d3f-2cf865ab0fa8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "a8f5d567-ae6a-4adb-a3dc-39a12b36690f"
+      },
+      "created_time": "2023-02-15T08:38:00.000Z",
+      "last_edited_time": "2023-02-15T08:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Gender ratio was quite balanced; we ran the event with 13 men and 14 women (where we expected a lot more men to be interested)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Gender ratio was quite balanced; we ran the event with 13 men and 14 women (where we expected a lot more men to be interested)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "6a230c97-7990-4cd5-88a5-4d548b38fd77",
+      "parent": {
+        "type": "page_id",
+        "page_id": "a8f5d567-ae6a-4adb-a3dc-39a12b36690f"
+      },
+      "created_time": "2023-02-15T08:42:00.000Z",
+      "last_edited_time": "2023-02-15T08:59:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Most couples wanted to chat more than do an activity together; Austin was modeling the participants as being more introverted and appreciative of a focusing activity",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Most couples wanted to chat more than do an activity together; Austin was modeling the participants as being more introverted and appreciative of a focusing activity",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1cdc7d73-6066-4237-8780-5bae78549f0d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "a8f5d567-ae6a-4adb-a3dc-39a12b36690f"
+      },
+      "created_time": "2023-02-15T09:06:00.000Z",
+      "last_edited_time": "2023-02-17T07:28:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "923cdb95-5486-4407-836c-61a86d474550",
+      "parent": {
+        "type": "page_id",
+        "page_id": "a8f5d567-ae6a-4adb-a3dc-39a12b36690f"
+      },
+      "created_time": "2023-02-15T09:06:00.000Z",
+      "last_edited_time": "2023-02-21T06:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Matches made!",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Matches made!",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "0229e489-67b5-4d37-b009-33aa47824db0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "a8f5d567-ae6a-4adb-a3dc-39a12b36690f"
+      },
+      "created_time": "2023-02-17T07:28:00.000Z",
+      "last_edited_time": "2023-02-17T07:28:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "At the end of the event, we asked everyone to fill out a list of who they would like to see again in a romantic context",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "At the end of the event, we asked everyone to fill out a list of who they would like to see again in a romantic context",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "3e95ad93-eafb-4eb9-9307-8984df0669a3",
+          "parent": {
+            "type": "block_id",
+            "block_id": "0229e489-67b5-4d37-b009-33aa47824db0"
+          },
+          "created_time": "2023-02-17T07:28:00.000Z",
+          "last_edited_time": "2023-02-17T07:28:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "(Didn’t have to be one of the assigned matches)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "(Didn’t have to be one of the assigned matches)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "cb79d428-532b-4497-b3f1-b2f809575be6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "a8f5d567-ae6a-4adb-a3dc-39a12b36690f"
+      },
+      "created_time": "2023-02-17T07:28:00.000Z",
+      "last_edited_time": "2023-02-17T07:30:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Some women asked for time to think it over, so we waited until Thursday evening to send out matches",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Some women asked for time to think it over, so we waited until Thursday evening to send out matches",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "0b0c666e-9c6f-49f2-8309-42e89f1ca898",
+          "parent": {
+            "type": "block_id",
+            "block_id": "cb79d428-532b-4497-b3f1-b2f809575be6"
+          },
+          "created_time": "2023-02-17T07:30:00.000Z",
+          "last_edited_time": "2023-02-21T06:35:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "I maybe wish that we had sent out most of the matches Tuesday night based on available info, to keep up the energy and move things along quickly",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "I maybe wish that we had sent out most of the matches Tuesday night based on available info, to keep up the energy and move things along quickly",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "cee55e98-4a81-4647-9422-291b2d78654b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "a8f5d567-ae6a-4adb-a3dc-39a12b36690f"
+      },
+      "created_time": "2023-02-17T07:29:00.000Z",
+      "last_edited_time": "2023-02-17T07:30:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "We decided to split up matches across two batches, as some people had 2-5 matches and we figured getting all at once would be overwhelming",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "We decided to split up matches across two batches, as some people had 2-5 matches and we figured getting all at once would be overwhelming",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "191a6e41-f23e-80f6-9c9f-ea5beec2b1b6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "a8f5d567-ae6a-4adb-a3dc-39a12b36690f"
+      },
+      "created_time": "2025-02-05T06:45:00.000Z",
+      "last_edited_time": "2025-02-05T06:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "81bf8b89-cab1-41ce-b91f-98c50b13208b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "a8f5d567-ae6a-4adb-a3dc-39a12b36690f"
+      },
+      "created_time": "2023-02-17T07:28:00.000Z",
+      "last_edited_time": "2025-02-05T06:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Printouts",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Printouts",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "191a6e41-f23e-802f-a770-f42bf8f525d5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "a8f5d567-ae6a-4adb-a3dc-39a12b36690f"
+      },
+      "created_time": "2025-02-05T06:45:00.000Z",
+      "last_edited_time": "2025-02-05T06:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "child_page",
+      "child_page": {
+        "title": "1:1 Questions"
+      }
+    },
+    {
+      "object": "block",
+      "id": "191a6e41-f23e-807d-9fe1-f215e31a0f13",
+      "parent": {
+        "type": "page_id",
+        "page_id": "a8f5d567-ae6a-4adb-a3dc-39a12b36690f"
+      },
+      "created_time": "2025-02-05T06:45:00.000Z",
+      "last_edited_time": "2025-02-05T06:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "child_page",
+      "child_page": {
+        "title": "Scavenger Hunt"
+      }
+    }
+  ]
+}

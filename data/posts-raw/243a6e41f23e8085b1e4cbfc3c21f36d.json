@@ -1,0 +1,3687 @@
+{
+  "page": {
+    "id": "243a6e41f23e8085b1e4cbfc3c21f36d",
+    "title": "To found, or to invest?",
+    "date": "2025-08-02T18:47:00.000+00:00",
+    "edited": "2025-08-13T18:13:00.000Z",
+    "url": "https://akrolsmir.notion.site/To-found-or-to-invest-243a6e41f23e8085b1e4cbfc3c21f36d",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "243a6e41-f23e-8029-a92f-c0cec591fc52",
+      "parent": {
+        "type": "page_id",
+        "page_id": "243a6e41-f23e-8085-b1e4-cbfc3c21f36d"
+      },
+      "created_time": "2025-08-02T18:52:00.000Z",
+      "last_edited_time": "2025-08-04T01:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "As of right now, I’m trying to decide whether to start a new startup, versus raise for an incubator or venture fund. What are considerations for whether I’d do better as a founder or investor? ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "As of right now, I’m trying to decide whether to start a new startup, versus raise for an incubator or venture fund. What are considerations for whether I’d do better as a founder or investor? ",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "243a6e41-f23e-80ba-89e7-d9140d3824dd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "243a6e41-f23e-8085-b1e4-cbfc3c21f36d"
+      },
+      "created_time": "2025-08-02T18:57:00.000Z",
+      "last_edited_time": "2025-08-02T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "243a6e41-f23e-8047-9fe2-c1c19aa0c9ac",
+      "parent": {
+        "type": "page_id",
+        "page_id": "243a6e41-f23e-8085-b1e4-cbfc3c21f36d"
+      },
+      "created_time": "2025-08-02T18:56:00.000Z",
+      "last_edited_time": "2025-08-05T15:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "(By “investor”, I’m also lumping together different portfolio-based careers, including starting an incubator, advising companies, or community-building. This is oriented at early/seed-stage investing; I have even less of an idea what later stage looks like.)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "(By “investor”, I’m also lumping together different portfolio-based careers, including starting an incubator, advising companies, or community-building. This is oriented at early/seed-stage investing; I have even less of an idea what later stage looks like.)",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "243a6e41-f23e-80cf-a82f-c04e4f53e5ae",
+      "parent": {
+        "type": "page_id",
+        "page_id": "243a6e41-f23e-8085-b1e4-cbfc3c21f36d"
+      },
+      "created_time": "2025-08-02T18:48:00.000Z",
+      "last_edited_time": "2025-08-02T19:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Contrasts",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Contrasts",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "243a6e41-f23e-802e-a29a-d14b109aa4ab",
+      "parent": {
+        "type": "page_id",
+        "page_id": "243a6e41-f23e-8085-b1e4-cbfc3c21f36d"
+      },
+      "created_time": "2025-08-02T18:48:00.000Z",
+      "last_edited_time": "2025-08-02T18:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Founding relies on yourself; investing relies on your network",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Founding relies on yourself; investing relies on your network",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "243a6e41-f23e-802e-9789-e7cc9893f960",
+      "parent": {
+        "type": "page_id",
+        "page_id": "243a6e41-f23e-8085-b1e4-cbfc3c21f36d"
+      },
+      "created_time": "2025-08-02T18:51:00.000Z",
+      "last_edited_time": "2025-08-02T20:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Starting a startup is an act of self-confidence, a bet that your own skillset will carry you to greater heights. Eventually, you’ll be finding cofounders and employees, but even then you’re in the driver’s seat.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Starting a startup is an act of self-confidence, a bet that your own skillset will carry you to greater heights. Eventually, you’ll be finding cofounders and employees, but even then you’re in the driver’s seat.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "243a6e41-f23e-80cb-b0e9-c878ac7e5054",
+      "parent": {
+        "type": "page_id",
+        "page_id": "243a6e41-f23e-8085-b1e4-cbfc3c21f36d"
+      },
+      "created_time": "2025-08-02T19:56:00.000Z",
+      "last_edited_time": "2025-08-02T20:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Investing is a bet on your existing network and your ability to grow it, a bet on your interpersonal skills, that you can convince great founders to accept your money, advice, intros.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Investing is a bet on your existing network and your ability to grow it, a bet on your interpersonal skills, that you can convince great founders to accept your money, advice, intros.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "243a6e41-f23e-80b4-b8a6-fb86702d9f2d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "243a6e41-f23e-8085-b1e4-cbfc3c21f36d"
+      },
+      "created_time": "2025-08-02T18:49:00.000Z",
+      "last_edited_time": "2025-08-04T01:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "(For engineers, this is similar to the distinction between being an individual contributor and an engineering manager.)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "(For engineers, this is similar to the distinction between being an individual contributor and an engineering manager.)",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "243a6e41-f23e-8098-8973-e9fbee0d8372",
+      "parent": {
+        "type": "page_id",
+        "page_id": "243a6e41-f23e-8085-b1e4-cbfc3c21f36d"
+      },
+      "created_time": "2025-08-02T18:50:00.000Z",
+      "last_edited_time": "2025-08-02T20:11:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Founders need taste in product & users; investors need taste for founders & markets",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Founders need taste in product & users; investors need taste for founders & markets",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "243a6e41-f23e-80f8-b01b-fe260e43567c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "243a6e41-f23e-8085-b1e4-cbfc3c21f36d"
+      },
+      "created_time": "2025-08-02T19:54:00.000Z",
+      "last_edited_time": "2025-08-05T15:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "The thing that founders do is build a product; the things that founders sell to are users.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "The thing that founders do is build a product; the things that founders sell to are users.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "243a6e41-f23e-8087-ace0-d5972abcc702",
+      "parent": {
+        "type": "page_id",
+        "page_id": "243a6e41-f23e-8085-b1e4-cbfc3c21f36d"
+      },
+      "created_time": "2025-08-02T20:11:00.000Z",
+      "last_edited_time": "2025-08-05T15:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "The thing that investors do is invest in founders; the things that determine the valuation (what investors “sell to”) is the market.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "The thing that investors do is invest in founders; the things that determine the valuation (what investors “sell to”) is the market.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "243a6e41-f23e-800d-a414-db156107f103",
+      "parent": {
+        "type": "page_id",
+        "page_id": "243a6e41-f23e-8085-b1e4-cbfc3c21f36d"
+      },
+      "created_time": "2025-08-02T19:54:00.000Z",
+      "last_edited_time": "2025-08-02T19:54:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Founders operate on shorter feedback loops",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Founders operate on shorter feedback loops",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "243a6e41-f23e-8065-bc78-d4d26a426349",
+      "parent": {
+        "type": "page_id",
+        "page_id": "243a6e41-f23e-8085-b1e4-cbfc3c21f36d"
+      },
+      "created_time": "2025-08-02T19:54:00.000Z",
+      "last_edited_time": "2025-08-02T20:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Founders hear from their IDE on the order of seconds, and from their customers in minutes to days; investors get updates from portfolio companies in months, and exits take years.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Founders hear from their IDE on the order of seconds, and from their customers in minutes to days; investors get updates from portfolio companies in months, and exits take years.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "243a6e41-f23e-8040-a2d4-ee7eaeb4305e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "243a6e41-f23e-8085-b1e4-cbfc3c21f36d"
+      },
+      "created_time": "2025-08-02T20:14:00.000Z",
+      "last_edited_time": "2025-08-05T15:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Perhaps it takes more experience and wisdom, to do well in fields with longer feedback loops, and more neuroplasticity to tackle rapidly changing fields grounded in the “real world”.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Perhaps it takes more experience and wisdom, to do well in fields with longer feedback loops, and more neuroplasticity to tackle rapidly changing fields grounded in the “real world”.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "243a6e41-f23e-80b1-a514-cf2335d4aebb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "243a6e41-f23e-8085-b1e4-cbfc3c21f36d"
+      },
+      "created_time": "2025-08-02T21:00:00.000Z",
+      "last_edited_time": "2025-08-04T01:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Investing demands more context-switching",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Investing demands more context-switching",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "243a6e41-f23e-800a-9b86-dbe283e205df",
+      "parent": {
+        "type": "page_id",
+        "page_id": "243a6e41-f23e-8085-b1e4-cbfc3c21f36d"
+      },
+      "created_time": "2025-08-02T21:01:00.000Z",
+      "last_edited_time": "2025-08-05T15:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "From the outset, investing involves reviewing many different things at a pretty shallow level, compared to building a product. At later stages, a good founder-CEO also often becomes a manager, with the context-switching that demands (see: ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "From the outset, investing involves reviewing many different things at a pretty shallow level, compared to building a product. At later stages, a good founder-CEO also often becomes a manager, with the context-switching that demands (see: ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "maker’s schedule vs manager’s schedule",
+              "link": {
+                "url": "https://paulgraham.com/makersschedule.html"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "maker’s schedule vs manager’s schedule",
+            "href": "https://paulgraham.com/makersschedule.html"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ") — but I imagine switching contexts on different areas of a single company still feels less burdensome than switching between different companies and fields.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ") — but I imagine switching contexts on different areas of a single company still feels less burdensome than switching between different companies and fields.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "246a6e41-f23e-80e0-b4c5-e11167a1d4d2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "243a6e41-f23e-8085-b1e4-cbfc3c21f36d"
+      },
+      "created_time": "2025-08-05T16:12:00.000Z",
+      "last_edited_time": "2025-08-05T16:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Investors need money; money requires a legible track record",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Investors need money; money requires a legible track record",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "246a6e41-f23e-807e-bff2-eb6bd91ae6ad",
+      "parent": {
+        "type": "page_id",
+        "page_id": "243a6e41-f23e-8085-b1e4-cbfc3c21f36d"
+      },
+      "created_time": "2025-08-05T16:13:00.000Z",
+      "last_edited_time": "2025-08-05T16:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "In our society, money is a ledger which reflects your past performance; that is, money in your bank account is the result of work you’ve done to add value to the world via positive-sum trades, through past labor (selling your own time) or past investment.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "In our society, money is a ledger which reflects your past performance; that is, money in your bank account is the result of work you’ve done to add value to the world via positive-sum trades, through past labor (selling your own time) or past investment.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "246a6e41-f23e-80bb-bc8e-cea67a7e2bf4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "243a6e41-f23e-8085-b1e4-cbfc3c21f36d"
+      },
+      "created_time": "2025-08-05T16:20:00.000Z",
+      "last_edited_time": "2025-08-05T16:29:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "To start investing, you need access to a sizable amount of money; either your own, or the ability to convince others with money, which also requires a strong track record. Meanwhile, starting a startup just requires your own time.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "To start investing, you need access to a sizable amount of money; either your own, or the ability to convince others with money, which also requires a strong track record. Meanwhile, starting a startup just requires your own time.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "246a6e41-f23e-805b-a315-c925e3c8b442",
+      "parent": {
+        "type": "page_id",
+        "page_id": "243a6e41-f23e-8085-b1e4-cbfc3c21f36d"
+      },
+      "created_time": "2025-08-05T16:24:00.000Z",
+      "last_edited_time": "2025-08-05T16:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "If only successful people can become investors, but anyone can become a startup founder, that might imply that there’s less competition in being an investor. (Sam Altman: “",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "If only successful people can become investors, but anyone can become a startup founder, that might imply that there’s less competition in being an investor. (Sam Altman: “",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Be hard to compete with",
+              "link": {
+                "url": "https://blog.samaltman.com/how-to-be-successful#:~:text=10.%20Be%20hard%20to%20compete%20with"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Be hard to compete with",
+            "href": "https://blog.samaltman.com/how-to-be-successful#:~:text=10.%20Be%20hard%20to%20compete%20with"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "”; Peter Thiel: “",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "”; Peter Thiel: “",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Competition is for losers",
+              "link": {
+                "url": "https://www.wsj.com/articles/peter-thiel-competition-is-for-losers-1410535536"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Competition is for losers",
+            "href": "https://www.wsj.com/articles/peter-thiel-competition-is-for-losers-1410535536"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "”)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "”)",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "243a6e41-f23e-807c-a583-e01aed10d90e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "243a6e41-f23e-8085-b1e4-cbfc3c21f36d"
+      },
+      "created_time": "2025-08-02T19:57:00.000Z",
+      "last_edited_time": "2025-08-02T19:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "243a6e41-f23e-80e1-b3dd-ff2373a02ec5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "243a6e41-f23e-8085-b1e4-cbfc3c21f36d"
+      },
+      "created_time": "2025-08-02T19:57:00.000Z",
+      "last_edited_time": "2025-08-02T20:04:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Similarities",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Similarities",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "243a6e41-f23e-8098-b1b5-f250563004c5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "243a6e41-f23e-8085-b1e4-cbfc3c21f36d"
+      },
+      "created_time": "2025-08-02T20:04:00.000Z",
+      "last_edited_time": "2025-08-05T15:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Starting an investment fund or incubator has some things in common with starting a startup:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Starting an investment fund or incubator has some things in common with starting a startup:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "243a6e41-f23e-806b-af7a-dc106af621de",
+      "parent": {
+        "type": "page_id",
+        "page_id": "243a6e41-f23e-8085-b1e4-cbfc3c21f36d"
+      },
+      "created_time": "2025-08-02T19:58:00.000Z",
+      "last_edited_time": "2025-08-05T15:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Both are acts of creation, which require going from 0 to 1, bringing an idea into reality by force of will.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Both are acts of creation, which require going from 0 to 1, bringing an idea into reality by force of will.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "243a6e41-f23e-80ec-8e1a-f8830809bea6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "243a6e41-f23e-8085-b1e4-cbfc3c21f36d"
+      },
+      "created_time": "2025-08-02T19:58:00.000Z",
+      "last_edited_time": "2025-08-07T00:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Starting an investment fund is a bit like setting up a multi-sided marketplace; you have to both raise from LPs, and convince startups to take your capital, and both want to know that the other is in place.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Starting an investment fund is a bit like setting up a multi-sided marketplace; you have to both raise from LPs, and convince startups to take your capital, and both want to know that the other is in place.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "243a6e41-f23e-80ec-84be-f9b9e2e2da2a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "243a6e41-f23e-8085-b1e4-cbfc3c21f36d"
+      },
+      "created_time": "2025-08-02T18:56:00.000Z",
+      "last_edited_time": "2025-08-02T18:56:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "243a6e41-f23e-800f-9a23-d7cdb59550a6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "243a6e41-f23e-8085-b1e4-cbfc3c21f36d"
+      },
+      "created_time": "2025-08-02T18:55:00.000Z",
+      "last_edited_time": "2025-08-02T20:17:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Other musings",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Other musings",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "243a6e41-f23e-805e-b34d-df066bdee6d6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "243a6e41-f23e-8085-b1e4-cbfc3c21f36d"
+      },
+      "created_time": "2025-08-02T18:59:00.000Z",
+      "last_edited_time": "2025-08-05T15:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "While founders and investors are sometimes aligned through equity, from a macro level, “founders” and “investors” are complements. And it’s good business strategy to ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "While founders and investors are sometimes aligned through equity, from a macro level, “founders” and “investors” are complements. And it’s good business strategy to ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "commoditize your complement",
+              "link": {
+                "url": "https://gwern.net/complement"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "commoditize your complement",
+            "href": "https://gwern.net/complement"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ".",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ".",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "243a6e41-f23e-80f9-9df6-d54ddc95290f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "243a6e41-f23e-805e-b34d-df066bdee6d6"
+          },
+          "created_time": "2025-08-02T19:01:00.000Z",
+          "last_edited_time": "2025-08-05T15:32:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "A cynic might say that this why well-known investors (eg Paul Graham, Nat Friedman, Sam Altman for a time) encourage people to start startups. They provide advice, run programs, write essays to this end. And to no small degree of success — it’s seen as much cooler, high status to be a founder than an investor, I think.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "A cynic might say that this why well-known investors (eg Paul Graham, Nat Friedman, Sam Altman for a time) encourage people to start startups. They provide advice, run programs, write essays to this end. And to no small degree of success — it’s seen as much cooler, high status to be a founder than an investor, I think.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "243a6e41-f23e-80c9-a63a-fb1aa32a22af",
+          "parent": {
+            "type": "block_id",
+            "block_id": "243a6e41-f23e-805e-b34d-df066bdee6d6"
+          },
+          "created_time": "2025-08-02T19:28:00.000Z",
+          "last_edited_time": "2025-08-05T15:33:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "I don’t actually think these investors are Machiavellian, scheming to flood the industry with young folks they can invest in; in fact, the founders that work with them say glowing things about these investors.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "I don’t actually think these investors are Machiavellian, scheming to flood the industry with young folks they can invest in; in fact, the founders that work with them say glowing things about these investors.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "243a6e41-f23e-80a7-bc1e-c7df47276518",
+              "parent": {
+                "type": "block_id",
+                "block_id": "243a6e41-f23e-80c9-a63a-fb1aa32a22af"
+              },
+              "created_time": "2025-08-02T21:06:00.000Z",
+              "last_edited_time": "2025-08-05T15:34:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "But maybe there’s something to avoiding ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "But maybe there’s something to avoiding ",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "being bycatch",
+                      "link": {
+                        "url": "https://forum.effectivealtruism.org/posts/2BEecjksNZNHQmdyM/don-t-be-bycatch"
+                      }
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "being bycatch",
+                    "href": "https://forum.effectivealtruism.org/posts/2BEecjksNZNHQmdyM/don-t-be-bycatch"
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": ". I can think of a few founder friends who went through YC and are now doggedly persisting on their startup, despite not much success.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": ". I can think of a few founder friends who went through YC and are now doggedly persisting on their startup, despite not much success.",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "243a6e41-f23e-8099-88ec-dd9ef1650cfe",
+          "parent": {
+            "type": "block_id",
+            "block_id": "243a6e41-f23e-805e-b34d-df066bdee6d6"
+          },
+          "created_time": "2025-08-02T19:01:00.000Z",
+          "last_edited_time": "2025-08-13T18:07:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "How come founders are never glorifying the lifestyle of investors, and encouraging more investors to get into the game? It seems like founders also celebrate other founders, rather than",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "How come founders are never glorifying the lifestyle of investors, and encouraging more investors to get into the game? It seems like founders also celebrate other founders, rather than",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": " their complements.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": " their complements.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "24ea6e41-f23e-8065-b8b3-f1460784c4e3",
+              "parent": {
+                "type": "block_id",
+                "block_id": "243a6e41-f23e-8099-88ec-dd9ef1650cfe"
+              },
+              "created_time": "2025-08-13T18:07:00.000Z",
+              "last_edited_time": "2025-08-13T18:07:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "embed",
+              "embed": {
+                "caption": [],
+                "url": "https://x.com/tszzl/status/1955397119361388882"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "243a6e41-f23e-80a4-9498-e3cfe6d215d8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "243a6e41-f23e-8085-b1e4-cbfc3c21f36d"
+      },
+      "created_time": "2025-08-02T19:04:00.000Z",
+      "last_edited_time": "2025-08-05T15:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "The business of venture (where returns are dominated by a single outlier success) means that the most successful venture funds still earn less than their successful founders. h/t Matt Clifford.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "The business of venture (where returns are dominated by a single outlier success) means that the most successful venture funds still earn less than their successful founders. h/t Matt Clifford.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "243a6e41-f23e-80d0-992c-ff89bda7d037",
+          "parent": {
+            "type": "block_id",
+            "block_id": "243a6e41-f23e-80a4-9498-e3cfe6d215d8"
+          },
+          "created_time": "2025-08-02T19:06:00.000Z",
+          "last_edited_time": "2025-08-02T19:18:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "toggle",
+          "toggle": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Eg looking at ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Eg looking at ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "the recent Figma IPO",
+                  "link": {
+                    "url": "Index%20Ventures"
+                  }
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "the recent Figma IPO",
+                "href": "Index%20Ventures"
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": ": the stakes of each investor is in the ballpark of the stakes of the founders; but investors would typically only get 20% of the profits, with the rest going to their limited partners.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": ": the stakes of each investor is in the ballpark of the stakes of the founders; but investors would typically only get 20% of the profits, with the rest going to their limited partners.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "243a6e41-f23e-80d9-b82d-dfee1358db19",
+              "parent": {
+                "type": "block_id",
+                "block_id": "243a6e41-f23e-80d0-992c-ff89bda7d037"
+              },
+              "created_time": "2025-08-02T19:11:00.000Z",
+              "last_edited_time": "2025-08-02T19:17:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Dylan Field (founder):",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Dylan Field (founder):",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": " $6.3b",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": " $6.3b",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "243a6e41-f23e-80ad-86ab-f5a94db8623e",
+              "parent": {
+                "type": "block_id",
+                "block_id": "243a6e41-f23e-80d0-992c-ff89bda7d037"
+              },
+              "created_time": "2025-08-02T19:12:00.000Z",
+              "last_edited_time": "2025-08-02T19:17:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Evan Wallace (founder): ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Evan Wallace (founder): ",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "$3.1b",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "$3.1b",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "243a6e41-f23e-8057-95cc-ea866e223ed9",
+              "parent": {
+                "type": "block_id",
+                "block_id": "243a6e41-f23e-80d0-992c-ff89bda7d037"
+              },
+              "created_time": "2025-08-02T19:11:00.000Z",
+              "last_edited_time": "2025-08-02T19:17:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Index Ventures: $7.2b ⇒ ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Index Ventures: $7.2b ⇒ ",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "$1.4b",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "$1.4b",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "243a6e41-f23e-80db-8a5a-fdfb7cdfa7f7",
+              "parent": {
+                "type": "block_id",
+                "block_id": "243a6e41-f23e-80d0-992c-ff89bda7d037"
+              },
+              "created_time": "2025-08-02T19:11:00.000Z",
+              "last_edited_time": "2025-08-02T19:16:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Greylock: $6.7b ⇒ ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Greylock: $6.7b ⇒ ",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "$1.3b",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "$1.3b",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "243a6e41-f23e-8034-af0f-d9433a082480",
+              "parent": {
+                "type": "block_id",
+                "block_id": "243a6e41-f23e-80d0-992c-ff89bda7d037"
+              },
+              "created_time": "2025-08-02T19:11:00.000Z",
+              "last_edited_time": "2025-08-02T19:17:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Kleiner Perkins: $6b ⇒ ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Kleiner Perkins: $6b ⇒ ",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "$1.2b",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "$1.2b",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "243a6e41-f23e-80e2-9f20-fc68465d19ad",
+              "parent": {
+                "type": "block_id",
+                "block_id": "243a6e41-f23e-80d0-992c-ff89bda7d037"
+              },
+              "created_time": "2025-08-02T19:12:00.000Z",
+              "last_edited_time": "2025-08-02T19:17:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Sequioa Capital: $3.8b ⇒ ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Sequioa Capital: $3.8b ⇒ ",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "$0.8b",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "$0.8b",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "243a6e41-f23e-8092-860e-e4c593cc074f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "243a6e41-f23e-80a4-9498-e3cfe6d215d8"
+          },
+          "created_time": "2025-08-02T19:18:00.000Z",
+          "last_edited_time": "2025-08-05T15:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "The world’s richest individuals are founders; as of right now, the ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "The world’s richest individuals are founders; as of right now, the ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "richest 10 people in the world",
+                  "link": {
+                    "url": "https://www.forbes.com/real-time-billionaires"
+                  }
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "richest 10 people in the world",
+                "href": "https://www.forbes.com/real-time-billionaires"
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": " consists of 9 founders and 1 inevestor (Warren Buffet, down at #9)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": " consists of 9 founders and 1 inevestor (Warren Buffet, down at #9)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "243a6e41-f23e-8005-86b2-f1874e474c5f",
+              "parent": {
+                "type": "block_id",
+                "block_id": "243a6e41-f23e-8092-860e-e4c593cc074f"
+              },
+              "created_time": "2025-08-02T19:22:00.000Z",
+              "last_edited_time": "2025-08-05T15:35:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Though arguably, once your company or conglomerate is large enough, your main decisions are similar to investment decisions: choosing to allocate resources, headcount, projects among your executive team",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Though arguably, once your company or conglomerate is large enough, your main decisions are similar to investment decisions: choosing to allocate resources, headcount, projects among your executive team",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "243a6e41-f23e-8081-a56b-de15830ec40f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "243a6e41-f23e-8085-b1e4-cbfc3c21f36d"
+      },
+      "created_time": "2025-08-02T19:31:00.000Z",
+      "last_edited_time": "2025-08-02T20:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Many of the best investors were previously founders.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Many of the best investors were previously founders.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "243a6e41-f23e-80f3-aa36-dec3afaf455f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "243a6e41-f23e-8081-a56b-de15830ec40f"
+          },
+          "created_time": "2025-08-02T20:23:00.000Z",
+          "last_edited_time": "2025-08-02T20:24:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "But also many of the best founders were previously… founders.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "But also many of the best founders were previously… founders.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "243a6e41-f23e-80b6-98e8-f4c6b18e4eab",
+          "parent": {
+            "type": "block_id",
+            "block_id": "243a6e41-f23e-8081-a56b-de15830ec40f"
+          },
+          "created_time": "2025-08-02T19:31:00.000Z",
+          "last_edited_time": "2025-08-02T19:39:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "What determines whether a founder is a good fit to become an investor, or start another company? What makes a Paul Graham vs an Elon Musk?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "What determines whether a founder is a good fit to become an investor, or start another company? What makes a Paul Graham vs an Elon Musk?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "243a6e41-f23e-80cb-a87f-c040840d4c1f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "243a6e41-f23e-8085-b1e4-cbfc3c21f36d"
+      },
+      "created_time": "2025-08-02T19:39:00.000Z",
+      "last_edited_time": "2025-08-02T20:04:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Why do people choose to stop founding startups?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Why do people choose to stop founding startups?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "243a6e41-f23e-804d-8971-ca8495caf473",
+          "parent": {
+            "type": "block_id",
+            "block_id": "243a6e41-f23e-80cb-a87f-c040840d4c1f"
+          },
+          "created_time": "2025-08-02T19:59:00.000Z",
+          "last_edited_time": "2025-08-02T20:14:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Time, energy",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Time, energy",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": ": older people have more obligations (kids, events, network upkeep) and less stamina",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": ": older people have more obligations (kids, events, network upkeep) and less stamina",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "243a6e41-f23e-8080-abcf-c4bd2956f46c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "243a6e41-f23e-80cb-a87f-c040840d4c1f"
+          },
+          "created_time": "2025-08-02T20:00:00.000Z",
+          "last_edited_time": "2025-08-02T20:13:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Log returns to money",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Log returns to money",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": ": one successful startup means that your appetite",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": ": one successful startup means that your appetite",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "243a6e41-f23e-807e-8a11-d4c5529df8bb",
+          "parent": {
+            "type": "block_id",
+            "block_id": "243a6e41-f23e-80cb-a87f-c040840d4c1f"
+          },
+          "created_time": "2025-08-02T20:00:00.000Z",
+          "last_edited_time": "2025-08-02T20:13:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Diversification",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Diversification",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": ": successful individuals may rationally care more about preventing downside risk, and betting on a portfolio is safer",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": ": successful individuals may rationally care more about preventing downside risk, and betting on a portfolio is safer",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "243a6e41-f23e-80af-ae14-ffd998f9fe9c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "243a6e41-f23e-80cb-a87f-c040840d4c1f"
+          },
+          "created_time": "2025-08-02T20:00:00.000Z",
+          "last_edited_time": "2025-08-02T20:13:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Novelty",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Novelty",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": ": founders like doing new things, and investing is a new thing. (I may be guilty of this particularly)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": ": founders like doing new things, and investing is a new thing. (I may be guilty of this particularly)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "243a6e41-f23e-80d3-a39e-c90d9764edf3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "243a6e41-f23e-8085-b1e4-cbfc3c21f36d"
+      },
+      "created_time": "2025-08-02T20:58:00.000Z",
+      "last_edited_time": "2025-08-13T18:11:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "In SF, it’s cooler to be a founder than an investor. In AI safety/EA, it’s cooler to be a grantmaker than a grantee. Why is this?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "In SF, it’s cooler to be a founder than an investor. In AI safety/EA, it’s cooler to be a grantmaker than a grantee. Why is this?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "24ea6e41-f23e-8066-a328-f0854b548acb",
+          "parent": {
+            "type": "block_id",
+            "block_id": "243a6e41-f23e-80d3-a39e-c90d9764edf3"
+          },
+          "created_time": "2025-08-13T18:10:00.000Z",
+          "last_edited_time": "2025-08-13T18:11:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Perhaps: the “core activity” of tech is to build stuff; the “core activity” of EA is to fund stuff. So the best talent tries to do the core activity first (”those who can’t do, teach”).",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Perhaps: the “core activity” of tech is to build stuff; the “core activity” of EA is to fund stuff. So the best talent tries to do the core activity first (”those who can’t do, teach”).",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "24ea6e41-f23e-80a7-b5c5-eff8fa5cfe47",
+          "parent": {
+            "type": "block_id",
+            "block_id": "243a6e41-f23e-80d3-a39e-c90d9764edf3"
+          },
+          "created_time": "2025-08-13T18:11:00.000Z",
+          "last_edited_time": "2025-08-13T18:13:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Perhaps: this is somehow downstream of concentration of funding — AI safety has been fairly monopolistic vis a vis OpenPhil, while tech venture has many funders",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Perhaps: this is somehow downstream of concentration of funding — AI safety has been fairly monopolistic vis a vis OpenPhil, while tech venture has many funders",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "243a6e41-f23e-8082-a4b7-f25f3223fbce",
+      "parent": {
+        "type": "page_id",
+        "page_id": "243a6e41-f23e-8085-b1e4-cbfc3c21f36d"
+      },
+      "created_time": "2025-08-02T20:58:00.000Z",
+      "last_edited_time": "2025-08-02T21:04:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Appendix",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Appendix",
+            "href": null
+          }
+        ],
+        "is_toggleable": true,
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "243a6e41-f23e-8088-b42e-db304255ef3c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "243a6e41-f23e-8082-a4b7-f25f3223fbce"
+          },
+          "created_time": "2025-08-02T20:17:00.000Z",
+          "last_edited_time": "2025-08-02T20:59:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "TODO: Links, recommended reading",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "TODO: Links, recommended reading",
+                "href": null
+              }
+            ],
+            "icon": null,
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "243a6e41-f23e-80b3-974c-cdd043885f7f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "243a6e41-f23e-8082-a4b7-f25f3223fbce"
+          },
+          "created_time": "2025-08-02T18:52:00.000Z",
+          "last_edited_time": "2025-08-02T20:59:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Founder vs investor book?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Founder vs investor book?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "243a6e41-f23e-800b-be8c-e7d6ea94ce31",
+          "parent": {
+            "type": "block_id",
+            "block_id": "243a6e41-f23e-8082-a4b7-f25f3223fbce"
+          },
+          "created_time": "2025-08-02T19:35:00.000Z",
+          "last_edited_time": "2025-08-02T20:59:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [],
+            "icon": null,
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "243a6e41-f23e-80ae-af62-cda68db70286",
+          "parent": {
+            "type": "block_id",
+            "block_id": "243a6e41-f23e-8082-a4b7-f25f3223fbce"
+          },
+          "created_time": "2025-08-02T18:53:00.000Z",
+          "last_edited_time": "2025-08-02T20:59:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "TODO: people who might have good takes:",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "TODO: people who might have good takes:",
+                "href": null
+              }
+            ],
+            "icon": null,
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "243a6e41-f23e-8026-a4df-caf5810703e9",
+          "parent": {
+            "type": "block_id",
+            "block_id": "243a6e41-f23e-8082-a4b7-f25f3223fbce"
+          },
+          "created_time": "2025-08-02T19:35:00.000Z",
+          "last_edited_time": "2025-08-02T20:59:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Vishal Maini",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Vishal Maini",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "243a6e41-f23e-804f-912a-eee028a1cd74",
+          "parent": {
+            "type": "block_id",
+            "block_id": "243a6e41-f23e-8082-a4b7-f25f3223fbce"
+          },
+          "created_time": "2025-08-02T19:36:00.000Z",
+          "last_edited_time": "2025-08-02T20:59:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Molly Mielke",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Molly Mielke",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "243a6e41-f23e-8032-8d7e-da0607294d2b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "243a6e41-f23e-8082-a4b7-f25f3223fbce"
+          },
+          "created_time": "2025-08-02T19:36:00.000Z",
+          "last_edited_time": "2025-08-02T20:59:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Jueyan Zhang",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Jueyan Zhang",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "243a6e41-f23e-803a-9b82-cb1759bd9a3a",
+          "parent": {
+            "type": "block_id",
+            "block_id": "243a6e41-f23e-8082-a4b7-f25f3223fbce"
+          },
+          "created_time": "2025-08-02T19:36:00.000Z",
+          "last_edited_time": "2025-08-02T20:59:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Alex Gajewski",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Alex Gajewski",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "243a6e41-f23e-8017-96a6-f1b3999d54e8",
+          "parent": {
+            "type": "block_id",
+            "block_id": "243a6e41-f23e-8082-a4b7-f25f3223fbce"
+          },
+          "created_time": "2025-08-02T19:36:00.000Z",
+          "last_edited_time": "2025-08-02T20:59:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Venki Kumar",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Venki Kumar",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "243a6e41-f23e-8044-95a1-d38b70505631",
+          "parent": {
+            "type": "block_id",
+            "block_id": "243a6e41-f23e-8082-a4b7-f25f3223fbce"
+          },
+          "created_time": "2025-08-02T19:37:00.000Z",
+          "last_edited_time": "2025-08-02T20:59:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Lincoln Quirk",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Lincoln Quirk",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "243a6e41-f23e-801e-bd12-fb95b07b8da9",
+          "parent": {
+            "type": "block_id",
+            "block_id": "243a6e41-f23e-8082-a4b7-f25f3223fbce"
+          },
+          "created_time": "2025-08-02T19:37:00.000Z",
+          "last_edited_time": "2025-08-02T20:59:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Ajeya Cotra",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Ajeya Cotra",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "243a6e41-f23e-8052-93fd-ffc1be8b4122",
+          "parent": {
+            "type": "block_id",
+            "block_id": "243a6e41-f23e-8082-a4b7-f25f3223fbce"
+          },
+          "created_time": "2025-08-02T19:37:00.000Z",
+          "last_edited_time": "2025-08-02T20:59:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Ross Rheingas-Yoo",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Ross Rheingas-Yoo",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "243a6e41-f23e-8047-9aaf-c3ecc3166d39",
+          "parent": {
+            "type": "block_id",
+            "block_id": "243a6e41-f23e-8082-a4b7-f25f3223fbce"
+          },
+          "created_time": "2025-08-02T19:40:00.000Z",
+          "last_edited_time": "2025-08-02T20:59:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "patio11",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "patio11",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "243a6e41-f23e-80cb-bffb-d574fcad5752",
+          "parent": {
+            "type": "block_id",
+            "block_id": "243a6e41-f23e-8082-a4b7-f25f3223fbce"
+          },
+          "created_time": "2025-08-02T19:37:00.000Z",
+          "last_edited_time": "2025-08-02T20:59:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Aaron Silverbook",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Aaron Silverbook",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "243a6e41-f23e-80e3-9faf-cf22d2ee930c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "243a6e41-f23e-8082-a4b7-f25f3223fbce"
+          },
+          "created_time": "2025-08-02T19:38:00.000Z",
+          "last_edited_time": "2025-08-02T20:59:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Marcus Abramovitch",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Marcus Abramovitch",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "243a6e41-f23e-803b-a1ce-e58847490b4d",
+          "parent": {
+            "type": "block_id",
+            "block_id": "243a6e41-f23e-8082-a4b7-f25f3223fbce"
+          },
+          "created_time": "2025-08-02T19:38:00.000Z",
+          "last_edited_time": "2025-08-02T20:59:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Kyle Schiller",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Kyle Schiller",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "243a6e41-f23e-8069-a6bf-c5409453a136",
+          "parent": {
+            "type": "block_id",
+            "block_id": "243a6e41-f23e-8082-a4b7-f25f3223fbce"
+          },
+          "created_time": "2025-08-02T19:41:00.000Z",
+          "last_edited_time": "2025-08-02T20:59:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Alexey Guzey",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Alexey Guzey",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "243a6e41-f23e-807f-ae7d-ea3153d39a18",
+          "parent": {
+            "type": "block_id",
+            "block_id": "243a6e41-f23e-8082-a4b7-f25f3223fbce"
+          },
+          "created_time": "2025-08-02T19:38:00.000Z",
+          "last_edited_time": "2025-08-02T20:59:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Ning Cao",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Ning Cao",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "243a6e41-f23e-804d-9f59-dee87f3fbf0e",
+          "parent": {
+            "type": "block_id",
+            "block_id": "243a6e41-f23e-8082-a4b7-f25f3223fbce"
+          },
+          "created_time": "2025-08-02T20:03:00.000Z",
+          "last_edited_time": "2025-08-02T21:04:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Finn Metz",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Finn Metz",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "243a6e41-f23e-808a-87e0-fd8a8b984d2f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "243a6e41-f23e-8082-a4b7-f25f3223fbce"
+          },
+          "created_time": "2025-08-02T21:03:00.000Z",
+          "last_edited_time": "2025-08-02T21:03:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Craig Falls",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Craig Falls",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "243a6e41-f23e-8037-8008-ca23231a2644",
+          "parent": {
+            "type": "block_id",
+            "block_id": "243a6e41-f23e-8082-a4b7-f25f3223fbce"
+          },
+          "created_time": "2025-08-02T20:02:00.000Z",
+          "last_edited_time": "2025-08-02T20:59:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [],
+            "icon": null,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "24ea6e41-f23e-8098-9904-ce05ee52dadc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "243a6e41-f23e-8085-b1e4-cbfc3c21f36d"
+      },
+      "created_time": "2025-08-13T18:07:00.000Z",
+      "last_edited_time": "2025-08-13T18:07:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    }
+  ]
+}

@@ -1,0 +1,3722 @@
+{
+  "page": {
+    "id": "176a6e41f23e8090b2c0d06da2f847ba",
+    "title": "Reflections on our wedding",
+    "date": "2025-03-30",
+    "edited": "2025-05-30T20:34:00.000Z",
+    "url": "https://akrolsmir.notion.site/Reflections-on-our-wedding-176a6e41f23e8090b2c0d06da2f847ba",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "176a6e41-f23e-8063-90b1-f536871eefb3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "176a6e41-f23e-8090-b2c0-d06da2f847ba"
+      },
+      "created_time": "2025-01-09T21:36:00.000Z",
+      "last_edited_time": "2025-03-30T21:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Rachel and I married on June 9th, 2023.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Rachel and I married on June 9th, 2023.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "176a6e41-f23e-80c3-8980-cb848a3e69e4",
+          "parent": {
+            "type": "block_id",
+            "block_id": "176a6e41-f23e-8063-90b1-f536871eefb3"
+          },
+          "created_time": "2025-01-09T21:37:00.000Z",
+          "last_edited_time": "2025-03-30T20:39:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "We’d been dating for ~8 months, which is pretty short — I think the wedding came as something of a surprise to many, especially since Rachel was pretty young at the time (20).",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "We’d been dating for ~8 months, which is pretty short — I think the wedding came as something of a surprise to many, especially since Rachel was pretty young at the time (20).",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "1c6a6e41-f23e-8099-9193-c51bd17ee3a5",
+          "parent": {
+            "type": "block_id",
+            "block_id": "176a6e41-f23e-8063-90b1-f536871eefb3"
+          },
+          "created_time": "2025-03-30T20:40:00.000Z",
+          "last_edited_time": "2025-03-30T21:10:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "We wanted to get married quickly because we thought we were particularly well suited for each other; we were excited about starting a family soon (see Rachel on “",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "We wanted to get married quickly because we thought we were particularly well suited for each other; we were excited about starting a family soon (see Rachel on “",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "why baby now?",
+                  "link": {
+                    "url": "https://rachelweinberg.substack.com/p/why-baby-now"
+                  }
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "why baby now?",
+                "href": "https://rachelweinberg.substack.com/p/why-baby-now"
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "”)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "”)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "1c6a6e41-f23e-8067-a0a3-f261569a28b0",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c6a6e41-f23e-8099-9193-c51bd17ee3a5"
+              },
+              "created_time": "2025-03-30T21:09:00.000Z",
+              "last_edited_time": "2025-03-30T21:10:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "We were also inspired by Julia Wise’s writing on ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "We were also inspired by Julia Wise’s writing on ",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "marrying",
+                      "link": {
+                        "url": "https://juliawise.net/marrying-young-went-well-for-me-part-1/"
+                      }
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "marrying",
+                    "href": "https://juliawise.net/marrying-young-went-well-for-me-part-1/"
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": " ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": " ",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "young",
+                      "link": {
+                        "url": "https://juliawise.net/marrying-young-went-well-for-me-part-2/"
+                      }
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "young",
+                    "href": "https://juliawise.net/marrying-young-went-well-for-me-part-2/"
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "176a6e41-f23e-804c-895e-ca5846248884",
+          "parent": {
+            "type": "block_id",
+            "block_id": "176a6e41-f23e-8063-90b1-f536871eefb3"
+          },
+          "created_time": "2025-01-09T21:38:00.000Z",
+          "last_edited_time": "2025-03-30T21:32:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "We invited about 150 people, of whom 100 came",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "We invited about 150 people, of whom 100 came",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "1c6a6e41-f23e-8083-9f27-d94aadf0c629",
+          "parent": {
+            "type": "block_id",
+            "block_id": "176a6e41-f23e-8063-90b1-f536871eefb3"
+          },
+          "created_time": "2025-03-30T20:49:00.000Z",
+          "last_edited_time": "2025-03-30T21:46:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "For the schedule of events, see ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "For the schedule of events, see ",
+                "href": null
+              },
+              {
+                "type": "mention",
+                "mention": {
+                  "type": "page",
+                  "page": {
+                    "id": "b3f57e0f-54a7-4d11-8ed0-6e6ab824b49c"
+                  }
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Rachel & Austin’s Wedding",
+                "href": "https://app.notion.com/p/b3f57e0f54a74d118ed06e6ab824b49c"
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "1c6a6e41-f23e-8015-accc-f9f5265c6a7f",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c6a6e41-f23e-8083-9f27-d94aadf0c629"
+              },
+              "created_time": "2025-03-30T21:46:00.000Z",
+              "last_edited_time": "2025-03-30T21:46:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "image",
+              "image": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/176a6e41f23e8090b2c0d06da2f847ba/1c6a6e41f23e8015acccf9f5265c6a7f-20250330214600.png"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1c6a6e41-f23e-809b-8b27-d820edafa3cd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "176a6e41-f23e-8090-b2c0-d06da2f847ba"
+      },
+      "created_time": "2025-03-30T21:20:00.000Z",
+      "last_edited_time": "2025-03-30T21:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1c6a6e41-f23e-80d4-88fc-dd907cb986ac",
+      "parent": {
+        "type": "page_id",
+        "page_id": "176a6e41-f23e-8090-b2c0-d06da2f847ba"
+      },
+      "created_time": "2025-03-30T20:58:00.000Z",
+      "last_edited_time": "2025-03-30T21:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Planning",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Planning",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "176a6e41-f23e-8094-badb-fce69d5be1b7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "176a6e41-f23e-8090-b2c0-d06da2f847ba"
+      },
+      "created_time": "2025-01-09T21:37:00.000Z",
+      "last_edited_time": "2025-03-30T21:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Rachel and I had both organized large events together before. We’d met while organizing ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Rachel and I had both organized large events together before. We’d met while organizing ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Future Forum",
+              "link": {
+                "url": "https://www.futureforum.foundation/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Future Forum",
+            "href": "https://www.futureforum.foundation/"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ", a 4-day 300 person conference; we’d also worked together on Manifund, and planned things like ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ", a 4-day 300 person conference; we’d also worked together on Manifund, and planned things like ",
+            "href": null
+          },
+          {
+            "type": "mention",
+            "mention": {
+              "type": "page",
+              "page": {
+                "id": "a8f5d567-ae6a-4adb-a3dc-39a12b36690f"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Taco Twosday retro",
+            "href": "https://app.notion.com/p/a8f5d567ae6a4adba3dc39a12b36690f"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ". So we were pretty comfortable with coordinating many people.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ". So we were pretty comfortable with coordinating many people.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "1c6a6e41-f23e-800d-9570-e71ff6e38632",
+          "parent": {
+            "type": "block_id",
+            "block_id": "176a6e41-f23e-8094-badb-fce69d5be1b7"
+          },
+          "created_time": "2025-03-30T20:28:00.000Z",
+          "last_edited_time": "2025-03-30T20:58:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "I’ve seen other couples who haven’t organized large events to blow out all the stops for their wedding, in a way that ends up expensive or not fitting their true goals.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "I’ve seen other couples who haven’t organized large events to blow out all the stops for their wedding, in a way that ends up expensive or not fitting their true goals.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "1c6a6e41-f23e-8008-8cd1-fef6b6b2aed8",
+          "parent": {
+            "type": "block_id",
+            "block_id": "176a6e41-f23e-8094-badb-fce69d5be1b7"
+          },
+          "created_time": "2025-03-30T20:53:00.000Z",
+          "last_edited_time": "2025-03-30T20:58:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "If you’re engaged, I might recommend throwing a large-ish gathering together, to practice the muscle of “event organizing” ahead of your wedding",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "If you’re engaged, I might recommend throwing a large-ish gathering together, to practice the muscle of “event organizing” ahead of your wedding",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "1c6a6e41-f23e-80f9-b647-d5969ce4e7f9",
+          "parent": {
+            "type": "block_id",
+            "block_id": "176a6e41-f23e-8094-badb-fce69d5be1b7"
+          },
+          "created_time": "2025-03-30T20:30:00.000Z",
+          "last_edited_time": "2025-03-30T20:55:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "We also had organizing help from Leilani Bellamy (who was Rachel’s boss for said conference), and Rachel’s mom Meg Donigan (who coordinated much of the food and surrounding events)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "We also had organizing help from Leilani Bellamy (who was Rachel’s boss for said conference), and Rachel’s mom Meg Donigan (who coordinated much of the food and surrounding events)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "176a6e41-f23e-807b-8da9-cad4c88a1545",
+      "parent": {
+        "type": "page_id",
+        "page_id": "176a6e41-f23e-8090-b2c0-d06da2f847ba"
+      },
+      "created_time": "2025-01-09T21:46:00.000Z",
+      "last_edited_time": "2025-01-09T21:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "176a6e41-f23e-8096-b010-e51f4cc11fa1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "176a6e41-f23e-8090-b2c0-d06da2f847ba"
+      },
+      "created_time": "2025-01-09T21:39:00.000Z",
+      "last_edited_time": "2025-03-30T21:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "We use technology & venues we were familiar with, rather than specialized wedding stuff. I was pretty happy with our choices:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "We use technology & venues we were familiar with, rather than specialized wedding stuff. I was pretty happy with our choices:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "176a6e41-f23e-802c-b9c4-dc2d93664bb9",
+          "parent": {
+            "type": "block_id",
+            "block_id": "176a6e41-f23e-8096-b010-e51f4cc11fa1"
+          },
+          "created_time": "2025-01-09T21:39:00.000Z",
+          "last_edited_time": "2025-01-09T21:41:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Our wedding website as a Notion page: ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Our wedding website as a Notion page: ",
+                "href": null
+              },
+              {
+                "type": "mention",
+                "mention": {
+                  "type": "page",
+                  "page": {
+                    "id": "b3f57e0f-54a7-4d11-8ed0-6e6ab824b49c"
+                  }
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Rachel & Austin’s Wedding",
+                "href": "https://app.notion.com/p/b3f57e0f54a74d118ed06e6ab824b49c"
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": " ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": " ",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "176a6e41-f23e-8013-b9b0-d7f3a0c23b8b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "176a6e41-f23e-8096-b010-e51f4cc11fa1"
+          },
+          "created_time": "2025-01-09T21:41:00.000Z",
+          "last_edited_time": "2025-03-30T20:44:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Our RSVP & CRM tracking system was Airtable + emails",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Our RSVP & CRM tracking system was Airtable + emails",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "1c6a6e41-f23e-8049-a0ef-c276c6f73dfb",
+          "parent": {
+            "type": "block_id",
+            "block_id": "176a6e41-f23e-8096-b010-e51f4cc11fa1"
+          },
+          "created_time": "2025-03-30T21:33:00.000Z",
+          "last_edited_time": "2025-03-30T21:41:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Google Photos to collect photos",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Google Photos to collect photos",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "176a6e41-f23e-80de-8da1-e651d08efb59",
+          "parent": {
+            "type": "block_id",
+            "block_id": "176a6e41-f23e-8096-b010-e51f4cc11fa1"
+          },
+          "created_time": "2025-01-09T21:41:00.000Z",
+          "last_edited_time": "2025-01-09T21:42:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Our “gifts registry” was our own website, Manifund",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Our “gifts registry” was our own website, Manifund",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1c6a6e41-f23e-805a-bb10-d40092ae5237",
+      "parent": {
+        "type": "page_id",
+        "page_id": "176a6e41-f23e-8090-b2c0-d06da2f847ba"
+      },
+      "created_time": "2025-03-30T21:20:00.000Z",
+      "last_edited_time": "2025-03-30T21:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1c6a6e41-f23e-8069-96f2-e4afa933c31f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "176a6e41-f23e-8090-b2c0-d06da2f847ba"
+      },
+      "created_time": "2025-03-30T21:20:00.000Z",
+      "last_edited_time": "2025-03-30T21:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "While the whole endeavor was pretty low-stress, Rachel and I did still run into disagreements and conflict during the wedding planning process",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "While the whole endeavor was pretty low-stress, Rachel and I did still run into disagreements and conflict during the wedding planning process",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "1c6a6e41-f23e-80fb-8632-e1eee426804a",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c6a6e41-f23e-8069-96f2-e4afa933c31f"
+          },
+          "created_time": "2025-03-30T21:20:00.000Z",
+          "last_edited_time": "2025-03-30T21:42:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "There’s a stereotype where the bride cares more about the wedding being “perfect”; it was a bit true for us",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "There’s a stereotype where the bride cares more about the wedding being “perfect”; it was a bit true for us",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "1c6a6e41-f23e-8025-92b6-c4a4d293264d",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c6a6e41-f23e-80fb-8632-e1eee426804a"
+              },
+              "created_time": "2025-03-30T21:42:00.000Z",
+              "last_edited_time": "2025-03-30T21:42:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "At one point, I flagged that I didn’t feel very responsible for the wedding process; this made Rachel sad",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "At one point, I flagged that I didn’t feel very responsible for the wedding process; this made Rachel sad",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "1c6a6e41-f23e-80fc-b717-ff385d33c994",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c6a6e41-f23e-80fb-8632-e1eee426804a"
+              },
+              "created_time": "2025-03-30T21:25:00.000Z",
+              "last_edited_time": "2025-03-30T21:42:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "I think I cared relatively more about the end goal of “being married”, while Rachel cared more about the wedding itself",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "I think I cared relatively more about the end goal of “being married”, while Rachel cared more about the wedding itself",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "1c6a6e41-f23e-8032-9b81-e7453d37c815",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c6a6e41-f23e-80fb-8632-e1eee426804a"
+              },
+              "created_time": "2025-03-30T21:22:00.000Z",
+              "last_edited_time": "2025-03-30T21:42:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Sometimes I say that our wedding was an example of “a perfect day for Rachel”, while Manifest 2023 was that for Austin",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Sometimes I say that our wedding was an example of “a perfect day for Rachel”, while Manifest 2023 was that for Austin",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "1c6a6e41-f23e-8029-af16-d0b37dfe01dd",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c6a6e41-f23e-8069-96f2-e4afa933c31f"
+          },
+          "created_time": "2025-03-30T21:20:00.000Z",
+          "last_edited_time": "2025-03-30T21:42:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "One saying that was helpful for me to keep in mind: “a wedding is a day, a marriage is a lifetime”",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "One saying that was helpful for me to keep in mind: “a wedding is a day, a marriage is a lifetime”",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1c6a6e41-f23e-80ef-a072-cc4e772bf670",
+      "parent": {
+        "type": "page_id",
+        "page_id": "176a6e41-f23e-8090-b2c0-d06da2f847ba"
+      },
+      "created_time": "2025-03-30T20:28:00.000Z",
+      "last_edited_time": "2025-03-30T20:28:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1c6a6e41-f23e-8004-9fc4-eea1b6efd235",
+      "parent": {
+        "type": "page_id",
+        "page_id": "176a6e41-f23e-8090-b2c0-d06da2f847ba"
+      },
+      "created_time": "2025-03-30T20:28:00.000Z",
+      "last_edited_time": "2025-03-30T21:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Venues",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Venues",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "176a6e41-f23e-80e8-bb77-ff1ddb1cec33",
+      "parent": {
+        "type": "page_id",
+        "page_id": "176a6e41-f23e-8090-b2c0-d06da2f847ba"
+      },
+      "created_time": "2025-01-09T21:39:00.000Z",
+      "last_edited_time": "2025-03-30T21:26:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "It was important to me to have a traditional Catholic wedding, ie in a cathedral. We did this at the Mission Dolores Basilica.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "It was important to me to have a traditional Catholic wedding, ie in a cathedral. We did this at the Mission Dolores Basilica.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "1c6a6e41-f23e-8092-8a03-f8f8d13dee41",
+          "parent": {
+            "type": "block_id",
+            "block_id": "176a6e41-f23e-80e8-bb77-ff1ddb1cec33"
+          },
+          "created_time": "2025-03-30T20:28:00.000Z",
+          "last_edited_time": "2025-03-30T21:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "To get married in the church, we did have to go through an entire process to certify that we would be a good Catholic couple, including meeting 4 times with the priest, getting a dispensation since Rachel would not be Catholic, going to a couples’ seminar on Catholic marriage, and pledging that we would raise our kids in the faith.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "To get married in the church, we did have to go through an entire process to certify that we would be a good Catholic couple, including meeting 4 times with the priest, getting a dispensation since Rachel would not be Catholic, going to a couples’ seminar on Catholic marriage, and pledging that we would raise our kids in the faith.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "1c6a6e41-f23e-80f6-a734-c86fa986c5c4",
+          "parent": {
+            "type": "block_id",
+            "block_id": "176a6e41-f23e-80e8-bb77-ff1ddb1cec33"
+          },
+          "created_time": "2025-03-30T21:06:00.000Z",
+          "last_edited_time": "2025-03-30T21:07:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Some pieces of this seemed antiquated, eg checking on whether we were cousins, or defining roles for our bridal party",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Some pieces of this seemed antiquated, eg checking on whether we were cousins, or defining roles for our bridal party",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "1c6a6e41-f23e-80c4-8ee0-ce1638939317",
+          "parent": {
+            "type": "block_id",
+            "block_id": "176a6e41-f23e-80e8-bb77-ff1ddb1cec33"
+          },
+          "created_time": "2025-03-30T21:05:00.000Z",
+          "last_edited_time": "2025-03-30T21:39:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "But it was also nice to see from a design standpoint, how the church shepharded its couples throughout history. And nice to have a template for the ceremony, rituals to follow which we didn’t have to invent from whole cloth",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "But it was also nice to see from a design standpoint, how the church shepharded its couples throughout history. And nice to have a template for the ceremony, rituals to follow which we didn’t have to invent from whole cloth",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1c6a6e41-f23e-8000-99b3-c5d1801fb8c2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "176a6e41-f23e-8090-b2c0-d06da2f847ba"
+      },
+      "created_time": "2025-03-30T21:14:00.000Z",
+      "last_edited_time": "2025-03-30T21:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "column_list",
+      "column_list": {},
+      "children": [
+        {
+          "object": "block",
+          "id": "1c6a6e41-f23e-8056-9c46-f18d02eedbd5",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c6a6e41-f23e-8000-99b3-c5d1801fb8c2"
+          },
+          "created_time": "2025-03-30T21:14:00.000Z",
+          "last_edited_time": "2025-03-30T21:14:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "column",
+          "column": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "1c6a6e41-f23e-80a1-b420-e6e5652b7399",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c6a6e41-f23e-8056-9c46-f18d02eedbd5"
+              },
+              "created_time": "2025-03-30T21:13:00.000Z",
+              "last_edited_time": "2025-03-30T21:14:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "image",
+              "image": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/176a6e41f23e8090b2c0d06da2f847ba/1c6a6e41f23e80a1b420e6e5652b7399-20250330211400.png"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "1c6a6e41-f23e-8066-8eb0-d2923e257161",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c6a6e41-f23e-8000-99b3-c5d1801fb8c2"
+          },
+          "created_time": "2025-03-30T21:14:00.000Z",
+          "last_edited_time": "2025-03-30T21:14:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "column",
+          "column": {
+            "width_ratio": 0.5000000000000001
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "1c6a6e41-f23e-80cc-af4b-fa473b6e4748",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c6a6e41-f23e-8066-8eb0-d2923e257161"
+              },
+              "created_time": "2025-03-30T21:13:00.000Z",
+              "last_edited_time": "2025-03-30T21:14:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "image",
+              "image": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/176a6e41f23e8090b2c0d06da2f847ba/1c6a6e41f23e80ccaf4bfa473b6e4748-20250330211400.png"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1c6a6e41-f23e-80e2-9ff8-f3303a2bc162",
+      "parent": {
+        "type": "page_id",
+        "page_id": "176a6e41-f23e-8090-b2c0-d06da2f847ba"
+      },
+      "created_time": "2025-03-30T21:18:00.000Z",
+      "last_edited_time": "2025-03-30T21:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1c6a6e41-f23e-8037-a565-f2d6ddb8d264",
+      "parent": {
+        "type": "page_id",
+        "page_id": "176a6e41-f23e-8090-b2c0-d06da2f847ba"
+      },
+      "created_time": "2025-03-30T20:47:00.000Z",
+      "last_edited_time": "2025-03-30T22:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Rachel liked the vibe of “picnic & hang out in the park”, so we reserved a spot in Golden Gate Park for the reception, rather than some private reception venue",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Rachel liked the vibe of “picnic & hang out in the park”, so we reserved a spot in Golden Gate Park for the reception, rather than some private reception venue",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "1c6a6e41-f23e-80ca-95c8-c5095e993536",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c6a6e41-f23e-8037-a565-f2d6ddb8d264"
+          },
+          "created_time": "2025-03-30T20:47:00.000Z",
+          "last_edited_time": "2025-03-30T21:03:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "This did make her anxious during the last couple weeks, when a chance of rain had been forecast. (But it all turned out fine in the end)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "This did make her anxious during the last couple weeks, when a chance of rain had been forecast. (But it all turned out fine in the end)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "1c6a6e41-f23e-80cc-9f12-e5221da4d7aa",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c6a6e41-f23e-8037-a565-f2d6ddb8d264"
+          },
+          "created_time": "2025-03-30T21:26:00.000Z",
+          "last_edited_time": "2025-03-30T22:48:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Some things we did:",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Some things we did:",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "1c6a6e41-f23e-8083-a009-c0b270174b38",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c6a6e41-f23e-80cc-9f12-e5221da4d7aa"
+              },
+              "created_time": "2025-03-30T22:48:00.000Z",
+              "last_edited_time": "2025-03-30T22:48:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Last-minute migrate from where we thought we had a reservation, to where we actually had our reservation. (This was fun!)",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Last-minute migrate from where we thought we had a reservation, to where we actually had our reservation. (This was fun!)",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "1c6a6e41-f23e-8063-8b51-d31bd295d317",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c6a6e41-f23e-80cc-9f12-e5221da4d7aa"
+              },
+              "created_time": "2025-03-30T21:34:00.000Z",
+              "last_edited_time": "2025-03-30T22:49:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Intrusive questions activity, where wedding guests made groups with people they didn’t know, and asked questions that Rachel compiled",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Intrusive questions activity, where wedding guests made groups with people they didn’t know, and asked questions that Rachel compiled",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "1c6a6e41-f23e-8017-b316-c1d78a804bb9",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c6a6e41-f23e-80cc-9f12-e5221da4d7aa"
+              },
+              "created_time": "2025-03-30T21:34:00.000Z",
+              "last_edited_time": "2025-03-30T22:49:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Classics: wedding cake, speeches, food and drinks",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Classics: wedding cake, speeches, food and drinks",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "1c6a6e41-f23e-8051-b393-ef173cacc1cf",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c6a6e41-f23e-80cc-9f12-e5221da4d7aa"
+              },
+              "created_time": "2025-03-30T21:34:00.000Z",
+              "last_edited_time": "2025-03-30T22:48:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "First dance, then more dancing and games like spikeball in the park",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "First dance, then more dancing and games like spikeball in the park",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "1c6a6e41-f23e-80b5-89d8-cdfcdc5f0e36",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c6a6e41-f23e-80cc-9f12-e5221da4d7aa"
+              },
+              "created_time": "2025-03-30T21:35:00.000Z",
+              "last_edited_time": "2025-03-30T22:48:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Resolved ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Resolved ",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "a prediction market",
+                      "link": {
+                        "url": "https://manifold.markets/Austin/will-rachelweinberg-marry-me"
+                      }
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "a prediction market",
+                    "href": "https://manifold.markets/Austin/will-rachelweinberg-marry-me"
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1c6a6e41-f23e-8058-899b-dc632c061518",
+      "parent": {
+        "type": "page_id",
+        "page_id": "176a6e41-f23e-8090-b2c0-d06da2f847ba"
+      },
+      "created_time": "2025-03-30T21:16:00.000Z",
+      "last_edited_time": "2025-03-30T21:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "column_list",
+      "column_list": {},
+      "children": [
+        {
+          "object": "block",
+          "id": "1c6a6e41-f23e-80f2-a6e3-e2462c093492",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c6a6e41-f23e-8058-899b-dc632c061518"
+          },
+          "created_time": "2025-03-30T21:16:00.000Z",
+          "last_edited_time": "2025-03-30T21:18:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "column",
+          "column": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "1c6a6e41-f23e-809e-9e4b-c2b23bd600f7",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c6a6e41-f23e-80f2-a6e3-e2462c093492"
+              },
+              "created_time": "2025-03-30T21:15:00.000Z",
+              "last_edited_time": "2025-03-30T21:16:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "image",
+              "image": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/176a6e41f23e8090b2c0d06da2f847ba/1c6a6e41f23e809e9e4bc2b23bd600f7-20250330211600.png"
+                }
+              }
+            },
+            {
+              "object": "block",
+              "id": "1c6a6e41-f23e-809a-8128-eb3e3f582dc8",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c6a6e41-f23e-80f2-a6e3-e2462c093492"
+              },
+              "created_time": "2025-03-30T21:18:00.000Z",
+              "last_edited_time": "2025-03-30T21:18:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [],
+                "icon": null,
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "1c6a6e41-f23e-80b9-96d3-f5879f37b33c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c6a6e41-f23e-8058-899b-dc632c061518"
+          },
+          "created_time": "2025-03-30T21:16:00.000Z",
+          "last_edited_time": "2025-03-30T21:16:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "column",
+          "column": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "1c6a6e41-f23e-8075-94a0-d582895818d0",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c6a6e41-f23e-80b9-96d3-f5879f37b33c"
+              },
+              "created_time": "2025-03-30T21:16:00.000Z",
+              "last_edited_time": "2025-03-30T21:16:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "image",
+              "image": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/176a6e41f23e8090b2c0d06da2f847ba/1c6a6e41f23e807594a0d582895818d0-20250330211600.png"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1c6a6e41-f23e-8029-b8fe-e2b56a23f402",
+      "parent": {
+        "type": "page_id",
+        "page_id": "176a6e41-f23e-8090-b2c0-d06da2f847ba"
+      },
+      "created_time": "2025-03-30T20:48:00.000Z",
+      "last_edited_time": "2025-03-30T21:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "We closed out with a bonfire and singing songs and making smores at Ocean Beach",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "We closed out with a bonfire and singing songs and making smores at Ocean Beach",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "1c6a6e41-f23e-8056-ba6b-c5a9d16a2183",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c6a6e41-f23e-8029-b8fe-e2b56a23f402"
+          },
+          "created_time": "2025-03-30T21:03:00.000Z",
+          "last_edited_time": "2025-03-30T21:04:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "This was fun in theory; in practice it ended up being windy & cold and so not that enjoyable. I’d do this part differently if we were getting married again",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "This was fun in theory; in practice it ended up being windy & cold and so not that enjoyable. I’d do this part differently if we were getting married again",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1c6a6e41-f23e-801e-be69-f152437309f2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "176a6e41-f23e-8090-b2c0-d06da2f847ba"
+      },
+      "created_time": "2025-03-30T21:18:00.000Z",
+      "last_edited_time": "2025-03-30T21:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "column_list",
+      "column_list": {},
+      "children": [
+        {
+          "object": "block",
+          "id": "1c6a6e41-f23e-80ae-ae0e-c4abf63b820f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c6a6e41-f23e-801e-be69-f152437309f2"
+          },
+          "created_time": "2025-03-30T21:18:00.000Z",
+          "last_edited_time": "2025-03-30T21:26:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "column",
+          "column": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "1c6a6e41-f23e-8027-a2ba-cd097931b8b1",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c6a6e41-f23e-80ae-ae0e-c4abf63b820f"
+              },
+              "created_time": "2025-03-30T21:18:00.000Z",
+              "last_edited_time": "2025-03-30T21:18:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "image",
+              "image": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/176a6e41f23e8090b2c0d06da2f847ba/1c6a6e41f23e8027a2bacd097931b8b1-20250330211800.png"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "1c6a6e41-f23e-8077-8e10-ed5c948b5108",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c6a6e41-f23e-801e-be69-f152437309f2"
+          },
+          "created_time": "2025-03-30T21:18:00.000Z",
+          "last_edited_time": "2025-03-30T21:26:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "column",
+          "column": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "1c6a6e41-f23e-806a-b27f-ff5a65889904",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c6a6e41-f23e-8077-8e10-ed5c948b5108"
+              },
+              "created_time": "2025-03-30T21:18:00.000Z",
+              "last_edited_time": "2025-03-30T21:18:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "image",
+              "image": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/176a6e41f23e8090b2c0d06da2f847ba/1c6a6e41f23e806ab27fff5a65889904-20250330211800.png"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "176a6e41-f23e-80dd-8b5d-d3e4afd8286b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "176a6e41-f23e-8090-b2c0-d06da2f847ba"
+      },
+      "created_time": "2025-01-09T21:49:00.000Z",
+      "last_edited_time": "2025-03-30T20:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Rachel’s mom felt strongly that there should be more events, as a large chunk of her family would be flying in from out of town. So we ended up doing a pre-wedding get-together in Dolores Park, and a post-wedding brunch & pickleball at Presidio Wall Playground Park",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Rachel’s mom felt strongly that there should be more events, as a large chunk of her family would be flying in from out of town. So we ended up doing a pre-wedding get-together in Dolores Park, and a post-wedding brunch & pickleball at Presidio Wall Playground Park",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "176a6e41-f23e-80cc-b0c6-c42d974f660c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "176a6e41-f23e-80dd-8b5d-d3e4afd8286b"
+          },
+          "created_time": "2025-01-09T21:57:00.000Z",
+          "last_edited_time": "2025-03-30T20:46:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Essentially, we got to go park-hopping, making use of one of SF’s abundant natural resources",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Essentially, we got to go park-hopping, making use of one of SF’s abundant natural resources",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "176a6e41-f23e-801a-9cff-d8178f391a56",
+      "parent": {
+        "type": "page_id",
+        "page_id": "176a6e41-f23e-8090-b2c0-d06da2f847ba"
+      },
+      "created_time": "2025-01-09T21:47:00.000Z",
+      "last_edited_time": "2025-03-30T21:30:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Our venues were very cheap: the ceremony held at a Catholic cathedral was ~$2000; the reception at the park cost <$1000; the ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Our venues were very cheap: the ceremony held at a Catholic cathedral was ~$2000; the reception at the park cost <$1000; the ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "bonfire",
+              "link": {
+                "url": "https://manifold.markets/topic/operation-nonfire"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "bonfire",
+            "href": "https://manifold.markets/topic/operation-nonfire"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " cost a few dinners for the Proof high schoolers to reserve our spot.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " cost a few dinners for the Proof high schoolers to reserve our spot.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "176a6e41-f23e-8093-b031-e5ec3df5d5f7",
+          "parent": {
+            "type": "block_id",
+            "block_id": "176a6e41-f23e-801a-9cff-d8178f391a56"
+          },
+          "created_time": "2025-01-09T21:42:00.000Z",
+          "last_edited_time": "2025-03-30T21:30:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Statistically",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Statistically",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": ", a couple is more likely to stay together if their wedding has many attendees, and also if their wedding is cheaper. Of course, the number of attendees is generally correlated with price. So the trick is to figure out how to accommodate a lot of folks cheaply.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": ", a couple is more likely to stay together if their wedding has many attendees, and also if their wedding is cheaper. Of course, the number of attendees is generally correlated with price. So the trick is to figure out how to accommodate a lot of folks cheaply.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "176a6e41-f23e-809b-9424-c95c063b99ac",
+              "parent": {
+                "type": "block_id",
+                "block_id": "176a6e41-f23e-8093-b031-e5ec3df5d5f7"
+              },
+              "created_time": "2025-01-09T21:46:00.000Z",
+              "last_edited_time": "2025-03-30T20:48:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Of course, you shouldn’t plan on being a statistically average couple. Realistically we just liked the vibe of doing things on a budget, and doing them well",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Of course, you shouldn’t plan on being a statistically average couple. Realistically we just liked the vibe of doing things on a budget, and doing them well",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "1c6a6e41-f23e-8059-8ca9-f1d1574aa8c4",
+          "parent": {
+            "type": "block_id",
+            "block_id": "176a6e41-f23e-801a-9cff-d8178f391a56"
+          },
+          "created_time": "2025-03-30T21:30:00.000Z",
+          "last_edited_time": "2025-03-30T21:31:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "toggle",
+          "toggle": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "We spent approximately $10k on the wedding in total",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "We spent approximately $10k on the wedding in total",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "1c6a6e41-f23e-80c6-96d2-e373b7161419",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c6a6e41-f23e-8059-8ca9-f1d1574aa8c4"
+              },
+              "created_time": "2025-03-30T21:30:00.000Z",
+              "last_edited_time": "2025-03-30T21:30:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "$3500 for photography",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "$3500 for photography",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "1c6a6e41-f23e-8071-9cbf-f3147f6fb671",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c6a6e41-f23e-8059-8ca9-f1d1574aa8c4"
+              },
+              "created_time": "2025-03-30T21:30:00.000Z",
+              "last_edited_time": "2025-03-30T21:32:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "$2000 for church & priest",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "$2000 for church & priest",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "1c6a6e41-f23e-80f2-882a-f08aaf2f52d8",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c6a6e41-f23e-8059-8ca9-f1d1574aa8c4"
+              },
+              "created_time": "2025-03-30T21:30:00.000Z",
+              "last_edited_time": "2025-03-30T21:32:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "$2000 for Leilani’s time to organize",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "$2000 for Leilani’s time to organize",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "1c6a6e41-f23e-806e-bdbc-dff9ea83641f",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c6a6e41-f23e-8059-8ca9-f1d1574aa8c4"
+              },
+              "created_time": "2025-03-30T21:30:00.000Z",
+              "last_edited_time": "2025-03-30T21:32:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "$600 Ubers",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "$600 Ubers",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "1c6a6e41-f23e-80e2-b715-d5b23a9a57d5",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c6a6e41-f23e-8059-8ca9-f1d1574aa8c4"
+              },
+              "created_time": "2025-03-30T21:30:00.000Z",
+              "last_edited_time": "2025-03-30T21:31:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": true,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "$2500 incidental purchases",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "$2500 incidental purchases",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "children": [
+                {
+                  "object": "block",
+                  "id": "1c6a6e41-f23e-8088-95f7-ec8e937a4d10",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "1c6a6e41-f23e-80e2-b715-d5b23a9a57d5"
+                  },
+                  "created_time": "2025-03-30T21:30:00.000Z",
+                  "last_edited_time": "2025-03-30T21:32:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Golden Gate Park permit",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Golden Gate Park permit",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                },
+                {
+                  "object": "block",
+                  "id": "1c6a6e41-f23e-8056-a564-c213dd5c7ba2",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "1c6a6e41-f23e-80e2-b715-d5b23a9a57d5"
+                  },
+                  "created_time": "2025-03-30T21:30:00.000Z",
+                  "last_edited_time": "2025-03-30T21:30:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Picnic blankets, day-of materials",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Picnic blankets, day-of materials",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                },
+                {
+                  "object": "block",
+                  "id": "1c6a6e41-f23e-8049-9ccf-cac1816b47fb",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "1c6a6e41-f23e-80e2-b715-d5b23a9a57d5"
+                  },
+                  "created_time": "2025-03-30T21:30:00.000Z",
+                  "last_edited_time": "2025-03-30T21:30:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Clothing",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Clothing",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                },
+                {
+                  "object": "block",
+                  "id": "1c6a6e41-f23e-80cd-85b2-d0e16507ffc8",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "1c6a6e41-f23e-80e2-b715-d5b23a9a57d5"
+                  },
+                  "created_time": "2025-03-30T21:30:00.000Z",
+                  "last_edited_time": "2025-03-30T21:30:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Rings",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Rings",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                }
+              ]
+            },
+            {
+              "object": "block",
+              "id": "1c6a6e41-f23e-8016-a12c-e84d1a04d84c",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c6a6e41-f23e-8059-8ca9-f1d1574aa8c4"
+              },
+              "created_time": "2025-03-30T21:31:00.000Z",
+              "last_edited_time": "2025-03-30T21:32:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Meg paid for all the food, as well as a night at the hotel",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Meg paid for all the food, as well as a night at the hotel",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1c6a6e41-f23e-80fd-9885-f509a2defb3a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "176a6e41-f23e-8090-b2c0-d06da2f847ba"
+      },
+      "created_time": "2025-03-30T20:27:00.000Z",
+      "last_edited_time": "2025-03-30T20:28:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1c6a6e41-f23e-8000-ab42-c38f0e8958ee",
+      "parent": {
+        "type": "page_id",
+        "page_id": "176a6e41-f23e-8090-b2c0-d06da2f847ba"
+      },
+      "created_time": "2025-03-30T20:52:00.000Z",
+      "last_edited_time": "2025-03-30T20:52:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "176a6e41-f23e-809a-8f4e-f164cd581809",
+      "parent": {
+        "type": "page_id",
+        "page_id": "176a6e41-f23e-8090-b2c0-d06da2f847ba"
+      },
+      "created_time": "2025-01-09T21:50:00.000Z",
+      "last_edited_time": "2025-01-09T21:50:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "176a6e41-f23e-8094-8aa3-f65921cecfae",
+      "parent": {
+        "type": "page_id",
+        "page_id": "176a6e41-f23e-8090-b2c0-d06da2f847ba"
+      },
+      "created_time": "2025-01-09T21:50:00.000Z",
+      "last_edited_time": "2025-03-30T21:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Appendix",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Appendix",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "176a6e41-f23e-8028-9024-f3367ee3f7ed",
+      "parent": {
+        "type": "page_id",
+        "page_id": "176a6e41-f23e-8090-b2c0-d06da2f847ba"
+      },
+      "created_time": "2025-01-09T21:50:00.000Z",
+      "last_edited_time": "2025-03-30T21:28:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "The pamphlet — our relationship in graphs",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "The pamphlet — our relationship in graphs",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1c6a6e41-f23e-80bf-91d5-fd7a67f7f953",
+      "parent": {
+        "type": "page_id",
+        "page_id": "176a6e41-f23e-8090-b2c0-d06da2f847ba"
+      },
+      "created_time": "2025-03-30T21:45:00.000Z",
+      "last_edited_time": "2025-03-30T21:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/176a6e41f23e8090b2c0d06da2f847ba/1c6a6e41f23e80bf91d5fd7a67f7f953-20250330214500.png"
+        }
+      }
+    },
+    {
+      "object": "block",
+      "id": "176a6e41-f23e-8069-b3ff-ccde5c77674c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "176a6e41-f23e-8090-b2c0-d06da2f847ba"
+      },
+      "created_time": "2025-01-09T21:50:00.000Z",
+      "last_edited_time": "2025-03-30T22:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "The intrusive questions list",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "The intrusive questions list",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "176a6e41-f23e-80f0-94e8-f11362b73794",
+      "parent": {
+        "type": "page_id",
+        "page_id": "176a6e41-f23e-8090-b2c0-d06da2f847ba"
+      },
+      "created_time": "2025-01-09T21:55:00.000Z",
+      "last_edited_time": "2025-03-30T21:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "The food",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "The food",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "1c6a6e41-f23e-809d-b135-e7d8784d4ad4",
+          "parent": {
+            "type": "block_id",
+            "block_id": "176a6e41-f23e-80f0-94e8-f11362b73794"
+          },
+          "created_time": "2025-03-30T21:16:00.000Z",
+          "last_edited_time": "2025-03-30T21:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "We did a mix of catering local restaurants",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "We did a mix of catering local restaurants",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "1c6a6e41-f23e-80bd-b581-d723552b3b14",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c6a6e41-f23e-809d-b135-e7d8784d4ad4"
+              },
+              "created_time": "2025-03-30T21:40:00.000Z",
+              "last_edited_time": "2025-03-30T21:40:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "(which?)",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "(which?)",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "1c6a6e41-f23e-8010-992c-e36fcbf7ebd7",
+          "parent": {
+            "type": "block_id",
+            "block_id": "176a6e41-f23e-80f0-94e8-f11362b73794"
+          },
+          "created_time": "2025-03-30T21:16:00.000Z",
+          "last_edited_time": "2025-03-30T21:17:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Meg made an amazing wedding cake, I was sad to only have gotten one bite and then had to run off to do other wedding things",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Meg made an amazing wedding cake, I was sad to only have gotten one bite and then had to run off to do other wedding things",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "203a6e41-f23e-8075-a786-c200832d160f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "176a6e41-f23e-8090-b2c0-d06da2f847ba"
+      },
+      "created_time": "2025-05-30T20:34:00.000Z",
+      "last_edited_time": "2025-05-30T20:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1c6a6e41-f23e-80d1-99fa-e481abc0b7fa",
+      "parent": {
+        "type": "page_id",
+        "page_id": "176a6e41-f23e-8090-b2c0-d06da2f847ba"
+      },
+      "created_time": "2025-03-30T21:16:00.000Z",
+      "last_edited_time": "2025-05-30T20:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "See also",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "See also",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "203a6e41-f23e-8068-9b6f-f1a1bebbf16e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "176a6e41-f23e-8090-b2c0-d06da2f847ba"
+      },
+      "created_time": "2025-05-30T20:34:00.000Z",
+      "last_edited_time": "2025-05-30T20:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "https://wasabipesto.com/wedding/",
+              "link": {
+                "url": "https://wasabipesto.com/wedding/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://wasabipesto.com/wedding/",
+            "href": "https://wasabipesto.com/wedding/"
+          }
+        ],
+        "color": "default"
+      }
+    }
+  ]
+}

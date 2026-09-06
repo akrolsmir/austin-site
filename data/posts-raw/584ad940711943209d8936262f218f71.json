@@ -1,0 +1,3350 @@
+{
+  "page": {
+    "id": "584ad940711943209d8936262f218f71",
+    "title": "Your team should move from Google Docs to Notion",
+    "date": "2022-06-06",
+    "edited": "2023-05-09T20:39:00.000Z",
+    "url": "https://akrolsmir.notion.site/Your-team-should-move-from-Google-Docs-to-Notion-584ad940711943209d8936262f218f71",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "1f40161a-e61a-43c7-aa7a-8e65bf990c9f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "584ad940-7119-4320-9d89-36262f218f71"
+      },
+      "created_time": "2022-05-07T11:52:00.000Z",
+      "last_edited_time": "2022-06-06T15:02:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "TL;DR: Notion is better-linked, more comprehensive, more collaborative version of Google Docs that you should move your team onto.",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "TL;DR: Notion is better-linked, more comprehensive, more collaborative version of Google Docs that you should move your team onto.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "8d3ec8d3-6552-436d-a0c9-25ba65d4c86a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "584ad940-7119-4320-9d89-36262f218f71"
+      },
+      "created_time": "2022-06-06T05:51:00.000Z",
+      "last_edited_time": "2022-06-06T05:52:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Background",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Background",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1d1ef81d-e2f7-4b58-b513-de2755973fb9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "584ad940-7119-4320-9d89-36262f218f71"
+      },
+      "created_time": "2022-06-06T05:52:00.000Z",
+      "last_edited_time": "2022-06-06T15:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I used to work at Google, on Hangouts Chat (we sat in the same building as the Google Docs people). Google Docs was pretty good, I thought.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I used to work at Google, on Hangouts Chat (we sat in the same building as the Google Docs people). Google Docs was pretty good, I thought.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "ba1cbf1a-2e95-408d-8028-2a015640e914",
+      "parent": {
+        "type": "page_id",
+        "page_id": "584ad940-7119-4320-9d89-36262f218f71"
+      },
+      "created_time": "2022-06-06T15:03:00.000Z",
+      "last_edited_time": "2022-06-06T15:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Then I worked at Streamlit (founded by 3 ex-Googlers). This was my first time hearing about our lord and savior Notion. It was amazing.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Then I worked at Streamlit (founded by 3 ex-Googlers). This was my first time hearing about our lord and savior Notion. It was amazing.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "634ba181-3846-4575-8a07-3428ee43329e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "584ad940-7119-4320-9d89-36262f218f71"
+      },
+      "created_time": "2022-06-06T15:03:00.000Z",
+      "last_edited_time": "2022-06-06T15:04:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Now I work at Manifold (2 of the 3 founders are ex-Googlers). It’s incredibly hard to imagine operating without Notion.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Now I work at Manifold (2 of the 3 founders are ex-Googlers). It’s incredibly hard to imagine operating without Notion.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "74df30be-8e05-4920-b624-590136421982",
+      "parent": {
+        "type": "page_id",
+        "page_id": "584ad940-7119-4320-9d89-36262f218f71"
+      },
+      "created_time": "2022-06-06T05:53:00.000Z",
+      "last_edited_time": "2022-06-06T15:02:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I would happily pay $1000 each month to keep Notion in my life, over the next best alternative. Which means I value Notion more than a car (total cost of ownership on a cheap car is ~$600 a month).",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I would happily pay $1000 each month to keep Notion in my life, over the next best alternative. Which means I value Notion more than a car (total cost of ownership on a cheap car is ~$600 a month).",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "86a98f84-504d-4dcc-8059-4b57a890b7e1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "584ad940-7119-4320-9d89-36262f218f71"
+      },
+      "created_time": "2022-05-07T11:54:00.000Z",
+      "last_edited_time": "2022-06-06T05:11:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Notion for writing (vs Google Docs)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Notion for writing (vs Google Docs)",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "05a28c07-d3c3-4905-9233-bd198799f8f7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "584ad940-7119-4320-9d89-36262f218f71"
+      },
+      "created_time": "2022-05-07T12:03:00.000Z",
+      "last_edited_time": "2022-06-06T05:11:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Beautiful by default",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Beautiful by default",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2485e1af-3a8c-48f0-bd7a-b942c10a5e88",
+      "parent": {
+        "type": "page_id",
+        "page_id": "584ad940-7119-4320-9d89-36262f218f71"
+      },
+      "created_time": "2022-06-06T05:11:00.000Z",
+      "last_edited_time": "2022-06-06T05:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Never choose a font or adjust a margin again. Notion is far more restrictive in the styling options it allows you — which is GOOD. You don’t actually want to be spending any time whatsoever on the style for 99% of documents; you want to focus on the substance.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Never choose a font or adjust a margin again. Notion is far more restrictive in the styling options it allows you — which is GOOD. You don’t actually want to be spending any time whatsoever on the style for 99% of documents; you want to focus on the substance.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "38f119ba-3c8d-472c-a024-1b10d7191d22",
+      "parent": {
+        "type": "page_id",
+        "page_id": "584ad940-7119-4320-9d89-36262f218f71"
+      },
+      "created_time": "2022-06-06T05:12:00.000Z",
+      "last_edited_time": "2022-06-06T05:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "And Notion’s style is quite good; it obeys eg ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "And Notion’s style is quite good; it obeys eg ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "rules laid out for good typography",
+              "link": {
+                "url": "https://practicaltypography.com/what-is-good-typography.html"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "rules laid out for good typography",
+            "href": "https://practicaltypography.com/what-is-good-typography.html"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ".",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ".",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "9d008013-577c-4823-9865-660b8ca67dd3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "584ad940-7119-4320-9d89-36262f218f71"
+      },
+      "created_time": "2022-06-06T05:13:00.000Z",
+      "last_edited_time": "2022-06-06T05:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Shortcuts for common use cases",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Shortcuts for common use cases",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "bccc1d5f-03f1-4b3a-8e9f-94691e88d5df",
+      "parent": {
+        "type": "page_id",
+        "page_id": "584ad940-7119-4320-9d89-36262f218f71"
+      },
+      "created_time": "2022-06-06T05:17:00.000Z",
+      "last_edited_time": "2022-06-06T05:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "You can find all the things Notion supports by typing ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "You can find all the things Notion supports by typing ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "/",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": true,
+              "color": "default"
+            },
+            "plain_text": "/",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " . But once you get into the flow of writing, there’s a bunch of really quick shortcuts to pretty up your Notion doc:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " . But once you get into the flow of writing, there’s a bunch of really quick shortcuts to pretty up your Notion doc:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "b518c7ad-09ae-40a6-aab0-71c3ccdd0aea",
+      "parent": {
+        "type": "page_id",
+        "page_id": "584ad940-7119-4320-9d89-36262f218f71"
+      },
+      "created_time": "2022-06-06T05:14:00.000Z",
+      "last_edited_time": "2022-06-06T05:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "table",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "4ecec8cf-e73e-43ad-8e7e-fc969ef98c0e",
+          "parent": {
+            "type": "block_id",
+            "block_id": "b518c7ad-09ae-40a6-aab0-71c3ccdd0aea"
+          },
+          "created_time": "2022-06-06T05:17:00.000Z",
+          "last_edited_time": "2022-06-06T05:24:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "@pagetitle",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": true,
+                    "color": "default"
+                  },
+                  "plain_text": "@pagetitle",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Link to another Notion page",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Link to another Notion page",
+                  "href": null
+                }
+              ]
+            ]
+          }
+        },
+        {
+          "object": "block",
+          "id": "b01ef18f-f781-4c85-9642-da174f4dc677",
+          "parent": {
+            "type": "block_id",
+            "block_id": "b518c7ad-09ae-40a6-aab0-71c3ccdd0aea"
+          },
+          "created_time": "2022-06-06T05:14:00.000Z",
+          "last_edited_time": "2022-06-06T05:15:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "- hello",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": true,
+                    "color": "default"
+                  },
+                  "plain_text": "- hello",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Bulleted list",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Bulleted list",
+                  "href": null
+                }
+              ]
+            ]
+          }
+        },
+        {
+          "object": "block",
+          "id": "3948f7c3-6bbd-451b-ba25-2679a7548d77",
+          "parent": {
+            "type": "block_id",
+            "block_id": "b518c7ad-09ae-40a6-aab0-71c3ccdd0aea"
+          },
+          "created_time": "2022-06-06T05:14:00.000Z",
+          "last_edited_time": "2022-06-06T05:15:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "1. goodbye",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": true,
+                    "color": "default"
+                  },
+                  "plain_text": "1. goodbye",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Numbered list",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Numbered list",
+                  "href": null
+                }
+              ]
+            ]
+          }
+        },
+        {
+          "object": "block",
+          "id": "974a0d23-089a-4caf-882f-467f8626accd",
+          "parent": {
+            "type": "block_id",
+            "block_id": "b518c7ad-09ae-40a6-aab0-71c3ccdd0aea"
+          },
+          "created_time": "2022-06-06T05:14:00.000Z",
+          "last_edited_time": "2022-06-06T05:15:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "# Heading",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": true,
+                    "color": "default"
+                  },
+                  "plain_text": "# Heading",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Title (use ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Title (use ",
+                  "href": null
+                },
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "##",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": true,
+                    "color": "default"
+                  },
+                  "plain_text": "##",
+                  "href": null
+                },
+                {
+                  "type": "text",
+                  "text": {
+                    "content": " or ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": " or ",
+                  "href": null
+                },
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "###",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": true,
+                    "color": "default"
+                  },
+                  "plain_text": "###",
+                  "href": null
+                },
+                {
+                  "type": "text",
+                  "text": {
+                    "content": " for smaller titles)",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": " for smaller titles)",
+                  "href": null
+                }
+              ]
+            ]
+          }
+        },
+        {
+          "object": "block",
+          "id": "d4a5f8d2-389a-4d87-a1c1-9af6cb45f497",
+          "parent": {
+            "type": "block_id",
+            "block_id": "b518c7ad-09ae-40a6-aab0-71c3ccdd0aea"
+          },
+          "created_time": "2022-06-06T05:15:00.000Z",
+          "last_edited_time": "2022-06-06T05:15:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "[ ] task one",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": true,
+                    "color": "default"
+                  },
+                  "plain_text": "[ ] task one",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Checkbox",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Checkbox",
+                  "href": null
+                }
+              ]
+            ]
+          }
+        },
+        {
+          "object": "block",
+          "id": "44fa804c-f35e-4514-8899-25d03fe768d8",
+          "parent": {
+            "type": "block_id",
+            "block_id": "b518c7ad-09ae-40a6-aab0-71c3ccdd0aea"
+          },
+          "created_time": "2022-06-06T05:19:00.000Z",
+          "last_edited_time": "2022-06-06T05:19:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "> Extra info",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": true,
+                    "color": "default"
+                  },
+                  "plain_text": "> Extra info",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Toggle (good for footnotes)",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Toggle (good for footnotes)",
+                  "href": null
+                }
+              ]
+            ]
+          }
+        },
+        {
+          "object": "block",
+          "id": "9692a71d-449b-4529-aaf2-67099c5edcd4",
+          "parent": {
+            "type": "block_id",
+            "block_id": "b518c7ad-09ae-40a6-aab0-71c3ccdd0aea"
+          },
+          "created_time": "2022-06-06T05:15:00.000Z",
+          "last_edited_time": "2022-06-06T05:16:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Paste link",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Paste link",
+                  "href": null
+                }
+              ],
+              []
+            ]
+          }
+        },
+        {
+          "object": "block",
+          "id": "1c111dbe-40c9-4165-b5bd-03c1d17f6500",
+          "parent": {
+            "type": "block_id",
+            "block_id": "b518c7ad-09ae-40a6-aab0-71c3ccdd0aea"
+          },
+          "created_time": "2022-06-06T05:15:00.000Z",
+          "last_edited_time": "2022-06-06T05:17:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Paste image",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Paste image",
+                  "href": null
+                }
+              ],
+              []
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "a65173a8-0d9c-4bd0-b714-716491d5cbb3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "584ad940-7119-4320-9d89-36262f218f71"
+      },
+      "created_time": "2022-06-06T05:20:00.000Z",
+      "last_edited_time": "2022-06-06T05:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Link to everything else",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Link to everything else",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3c1c0c7e-84a4-44a9-ac0a-8a52510d563b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "584ad940-7119-4320-9d89-36262f218f71"
+      },
+      "created_time": "2022-06-06T05:24:00.000Z",
+      "last_edited_time": "2022-06-06T05:27:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Once again: Linking to ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Once again: Linking to ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "any other Notion doc you’ve ever written",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "any other Notion doc you’ve ever written",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " is trivially easy: just type ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " is trivially easy: just type ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "@pagetitle",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": true,
+              "color": "default"
+            },
+            "plain_text": "@pagetitle",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " and pick the  ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " and pick the  ",
+            "href": null
+          },
+          {
+            "type": "mention",
+            "mention": {
+              "type": "page",
+              "page": {
+                "id": "ce35d024-266a-47c9-af45-a2fa6d7efd86"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Austin's Notes",
+            "href": "https://app.notion.com/p/ce35d024266a47c9af45a2fa6d7efd86"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ".",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ".",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "d13afb44-12f7-4c7c-a844-b7f2a5f8a082",
+      "parent": {
+        "type": "page_id",
+        "page_id": "584ad940-7119-4320-9d89-36262f218f71"
+      },
+      "created_time": "2022-06-06T05:27:00.000Z",
+      "last_edited_time": "2022-06-06T05:27:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Sure, you could do this in Google docs by going to find the thing you want to link, and then putting the URL in, and creating a hyperlink; but that 1 minute process is 3 seconds. Notion removes the ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Sure, you could do this in Google docs by going to find the thing you want to link, and then putting the URL in, and creating a hyperlink; but that 1 minute process is 3 seconds. Notion removes the ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "trivial inconvenience",
+              "link": {
+                "url": "https://www.lesswrong.com/posts/reitXJgJXFzKpdKyd/beware-trivial-inconveniences"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "trivial inconvenience",
+            "href": "https://www.lesswrong.com/posts/reitXJgJXFzKpdKyd/beware-trivial-inconveniences"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " of linking between things, meaning that ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " of linking between things, meaning that ",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "84184f00-d4be-4a9b-b905-abd9f730dd16",
+      "parent": {
+        "type": "page_id",
+        "page_id": "584ad940-7119-4320-9d89-36262f218f71"
+      },
+      "created_time": "2022-05-07T11:58:00.000Z",
+      "last_edited_time": "2022-06-06T05:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Export everywhere without breaking formatting",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Export everywhere without breaking formatting",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "0541dcad-92d5-41f8-b738-4d587531316c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "584ad940-7119-4320-9d89-36262f218f71"
+      },
+      "created_time": "2022-06-06T05:06:00.000Z",
+      "last_edited_time": "2023-05-09T20:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "One amazing thing about Notion is that if you just copy the whole thing, it pastes with",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "One amazing thing about Notion is that if you just copy the whole thing, it pastes with",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "44a8f94d-a5fa-4eed-bad8-432986eefb55",
+          "parent": {
+            "type": "block_id",
+            "block_id": "0541dcad-92d5-41f8-b738-4d587531316c"
+          },
+          "created_time": "2022-06-06T05:07:00.000Z",
+          "last_edited_time": "2022-06-06T05:07:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Rich Text (HTML-style formatting that works in e.g. Substack and LessWrong)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Rich Text (HTML-style formatting that works in e.g. Substack and LessWrong)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "9cbb8c7e-1c29-4d4f-ae28-e60cba787226",
+          "parent": {
+            "type": "block_id",
+            "block_id": "0541dcad-92d5-41f8-b738-4d587531316c"
+          },
+          "created_time": "2022-06-06T05:07:00.000Z",
+          "last_edited_time": "2022-06-06T05:21:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Markdown plain text (which is usable by a lot of programmer text things like GitHub)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Markdown plain text (which is usable by a lot of programmer text things like GitHub)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "7b8c191f-f9b0-4b36-bf91-2b4e26b0490b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "584ad940-7119-4320-9d89-36262f218f71"
+      },
+      "created_time": "2022-06-06T05:20:00.000Z",
+      "last_edited_time": "2022-06-06T05:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "toggle",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Caveat on pasting Notion images",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Caveat on pasting Notion images",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "1d9c7567-0680-4b9c-a950-fc320568a3f3",
+          "parent": {
+            "type": "block_id",
+            "block_id": "7b8c191f-f9b0-4b36-bf91-2b4e26b0490b"
+          },
+          "created_time": "2022-06-06T05:21:00.000Z",
+          "last_edited_time": "2022-06-06T05:22:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Images that you paste into Notion will be hosted by Notion, but don’t rely on it externally because it will expire soon (I think in 24h or so)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Images that you paste into Notion will be hosted by Notion, but don’t rely on it externally because it will expire soon (I think in 24h or so)",
+                "href": null
+              }
+            ],
+            "icon": null,
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "0bdc358c-6ea4-4831-b20b-542fa14df9e7",
+          "parent": {
+            "type": "block_id",
+            "block_id": "7b8c191f-f9b0-4b36-bf91-2b4e26b0490b"
+          },
+          "created_time": "2022-06-06T05:49:00.000Z",
+          "last_edited_time": "2022-06-06T05:49:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [],
+            "icon": null,
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "265e8973-5d87-409b-b838-5f35300a5451",
+          "parent": {
+            "type": "block_id",
+            "block_id": "7b8c191f-f9b0-4b36-bf91-2b4e26b0490b"
+          },
+          "created_time": "2022-06-06T05:49:00.000Z",
+          "last_edited_time": "2022-06-06T05:49:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [],
+            "icon": null,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "0660eac7-73dc-4b3f-8997-c2b1ba4593c6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "584ad940-7119-4320-9d89-36262f218f71"
+      },
+      "created_time": "2022-06-06T05:49:00.000Z",
+      "last_edited_time": "2022-06-06T05:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1b89571d-4e49-4c41-9826-27d36cf0d307",
+      "parent": {
+        "type": "page_id",
+        "page_id": "584ad940-7119-4320-9d89-36262f218f71"
+      },
+      "created_time": "2022-05-07T11:56:00.000Z",
+      "last_edited_time": "2022-06-06T05:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Example: Seed Round Memo",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Example: Seed Round Memo",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "b980dc05-d821-4b88-9c9d-ec26e498b99e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "584ad940-7119-4320-9d89-36262f218f71"
+      },
+      "created_time": "2022-05-07T11:58:00.000Z",
+      "last_edited_time": "2022-06-06T05:30:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Notion for meetings",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Notion for meetings",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3d6437cf-35bd-44c5-85da-22cb60fa9295",
+      "parent": {
+        "type": "page_id",
+        "page_id": "584ad940-7119-4320-9d89-36262f218f71"
+      },
+      "created_time": "2022-06-06T05:29:00.000Z",
+      "last_edited_time": "2022-06-06T05:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "As an extension to docs; Notion is great for hosting all your meeting notes",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "As an extension to docs; Notion is great for hosting all your meeting notes",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "57eb9491-838a-4ae4-a3f3-44d2ea9854e8",
+          "parent": {
+            "type": "block_id",
+            "block_id": "3d6437cf-35bd-44c5-85da-22cb60fa9295"
+          },
+          "created_time": "2022-06-06T05:31:00.000Z",
+          "last_edited_time": "2022-06-06T05:35:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "toggle",
+          "toggle": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Calendar view lets you browse meetings chronologically ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Calendar view lets you browse meetings chronologically ",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "477b9471-325f-4488-962c-b9cad0e5a723",
+              "parent": {
+                "type": "block_id",
+                "block_id": "57eb9491-838a-4ae4-a3f3-44d2ea9854e8"
+              },
+              "created_time": "2022-06-06T05:32:00.000Z",
+              "last_edited_time": "2022-06-06T05:35:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "image",
+              "image": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/584ad940711943209d8936262f218f71/477b9471325f4488962cb9cad0e5a723-20220606053500.png"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "5ceb36a5-6169-4ca9-8f51-54aceba26264",
+          "parent": {
+            "type": "block_id",
+            "block_id": "3d6437cf-35bd-44c5-85da-22cb60fa9295"
+          },
+          "created_time": "2022-06-06T05:30:00.000Z",
+          "last_edited_time": "2022-06-06T05:35:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "toggle",
+          "toggle": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Templates prepopulates the meeting with a bunch of requisite information, eg for Daily Standup",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Templates prepopulates the meeting with a bunch of requisite information, eg for Daily Standup",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "6e1103db-2cab-4085-b54b-287f6f33e363",
+              "parent": {
+                "type": "block_id",
+                "block_id": "5ceb36a5-6169-4ca9-8f51-54aceba26264"
+              },
+              "created_time": "2022-06-06T05:33:00.000Z",
+              "last_edited_time": "2022-06-06T05:34:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "image",
+              "image": {
+                "caption": [],
+                "type": "external",
+                "external": {
+                  "url": "https://i.imgur.com/ZH5qGgD.png"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "d4fb25be-2171-468a-a088-359006bcf0b1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "584ad940-7119-4320-9d89-36262f218f71"
+      },
+      "created_time": "2022-06-06T05:30:00.000Z",
+      "last_edited_time": "2022-06-06T05:30:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Example: Manifold Meeting Notes",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Example: Manifold Meeting Notes",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "5614f00a-2ee3-4b9f-af0e-3a7c8b6e562d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "584ad940-7119-4320-9d89-36262f218f71"
+      },
+      "created_time": "2022-05-07T11:56:00.000Z",
+      "last_edited_time": "2022-05-07T12:01:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Notion for tables (vs Google Sheets)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Notion for tables (vs Google Sheets)",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "8e9e9bf7-4122-4ae3-a451-07a770c639a8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "584ad940-7119-4320-9d89-36262f218f71"
+      },
+      "created_time": "2022-05-07T12:02:00.000Z",
+      "last_edited_time": "2023-05-09T20:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Caveat: If you actually want to do anything more complicated than sums/averages in your sheets, eg any kind of mathematical modeling, you should probably use Google Sheets or Excel.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Caveat: If you actually want to do anything more complicated than sums/averages in your sheets, eg any kind of mathematical modeling, you should probably use Google Sheets or Excel.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3d038733-ff52-47c2-89b5-5df7cf7c366c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "584ad940-7119-4320-9d89-36262f218f71"
+      },
+      "created_time": "2022-05-07T11:57:00.000Z",
+      "last_edited_time": "2022-05-07T11:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "096e7ef1-dd14-4cb8-8a72-c7831ec92adb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "584ad940-7119-4320-9d89-36262f218f71"
+      },
+      "created_time": "2022-05-07T11:57:00.000Z",
+      "last_edited_time": "2022-06-06T05:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Notion for tasks (vs Asana, Trello)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Notion for tasks (vs Asana, Trello)",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "edb10014-4e2a-4223-999b-cd8742eb7e81",
+      "parent": {
+        "type": "page_id",
+        "page_id": "584ad940-7119-4320-9d89-36262f218f71"
+      },
+      "created_time": "2022-06-06T05:49:00.000Z",
+      "last_edited_time": "2022-06-06T05:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/584ad940711943209d8936262f218f71/edb100144e2a4223999bcd8742eb7e81-20220606054900.png"
+        }
+      }
+    },
+    {
+      "object": "block",
+      "id": "3ac8208b-a378-42ce-9ce5-18e58c078284",
+      "parent": {
+        "type": "page_id",
+        "page_id": "584ad940-7119-4320-9d89-36262f218f71"
+      },
+      "created_time": "2022-06-06T05:08:00.000Z",
+      "last_edited_time": "2022-06-06T05:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Example",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Example",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "455422e8-0238-4589-afb4-fb40d8c755cc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "584ad940-7119-4320-9d89-36262f218f71"
+      },
+      "created_time": "2022-05-07T12:02:00.000Z",
+      "last_edited_time": "2022-05-07T12:02:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Manifold Tasks",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Manifold Tasks",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "88d2a05d-f1b1-473c-8188-45a5745433eb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "584ad940-7119-4320-9d89-36262f218f71"
+      },
+      "created_time": "2022-05-07T11:57:00.000Z",
+      "last_edited_time": "2022-05-07T11:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "e8e572cf-c9a2-4cea-bca1-d7d9f139424a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "584ad940-7119-4320-9d89-36262f218f71"
+      },
+      "created_time": "2022-05-07T11:57:00.000Z",
+      "last_edited_time": "2022-05-07T12:01:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Notion for “wiki” (vs ???)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Notion for “wiki” (vs ???)",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "876f9564-0501-457b-9172-1f924219df07",
+      "parent": {
+        "type": "page_id",
+        "page_id": "584ad940-7119-4320-9d89-36262f218f71"
+      },
+      "created_time": "2022-06-06T05:10:00.000Z",
+      "last_edited_time": "2022-06-06T05:36:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "The biggest shift after using Notion, though, is when your team starts putting all their information and thoughts into Notion. Then, you can quickly browse through the idea-space of what everyone else is thinking about; and they can browse through yours. It becomes really quick to drop into ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "The biggest shift after using Notion, though, is when your team starts putting all their information and thoughts into Notion. Then, you can quickly browse through the idea-space of what everyone else is thinking about; and they can browse through yours. It becomes really quick to drop into ",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "dfc9a983-5bdf-401b-bef1-10910d1f4fb0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "584ad940-7119-4320-9d89-36262f218f71"
+      },
+      "created_time": "2022-05-07T11:57:00.000Z",
+      "last_edited_time": "2022-06-06T15:02:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Notion for websites (vs Webflow/Contentful)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Notion for websites (vs Webflow/Contentful)",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "edb6f0ea-1dae-4ddf-9c73-e97ed64563f2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "584ad940-7119-4320-9d89-36262f218f71"
+      },
+      "created_time": "2022-06-06T05:29:00.000Z",
+      "last_edited_time": "2022-06-06T05:29:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "deb966d2-8a66-45e2-a445-561eacddb2d4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "584ad940-7119-4320-9d89-36262f218f71"
+      },
+      "created_time": "2022-05-07T11:58:00.000Z",
+      "last_edited_time": "2022-06-06T05:11:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "One tool to rule them all",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "One tool to rule them all",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "86637794-66a0-42dd-bef6-035e428096e0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "584ad940-7119-4320-9d89-36262f218f71"
+      },
+      "created_time": "2022-05-07T11:58:00.000Z",
+      "last_edited_time": "2022-05-07T12:04:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "9bfcb4cb-9f6a-4f08-b0cd-f6b5ad431581",
+      "parent": {
+        "type": "page_id",
+        "page_id": "584ad940-7119-4320-9d89-36262f218f71"
+      },
+      "created_time": "2022-05-07T11:54:00.000Z",
+      "last_edited_time": "2022-05-07T12:01:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Notion Cons",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Notion Cons",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "c04cfbe2-00f6-4dae-8e03-7af2296f4c5a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "584ad940-7119-4320-9d89-36262f218f71"
+      },
+      "created_time": "2022-05-07T11:54:00.000Z",
+      "last_edited_time": "2022-06-06T05:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "It’s not as free",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "It’s not as free",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "c493b775-53bc-4700-b736-6498cf205b91",
+          "parent": {
+            "type": "block_id",
+            "block_id": "c04cfbe2-00f6-4dae-8e03-7af2296f4c5a"
+          },
+          "created_time": "2022-06-06T05:39:00.000Z",
+          "last_edited_time": "2022-06-06T05:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Free tier for individuals is decent; for teams, you probably should just pay for it",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Free tier for individuals is decent; for teams, you probably should just pay for it",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "8bcd48b0-f888-4744-95d5-07d1cc4a6442",
+      "parent": {
+        "type": "page_id",
+        "page_id": "584ad940-7119-4320-9d89-36262f218f71"
+      },
+      "created_time": "2022-05-07T11:54:00.000Z",
+      "last_edited_time": "2022-06-06T05:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "It’s a bit slower for large pages, and search",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "It’s a bit slower for large pages, and search",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "442154f6-fd59-428b-9465-9fd0d24f4f14",
+          "parent": {
+            "type": "block_id",
+            "block_id": "8bcd48b0-f888-4744-95d5-07d1cc4a6442"
+          },
+          "created_time": "2022-06-06T05:40:00.000Z",
+          "last_edited_time": "2022-06-06T05:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "“Bit slower” means “not instant speed eg <0.5s”, but it’s serviceable for basically every use case",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "“Bit slower” means “not instant speed eg <0.5s”, but it’s serviceable for basically every use case",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "ec599cd4-ea34-45b4-81a3-78f3578fd415",
+      "parent": {
+        "type": "page_id",
+        "page_id": "584ad940-7119-4320-9d89-36262f218f71"
+      },
+      "created_time": "2022-05-07T11:55:00.000Z",
+      "last_edited_time": "2022-06-06T05:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Google Sheets or Excel is better for mathematical modeling",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Google Sheets or Excel is better for mathematical modeling",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "1b1623d0-574b-4b36-8e7e-e2b9c60c0623",
+          "parent": {
+            "type": "block_id",
+            "block_id": "ec599cd4-ea34-45b4-81a3-78f3578fd415"
+          },
+          "created_time": "2022-06-06T05:40:00.000Z",
+          "last_edited_time": "2022-06-06T05:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "I still turn to Google Sheets to do “real math”",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "I still turn to Google Sheets to do “real math”",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "a578e317-b4bf-4f74-97b8-875091aeb63f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "584ad940-7119-4320-9d89-36262f218f71"
+      },
+      "created_time": "2022-06-06T05:09:00.000Z",
+      "last_edited_time": "2022-06-06T05:28:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "It’s a bit confusing to new collaborators",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "It’s a bit confusing to new collaborators",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "76b42423-65e0-437a-82db-ccbf202e61de",
+          "parent": {
+            "type": "block_id",
+            "block_id": "a578e317-b4bf-4f74-97b8-875091aeb63f"
+          },
+          "created_time": "2022-06-06T05:09:00.000Z",
+          "last_edited_time": "2022-06-06T05:09:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Viewing experience is okay, but editing is kinda hard to grok the first time",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Viewing experience is okay, but editing is kinda hard to grok the first time",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "3935cb25-a985-4062-bfe6-ec18817802c1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "584ad940-7119-4320-9d89-36262f218f71"
+      },
+      "created_time": "2022-06-06T05:28:00.000Z",
+      "last_edited_time": "2022-06-06T05:29:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Doesn’t have the “editor mode” of Google docs, where someone can propose changes by directly editing the doc.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Doesn’t have the “editor mode” of Google docs, where someone can propose changes by directly editing the doc.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "3b1d5d49-3ee1-4173-bb23-5c7bffe4f6b7",
+          "parent": {
+            "type": "block_id",
+            "block_id": "3935cb25-a985-4062-bfe6-ec18817802c1"
+          },
+          "created_time": "2022-06-06T05:28:00.000Z",
+          "last_edited_time": "2022-06-06T05:28:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Though, this might be a good thing - I actually just prefer others to write over most of my documents.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Though, this might be a good thing - I actually just prefer others to write over most of my documents.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "07bb3c85-b109-4dd2-a9d5-c1915a52284c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "3935cb25-a985-4062-bfe6-ec18817802c1"
+          },
+          "created_time": "2022-06-06T05:28:00.000Z",
+          "last_edited_time": "2022-06-06T05:29:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Notion pattern: I’ll often prefix an inline change with [Austin] or [A] to indicate the authorship of who’s writing",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Notion pattern: I’ll often prefix an inline change with [Austin] or [A] to indicate the authorship of who’s writing",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "5edfca5d-8af3-4ac0-b851-1b60d00ec9a8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "584ad940-7119-4320-9d89-36262f218f71"
+      },
+      "created_time": "2022-05-07T11:59:00.000Z",
+      "last_edited_time": "2022-05-07T11:59:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "403fb6fe-042a-42de-aeaf-7fdd8e422832",
+      "parent": {
+        "type": "page_id",
+        "page_id": "584ad940-7119-4320-9d89-36262f218f71"
+      },
+      "created_time": "2022-05-07T11:58:00.000Z",
+      "last_edited_time": "2022-06-06T05:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Try Notion for $100 to charity!",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Try Notion for $100 to charity!",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "084c61a5-9363-48ba-8bf5-e85aea449657",
+      "parent": {
+        "type": "page_id",
+        "page_id": "584ad940-7119-4320-9d89-36262f218f71"
+      },
+      "created_time": "2022-06-06T05:36:00.000Z",
+      "last_edited_time": "2022-06-06T05:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "If you’re on the edge, or doubting that Notion is better than Google Docs: I’m willing to bet on it. Set up a Manifold Market on “Will I want to continue using Notion after a month” to record the bet. If it resolves to NO, I’ll send you M$10,000 aka 100 USD to your favorite charity.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "If you’re on the edge, or doubting that Notion is better than Google Docs: I’m willing to bet on it. Set up a Manifold Market on “Will I want to continue using Notion after a month” to record the bet. If it resolves to NO, I’ll send you M$10,000 aka 100 USD to your favorite charity.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "6dd20295-5fe6-4132-9c15-94b0798a986e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "584ad940-7119-4320-9d89-36262f218f71"
+      },
+      "created_time": "2022-06-06T05:38:00.000Z",
+      "last_edited_time": "2022-06-06T05:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "If it resolves YES, though, you commit to buying M$10,000 yourself. Which you can then still send to your favorite charity!",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "If it resolves YES, though, you commit to buying M$10,000 yourself. Which you can then still send to your favorite charity!",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3ccf162f-0ac5-4695-9ebe-47132c1b1347",
+      "parent": {
+        "type": "page_id",
+        "page_id": "584ad940-7119-4320-9d89-36262f218f71"
+      },
+      "created_time": "2022-05-07T11:58:00.000Z",
+      "last_edited_time": "2022-05-07T11:58:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    }
+  ]
+}

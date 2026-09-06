@@ -1,0 +1,1403 @@
+{
+  "page": {
+    "id": "2ada6e41f23e80d08119e9f63ddc2377",
+    "title": "With gratitude to the FTX Future Fund",
+    "date": "2025-11-16T21:00:00.000+00:00",
+    "edited": "2025-11-16T21:25:00.000Z",
+    "url": "https://akrolsmir.notion.site/With-gratitude-to-the-FTX-Future-Fund-2ada6e41f23e80d08119e9f63ddc2377",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "2ada6e41-f23e-807d-b39f-d3bf56822b06",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2ada6e41-f23e-80d0-8119-e9f63ddc2377"
+      },
+      "created_time": "2025-11-16T21:03:00.000Z",
+      "last_edited_time": "2025-11-16T21:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "[status: incomplete, but technically published for a blog-a-thon]",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "[status: incomplete, but technically published for a blog-a-thon]",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2ada6e41-f23e-80b5-88ee-e1dd1e5c516e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2ada6e41-f23e-80d0-8119-e9f63ddc2377"
+      },
+      "created_time": "2025-11-16T20:32:00.000Z",
+      "last_edited_time": "2025-11-16T21:00:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "My first interaction with the FTX Future Fund was in the March of 2022. Linchuan Zhang, who’d reviewed Manifold’s previous application to the (unrelated) Long-Term Future Fund, revealed that he was an Future Fund regrantor, and offered to lead our seed round: investing $250k at 10M valuation cap, and a further $750k, contingent on us raising the same amount externally. (At the time, I didn’t appreciate the wisdom in this, but this structure challenged us to build up the muscle of being able to pitch angels and VCs.) At the time, it was the coolest thing in the world to have gotten an email from the legendary SBF himself — one single word, “done!” upon signing our SAFE.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "My first interaction with the FTX Future Fund was in the March of 2022. Linchuan Zhang, who’d reviewed Manifold’s previous application to the (unrelated) Long-Term Future Fund, revealed that he was an Future Fund regrantor, and offered to lead our seed round: investing $250k at 10M valuation cap, and a further $750k, contingent on us raising the same amount externally. (At the time, I didn’t appreciate the wisdom in this, but this structure challenged us to build up the muscle of being able to pitch angels and VCs.) At the time, it was the coolest thing in the world to have gotten an email from the legendary SBF himself — one single word, “done!” upon signing our SAFE.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2ada6e41-f23e-8078-b814-f2c8f4820e35",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2ada6e41-f23e-80d0-8119-e9f63ddc2377"
+      },
+      "created_time": "2025-11-16T20:39:00.000Z",
+      "last_edited_time": "2025-11-16T21:00:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "My next interaction with the Future Fund was also in March, when we applied for funding to start up Manifold’s prediction markets for charity. We’d gotten users excited to trade in mana, our play currency, but we wanted something real-er to back it up. Real money or crypto seemed like a huge legal hassle — and inspired by a blog post about using charity dollars to settle bets instead, I decided we should give this a try, and ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "My next interaction with the Future Fund was also in March, when we applied for funding to start up Manifold’s prediction markets for charity. We’d gotten users excited to trade in mana, our play currency, but we wanted something real-er to back it up. Real money or crypto seemed like a huge legal hassle — and inspired by a blog post about using charity dollars to settle bets instead, I decided we should give this a try, and ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "applied",
+              "link": {
+                "url": "https://news.manifold.markets/p/predicting-for-good-charity-prediction"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "applied",
+            "href": "https://news.manifold.markets/p/predicting-for-good-charity-prediction"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " for a grant. (Fun fact: posting this grant application led Ian Phillips, Manifold’s founding engineer and now 4th cofounder, to reach out. It pays to post in public!) The Future Fund seemed embarrassed by the extra time they requested to evaluate our application; 8 weeks instead of the usual 2. Now, after having been on both sides of various grant processes, that seems like an entirely reasonable timeline. This $500k grant also led us to spin up a 501c3 offshoot to receive the funds, which eventually became Manifund.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " for a grant. (Fun fact: posting this grant application led Ian Phillips, Manifold’s founding engineer and now 4th cofounder, to reach out. It pays to post in public!) The Future Fund seemed embarrassed by the extra time they requested to evaluate our application; 8 weeks instead of the usual 2. Now, after having been on both sides of various grant processes, that seems like an entirely reasonable timeline. This $500k grant also led us to spin up a 501c3 offshoot to receive the funds, which eventually became Manifund.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2ada6e41-f23e-80b2-95b0-edf1b9487299",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2ada6e41-f23e-80d0-8119-e9f63ddc2377"
+      },
+      "created_time": "2025-11-16T21:04:00.000Z",
+      "last_edited_time": "2025-11-16T21:04:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2ada6e41-f23e-800f-832d-c2c7d49836b3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2ada6e41-f23e-80d0-8119-e9f63ddc2377"
+      },
+      "created_time": "2025-11-16T21:04:00.000Z",
+      "last_edited_time": "2025-11-16T21:04:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "[TODO: meeting the FF team and helping set up their airtable]",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "[TODO: meeting the FF team and helping set up their airtable]",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2ada6e41-f23e-807d-99db-e55a1a571e86",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2ada6e41-f23e-80d0-8119-e9f63ddc2377"
+      },
+      "created_time": "2025-11-16T21:04:00.000Z",
+      "last_edited_time": "2025-11-16T21:04:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "[TODO: FTX fallout]",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "[TODO: FTX fallout]",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2ada6e41-f23e-8095-9003-ef6f0578f234",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2ada6e41-f23e-80d0-8119-e9f63ddc2377"
+      },
+      "created_time": "2025-11-16T21:04:00.000Z",
+      "last_edited_time": "2025-11-16T21:04:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2ada6e41-f23e-808f-9620-d85d7360f5dd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2ada6e41-f23e-80d0-8119-e9f63ddc2377"
+      },
+      "created_time": "2025-11-16T21:04:00.000Z",
+      "last_edited_time": "2025-11-16T21:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Why was the Future Fund so great?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Why was the Future Fund so great?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2ada6e41-f23e-8004-aea9-f834d767e800",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2ada6e41-f23e-80d0-8119-e9f63ddc2377"
+      },
+      "created_time": "2025-11-16T21:11:00.000Z",
+      "last_edited_time": "2025-11-16T21:12:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "In short: they moved fast, they worked in public, and they build a small team of insanely great folks. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "In short: they moved fast, they worked in public, and they build a small team of insanely great folks. ",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2ada6e41-f23e-80f0-a4ef-e9f25cc5c093",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2ada6e41-f23e-80d0-8119-e9f63ddc2377"
+      },
+      "created_time": "2025-11-16T21:05:00.000Z",
+      "last_edited_time": "2025-11-16T21:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "[TODO]",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "[TODO]",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2ada6e41-f23e-8063-8e00-c1064bbda7b2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2ada6e41-f23e-80d0-8119-e9f63ddc2377"
+      },
+      "created_time": "2025-11-16T18:57:00.000Z",
+      "last_edited_time": "2025-11-16T21:00:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1c121459-6d5f-4333-942a-f86eb247dc1b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2ada6e41-f23e-80d0-8119-e9f63ddc2377"
+      },
+      "created_time": "2023-03-25T22:10:00.000Z",
+      "last_edited_time": "2025-11-16T21:00:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Where are they now?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Where are they now?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2ada6e41-f23e-803e-a714-c615386cbdb4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2ada6e41-f23e-80d0-8119-e9f63ddc2377"
+      },
+      "created_time": "2025-11-16T18:58:00.000Z",
+      "last_edited_time": "2025-11-16T21:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Nick Beckstead",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Nick Beckstead",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " started the Secure AI Project, helping state legislators pass good laws on AI safety, such as California’s SB 53.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " started the Secure AI Project, helping state legislators pass good laws on AI safety, such as California’s SB 53.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2ada6e41-f23e-80cd-8b8a-c33298079dad",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2ada6e41-f23e-80d0-8119-e9f63ddc2377"
+      },
+      "created_time": "2025-11-16T19:00:00.000Z",
+      "last_edited_time": "2025-11-16T21:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Leopold Aschenbrenner",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Leopold Aschenbrenner",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " went on to a short stint at OpenAI’s superalignment team, then published Situational Awareness, and now is running a hedge fund that’s made hundreds of millions in returns.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " went on to a short stint at OpenAI’s superalignment team, then published Situational Awareness, and now is running a hedge fund that’s made hundreds of millions in returns.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2ada6e41-f23e-80c1-8599-dcba1d2eeb1d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2ada6e41-f23e-80d0-8119-e9f63ddc2377"
+      },
+      "created_time": "2025-11-16T19:03:00.000Z",
+      "last_edited_time": "2025-11-16T21:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Avital Balwit",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Avital Balwit",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " is currently chief of staff to Dario Amodei, CEO of Anthropic.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " is currently chief of staff to Dario Amodei, CEO of Anthropic.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2ada6e41-f23e-803a-a0bd-f850e52f00c9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2ada6e41-f23e-80d0-8119-e9f63ddc2377"
+      },
+      "created_time": "2025-11-16T19:07:00.000Z",
+      "last_edited_time": "2025-11-16T21:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Ketan Ramakrishnan",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Ketan Ramakrishnan",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " is now an Associate Professor of Law at Yale.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " is now an Associate Professor of Law at Yale.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2ada6e41-f23e-8066-9d2a-e40ed24dbb6d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2ada6e41-f23e-80d0-8119-e9f63ddc2377"
+      },
+      "created_time": "2025-11-16T19:04:00.000Z",
+      "last_edited_time": "2025-11-16T21:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Will MacAskill",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Will MacAskill",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " founded Forethought, and is publishing research on the transition to superintelligent AI systems.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " founded Forethought, and is publishing research on the transition to superintelligent AI systems.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2ada6e41-f23e-8005-9db3-ea36a0b8dd0a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2ada6e41-f23e-80d0-8119-e9f63ddc2377"
+      },
+      "created_time": "2025-11-16T19:43:00.000Z",
+      "last_edited_time": "2025-11-16T21:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "None of them work on funding or grantmaking.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "None of them work on funding or grantmaking.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2ada6e41-f23e-8046-8b6e-f223e5e4bba2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2ada6e41-f23e-80d0-8119-e9f63ddc2377"
+      },
+      "created_time": "2025-11-16T19:12:00.000Z",
+      "last_edited_time": "2025-11-16T21:00:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Reflections",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Reflections",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2ada6e41-f23e-80fe-b9da-c1ef58661021",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2ada6e41-f23e-80d0-8119-e9f63ddc2377"
+      },
+      "created_time": "2025-11-16T19:12:00.000Z",
+      "last_edited_time": "2025-11-16T21:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Sometimes, it feels like I/Manifund are just chasing the shadow of the Future Fund. There was this amazing group of folks, helping direct unprecedented amounts of money towards their best conception of “good”. The Future Fund was best example of what I would like Manifund to be. But I don’t think we’ve had anywhere near that impact — was it just for a lack of committed funders? Skill issue, on my part? I don’t know.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Sometimes, it feels like I/Manifund are just chasing the shadow of the Future Fund. There was this amazing group of folks, helping direct unprecedented amounts of money towards their best conception of “good”. The Future Fund was best example of what I would like Manifund to be. But I don’t think we’ve had anywhere near that impact — was it just for a lack of committed funders? Skill issue, on my part? I don’t know.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2ada6e41-f23e-8027-82ff-c91c7feae11b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2ada6e41-f23e-80d0-8119-e9f63ddc2377"
+      },
+      "created_time": "2025-11-16T19:14:00.000Z",
+      "last_edited_time": "2025-11-16T21:00:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "People sure seem eager to forget their connection to the Future Fund. This is understandable given the FTX fallout, but also makes me sad. Grantees don’t talk about the windfalls they received; beneficiaries of funded programs either don’t know or don’t talk about the good that the money accomplished; regrantors don’t speak about their experience directing funding. Even the Future Fund’s employees — their bios either vaguely refer to it eg “did grantmaking in AI safety and biosecurity”, or skip the mention altogether. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "People sure seem eager to forget their connection to the Future Fund. This is understandable given the FTX fallout, but also makes me sad. Grantees don’t talk about the windfalls they received; beneficiaries of funded programs either don’t know or don’t talk about the good that the money accomplished; regrantors don’t speak about their experience directing funding. Even the Future Fund’s employees — their bios either vaguely refer to it eg “did grantmaking in AI safety and biosecurity”, or skip the mention altogether. ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2ada6e41-f23e-8098-988a-f14152e62ac9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2ada6e41-f23e-80d0-8119-e9f63ddc2377"
+      },
+      "created_time": "2025-11-16T19:12:00.000Z",
+      "last_edited_time": "2025-11-16T21:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "There was a while where people associated with FTX or the Future Fund had a hard time finding their next job. For example, my housemate Joel Becker (who’d worked on FTX Foundation, associated but not the same as the Future Fund) had job offers fall through due to orgs being scared of PR risk. This seemed like a terrible outcome to me — basically, we were sidelining EA’s best and brightest. I think almost all of them have now landed on their feet (eg Joel’s ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "There was a while where people associated with FTX or the Future Fund had a hard time finding their next job. For example, my housemate Joel Becker (who’d worked on FTX Foundation, associated but not the same as the Future Fund) had job offers fall through due to orgs being scared of PR risk. This seemed like a terrible outcome to me — basically, we were sidelining EA’s best and brightest. I think almost all of them have now landed on their feet (eg Joel’s ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "killing it at METR",
+              "link": {
+                "url": "https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "killing it at METR",
+            "href": "https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "), but I still consider that period to have been a major blunder of us as a movement.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "), but I still consider that period to have been a major blunder of us as a movement.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2ada6e41-f23e-80f6-af63-e80432ff48ee",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2ada6e41-f23e-80d0-8119-e9f63ddc2377"
+      },
+      "created_time": "2025-11-16T19:24:00.000Z",
+      "last_edited_time": "2025-11-16T21:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "One unfortunate legacy of the Future Fund is the bankruptcy and clawback proceedings. Manifund and Manifold are still in the process of settling things with the FTX estate ourselves — pretty frustrating, given how they already have all the funds to make creditors whole. The best analogy I have for the difference between the Future Fund we worked with vs the estate we’re dealing with now, is having dear friend go through a psychotic break and then subsequently turn on you.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "One unfortunate legacy of the Future Fund is the bankruptcy and clawback proceedings. Manifund and Manifold are still in the process of settling things with the FTX estate ourselves — pretty frustrating, given how they already have all the funds to make creditors whole. The best analogy I have for the difference between the Future Fund we worked with vs the estate we’re dealing with now, is having dear friend go through a psychotic break and then subsequently turn on you.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2ada6e41-f23e-8073-a5d6-d405ed429d93",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2ada6e41-f23e-80d0-8119-e9f63ddc2377"
+      },
+      "created_time": "2025-11-16T19:34:00.000Z",
+      "last_edited_time": "2025-11-16T21:00:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I’m quite nostalgic about “FTX summer”, the 2022 period when we as a community were proud to be EA; to care about AI safety; to loudly, transparently, stand for our beliefs. Now, “EA” is a dirty word, with former leaders distancing themselves from the term, OpenPhil taking the phrase out of their programs. People who were inspired by its tenets and took roles organizing, now hide their affiliations to get jobs in politics or tech. And rationalist leaders and EA funders have gone through a messy public divorce.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I’m quite nostalgic about “FTX summer”, the 2022 period when we as a community were proud to be EA; to care about AI safety; to loudly, transparently, stand for our beliefs. Now, “EA” is a dirty word, with former leaders distancing themselves from the term, OpenPhil taking the phrase out of their programs. People who were inspired by its tenets and took roles organizing, now hide their affiliations to get jobs in politics or tech. And rationalist leaders and EA funders have gone through a messy public divorce.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2ada6e41-f23e-805e-a7b5-ffda9491663f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2ada6e41-f23e-80d0-8119-e9f63ddc2377"
+      },
+      "created_time": "2025-11-16T21:20:00.000Z",
+      "last_edited_time": "2025-11-16T21:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "At the time, the EA community complained somewhat about the optics of freely spending, of large flows of money entering the space. I thought, and mostly think, that these concerns are overblown, and to a first order approximation, more money = good. I also think it’s relevant that, after a relative period of drought, we should soon be entering a phase with large amounts of money available for EA — from Anthropic employees, and other folks waking up to the dangers of AI.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "At the time, the EA community complained somewhat about the optics of freely spending, of large flows of money entering the space. I thought, and mostly think, that these concerns are overblown, and to a first order approximation, more money = good. I also think it’s relevant that, after a relative period of drought, we should soon be entering a phase with large amounts of money available for EA — from Anthropic employees, and other folks waking up to the dangers of AI.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2ada6e41-f23e-80ae-bd1c-d837b153f5f3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2ada6e41-f23e-80d0-8119-e9f63ddc2377"
+      },
+      "created_time": "2025-11-16T21:05:00.000Z",
+      "last_edited_time": "2025-11-16T21:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2ada6e41-f23e-80f4-8cf5-df6374a92963",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2ada6e41-f23e-80d0-8119-e9f63ddc2377"
+      },
+      "created_time": "2025-11-16T18:44:00.000Z",
+      "last_edited_time": "2025-11-16T21:04:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Why write this post?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Why write this post?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2ada6e41-f23e-80f6-a210-fa72f2ad0f98",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2ada6e41-f23e-80d0-8119-e9f63ddc2377"
+      },
+      "created_time": "2025-11-16T18:44:00.000Z",
+      "last_edited_time": "2025-11-16T21:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "The Future Fund was amazing, and don’t get enough credit for what they did.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "The Future Fund was amazing, and don’t get enough credit for what they did.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2ada6e41-f23e-8029-aa58-dc5260e7d71b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2ada6e41-f23e-80d0-8119-e9f63ddc2377"
+      },
+      "created_time": "2025-11-16T18:45:00.000Z",
+      "last_edited_time": "2025-11-16T21:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "We’re about to enter a new period of massive funding, and so can reflect on what “FTX era” did for us, and should reflect",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "We’re about to enter a new period of massive funding, and so can reflect on what “FTX era” did for us, and should reflect",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2ada6e41-f23e-802d-b0c2-cc4add6b1d5b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2ada6e41-f23e-80d0-8119-e9f63ddc2377"
+      },
+      "created_time": "2025-11-16T19:49:00.000Z",
+      "last_edited_time": "2025-11-16T21:04:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Nobody else is going to write about this",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Nobody else is going to write about this",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    }
+  ]
+}

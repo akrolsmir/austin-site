@@ -4,7 +4,7 @@ Next.js App Router, TypeScript, Tailwind CSS 4, deployed on Vercel. Source lives
 
 ## Run
 
-Use Bun 1.3.14 and Node.js 24 LTS (for Next.js), `bun install --frozen-lockfile`, and `bun run dev`. Copy `.env.example` to `.env.local` and set the Notion token. Never commit environment files. Without a token, the app uses six real post titles with clearly placeholder Latin article bodies for local design work. With a token, configuration or API errors fail visibly; they never quietly switch to sample content.
+Use Bun 1.3.14 and Node.js 24 LTS (for Next.js), `bun install --frozen-lockfile`, and `bun run dev`. The site needs no environment variables: it renders from the committed markdown in `data/posts/`. Only `bun run sync` needs `.env.example` values in `.env.local` (Notion token and Blob token). Never commit environment files.
 
 Use `bun add <package>`, `bun add --dev <package>`, and `bun remove <package>` to manage dependencies. Commit `bun.lock` with dependency changes. Tests run directly with Bun; no TypeScript loader is needed.
 
@@ -14,19 +14,21 @@ Option 4 is the default. The `4` / `5` control in the header remembers the visit
 
 All editorial copy comes from Austin's public Notion content or lorem ipsum. Project names are existing examples, not synced or linked yet. Intro, work, and photos are placeholders. Operational accessibility/error labels describe controls and failures.
 
+## Content pipeline
+
+Notion is the source of truth; the repo holds a mirror. `bun run sync` (`scripts/sync.ts`) queries the Posts database, writes each published page's block JSON to `data/posts-raw/<notion id>.json`, converts it to `data/posts/<slug>.md` with JSON-string frontmatter (`title`, `date`, `notion`, `url`, `excerpt`), and deletes files for pages that are no longer published. Commit the result; the site prerenders every post from `data/posts/` at build time and never calls Notion at runtime. Publishing therefore means running the sync and pushing.
+
+The sync is incremental: a page is refetched only when its `last_edited_time` differs from the cached raw file, so a typical run takes seconds rather than the ten minutes of a cold pull (Notion allows roughly three requests per second and every nested block costs one). `bun run sync --offline` reconverts markdown from the raw cache without contacting Notion, which is how to iterate on the converter. Never hand-edit `data/`; it is regenerated.
+
+Notion-hosted files (images, video, audio, PDFs) are copied to the Vercel Blob store `austin-site-images` under `posts/<page id>/<block id>-<edit time>.<ext>` and the raw cache stores only the Blob URL, so committed files carry no expiring signed URLs. Existing keys are skipped; a replaced image gets a new key. External image URLs are left as they are.
+
+Slugs derive from titles (`src/lib/posts.ts`), so retitling a post moves its URL; `/writing/<notion id>` links from the earlier design permanently redirect to the current slug, and `/writing` redirects to `/posts`. Duplicate titles get a short id suffix.
+
 ## Notion publication rules
 
-The integration needs read content access to the Posts database. Its verified schema uses `Tags` (multi-select with `Draft`) and a `Date` formula combining Manual Date and Created time. The configured filter excludes Draft, and the client also excludes archived/trashed and future-dated posts. The filter is mandatory: a missing or malformed filter never produces an unfiltered query. This follows the current database convention; adding a new draft status requires updating the filter.
+The integration needs read content access to the Posts database. Its verified schema uses `Tags` (multi-select with `Draft`) and a `Date` formula combining Manual Date and Created time. The configured filter excludes Draft, and the client also excludes archived/trashed and future-dated posts. The filter is mandatory: a missing or malformed filter never produces an unfiltered query. Truncated query results throw rather than producing a partial mirror, which would otherwise delete posts.
 
-Index and recursive block requests paginate fully, retry 429/5xx responses with bounded backoff, and escape text via React. Non-web links are rejected. Child pages/databases are not automatically included. Published IDs form an allowlist before article content is fetched. Common blocks include headings, lists, images, code, quotes, callouts, toggles, tables, and columns. Unsupported blocks link to the original in Notion; equations currently render as text. Article IDs form stable URLs even when titles change.
-
-## Five-minute refresh
-
-Vercel Pro cron calls `/api/sync` every five minutes with `Authorization: Bearer CRON_SECRET`. The endpoint checks Notion before marking the shared cache stale, then requests `SITE_URL` to warm the homepage. It supports an authenticated POST for manual refresh. Production cron is only active on production deployments.
-
-The site uses Next's persistent Data Cache and ISR, with a 300-second fallback revalidation interval. The cron refreshes the catalog; article bodies load on demand and use the post's last-edited timestamp in their cache key. Signed Notion image URLs are refreshed with the body. Cached pages survive upstream errors through ISR's last-successful-result behavior; a first uncached article can still fail during an outage.
-
-This is stale-while-revalidate, not a hard five-minute delivery guarantee: the first response during revalidation can be stale and new content appears after regeneration. Removed/drafted posts can remain visible during that window. Already-open tabs do not auto-reload. No separate database, rebuild per edit, or full-archive download every five minutes is needed. For immediate takedowns, use blocking invalidation; for full offline archival, add a durable snapshot/media store. Notion-hosted images still depend on Notion availability.
+Index and recursive block requests paginate fully and retry 429/5xx responses with bounded backoff. Child pages/databases are not traversed. The converter (`src/lib/notion-markdown.ts`) escapes markdown and HTML characters in text, so committed markdown contains only the tags the converter itself emits (`<u>`), and rejects non-web link schemes. Headings shift down one level so the title is the only h1. Columns and synced blocks flatten, toggles become a bold line, callouts become blockquotes, equations are emitted as `$…$`, and unsupported blocks link to the original in Notion. Markdown is rendered with `marked` at build time.
 
 ## Verification
 
@@ -36,4 +38,4 @@ This is stale-while-revalidate, not a hard five-minute delivery guarantee: the f
 
 Vercel installs dependencies with `bun install --frozen-lockfile` and builds with `bun run build`, as configured in `vercel.json`.
 
-Linked to `austin-proj/austin-site`. Configure the `.env.example` keys in Vercel for production and preview. `SITE_URL` should be the final production URL. `vercel deploy` creates a preview; `vercel deploy --prod` activates production and the five-minute cron. Tokens stay server-side and out of Git.
+Linked to `austin-proj/austin-site`. The deployed site needs no environment variables. `vercel deploy` creates a preview; `vercel deploy --prod` deploys production. Tokens stay in `.env.local` and out of Git.

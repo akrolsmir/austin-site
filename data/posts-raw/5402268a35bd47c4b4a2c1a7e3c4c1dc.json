@@ -1,0 +1,1203 @@
+{
+  "page": {
+    "id": "5402268a35bd47c4b4a2c1a7e3c4c1dc",
+    "title": "Dating Austin (of June 2022)",
+    "date": "2023-01-20",
+    "edited": "2023-01-21T06:23:00.000Z",
+    "url": "https://akrolsmir.notion.site/Dating-Austin-of-June-2022-5402268a35bd47c4b4a2c1a7e3c4c1dc",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "f2fc49c1-38ec-4633-b304-cd34d194cabd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5402268a-35bd-47c4-b4a2-c1a7e3c4c1dc"
+      },
+      "created_time": "2023-01-21T06:22:00.000Z",
+      "last_edited_time": "2023-01-21T06:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I didn’t get the chance to go through this rationalist rite-of-passage before meeting Rachel; here’s what I might have written 6 months ago:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I didn’t get the chance to go through this rationalist rite-of-passage before meeting Rachel; here’s what I might have written 6 months ago:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1386da55-8a09-4416-9b47-83adc02d16a5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5402268a-35bd-47c4-b4a2-c1a7e3c4c1dc"
+      },
+      "created_time": "2023-01-20T16:57:00.000Z",
+      "last_edited_time": "2023-01-21T06:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "About me",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "About me",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "fa175edd-3a6b-4e46-a020-f74944dcbc4a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5402268a-35bd-47c4-b4a2-c1a7e3c4c1dc"
+      },
+      "created_time": "2023-01-20T18:04:00.000Z",
+      "last_edited_time": "2023-01-20T18:30:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Numbers:",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Numbers:",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 27M, 5’10”, 2320 SAT, ~$1m net worth",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 27M, 5’10”, 2320 SAT, ~$1m net worth",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "6bc8d738-6fad-4ad2-9b2d-253c05a48b17",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5402268a-35bd-47c4-b4a2-c1a7e3c4c1dc"
+      },
+      "created_time": "2023-01-20T17:57:00.000Z",
+      "last_edited_time": "2023-01-20T17:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "column_list",
+      "column_list": {},
+      "children": [
+        {
+          "object": "block",
+          "id": "e9248774-5101-48b8-a4ca-ba0e8505261f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "6bc8d738-6fad-4ad2-9b2d-253c05a48b17"
+          },
+          "created_time": "2023-01-20T17:57:00.000Z",
+          "last_edited_time": "2023-01-21T06:15:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "column",
+          "column": {
+            "width_ratio": 0.5625
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "66b6aaa8-c6af-433c-a74c-0b8afcb8b47d",
+              "parent": {
+                "type": "block_id",
+                "block_id": "e9248774-5101-48b8-a4ca-ba0e8505261f"
+              },
+              "created_time": "2023-01-20T17:57:00.000Z",
+              "last_edited_time": "2023-01-20T17:57:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "image",
+              "image": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/5402268a35bd47c4b4a2c1a7e3c4c1dc/66b6aaa8c6af433ca74c0b8afcb8b47d-20230120175700.jpeg"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "0578cb92-ea7f-4c78-83ec-ab45a6547be3",
+          "parent": {
+            "type": "block_id",
+            "block_id": "6bc8d738-6fad-4ad2-9b2d-253c05a48b17"
+          },
+          "created_time": "2023-01-20T17:57:00.000Z",
+          "last_edited_time": "2023-01-21T06:15:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "column",
+          "column": {
+            "width_ratio": 0.4375
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "9a5950a9-bce3-4789-9d2b-ab2ec91451a6",
+              "parent": {
+                "type": "block_id",
+                "block_id": "0578cb92-ea7f-4c78-83ec-ab45a6547be3"
+              },
+              "created_time": "2023-01-20T17:57:00.000Z",
+              "last_edited_time": "2023-01-20T18:04:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "image",
+              "image": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/5402268a35bd47c4b4a2c1a7e3c4c1dc/9a5950a9bce347899d2bab2ec91451a6-20230120180400.jpg"
+                }
+              }
+            },
+            {
+              "object": "block",
+              "id": "6bc09fcc-7577-4588-8e42-2276176fab0d",
+              "parent": {
+                "type": "block_id",
+                "block_id": "0578cb92-ea7f-4c78-83ec-ab45a6547be3"
+              },
+              "created_time": "2023-01-20T17:57:00.000Z",
+              "last_edited_time": "2023-01-20T18:04:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "image",
+              "image": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/5402268a35bd47c4b4a2c1a7e3c4c1dc/6bc09fcc757745888e422276176fab0d-20230120180400.jpg"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "24483da9-07cf-4bee-9b25-d7e1468ad283",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5402268a-35bd-47c4-b4a2-c1a7e3c4c1dc"
+      },
+      "created_time": "2023-01-20T17:43:00.000Z",
+      "last_edited_time": "2023-01-20T18:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Creative.",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Creative.",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " Both in the sense of “easily generates outside-the-box ideas”, and in the sense of “actually creates lots of things” — the eras of my life are marked by whatever project I’m working on at the moment.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " Both in the sense of “easily generates outside-the-box ideas”, and in the sense of “actually creates lots of things” — the eras of my life are marked by whatever project I’m working on at the moment.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "5ff75ea7-8e20-4099-9daf-ab9185d82eca",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5402268a-35bd-47c4-b4a2-c1a7e3c4c1dc"
+      },
+      "created_time": "2023-01-20T17:38:00.000Z",
+      "last_edited_time": "2023-01-20T18:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Novelty junkie.",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Novelty junkie.",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " I thrive in unfamiliar situations, where I have to invent a plan from first principles rather than rotely executing a script. This cashes out to loving new locales, understanding strangers, and taking any class at least once.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " I thrive in unfamiliar situations, where I have to invent a plan from first principles rather than rotely executing a script. This cashes out to loving new locales, understanding strangers, and taking any class at least once.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "d2455b9b-aee2-4f5a-bac0-27cc06f71986",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5402268a-35bd-47c4-b4a2-c1a7e3c4c1dc"
+      },
+      "created_time": "2023-01-20T17:28:00.000Z",
+      "last_edited_time": "2023-01-20T18:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Somewhat obsessive.",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Somewhat obsessive.",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " I’ll fall wholeheartedly into whatever my attention is currently on. Good when it’s hacking on a new project or organizing a ski trip; not so good when it’s discovering a fantasy novel or online card game.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " I’ll fall wholeheartedly into whatever my attention is currently on. Good when it’s hacking on a new project or organizing a ski trip; not so good when it’s discovering a fantasy novel or online card game.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "b5758107-26c7-4264-bfd7-7ac42d2e1319",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5402268a-35bd-47c4-b4a2-c1a7e3c4c1dc"
+      },
+      "created_time": "2023-01-20T17:28:00.000Z",
+      "last_edited_time": "2023-01-20T18:29:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Emotionally stable",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Emotionally stable",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ". Or perhaps low neuroticism. I almost never get into fights, or express anger at people (I’m a lot more likely to withdraw). I’m fairly self-contained and don’t require much emotional support.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ". Or perhaps low neuroticism. I almost never get into fights, or express anger at people (I’m a lot more likely to withdraw). I’m fairly self-contained and don’t require much emotional support.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "e7c7f90f-9a8f-4163-af82-0eb70f5b9111",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5402268a-35bd-47c4-b4a2-c1a7e3c4c1dc"
+      },
+      "created_time": "2023-01-20T17:37:00.000Z",
+      "last_edited_time": "2023-01-20T18:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "EA & Catholic.",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "EA & Catholic.",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " My beliefs describe more “how I think about what matters” and less “who I hang out with”. Being good and doing good are my highest values. Things that make me cry: altruism, sacrifice, loyalty.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " My beliefs describe more “how I think about what matters” and less “who I hang out with”. Being good and doing good are my highest values. Things that make me cry: altruism, sacrifice, loyalty.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "6b23748d-de70-4ea3-9303-e3aed0acf69a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5402268a-35bd-47c4-b4a2-c1a7e3c4c1dc"
+      },
+      "created_time": "2023-01-20T16:57:00.000Z",
+      "last_edited_time": "2023-01-20T16:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "About you",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "About you",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "cd0ae855-2f60-41ae-8e8a-5dc82cf3f3f6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5402268a-35bd-47c4-b4a2-c1a7e3c4c1dc"
+      },
+      "created_time": "2023-01-20T16:58:00.000Z",
+      "last_edited_time": "2023-01-21T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Female.",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Female.",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " I’m looking to date women in their 20s. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " I’m looking to date women in their 20s. ",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1e1c3342-5d15-4d3b-8c8d-a23065b1fa82",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5402268a-35bd-47c4-b4a2-c1a7e3c4c1dc"
+      },
+      "created_time": "2023-01-20T16:57:00.000Z",
+      "last_edited_time": "2023-01-21T06:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Smart.",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Smart.",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " Competence is extremely sexy. This doesn’t have to be “book smart”; I admire the way emotionally intelligent people light up the lives of those around them.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " Competence is extremely sexy. This doesn’t have to be “book smart”; I admire the way emotionally intelligent people light up the lives of those around them.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "fe7fba84-4a0d-4724-802b-ba15a0b718ed",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5402268a-35bd-47c4-b4a2-c1a7e3c4c1dc"
+      },
+      "created_time": "2023-01-20T16:58:00.000Z",
+      "last_edited_time": "2023-01-21T06:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Kind.",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Kind.",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " Of course, I’d like to be on the receiving end of kindness myself, but what really makes my heart melt is witnessing random acts of kindness to friends, to strangers, to the world.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " Of course, I’d like to be on the receiving end of kindness myself, but what really makes my heart melt is witnessing random acts of kindness to friends, to strangers, to the world.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "b60bcc80-f971-4a09-9c18-ff52411ad9bb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5402268a-35bd-47c4-b4a2-c1a7e3c4c1dc"
+      },
+      "created_time": "2023-01-20T16:57:00.000Z",
+      "last_edited_time": "2023-01-20T16:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1e574faf-1cc4-4f20-a6ae-6054b9613d58",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5402268a-35bd-47c4-b4a2-c1a7e3c4c1dc"
+      },
+      "created_time": "2023-01-20T16:57:00.000Z",
+      "last_edited_time": "2023-01-20T16:58:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "About us",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "About us",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "e7f17127-6665-41d6-b256-72ec4a6de8d7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5402268a-35bd-47c4-b4a2-c1a7e3c4c1dc"
+      },
+      "created_time": "2023-01-20T18:21:00.000Z",
+      "last_edited_time": "2023-01-21T06:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Good friends.",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Good friends.",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " I’m looking for someone who ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " I’m looking for someone who ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "passes the traffic test",
+              "link": {
+                "url": "https://waitbutwhy.com/2014/02/pick-life-partner-part-2.html"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "passes the traffic test",
+            "href": "https://waitbutwhy.com/2014/02/pick-life-partner-part-2.html"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ", someone with who I can fall down endless rabbitholes as time flies by.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ", someone with who I can fall down endless rabbitholes as time flies by.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "ab877aa8-f7a3-48c1-a0ed-755f68b124b1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5402268a-35bd-47c4-b4a2-c1a7e3c4c1dc"
+      },
+      "created_time": "2023-01-20T18:39:00.000Z",
+      "last_edited_time": "2023-01-20T18:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Good coworkers.",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Good coworkers.",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " We should be good at working on things together, whether that be planning a group outing, writing a book, or shipping a website.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " We should be good at working on things together, whether that be planning a group outing, writing a book, or shipping a website.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "5d5f3e8b-8a08-4c23-af77-08ac1aab43a6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5402268a-35bd-47c4-b4a2-c1a7e3c4c1dc"
+      },
+      "created_time": "2023-01-20T16:58:00.000Z",
+      "last_edited_time": "2023-01-20T18:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Dating seriously",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Dating seriously",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ". It’s okay if we start casual, but I’m looking for a life partner pretty soon (in the next few years).",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ". It’s okay if we start casual, but I’m looking for a life partner pretty soon (in the next few years).",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "796b2e49-2e26-4aab-a233-8cdd9d2228ea",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5402268a-35bd-47c4-b4a2-c1a7e3c4c1dc"
+      },
+      "created_time": "2023-01-20T16:58:00.000Z",
+      "last_edited_time": "2023-01-21T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Kids, plural",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Kids, plural",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ". I have 2 siblings, and love them both. I subscribe to the simple idea that “more is better”. See also: Selfish Reasons to Have More Kids.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ". I have 2 siblings, and love them both. I subscribe to the simple idea that “more is better”. See also: Selfish Reasons to Have More Kids.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    }
+  ]
+}

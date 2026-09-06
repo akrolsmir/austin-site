@@ -1,0 +1,834 @@
+{
+  "page": {
+    "id": "1dba6e41f23e807bb321fdb75aa54fae",
+    "title": "Why I love my competitors",
+    "date": "2025-04-20T20:49:00.000+00:00",
+    "edited": "2025-05-17T19:17:00.000Z",
+    "url": "https://akrolsmir.notion.site/Why-I-love-my-competitors-1dba6e41f23e807bb321fdb75aa54fae",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "1dba6e41-f23e-80a1-9d60-d87cb16b60c7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dba6e41-f23e-807b-b321-fdb75aa54fae"
+      },
+      "created_time": "2025-04-20T20:49:00.000Z",
+      "last_edited_time": "2025-04-20T20:50:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Prompted by ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Prompted by ",
+            "href": null
+          },
+          {
+            "type": "mention",
+            "mention": {
+              "type": "link_mention",
+              "link_mention": {
+                "href": "https://venki.dev/notes/love-your-competitors",
+                "title": "Love your competitors",
+                "icon_url": "https://venki.dev/favicon.ico",
+                "thumbnail_url": "https://venki.dev/api/og?title=JRXXMZJAPFXXK4RAMNXW24DFORUXI33SOM======"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://venki.dev/notes/love-your-competitors",
+            "href": "https://venki.dev/notes/love-your-competitors"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " by Venki:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " by Venki:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1dba6e41-f23e-803c-9af1-c598ed421d2a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dba6e41-f23e-807b-b321-fdb75aa54fae"
+      },
+      "created_time": "2025-04-20T20:49:00.000Z",
+      "last_edited_time": "2025-04-20T21:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "My orientation to competitors (eg Kalshi and Polymarket for prediction markets, and now Lighthaven and Constellation and Frontier Tower for spaces) is pretty similar to what you describe here!",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "My orientation to competitors (eg Kalshi and Polymarket for prediction markets, and now Lighthaven and Constellation and Frontier Tower for spaces) is pretty similar to what you describe here!",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1dba6e41-f23e-80c0-92d1-ff5b03973c2d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dba6e41-f23e-807b-b321-fdb75aa54fae"
+      },
+      "created_time": "2025-04-20T20:49:00.000Z",
+      "last_edited_time": "2025-04-20T20:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Received startup wisdom: \"startups die of suicide not murder\" -- aka running out of steam is why a company fails, not being killed by competition. plan accordingly!",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Received startup wisdom: \"startups die of suicide not murder\" -- aka running out of steam is why a company fails, not being killed by competition. plan accordingly!",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1dba6e41-f23e-806a-a1ca-e2454f3c28a4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dba6e41-f23e-807b-b321-fdb75aa54fae"
+      },
+      "created_time": "2025-04-20T21:06:00.000Z",
+      "last_edited_time": "2025-04-20T21:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Positive-sum",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Positive-sum",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1dba6e41-f23e-8003-838a-c0e42364568d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dba6e41-f23e-807b-b321-fdb75aa54fae"
+      },
+      "created_time": "2025-04-20T20:49:00.000Z",
+      "last_edited_time": "2025-04-20T21:07:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Marketing: For prediction markets specifically, the problem is roughly \"nobody's ever heard of prediction markets\" so we're pretty happy when eg Polymarket or Kalshi goes viral; it means more people experience what a prediction market is.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Marketing: For prediction markets specifically, the problem is roughly \"nobody's ever heard of prediction markets\" so we're pretty happy when eg Polymarket or Kalshi goes viral; it means more people experience what a prediction market is.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "1dba6e41-f23e-80cf-9589-e2e54e1d0f57",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1dba6e41-f23e-8003-838a-c0e42364568d"
+          },
+          "created_time": "2025-04-20T21:06:00.000Z",
+          "last_edited_time": "2025-04-20T21:06:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "It also thus makes sense for them to sponsor Manifest as a joint endeavor to \"make prediction markets cool\".",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "It also thus makes sense for them to sponsor Manifest as a joint endeavor to \"make prediction markets cool\".",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1dba6e41-f23e-8035-a832-fc142a01c870",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dba6e41-f23e-807b-b321-fdb75aa54fae"
+      },
+      "created_time": "2025-04-20T20:49:00.000Z",
+      "last_edited_time": "2025-04-20T21:07:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Inspiration: Oftentimes, a competitor is what inspired me to start my project:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Inspiration: Oftentimes, a competitor is what inspired me to start my project:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "1dba6e41-f23e-80be-8c07-c9326d4dd281",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1dba6e41-f23e-8035-a832-fc142a01c870"
+          },
+          "created_time": "2025-04-20T20:50:00.000Z",
+          "last_edited_time": "2025-04-20T20:50:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "PredictIt is what got me into prediction markets",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "PredictIt is what got me into prediction markets",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "1dba6e41-f23e-80bb-991e-f877b21b8327",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1dba6e41-f23e-8035-a832-fc142a01c870"
+          },
+          "created_time": "2025-04-20T20:50:00.000Z",
+          "last_edited_time": "2025-04-20T21:08:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Future Forum, EAG is what got me to make Manifest",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Future Forum, EAG is what got me to make Manifest",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "1dba6e41-f23e-80e1-8d0a-ef6e0c30d9d3",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1dba6e41-f23e-8035-a832-fc142a01c870"
+          },
+          "created_time": "2025-04-20T20:50:00.000Z",
+          "last_edited_time": "2025-04-20T21:08:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Lighthaven, Constellation, The Commons is what got me to make Mox",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Lighthaven, Constellation, The Commons is what got me to make Mox",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "1dba6e41-f23e-805d-a0a2-f86728bb88fc",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1dba6e41-f23e-8035-a832-fc142a01c870"
+          },
+          "created_time": "2025-04-20T20:52:00.000Z",
+          "last_edited_time": "2025-04-20T20:52:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "And so I think it’s correct to feel some amount of gratitude for them, and also try and help them out/pay them back?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "And so I think it’s correct to feel some amount of gratitude for them, and also try and help them out/pay them back?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "1dba6e41-f23e-8005-9b81-c0c2d5d9f112",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1dba6e41-f23e-8035-a832-fc142a01c870"
+          },
+          "created_time": "2025-04-20T20:50:00.000Z",
+          "last_edited_time": "2025-04-20T20:53:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "(FWIW, sometimes I’m inspired because the problem area is so important, but they’re dropping the ball, and I could do a better job. But that’s still inspiration!)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "(FWIW, sometimes I’m inspired because the problem area is so important, but they’re dropping the ball, and I could do a better job. But that’s still inspiration!)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1dba6e41-f23e-8046-b19b-f12cb0584731",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dba6e41-f23e-807b-b321-fdb75aa54fae"
+      },
+      "created_time": "2025-04-20T20:49:00.000Z",
+      "last_edited_time": "2025-04-20T21:07:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Copying: On a feature-by-feature level, we often look at competitors and copy the best things they do. I sometimes think people are too proud and try to reinvent the wheel, when actually you should copy features liberally because a lot of brainsweat went into figuring out what a product feature should do. (or at least if you don't copy, try to understand the tradeoffs involved with their choices)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Copying: On a feature-by-feature level, we often look at competitors and copy the best things they do. I sometimes think people are too proud and try to reinvent the wheel, when actually you should copy features liberally because a lot of brainsweat went into figuring out what a product feature should do. (or at least if you don't copy, try to understand the tradeoffs involved with their choices)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1dba6e41-f23e-80a6-b9f6-cfa3762004e7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dba6e41-f23e-807b-b321-fdb75aa54fae"
+      },
+      "created_time": "2025-04-20T21:06:00.000Z",
+      "last_edited_time": "2025-04-20T21:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Alignment",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Alignment",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1dba6e41-f23e-8075-9d28-cd3a6ea33a87",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dba6e41-f23e-807b-b321-fdb75aa54fae"
+      },
+      "created_time": "2025-04-20T20:49:00.000Z",
+      "last_edited_time": "2025-04-20T21:07:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I often think \"yeah I have 10 projects I want to do, so if some competitor copies me or just out-executes me, that's great, I can go do something else with my life, plus I now have thing I wanted without having to build it all myself\"",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I often think \"yeah I have 10 projects I want to do, so if some competitor copies me or just out-executes me, that's great, I can go do something else with my life, plus I now have thing I wanted without having to build it all myself\"",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1dba6e41-f23e-80c0-b2c4-c26de39691ba",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dba6e41-f23e-807b-b321-fdb75aa54fae"
+      },
+      "created_time": "2025-04-20T20:49:00.000Z",
+      "last_edited_time": "2025-04-20T20:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I love the thing where eg Elon gave away the EV patents for Tesla, or Volvo gave away the seatbelt patents",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I love the thing where eg Elon gave away the EV patents for Tesla, or Volvo gave away the seatbelt patents",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1dba6e41-f23e-802c-899e-dfde18e7a7b6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dba6e41-f23e-807b-b321-fdb75aa54fae"
+      },
+      "created_time": "2025-04-20T21:08:00.000Z",
+      "last_edited_time": "2025-04-20T21:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I love the thing where a competitor sends you a cake when you launch a thing",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I love the thing where a competitor sends you a cake when you launch a thing",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "1dba6e41-f23e-8083-bd10-c0249c44e227",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1dba6e41-f23e-802c-899e-dfde18e7a7b6"
+          },
+          "created_time": "2025-04-20T21:08:00.000Z",
+          "last_edited_time": "2025-04-20T21:09:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "When Rachel was pregnant with Ada, the Kalshi folks sent us the kid’s book “Dragons Love Tacos”",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "When Rachel was pregnant with Ada, the Kalshi folks sent us the kid’s book “Dragons Love Tacos”",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    }
+  ]
+}

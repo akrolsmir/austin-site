@@ -1,0 +1,5609 @@
+{
+  "page": {
+    "id": "19ca6e41f23e8021b7f9e749b3a2c21c",
+    "title": "Selling yourself for fun & profit [QTB talk]",
+    "date": "2025-02-16T20:01:00.000+00:00",
+    "edited": "2025-03-14T15:30:00.000Z",
+    "url": "https://akrolsmir.notion.site/Selling-yourself-for-fun-profit-QTB-talk-19ca6e41f23e8021b7f9e749b3a2c21c",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-802c-a0af-dec548d13530",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:12:00.000Z",
+      "last_edited_time": "2025-02-16T20:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Selling yourself for fun & profit",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Selling yourself for fun & profit",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-8049-ba4e-d0e242f2b294",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:12:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "trigger warning: open finances",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "trigger warning: open finances",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-8020-ba30-f62088135565",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:13:00.000Z",
+      "last_edited_time": "2025-02-16T20:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "toggle",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "(as notes)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "(as notes)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "19ca6e41-f23e-8041-94c6-d3975123fe9a",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19ca6e41-f23e-8020-ba30-f62088135565"
+          },
+          "created_time": "2025-02-16T20:01:00.000Z",
+          "last_edited_time": "2025-02-16T20:13:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "first thing I \"sold\" - ads on Learn Algebra. $30/mo",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "first thing I \"sold\" - ads on Learn Algebra. $30/mo",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "19ca6e41-f23e-8016-abb3-ece1c076f364",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19ca6e41-f23e-8020-ba30-f62088135565"
+          },
+          "created_time": "2025-02-16T20:01:00.000Z",
+          "last_edited_time": "2025-02-16T20:13:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "internships, Google job - $240-400k/y",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "internships, Google job - $240-400k/y",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "19ca6e41-f23e-800e-895f-e9247515fec5",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19ca6e41-f23e-8020-ba30-f62088135565"
+          },
+          "created_time": "2025-02-16T20:01:00.000Z",
+          "last_edited_time": "2025-02-16T20:13:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "started consulting, 2-3 gigs - $2-10k/mo",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "started consulting, 2-3 gigs - $2-10k/mo",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "19ca6e41-f23e-809b-86ac-e921cf4f4a71",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19ca6e41-f23e-8020-ba30-f62088135565"
+          },
+          "created_time": "2025-02-16T20:01:00.000Z",
+          "last_edited_time": "2025-02-16T20:13:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "streamlit tech lead - $300-400k/y",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "streamlit tech lead - $300-400k/y",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "19ca6e41-f23e-80b4-9dc7-fcb087214ec8",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19ca6e41-f23e-8020-ba30-f62088135565"
+          },
+          "created_time": "2025-02-16T20:01:00.000Z",
+          "last_edited_time": "2025-02-16T20:13:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "many side projects. Some started to pay (runetiera, one word) - $500/mo",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "many side projects. Some started to pay (runetiera, one word) - $500/mo",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "19ca6e41-f23e-8002-bb96-ef46e7f0a389",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19ca6e41-f23e-8020-ba30-f62088135565"
+          },
+          "created_time": "2025-02-16T20:01:00.000Z",
+          "last_edited_time": "2025-02-16T20:13:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Manifold Dec 2021 - ~$18k/y \"revenue\"",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Manifold Dec 2021 - ~$18k/y \"revenue\"",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "19ca6e41-f23e-80fc-b690-d08e0e90a320",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19ca6e41-f23e-8020-ba30-f62088135565"
+          },
+          "created_time": "2025-02-16T20:01:00.000Z",
+          "last_edited_time": "2025-02-16T20:13:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Manifund Feb 2023 - $185k revenue",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Manifund Feb 2023 - $185k revenue",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "19ca6e41-f23e-80c4-9f14-cfdef7329b9b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19ca6e41-f23e-8020-ba30-f62088135565"
+          },
+          "created_time": "2025-02-16T20:01:00.000Z",
+          "last_edited_time": "2025-02-16T20:13:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Manifest Jan 2023 - $320k revenue, $60k \"profit\"",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Manifest Jan 2023 - $320k revenue, $60k \"profit\"",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "19ca6e41-f23e-8017-80b7-d0d4932a0ef6",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19ca6e41-f23e-8020-ba30-f62088135565"
+          },
+          "created_time": "2025-02-16T20:01:00.000Z",
+          "last_edited_time": "2025-02-16T20:13:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Mox Dec 2024 - $50k/mo costs",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Mox Dec 2024 - $50k/mo costs",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "19ca6e41-f23e-805a-a20d-f759e526c299",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19ca6e41-f23e-8020-ba30-f62088135565"
+          },
+          "created_time": "2025-02-16T20:01:00.000Z",
+          "last_edited_time": "2025-02-16T20:13:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Ballpark: another $500k in lifetime stock appreciation?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Ballpark: another $500k in lifetime stock appreciation?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-80b0-90e7-e34f8bf5fe73",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:35:00.000Z",
+      "last_edited_time": "2025-02-16T20:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-8009-806b-f38df93306e4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:04:00.000Z",
+      "last_edited_time": "2025-02-16T20:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Austin’s history of making money",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Austin’s history of making money",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-808c-adc1-c42f3f7c08de",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:04:00.000Z",
+      "last_edited_time": "2025-02-16T20:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "table",
+      "table": {
+        "table_width": 4,
+        "has_column_header": false,
+        "has_row_header": false
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "19ca6e41-f23e-806d-9605-c95e69bd550f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19ca6e41-f23e-808c-adc1-c42f3f7c08de"
+          },
+          "created_time": "2025-02-16T20:04:00.000Z",
+          "last_edited_time": "2025-02-16T20:35:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Individual work",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": true,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Individual work",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "When",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": true,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "When",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Monthly revenue",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": true,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Monthly revenue",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Yearly*",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": true,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Yearly*",
+                  "href": null
+                }
+              ]
+            ]
+          }
+        },
+        {
+          "object": "block",
+          "id": "19ca6e41-f23e-8081-8717-c1b3ed2cf160",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19ca6e41-f23e-808c-adc1-c42f3f7c08de"
+          },
+          "created_time": "2025-02-16T20:04:00.000Z",
+          "last_edited_time": "2025-02-16T20:14:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Learn Algebra",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Learn Algebra",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "2012",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "2012",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "$30",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "$30",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "$0.3k",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "$0.3k",
+                  "href": null
+                }
+              ]
+            ]
+          }
+        },
+        {
+          "object": "block",
+          "id": "19ca6e41-f23e-804a-a2c7-f8e070626cdd",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19ca6e41-f23e-808c-adc1-c42f3f7c08de"
+          },
+          "created_time": "2025-02-16T20:04:00.000Z",
+          "last_edited_time": "2025-02-16T20:14:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Tech internships",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Tech internships",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "2015",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "2015",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "$10,000",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "$10,000",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "$30k",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "$30k",
+                  "href": null
+                }
+              ]
+            ]
+          }
+        },
+        {
+          "object": "block",
+          "id": "19ca6e41-f23e-80d4-a945-fc1ec4eb5ee1",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19ca6e41-f23e-808c-adc1-c42f3f7c08de"
+          },
+          "created_time": "2025-02-16T20:05:00.000Z",
+          "last_edited_time": "2025-02-16T20:14:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Google eng",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Google eng",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "2016",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "2016",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "$30,000",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "$30,000",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "$400k",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "$400k",
+                  "href": null
+                }
+              ]
+            ]
+          }
+        },
+        {
+          "object": "block",
+          "id": "19ca6e41-f23e-800c-a8f4-cfe0ad291682",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19ca6e41-f23e-808c-adc1-c42f3f7c08de"
+          },
+          "created_time": "2025-02-16T20:05:00.000Z",
+          "last_edited_time": "2025-02-16T20:35:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Consulting",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Consulting",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "2019",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "2019",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "$10,000",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "$10,000",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "$50k",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "$50k",
+                  "href": null
+                }
+              ]
+            ]
+          }
+        },
+        {
+          "object": "block",
+          "id": "19ca6e41-f23e-8058-be1c-e6b18b06ab3d",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19ca6e41-f23e-808c-adc1-c42f3f7c08de"
+          },
+          "created_time": "2025-02-16T20:05:00.000Z",
+          "last_edited_time": "2025-02-16T20:15:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Streamlit tech lead",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Streamlit tech lead",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "2020",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "2020",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "$30,000",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "$30,000",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "$400k",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "$400k",
+                  "href": null
+                }
+              ]
+            ]
+          }
+        },
+        {
+          "object": "block",
+          "id": "19ca6e41-f23e-80ad-983c-e6debe9d3802",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19ca6e41-f23e-808c-adc1-c42f3f7c08de"
+          },
+          "created_time": "2025-02-16T20:11:00.000Z",
+          "last_edited_time": "2025-02-16T20:15:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "(various side projects)",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "(various side projects)",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "2022",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "2022",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "$200",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "$200",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "$1k",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "$1k",
+                  "href": null
+                }
+              ]
+            ]
+          }
+        },
+        {
+          "object": "block",
+          "id": "19ca6e41-f23e-80be-926e-f6e9453efbcd",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19ca6e41-f23e-808c-adc1-c42f3f7c08de"
+          },
+          "created_time": "2025-02-16T20:06:00.000Z",
+          "last_edited_time": "2025-02-16T20:10:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "One Word",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "One Word",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "2020",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "2020",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "$500",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "$500",
+                  "href": null
+                }
+              ],
+              []
+            ]
+          }
+        },
+        {
+          "object": "block",
+          "id": "19ca6e41-f23e-8041-8e59-c20d96358e9e",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19ca6e41-f23e-808c-adc1-c42f3f7c08de"
+          },
+          "created_time": "2025-02-16T20:06:00.000Z",
+          "last_edited_time": "2025-02-16T20:10:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "—— now orgs ——",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": true,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "—— now orgs ——",
+                  "href": null
+                }
+              ],
+              [],
+              [],
+              []
+            ]
+          }
+        },
+        {
+          "object": "block",
+          "id": "19ca6e41-f23e-8068-bc09-cc43c9dc7689",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19ca6e41-f23e-808c-adc1-c42f3f7c08de"
+          },
+          "created_time": "2025-02-16T20:07:00.000Z",
+          "last_edited_time": "2025-02-16T20:24:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Manifold (prediction markets)",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Manifold (prediction markets)",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Dec 2021",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Dec 2021",
+                  "href": null
+                }
+              ],
+              [],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "$18k/y",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "$18k/y",
+                  "href": null
+                }
+              ]
+            ]
+          }
+        },
+        {
+          "object": "block",
+          "id": "19ca6e41-f23e-805a-8b78-d81bf7ef5b86",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19ca6e41-f23e-808c-adc1-c42f3f7c08de"
+          },
+          "created_time": "2025-02-16T20:07:00.000Z",
+          "last_edited_time": "2025-02-16T20:35:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Manifest (conference)",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Manifest (conference)",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Jan 2023",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Jan 2023",
+                  "href": null
+                }
+              ],
+              [],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "$320k, or $60k",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "$320k, or $60k",
+                  "href": null
+                }
+              ]
+            ]
+          }
+        },
+        {
+          "object": "block",
+          "id": "19ca6e41-f23e-807b-90a7-fc25f2b17845",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19ca6e41-f23e-808c-adc1-c42f3f7c08de"
+          },
+          "created_time": "2025-02-16T20:07:00.000Z",
+          "last_edited_time": "2025-02-16T20:24:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Manifund (charity funding)",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Manifund (charity funding)",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Feb 2023",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Feb 2023",
+                  "href": null
+                }
+              ],
+              [],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "$190k/y",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "$190k/y",
+                  "href": null
+                }
+              ]
+            ]
+          }
+        },
+        {
+          "object": "block",
+          "id": "19ca6e41-f23e-808f-b6f4-e485b440e1f0",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19ca6e41-f23e-808c-adc1-c42f3f7c08de"
+          },
+          "created_time": "2025-02-16T20:07:00.000Z",
+          "last_edited_time": "2025-02-16T20:24:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Mox",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Mox",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Dec 2024",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Dec 2024",
+                  "href": null
+                }
+              ],
+              [],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "???",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "???",
+                  "href": null
+                }
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-80c9-82b5-f56500d2f663",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:35:00.000Z",
+      "last_edited_time": "2025-02-16T20:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "* yearly doesn’t match monthly because not all things go for 1 year",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "* yearly doesn’t match monthly because not all things go for 1 year",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-8095-bf53-ed4c259aa8aa",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:01:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-80d7-9d6c-c532c1d36f49",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Current stats",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Current stats",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-80b4-8ecc-da8b4868f1c0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:36:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Austin $1.3m liquid assets, plus $200k Rachel",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Austin $1.3m liquid assets, plus $200k Rachel",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "19ca6e41-f23e-808b-8281-eef0f10f36b7",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19ca6e41-f23e-80b4-8ecc-da8b4868f1c0"
+          },
+          "created_time": "2025-02-16T20:13:00.000Z",
+          "last_edited_time": "2025-02-16T20:59:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "$300k-$600k on stock trades (lifetime earnings)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "$300k-$600k on stock trades (lifetime earnings)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "19ca6e41-f23e-80de-9d58-c0ce1c842406",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19ca6e41-f23e-80b4-8ecc-da8b4868f1c0"
+          },
+          "created_time": "2025-02-16T20:36:00.000Z",
+          "last_edited_time": "2025-02-16T20:36:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Main illiquid asset is ~10% of Manifold stock, maybe worth $2m",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Main illiquid asset is ~10% of Manifold stock, maybe worth $2m",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "19ca6e41-f23e-80c9-9885-caa432dfb3f0",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19ca6e41-f23e-80b4-8ecc-da8b4868f1c0"
+          },
+          "created_time": "2025-02-16T20:01:00.000Z",
+          "last_edited_time": "2025-02-16T20:14:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Donated: $200k",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Donated: $200k",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-80a2-a3a3-d72893ac0b53",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "aside: find it interesting that money talk is so taboo. rationalists will tell you all about their sex life but don't share their eg net worth, or salary",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "aside: find it interesting that money talk is so taboo. rationalists will tell you all about their sex life but don't share their eg net worth, or salary",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-80ec-8492-da2f77be818f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:02:00.000Z",
+      "last_edited_time": "2025-02-16T20:02:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-8077-bf74-cab27540c9e2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Should you charge for things?",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Should you charge for things?",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-80ac-8824-cb73f79ee3dc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:02:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "level 1: default capitalist world, charge for things",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "level 1: default capitalist world, charge for things",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-8007-b133-d8b6ee62254f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "level 2: EA kind & free world, everything is gratis (eg, EAG)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "level 2: EA kind & free world, everything is gratis (eg, EAG)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-80ac-aee9-e145cc548c8a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "level 3: Rationalist world, charge for value (eg, Lightcone)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "level 3: Rationalist world, charge for value (eg, Lightcone)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-8050-971f-e8eeb9404d98",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "level 4: think carefully about transaction costs and charge appropriately",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "level 4: think carefully about transaction costs and charge appropriately",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "19ca6e41-f23e-80e1-bb80-d9cfbac88a19",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19ca6e41-f23e-8050-971f-e8eeb9404d98"
+          },
+          "created_time": "2025-02-16T20:34:00.000Z",
+          "last_edited_time": "2025-02-16T20:34:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "patio11: “free, or very expensive”",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "patio11: “free, or very expensive”",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "19ca6e41-f23e-80f5-b2d8-ceca7f48026f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19ca6e41-f23e-8050-971f-e8eeb9404d98"
+          },
+          "created_time": "2025-02-16T20:01:00.000Z",
+          "last_edited_time": "2025-02-16T20:34:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "(fb messenger is free. maps is free. how does that work?)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "(fb messenger is free. maps is free. how does that work?)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-8018-9b3c-d63cc2df2094",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:02:00.000Z",
+      "last_edited_time": "2025-02-16T20:02:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-8068-9fe2-e55d7a7cc2e8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Manifest as a case study in pricing",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Manifest as a case study in pricing",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-8005-bfe0-e016ab896317",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "default ticket is 500",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "default ticket is 500",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "19ca6e41-f23e-80da-aad7-dfffc7d23b61",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19ca6e41-f23e-8005-bfe0-e016ab896317"
+          },
+          "created_time": "2025-02-16T20:01:00.000Z",
+          "last_edited_time": "2025-02-16T20:37:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "lots of \"pricing discrimination\" via early bird, volunteer tickets",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "lots of \"pricing discrimination\" via early bird, volunteer tickets",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-80fe-aa49-d3525f6ac243",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "then also supporter tickets, eg $2000",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "then also supporter tickets, eg $2000",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "19ca6e41-f23e-805e-b2a5-e15d5fb96927",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19ca6e41-f23e-80fe-aa49-d3525f6ac243"
+          },
+          "created_time": "2025-02-16T20:01:00.000Z",
+          "last_edited_time": "2025-02-16T20:37:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "(high prices also anchor people)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "(high prices also anchor people)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-8057-9583-e47d3f9aa1ef",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:02:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "one of the most important ticket prices is negative (paying for great speaker's flights and housing)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "one of the most important ticket prices is negative (paying for great speaker's flights and housing)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-80e7-aae2-e2e10edf04da",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "then: sponsorship tiers, 10k/20k/50k",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "then: sponsorship tiers, 10k/20k/50k",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-8000-9d03-e4eb255a1038",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:38:00.000Z",
+      "last_edited_time": "2025-02-16T20:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/19ca6e41f23e8021b7f9e749b3a2c21c/19ca6e41f23e80009d03e4eb255a1038-20250216203800.png"
+        }
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-8037-b2ce-edf87d592c47",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:02:00.000Z",
+      "last_edited_time": "2025-02-16T20:02:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-8035-907f-f3a68e50efa2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "How to price things in life, the universe, everything",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "How to price things in life, the universe, everything",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-8053-80b8-d185d7a3bb9d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Order of magnitude pricing things is a huge edge",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Order of magnitude pricing things is a huge edge",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "19ca6e41-f23e-804b-8471-ef07d2aa868c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19ca6e41-f23e-8053-80b8-d185d7a3bb9d"
+          },
+          "created_time": "2025-02-16T20:01:00.000Z",
+          "last_edited_time": "2025-02-16T20:33:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "(story about Ricki dropping James's macbook and then just pulling out $200? To pay for it)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "(story about Ricki dropping James's macbook and then just pulling out $200? To pay for it)",
+                "href": null
+              }
+            ],
+            "icon": null,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-8000-9dc0-e527cd941c15",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:33:00.000Z",
+      "last_edited_time": "2025-02-16T20:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-8019-8bd3-ea19670c9240",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Quick: what would your prices be to:",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Quick: what would your prices be to:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-80b1-a484-fb3050dd6b72",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T21:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "price a dinner conversation with your favorite famous person",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "price a dinner conversation with your favorite famous person",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "19ca6e41-f23e-80b7-87db-de236b9d810c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19ca6e41-f23e-80b1-a484-fb3050dd6b72"
+          },
+          "created_time": "2025-02-16T21:21:00.000Z",
+          "last_edited_time": "2025-02-16T21:21:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Elon Musk, Matt Levine, Trump, whoever",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Elon Musk, Matt Levine, Trump, whoever",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-808e-8c54-c988b9f640f9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T21:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "price your time, on an hourly/daily/weekly basis",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "price your time, on an hourly/daily/weekly basis",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "19ca6e41-f23e-8064-8a97-e49b15a7e7c9",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19ca6e41-f23e-808e-8c54-c988b9f640f9"
+          },
+          "created_time": "2025-02-16T21:22:00.000Z",
+          "last_edited_time": "2025-02-16T21:22:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "to do your profession for a new client",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "to do your profession for a new client",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-8040-ba8e-ccbec1d0887b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T21:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "price a marriage",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "price a marriage",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "19ca6e41-f23e-80c6-bd33-d5dc31bd107f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19ca6e41-f23e-8040-ba8e-ccbec1d0887b"
+          },
+          "created_time": "2025-02-16T21:17:00.000Z",
+          "last_edited_time": "2025-02-16T21:18:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "or eg on the margin, what is an additional year of marriage with the love of your life worth, vs being single for another year",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "or eg on the margin, what is an additional year of marriage with the love of your life worth, vs being single for another year",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-80de-bf20-c7bb6779a2ef",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T21:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "price a baby",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "price a baby",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-802f-9bbe-fec264eda0da",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T21:20:00.000Z",
+      "last_edited_time": "2025-02-16T21:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "(instead of costs, it can be useful to think instead “choosing between a world where you have X or $Y in additional money” — what is $Y?)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "(instead of costs, it can be useful to think instead “choosing between a world where you have X or $Y in additional money” — what is $Y?)",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-809f-a45e-f99a7c2e1a2c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T21:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "(spoiler alert, PYOL is great practice for this)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "(spoiler alert, PYOL is great practice for this)",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-80dc-920c-dad5093281eb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:03:00.000Z",
+      "last_edited_time": "2025-02-16T20:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-8070-b7e1-d5da8cacb41e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Why this matters",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Why this matters",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-8039-939a-ece3f9b94d3e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "prices help you figure out what's important, what to pay attention to",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "prices help you figure out what's important, what to pay attention to",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "19ca6e41-f23e-80a2-8f40-fe64e6e519eb",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19ca6e41-f23e-8039-939a-ece3f9b94d3e"
+          },
+          "created_time": "2025-02-16T20:39:00.000Z",
+          "last_edited_time": "2025-02-16T20:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "order of magnitudes/ballparks",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "order of magnitudes/ballparks",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-80e6-84fc-c8629e020900",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "prevent you from getting dutch-booked (losing money/value)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "prevent you from getting dutch-booked (losing money/value)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "19ca6e41-f23e-80f0-aa39-d43dc0de82ab",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19ca6e41-f23e-80e6-84fc-c8629e020900"
+          },
+          "created_time": "2025-02-16T20:38:00.000Z",
+          "last_edited_time": "2025-02-16T20:39:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "eg if you value time at $100/hour and a cleaner costs $40/h, hire cleaners!",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "eg if you value time at $100/hour and a cleaner costs $40/h, hire cleaners!",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-80f7-9e2d-e779b4e1fc2a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "you need prices to be able to sell things",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "you need prices to be able to sell things",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-801c-aef5-f39b0c0d7049",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "prices help you and others agree on contracts, which leads to positive sum transactions.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "prices help you and others agree on contracts, which leads to positive sum transactions.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "19ca6e41-f23e-807c-84f8-feb8750dcfe5",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19ca6e41-f23e-801c-aef5-f39b0c0d7049"
+          },
+          "created_time": "2025-02-16T20:38:00.000Z",
+          "last_edited_time": "2025-02-16T20:39:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "One place where I disagree with straw-Ricki: in the real world trading is positive sum, don’t worry about adverse selection.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "One place where I disagree with straw-Ricki: in the real world trading is positive sum, don’t worry about adverse selection.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "19ca6e41-f23e-8090-b009-d7c8964cf4a1",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19ca6e41-f23e-801c-aef5-f39b0c0d7049"
+          },
+          "created_time": "2025-02-16T20:39:00.000Z",
+          "last_edited_time": "2025-02-16T20:39:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Even within finance there are massive apparatuses to enable huge amounts of trading, because liquidity is socially beneficial, unlike eg opiods",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Even within finance there are massive apparatuses to enable huge amounts of trading, because liquidity is socially beneficial, unlike eg opiods",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-8031-a587-f361a9fce959",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:03:00.000Z",
+      "last_edited_time": "2025-02-16T20:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-80d7-8a0e-c939976907a2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "How to do it? Pretty commonsense: Eg pricing the opportunity of Mox",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "How to do it? Pretty commonsense: Eg pricing the opportunity of Mox",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-804a-94ef-fa84dfe5bc1c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:01:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "look for comparisons (zillow). See a lot of properties",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "look for comparisons (zillow). See a lot of properties",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-80ec-9e2d-c7ae6e8be472",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:01:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ask around for people who have done similar things",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ask around for people who have done similar things",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-80cf-9321-f6937add7713",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:01:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "price a bunch of things anyways",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "price a bunch of things anyways",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-80f6-9379-fd6240468924",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:01:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ask Claude (did this a lot for Mox)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ask Claude (did this a lot for Mox)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-8056-8ff8-f241570d8171",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:33:00.000Z",
+      "last_edited_time": "2025-02-16T20:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-804c-845c-f91181e2dcce",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "note: money is not the biggest component of your assets.",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "note: money is not the biggest component of your assets.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "19ca6e41-f23e-8089-acf3-ee016405661e",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19ca6e41-f23e-804c-845c-f91181e2dcce"
+          },
+          "created_time": "2025-02-16T20:40:00.000Z",
+          "last_edited_time": "2025-02-16T20:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "(trite but \"there's more to life than money\")",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "(trite but \"there's more to life than money\")",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "19ca6e41-f23e-80f1-aba0-e0a8a0c10b27",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19ca6e41-f23e-804c-845c-f91181e2dcce"
+          },
+          "created_time": "2025-02-16T20:01:00.000Z",
+          "last_edited_time": "2025-02-16T20:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "future value of career,: connections, your knowledge & skills, your time are worth much more",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "future value of career,: connections, your knowledge & skills, your time are worth much more",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-802a-a468-d39813913ebe",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:24:00.000Z",
+      "last_edited_time": "2025-02-16T20:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-807c-bb5e-c73269f58374",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Appendix, random topics",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Appendix, random topics",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-80a4-a6d5-d9a517a44a5a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "What Ricki wants to hear",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "What Ricki wants to hear",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-8047-b856-e32b1abb7f8b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "\"what are Austin's management, life goal philosophies\"",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\"what are Austin's management, life goal philosophies\"",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "19ca6e41-f23e-80de-8deb-dc0c91e6f355",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19ca6e41-f23e-8047-b856-e32b1abb7f8b"
+          },
+          "created_time": "2025-02-16T20:01:00.000Z",
+          "last_edited_time": "2025-02-16T20:02:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Saul's thinking of work & philosophy, have a lot of overlap",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Saul's thinking of work & philosophy, have a lot of overlap",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-8082-9332-f10585966bc9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Conversation on Ricki & Austin on advice or pushing back vs starting a company",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Conversation on Ricki & Austin on advice or pushing back vs starting a company",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-8058-81a5-e8c022fba51f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-8061-87c8-f3b81ea0acfd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "automated market makers, uniswap x*y=z vs clob",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "automated market makers, uniswap x*y=z vs clob",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-802e-89eb-d883f0d6bacb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "pros: no spread, always available, instant gratification",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "pros: no spread, always available, instant gratification",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-80c5-a1b0-f873f6e041b2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "cons: slippage, low liquidity",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "cons: slippage, low liquidity",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-8057-98ca-e1e2cd2c84fc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:02:00.000Z",
+      "last_edited_time": "2025-02-16T20:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-8043-8c1b-e97663c1bac0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Why money works well for aggregation/social networks: eliciting more info, people are careful",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Why money works well for aggregation/social networks: eliciting more info, people are careful",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-80df-bd28-de9460a7e3e2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "and why it doesn't: imposes a psychological cost to interact with the site (why \"play money\" is good). (though: habituation works as well as play money -- think paying for a restaurant, or moving money)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "and why it doesn't: imposes a psychological cost to interact with the site (why \"play money\" is good). (though: habituation works as well as play money -- think paying for a restaurant, or moving money)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-804a-ba7d-dccefe9bae14",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "insider trading",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "insider trading",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-8072-b183-d1a1ddcaa9eb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "how do the best bots on Manifold work (?)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "how do the best bots on Manifold work (?)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-80bf-8640-d2f68478d3d9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:33:00.000Z",
+      "last_edited_time": "2025-02-16T20:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-802f-aae2-fe2eaa60248e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "economics of QTB",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "economics of QTB",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-8066-aa50-edb7bb71f679",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:02:00.000Z",
+      "last_edited_time": "2025-02-16T20:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "current economics sucks",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "current economics sucks",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-80c9-b43f-ca89ef0d404e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "16 students times 1500 = $24k",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "16 students times 1500 = $24k",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-8048-99e2-db3d7c66fee9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Staff time: maybe 4 people working 3 weeks = 12 weeks of prep + teaching",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Staff time: maybe 4 people working 3 weeks = 12 weeks of prep + teaching",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-8074-a322-d15751a67452",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "= $2k/week. x50 weeks = $100k/y",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "= $2k/week. x50 weeks = $100k/y",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-80c4-9585-d64e3888fc8c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "and this doesn't account for: $4k venue fee, all the other costs (food, materials, etc)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "and this doesn't account for: $4k venue fee, all the other costs (food, materials, etc)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-8071-a35c-c3bfb13ac947",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:02:00.000Z",
+      "last_edited_time": "2025-02-16T20:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-80e0-817c-f63b856958bd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "what to do about it?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "what to do about it?",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-80a4-903e-d3e120162b53",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "1) go where the money is. corporations are usually willing to pay a lot more than individuals, for things that they want. Manifest is ~50/50 funded by tickets vs sponsorships",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "1) go where the money is. corporations are usually willing to pay a lot more than individuals, for things that they want. Manifest is ~50/50 funded by tickets vs sponsorships",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-804b-8ac1-eedd6782dc2c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "1a) job boards. Huge source of value to corps",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "1a) job boards. Huge source of value to corps",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-80ee-a53c-f92f536ad710",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "2) retro funding. Like, here's an option to pay qtb 1k or $500 more just because it was a lot better than expected.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "2) retro funding. Like, here's an option to pay qtb 1k or $500 more just because it was a lot better than expected.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-805c-8256-fe842f8a0930",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "3) ongoing memberships, both support of project (patreon, Scott), and exclusive opportunities. Downside: maybe not scale",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "3) ongoing memberships, both support of project (patreon, Scott), and exclusive opportunities. Downside: maybe not scale",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-802a-a62c-db5d18671e4c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "4) sell more things to existing QTB people (201)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "4) sell more things to existing QTB people (201)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-8094-95ee-ff520856468f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "5) automate heavily. make the trading platform self-serve & educational? videos?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "5) automate heavily. make the trading platform self-serve & educational? videos?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-8015-a8e4-e250e4957349",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:03:00.000Z",
+      "last_edited_time": "2025-02-16T20:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "observations",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "observations",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19ca6e41-f23e-80b8-98a2-dd0b16e9203e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19ca6e41-f23e-8021-b7f9-e749b3a2c21c"
+      },
+      "created_time": "2025-02-16T20:01:00.000Z",
+      "last_edited_time": "2025-02-16T20:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "selling your time is not generally a good longterm business strategy, because it's bottlenecked on you. In software, cf patio11 on contracting vs productizing",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "selling your time is not generally a good longterm business strategy, because it's bottlenecked on you. In software, cf patio11 on contracting vs productizing",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    }
+  ]
+}

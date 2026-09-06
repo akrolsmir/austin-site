@@ -1,0 +1,1668 @@
+{
+  "page": {
+    "id": "0b9d456c982b4d8094fa2234958c3001",
+    "title": "Post EA?",
+    "date": "2024-10-17",
+    "edited": "2024-10-27T01:33:00.000Z",
+    "url": "https://akrolsmir.notion.site/Post-EA-0b9d456c982b4d8094fa2234958c3001",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "8026df45-5eb9-442d-92c4-d16172fa783d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0b9d456c-982b-4d80-94fa-2234958c3001"
+      },
+      "created_time": "2024-10-17T16:38:00.000Z",
+      "last_edited_time": "2024-10-17T16:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "4537a199-aeae-4b04-9c37-489abd864583",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0b9d456c-982b-4d80-94fa-2234958c3001"
+      },
+      "created_time": "2024-10-17T16:36:00.000Z",
+      "last_edited_time": "2024-10-17T16:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Ways I’ve changed my mind",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Ways I’ve changed my mind",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "19841211-79a7-4bad-ac0b-dbe41f88651b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0b9d456c-982b-4d80-94fa-2234958c3001"
+      },
+      "created_time": "2024-10-17T16:38:00.000Z",
+      "last_edited_time": "2024-10-17T16:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "No longer sure AI is risky or bad",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "No longer sure AI is risky or bad",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "59a9f2a0-1d5b-4ff1-9a3a-32a29a68d4f0",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19841211-79a7-4bad-ac0b-dbe41f88651b"
+          },
+          "created_time": "2024-10-17T16:38:00.000Z",
+          "last_edited_time": "2024-10-17T16:39:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "From: Hacking on LLM stuff, talking to and using LLMs",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "From: Hacking on LLM stuff, talking to and using LLMs",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "230200b8-8b8a-4743-8295-dca666408554",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19841211-79a7-4bad-ac0b-dbe41f88651b"
+          },
+          "created_time": "2024-10-17T16:38:00.000Z",
+          "last_edited_time": "2024-10-17T16:39:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Disbelief of orthogonality thesis; supposition of AI as god",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Disbelief of orthogonality thesis; supposition of AI as god",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "b7fb9951-c2ad-4dde-8a3d-364552fb53e9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0b9d456c-982b-4d80-94fa-2234958c3001"
+      },
+      "created_time": "2024-10-17T16:39:00.000Z",
+      "last_edited_time": "2024-10-17T16:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Disagreements with EA as practiced by OpenPhil & CEA",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Disagreements with EA as practiced by OpenPhil & CEA",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "733cdd3e-fac0-4776-92ba-457660692de0",
+          "parent": {
+            "type": "block_id",
+            "block_id": "b7fb9951-c2ad-4dde-8a3d-364552fb53e9"
+          },
+          "created_time": "2024-10-17T16:39:00.000Z",
+          "last_edited_time": "2024-10-17T16:45:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "See Nuno’s comments on EA; Leila’s trajectory",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "See Nuno’s comments on EA; Leila’s trajectory",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "e3e807c7-5071-4c8b-918a-4e765e1815d0",
+          "parent": {
+            "type": "block_id",
+            "block_id": "b7fb9951-c2ad-4dde-8a3d-364552fb53e9"
+          },
+          "created_time": "2024-10-17T16:41:00.000Z",
+          "last_edited_time": "2024-10-17T16:55:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Manifest vs EAG as a study in taste vs goodhearting",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Manifest vs EAG as a study in taste vs goodhearting",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "7d38d2a7-c4cc-4e20-9ee6-c4bd7d34a1a9",
+          "parent": {
+            "type": "block_id",
+            "block_id": "b7fb9951-c2ad-4dde-8a3d-364552fb53e9"
+          },
+          "created_time": "2024-10-17T16:41:00.000Z",
+          "last_edited_time": "2024-10-17T16:42:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Systems vs individuals",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Systems vs individuals",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "0cb2e25f-661b-4d9f-bede-3b9f5a0e4539",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0b9d456c-982b-4d80-94fa-2234958c3001"
+      },
+      "created_time": "2024-10-17T16:43:00.000Z",
+      "last_edited_time": "2024-10-17T16:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Unclear that donations to eg malaria nets, still matter to me",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Unclear that donations to eg malaria nets, still matter to me",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "66b2a562-e181-4429-9960-d1381622ffa6",
+          "parent": {
+            "type": "block_id",
+            "block_id": "0cb2e25f-661b-4d9f-bede-3b9f5a0e4539"
+          },
+          "created_time": "2024-10-17T16:44:00.000Z",
+          "last_edited_time": "2024-10-17T16:45:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "… did I just get status-captured into contrarian donating? Like, malaria isn’t cool now, it’s AI, or if not animals, or maybe weird speculative stuff or progress",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "… did I just get status-captured into contrarian donating? Like, malaria isn’t cool now, it’s AI, or if not animals, or maybe weird speculative stuff or progress",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "bde1a4e2-3624-4986-acf2-7f10408fe5f6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0b9d456c-982b-4d80-94fa-2234958c3001"
+      },
+      "created_time": "2024-10-17T16:48:00.000Z",
+      "last_edited_time": "2024-10-17T17:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Marginal person represented on the EA Forum doesn’t excite me",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Marginal person represented on the EA Forum doesn’t excite me",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "543ab79f-d96e-4a45-9b57-796860f33356",
+          "parent": {
+            "type": "block_id",
+            "block_id": "bde1a4e2-3624-4986-acf2-7f10408fe5f6"
+          },
+          "created_time": "2024-10-17T16:48:00.000Z",
+          "last_edited_time": "2024-10-17T16:48:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Evaporative cooling of EA, towards AI risk stuff, or others",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Evaporative cooling of EA, towards AI risk stuff, or others",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "53fd839a-f4f5-4c11-9351-9569cde4c1bf",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0b9d456c-982b-4d80-94fa-2234958c3001"
+      },
+      "created_time": "2024-10-17T17:47:00.000Z",
+      "last_edited_time": "2024-10-17T17:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I enjoy philosophy and academia but it’s not how I operate",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I enjoy philosophy and academia but it’s not how I operate",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "97862389-e6c0-4fcb-aa39-b4d6c42e9dc8",
+          "parent": {
+            "type": "block_id",
+            "block_id": "53fd839a-f4f5-4c11-9351-9569cde4c1bf"
+          },
+          "created_time": "2024-10-17T17:47:00.000Z",
+          "last_edited_time": "2024-10-17T17:48:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "SV “doing stuff” is a better match for my interests",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "SV “doing stuff” is a better match for my interests",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "8d0b8acc-140b-4233-9d80-ced7eb89b284",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0b9d456c-982b-4d80-94fa-2234958c3001"
+      },
+      "created_time": "2024-10-17T16:40:00.000Z",
+      "last_edited_time": "2024-10-17T16:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "e46dca60-be0a-4162-bb44-180199edc87c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0b9d456c-982b-4d80-94fa-2234958c3001"
+      },
+      "created_time": "2024-10-17T16:40:00.000Z",
+      "last_edited_time": "2024-10-17T16:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "But: is SV technocapitalism better?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "But: is SV technocapitalism better?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "bc3d69b1-211f-45c9-a0c2-c8c2cf385f53",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0b9d456c-982b-4d80-94fa-2234958c3001"
+      },
+      "created_time": "2024-10-17T16:49:00.000Z",
+      "last_edited_time": "2024-10-17T17:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "That’s the default framing for Manifold, buni, or something I’d do next",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "That’s the default framing for Manifold, buni, or something I’d do next",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "e8d17acd-7b3c-43f4-a2ce-b1285c424172",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0b9d456c-982b-4d80-94fa-2234958c3001"
+      },
+      "created_time": "2024-10-17T16:49:00.000Z",
+      "last_edited_time": "2024-10-17T16:50:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Post-SV folks like Evan Wallace or Nate Foss",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Post-SV folks like Evan Wallace or Nate Foss",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3e33573c-cfa8-4a06-ace0-a4f950f3a609",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0b9d456c-982b-4d80-94fa-2234958c3001"
+      },
+      "created_time": "2024-10-17T16:40:00.000Z",
+      "last_edited_time": "2024-10-17T16:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "From def/acc: There’s a lot of cargoculting around raising, getting funding, talking to users",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "From def/acc: There’s a lot of cargoculting around raising, getting funding, talking to users",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "f785068a-5b89-4ff1-9db8-4ca8169b29e0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0b9d456c-982b-4d80-94fa-2234958c3001"
+      },
+      "created_time": "2024-10-17T16:43:00.000Z",
+      "last_edited_time": "2024-10-17T16:50:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I like the benefits of choice, but:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I like the benefits of choice, but:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "09f62af7-6e5e-47b0-9219-deb7e93c4afa",
+          "parent": {
+            "type": "block_id",
+            "block_id": "f785068a-5b89-4ff1-9db8-4ca8169b29e0"
+          },
+          "created_time": "2024-10-17T16:45:00.000Z",
+          "last_edited_time": "2024-10-17T16:47:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Jenn on Rich Friend Poor Friend — capitalism reduces the need to rely on each other, which also seems pretty important?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Jenn on Rich Friend Poor Friend — capitalism reduces the need to rely on each other, which also seems pretty important?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "ea236169-7df2-4fdf-8f63-0fd29d9ee1b6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0b9d456c-982b-4d80-94fa-2234958c3001"
+      },
+      "created_time": "2024-10-17T16:50:00.000Z",
+      "last_edited_time": "2024-10-17T16:50:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "75026d12-6925-4caf-96d8-462fc29431cb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0b9d456c-982b-4d80-94fa-2234958c3001"
+      },
+      "created_time": "2024-10-17T16:50:00.000Z",
+      "last_edited_time": "2024-10-17T16:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Which status ladders are worth playing?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Which status ladders are worth playing?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "cf06205a-3b83-4d22-a814-cc328a5f303f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0b9d456c-982b-4d80-94fa-2234958c3001"
+      },
+      "created_time": "2024-10-17T16:53:00.000Z",
+      "last_edited_time": "2024-10-17T16:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Ones nearby:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Ones nearby:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3e1fea31-f8da-4933-a698-bd67c7032328",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0b9d456c-982b-4d80-94fa-2234958c3001"
+      },
+      "created_time": "2024-10-17T16:51:00.000Z",
+      "last_edited_time": "2024-10-17T16:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Silicon Valley — Founders? VCs?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Silicon Valley — Founders? VCs?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1f2e037f-c983-42fb-aeb1-ba8c348f0398",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0b9d456c-982b-4d80-94fa-2234958c3001"
+      },
+      "created_time": "2024-10-17T16:51:00.000Z",
+      "last_edited_time": "2024-10-17T16:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "EA — Holden? Dustin?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "EA — Holden? Dustin?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "8f2d87e4-b3bf-4207-a9fe-f696b953b292",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0b9d456c-982b-4d80-94fa-2234958c3001"
+      },
+      "created_time": "2024-10-17T16:51:00.000Z",
+      "last_edited_time": "2024-10-17T16:52:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "AI — Top researchers?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "AI — Top researchers?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "914858db-cf92-497b-a247-cd2b731ede63",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0b9d456c-982b-4d80-94fa-2234958c3001"
+      },
+      "created_time": "2024-10-17T16:51:00.000Z",
+      "last_edited_time": "2024-10-17T16:51:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Catholic — Jesus? Pope?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Catholic — Jesus? Pope?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "b9704fca-5fe1-4c18-b998-6ce5fdd169e8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0b9d456c-982b-4d80-94fa-2234958c3001"
+      },
+      "created_time": "2024-10-17T16:51:00.000Z",
+      "last_edited_time": "2024-10-17T16:52:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Politics — President? Founding Fathers?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Politics — President? Founding Fathers?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "314add01-bfab-4652-8897-83d9accdd2e2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0b9d456c-982b-4d80-94fa-2234958c3001"
+      },
+      "created_time": "2024-10-17T16:53:00.000Z",
+      "last_edited_time": "2024-10-17T16:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Bloggers — Scott Alexander? Tyler Cowen?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Bloggers — Scott Alexander? Tyler Cowen?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "ec13c14f-b8be-4d78-8e8a-2366ebbbed0d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0b9d456c-982b-4d80-94fa-2234958c3001"
+      },
+      "created_time": "2024-10-17T16:56:00.000Z",
+      "last_edited_time": "2024-10-17T16:56:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "f878aa79-3ac2-4bdb-ad81-b6737cc1619d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0b9d456c-982b-4d80-94fa-2234958c3001"
+      },
+      "created_time": "2024-10-17T16:56:00.000Z",
+      "last_edited_time": "2024-10-17T16:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Drafting a better ideology, network state, religion",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Drafting a better ideology, network state, religion",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "6c490720-8324-4b51-b230-000a9fab6c63",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0b9d456c-982b-4d80-94fa-2234958c3001"
+      },
+      "created_time": "2024-10-17T16:57:00.000Z",
+      "last_edited_time": "2024-10-17T16:59:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "More solid commitments than EA?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "More solid commitments than EA?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "488aa995-8daf-480d-83a0-1ef41ce7f26a",
+          "parent": {
+            "type": "block_id",
+            "block_id": "6c490720-8324-4b51-b230-000a9fab6c63"
+          },
+          "created_time": "2024-10-17T16:58:00.000Z",
+          "last_edited_time": "2024-10-17T17:00:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "And more structured governance, equity?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "And more structured governance, equity?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "ac3b9c28-bf47-49fe-a008-eddd746a4559",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0b9d456c-982b-4d80-94fa-2234958c3001"
+      },
+      "created_time": "2024-10-17T16:59:00.000Z",
+      "last_edited_time": "2024-10-17T17:04:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Inclusive for AIs?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Inclusive for AIs?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "8ad8cc4e-efb7-4046-947e-e0945903c79e",
+          "parent": {
+            "type": "block_id",
+            "block_id": "ac3b9c28-bf47-49fe-a008-eddd746a4559"
+          },
+          "created_time": "2024-10-17T16:59:00.000Z",
+          "last_edited_time": "2024-10-17T16:59:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Need to solve all the problems of @agent economics",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Need to solve all the problems of @agent economics",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "2300ebc2-c4b6-4d09-834a-489a1e89ee80",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0b9d456c-982b-4d80-94fa-2234958c3001"
+      },
+      "created_time": "2024-10-17T17:04:00.000Z",
+      "last_edited_time": "2024-10-17T17:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Is this for myself, or for others (to coordinate many folks?)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Is this for myself, or for others (to coordinate many folks?)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "14b29d7b-1ba9-4c6a-b2fd-180ab03b9ed4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0b9d456c-982b-4d80-94fa-2234958c3001"
+      },
+      "created_time": "2024-10-17T17:05:00.000Z",
+      "last_edited_time": "2024-10-17T17:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Pluralistic?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Pluralistic?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "8cec584e-432a-4aff-9f6f-5981f6a03f73",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0b9d456c-982b-4d80-94fa-2234958c3001"
+      },
+      "created_time": "2024-10-17T17:04:00.000Z",
+      "last_edited_time": "2024-10-17T17:04:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    }
+  ]
+}

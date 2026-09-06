@@ -1,0 +1,1039 @@
+{
+  "page": {
+    "id": "273f818c98924d10889a9fd7b8a40fad",
+    "title": "I love Rachel",
+    "date": "2023-06-08",
+    "edited": "2023-06-21T17:02:00.000Z",
+    "url": "https://akrolsmir.notion.site/I-love-Rachel-273f818c98924d10889a9fd7b8a40fad",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "5ed28725-a5f4-4311-bfc5-f3b1bfbdc3ba",
+      "parent": {
+        "type": "page_id",
+        "page_id": "273f818c-9892-4d10-889a-9fd7b8a40fad"
+      },
+      "created_time": "2023-06-09T07:01:00.000Z",
+      "last_edited_time": "2023-06-09T07:01:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I love your drawings, your art, your doodles on the side of notes",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I love your drawings, your art, your doodles on the side of notes",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "7bb88ced-09da-4c6b-b965-44d72e4cfdbb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "273f818c-9892-4d10-889a-9fd7b8a40fad"
+      },
+      "created_time": "2023-06-09T07:01:00.000Z",
+      "last_edited_time": "2023-06-09T07:01:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I also love your handwriting",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I also love your handwriting",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "436cda6f-9baa-44e2-85a7-61f0fff473de",
+      "parent": {
+        "type": "page_id",
+        "page_id": "273f818c-9892-4d10-889a-9fd7b8a40fad"
+      },
+      "created_time": "2023-06-09T07:01:00.000Z",
+      "last_edited_time": "2023-06-09T07:01:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I love how you appreciate nature: flowers and dogs and babies, and draw my attention to them",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I love how you appreciate nature: flowers and dogs and babies, and draw my attention to them",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "bdb7a878-d736-4554-a4fa-c8353593d820",
+      "parent": {
+        "type": "page_id",
+        "page_id": "273f818c-9892-4d10-889a-9fd7b8a40fad"
+      },
+      "created_time": "2023-06-09T07:01:00.000Z",
+      "last_edited_time": "2023-06-09T07:01:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I love that you come to church with me, even if it's not a tradition embedded in you",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I love that you come to church with me, even if it's not a tradition embedded in you",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "85e64cbe-0d52-4665-a24d-068398b4e2f0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "273f818c-9892-4d10-889a-9fd7b8a40fad"
+      },
+      "created_time": "2023-06-09T07:01:00.000Z",
+      "last_edited_time": "2023-06-09T07:01:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I love that you make an effort to stay in touch with your mom and dad (and that you invite me to join)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I love that you make an effort to stay in touch with your mom and dad (and that you invite me to join)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "26415a58-3c77-471d-8ada-f69d612d75f7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "273f818c-9892-4d10-889a-9fd7b8a40fad"
+      },
+      "created_time": "2023-06-09T07:01:00.000Z",
+      "last_edited_time": "2023-06-09T08:12:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I love when you put yourself out there, even if it's uncomfortable, even if it's just for me. I never care how bad you think you are; hearing you sing and watching you dance brings me such joy",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I love when you put yourself out there, even if it's uncomfortable, even if it's just for me. I never care how bad you think you are; hearing you sing and watching you dance brings me such joy",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "55bae5eb-71bc-4d25-8317-bee18e8ec8ed",
+      "parent": {
+        "type": "page_id",
+        "page_id": "273f818c-9892-4d10-889a-9fd7b8a40fad"
+      },
+      "created_time": "2023-06-09T07:01:00.000Z",
+      "last_edited_time": "2023-06-09T07:01:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I love that you love Notion as much as I do",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I love that you love Notion as much as I do",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "d0bcac30-ecc7-42d7-90d7-34e428b65df4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "273f818c-9892-4d10-889a-9fd7b8a40fad"
+      },
+      "created_time": "2023-06-09T07:01:00.000Z",
+      "last_edited_time": "2023-06-09T08:12:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I love warming my hands on you, your protests as we negotiate a mutually acceptable arrangement",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I love warming my hands on you, your protests as we negotiate a mutually acceptable arrangement",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "655a318f-8ef3-44e4-ada2-fd4e7b758962",
+      "parent": {
+        "type": "page_id",
+        "page_id": "273f818c-9892-4d10-889a-9fd7b8a40fad"
+      },
+      "created_time": "2023-06-09T07:01:00.000Z",
+      "last_edited_time": "2023-06-09T07:01:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I love marching down the hall with my hands on your shoulders",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I love marching down the hall with my hands on your shoulders",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "ba346994-e90d-434d-b992-ebae9881a87f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "273f818c-9892-4d10-889a-9fd7b8a40fad"
+      },
+      "created_time": "2023-06-09T07:01:00.000Z",
+      "last_edited_time": "2023-06-09T08:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I can love when you push me to try new things that I'd never have done on my own: weed, gymnastics, dyeing my hair",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I can love when you push me to try new things that I'd never have done on my own: weed, gymnastics, dyeing my hair",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "eda1d0e0-b515-4d92-abe9-b660182b7e2a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "273f818c-9892-4d10-889a-9fd7b8a40fad"
+      },
+      "created_time": "2023-06-09T07:01:00.000Z",
+      "last_edited_time": "2023-06-09T07:01:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I love that we climb trees together",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I love that we climb trees together",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "5fac929f-733e-4b13-9161-fd243fe8db79",
+      "parent": {
+        "type": "page_id",
+        "page_id": "273f818c-9892-4d10-889a-9fd7b8a40fad"
+      },
+      "created_time": "2023-06-09T07:01:00.000Z",
+      "last_edited_time": "2023-06-09T07:01:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I love your raw athleticism, the way you delight in moving your body and put in work to maintain it",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I love your raw athleticism, the way you delight in moving your body and put in work to maintain it",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "4ad65357-735b-4686-b8d1-8a76d168d82a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "273f818c-9892-4d10-889a-9fd7b8a40fad"
+      },
+      "created_time": "2023-06-09T07:01:00.000Z",
+      "last_edited_time": "2023-06-09T07:01:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I love that you share music and movies with me, while I share books and blog posts with you",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I love that you share music and movies with me, while I share books and blog posts with you",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "473f5e1b-f133-4b80-aa5b-2c810d0f0401",
+      "parent": {
+        "type": "page_id",
+        "page_id": "273f818c-9892-4d10-889a-9fd7b8a40fad"
+      },
+      "created_time": "2023-06-09T07:01:00.000Z",
+      "last_edited_time": "2023-06-09T08:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I love our mutual challenges, starving ourselves for Lent, giving up sex before marriage",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I love our mutual challenges, starving ourselves for Lent, giving up sex before marriage",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "5d552410-7180-4dc8-a248-396feadbc341",
+      "parent": {
+        "type": "page_id",
+        "page_id": "273f818c-9892-4d10-889a-9fd7b8a40fad"
+      },
+      "created_time": "2023-06-09T07:01:00.000Z",
+      "last_edited_time": "2023-06-09T07:01:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I love cooking together, the process of tuning our food until it's better for our palates than what a restaurant would serve, making a giant pot of curry or a pot pie from scratch",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I love cooking together, the process of tuning our food until it's better for our palates than what a restaurant would serve, making a giant pot of curry or a pot pie from scratch",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "343d2460-4f40-41f4-a5e0-764b5687dada",
+      "parent": {
+        "type": "page_id",
+        "page_id": "273f818c-9892-4d10-889a-9fd7b8a40fad"
+      },
+      "created_time": "2023-06-09T07:01:00.000Z",
+      "last_edited_time": "2023-06-09T07:01:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I love the times we spent apart, because they make the time we spend together all the more sweeter",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I love the times we spent apart, because they make the time we spend together all the more sweeter",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "5df7cd58-fd55-4169-ad38-f90af4df78c3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "273f818c-9892-4d10-889a-9fd7b8a40fad"
+      },
+      "created_time": "2023-06-09T07:01:00.000Z",
+      "last_edited_time": "2023-06-09T07:01:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I love writing for you, whether it be lists like this, or letters, or even just a quick Messenger ping to try to get you to smile",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I love writing for you, whether it be lists like this, or letters, or even just a quick Messenger ping to try to get you to smile",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2f0240a8-c216-4f3d-8da7-ea679c8f5d5c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "273f818c-9892-4d10-889a-9fd7b8a40fad"
+      },
+      "created_time": "2023-06-09T07:01:00.000Z",
+      "last_edited_time": "2023-06-09T07:01:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "and I love reading what you've written, a peek into your innermost thoughts that you're too embarrassed to say outright",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "and I love reading what you've written, a peek into your innermost thoughts that you're too embarrassed to say outright",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "fc599647-309b-476a-872d-a1e01c495544",
+      "parent": {
+        "type": "page_id",
+        "page_id": "273f818c-9892-4d10-889a-9fd7b8a40fad"
+      },
+      "created_time": "2023-06-09T07:01:00.000Z",
+      "last_edited_time": "2023-06-21T17:02:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I love it when we tease each other, when we make fun of our mutual faults (your ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I love it when we tease each other, when we make fun of our mutual faults (your ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "drug",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": true,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "drug",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " caffeine addiction, my inability to remember anything)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " caffeine addiction, my inability to remember anything)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "d3a2bb78-5382-4fea-83b3-5a3f52dcd3c7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "273f818c-9892-4d10-889a-9fd7b8a40fad"
+      },
+      "created_time": "2023-06-09T07:01:00.000Z",
+      "last_edited_time": "2023-06-09T07:01:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I love scrolling through my photos of you, allowing me to relive our time together in the span of minutes",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I love scrolling through my photos of you, allowing me to relive our time together in the span of minutes",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "dbdc8873-6e84-461d-8b53-5a66acb19f1d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "273f818c-9892-4d10-889a-9fd7b8a40fad"
+      },
+      "created_time": "2023-06-09T07:01:00.000Z",
+      "last_edited_time": "2023-06-09T07:01:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I love your crooked tooth",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I love your crooked tooth",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2c2b6c87-cb11-4aa2-afd4-bd38988eb90b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "273f818c-9892-4d10-889a-9fd7b8a40fad"
+      },
+      "created_time": "2023-06-09T08:09:00.000Z",
+      "last_edited_time": "2023-06-09T08:10:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I love that we get to spend the rest of our lives together",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I love that we get to spend the rest of our lives together",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "7e71552e-2c76-406d-a8e7-fbfc0ad13717",
+          "parent": {
+            "type": "block_id",
+            "block_id": "2c2b6c87-cb11-4aa2-afd4-bd38988eb90b"
+          },
+          "created_time": "2023-06-09T08:09:00.000Z",
+          "last_edited_time": "2023-06-09T08:10:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "quote",
+          "quote": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Always, I wanna be with you, and make believe with you, and live in harmony, harmony oh love",
+                  "link": {
+                    "url": "https://www.youtube.com/watch?v=8MC0G-Lbuuk"
+                  }
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Always, I wanna be with you, and make believe with you, and live in harmony, harmony oh love",
+                "href": "https://www.youtube.com/watch?v=8MC0G-Lbuuk"
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    }
+  ]
+}

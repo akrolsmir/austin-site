@@ -1,0 +1,753 @@
+{
+  "page": {
+    "id": "138a6e41f23e8041a385d861f5575df7",
+    "title": "Donate Retroactively ",
+    "date": "2024-11-08T08:05:00.000+00:00",
+    "edited": "2024-11-08T17:36:00.000Z",
+    "url": "https://akrolsmir.notion.site/Donate-Retroactively-138a6e41f23e8041a385d861f5575df7",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "138a6e41-f23e-8066-a842-ef0612e3df5b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "138a6e41-f23e-8041-a385-d861f5575df7"
+      },
+      "created_time": "2024-11-08T08:06:00.000Z",
+      "last_edited_time": "2024-11-08T08:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Most nonprofit grants made today are prospective (made before the work is done), restricted (limited to doing a specific thing), and cost-based (seeking to cover exactly what the project cost).",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Most nonprofit grants made today are prospective (made before the work is done), restricted (limited to doing a specific thing), and cost-based (seeking to cover exactly what the project cost).",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "138a6e41-f23e-8099-9c85-edda125895c5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "138a6e41-f23e-8041-a385-d861f5575df7"
+      },
+      "created_time": "2024-11-08T08:06:00.000Z",
+      "last_edited_time": "2024-11-08T08:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I claim that donors should shift towards retrospective, unrestricted, value-based grants.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I claim that donors should shift towards retrospective, unrestricted, value-based grants.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "138a6e41-f23e-80ea-a9a4-d9a9f4bc590f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "138a6e41-f23e-8041-a385-d861f5575df7"
+      },
+      "created_time": "2024-11-08T08:06:00.000Z",
+      "last_edited_time": "2024-11-08T08:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Easier evaluation: It's much easier to tell which projects were good, after the project has finished. Many projects never even get off the ground; many projects that do what they said they would do, never realize the impact they thought they would. Retroactive funders don't have to pay out for those.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Easier evaluation: It's much easier to tell which projects were good, after the project has finished. Many projects never even get off the ground; many projects that do what they said they would do, never realize the impact they thought they would. Retroactive funders don't have to pay out for those.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "138a6e41-f23e-805a-a865-f7e0b492bc57",
+      "parent": {
+        "type": "page_id",
+        "page_id": "138a6e41-f23e-8041-a385-d861f5575df7"
+      },
+      "created_time": "2024-11-08T08:06:00.000Z",
+      "last_edited_time": "2024-11-08T08:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Effective allocation: The best predictor of whether someone can succeed is whether they've succeeded before.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Effective allocation: The best predictor of whether someone can succeed is whether they've succeeded before.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "138a6e41-f23e-80be-aeed-d37ab12c4e9e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "138a6e41-f23e-8041-a385-d861f5575df7"
+      },
+      "created_time": "2024-11-08T08:06:00.000Z",
+      "last_edited_time": "2024-11-08T08:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Grantee freedom: Retroactive funding is maximally unrestricted, meaning grantees can pursue what seems best to them rather than what is most legible.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Grantee freedom: Retroactive funding is maximally unrestricted, meaning grantees can pursue what seems best to them rather than what is most legible.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "138a6e41-f23e-80a9-960e-d9d5361e3038",
+      "parent": {
+        "type": "page_id",
+        "page_id": "138a6e41-f23e-8041-a385-d861f5575df7"
+      },
+      "created_time": "2024-11-08T08:06:00.000Z",
+      "last_edited_time": "2024-11-08T08:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "See also: donate unrestricted by Paul Graham; the finding that many academics would research different topics if their funding were unrestricted.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "See also: donate unrestricted by Paul Graham; the finding that many academics would research different topics if their funding were unrestricted.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "138a6e41-f23e-8069-84b6-d6d3ad887a43",
+      "parent": {
+        "type": "page_id",
+        "page_id": "138a6e41-f23e-8041-a385-d861f5575df7"
+      },
+      "created_time": "2024-11-08T08:06:00.000Z",
+      "last_edited_time": "2024-11-08T08:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Alignment: if someone has done work you really like, probably they are excited to do more work like that. Instead of asking grantees to continually ask for more money with a concrete plan on how to spend it - why not just let them do whatever they want?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Alignment: if someone has done work you really like, probably they are excited to do more work like that. Instead of asking grantees to continually ask for more money with a concrete plan on how to spend it - why not just let them do whatever they want?",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "138a6e41-f23e-808d-bc88-ee4e89d0d574",
+      "parent": {
+        "type": "page_id",
+        "page_id": "138a6e41-f23e-8041-a385-d861f5575df7"
+      },
+      "created_time": "2024-11-08T08:06:00.000Z",
+      "last_edited_time": "2024-11-08T08:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Fairness: People doing charitable work are by default underpaid compared to similar roles in the for-profit world.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Fairness: People doing charitable work are by default underpaid compared to similar roles in the for-profit world.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "138a6e41-f23e-80ba-b4dd-ccb655b269e0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "138a6e41-f23e-8041-a385-d861f5575df7"
+      },
+      "created_time": "2024-11-08T08:06:00.000Z",
+      "last_edited_time": "2024-11-08T08:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Attracting talent: Retroactive payments can narrow the salary gap, sending a market signal which ultimately encourages more competent folks into the charitable sector.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Attracting talent: Retroactive payments can narrow the salary gap, sending a market signal which ultimately encourages more competent folks into the charitable sector.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "138a6e41-f23e-8049-be4d-ca6f8d338d2c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "138a6e41-f23e-8041-a385-d861f5575df7"
+      },
+      "created_time": "2024-11-08T08:06:00.000Z",
+      "last_edited_time": "2024-11-08T08:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "(Many industries that care about talent like quant trading firms and big tech pay out a large fraction of compensation in end-of-year performance-based bonuses, which function similarly to retroactive donations.)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "(Many industries that care about talent like quant trading firms and big tech pay out a large fraction of compensation in end-of-year performance-based bonuses, which function similarly to retroactive donations.)",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "138a6e41-f23e-80a6-af5a-d78d015646f7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "138a6e41-f23e-8041-a385-d861f5575df7"
+      },
+      "created_time": "2024-11-08T08:06:00.000Z",
+      "last_edited_time": "2024-11-08T08:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Angel investing: Beyond just covering their living expenses, it would be good for successful charitable leaders to directly fund the next round of charities; retroactive payments for impactful work could enable this",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Angel investing: Beyond just covering their living expenses, it would be good for successful charitable leaders to directly fund the next round of charities; retroactive payments for impactful work could enable this",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "138a6e41-f23e-805f-ac22-fb099bbb84bd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "138a6e41-f23e-8041-a385-d861f5575df7"
+      },
+      "created_time": "2024-11-08T08:06:00.000Z",
+      "last_edited_time": "2024-11-08T08:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "One thing that makes Silicon Valley work is that successful exited startup founders can then invest in seed rounds of new startups. Exited founders are in a very good position to assess whether a new startup is any good; it's a shame this doesn't happen in nonprofit-land, as a creator of a very successful charity does not then have millions in discretionary funds to fund new charities (absent retroactive payments)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "One thing that makes Silicon Valley work is that successful exited startup founders can then invest in seed rounds of new startups. Exited founders are in a very good position to assess whether a new startup is any good; it's a shame this doesn't happen in nonprofit-land, as a creator of a very successful charity does not then have millions in discretionary funds to fund new charities (absent retroactive payments)",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "138a6e41-f23e-8018-8371-d147abfaa435",
+      "parent": {
+        "type": "page_id",
+        "page_id": "138a6e41-f23e-8041-a385-d861f5575df7"
+      },
+      "created_time": "2024-11-08T08:06:00.000Z",
+      "last_edited_time": "2024-11-08T08:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Prospective funding proposals mean grantees kind of have to hold impact hostage, and that",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Prospective funding proposals mean grantees kind of have to hold impact hostage, and that",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "138a6e41-f23e-804d-ab8c-f8529faa7fa4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "138a6e41-f23e-8041-a385-d861f5575df7"
+      },
+      "created_time": "2024-11-08T08:06:00.000Z",
+      "last_edited_time": "2024-11-08T08:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Maybe this is just me, but I kind of hate writing a funding proposal. It feels like I'm holding my impact as a hostage - \"look at that nice impact in front of you, sure would be a shame if something were to happen to it\"",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Maybe this is just me, but I kind of hate writing a funding proposal. It feels like I'm holding my impact as a hostage - \"look at that nice impact in front of you, sure would be a shame if something were to happen to it\"",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "138a6e41-f23e-80c2-9f59-ef48e66456bf",
+      "parent": {
+        "type": "page_id",
+        "page_id": "138a6e41-f23e-8041-a385-d861f5575df7"
+      },
+      "created_time": "2024-11-08T08:06:00.000Z",
+      "last_edited_time": "2024-11-08T08:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Examples of retroactive donations I'm proud of making:\n$10k to VaccinateCA\n$10k to Michael Trazzi for salary and costs incurred while filming an SB 1047 documentary",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Examples of retroactive donations I'm proud of making:\n$10k to VaccinateCA\n$10k to Michael Trazzi for salary and costs incurred while filming an SB 1047 documentary",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "138a6e41-f23e-80b6-bafd-f2d8d4c62fd5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "138a6e41-f23e-8041-a385-d861f5575df7"
+      },
+      "created_time": "2024-11-08T08:06:00.000Z",
+      "last_edited_time": "2024-11-08T08:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Of course, a major downside of retroactive funding is that often, grantees need the money before they can start their project, to pay for salaries (their own or employees) or otherwise cover costs. My favorite solution to this are impact certificates, where investors can directly fund projects they expect to later earn retroactive payouts.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Of course, a major downside of retroactive funding is that often, grantees need the money before they can start their project, to pay for salaries (their own or employees) or otherwise cover costs. My favorite solution to this are impact certificates, where investors can directly fund projects they expect to later earn retroactive payouts.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "138a6e41-f23e-80e5-bd6e-d20b6a212278",
+      "parent": {
+        "type": "page_id",
+        "page_id": "138a6e41-f23e-8041-a385-d861f5575df7"
+      },
+      "created_time": "2024-11-08T08:06:00.000Z",
+      "last_edited_time": "2024-11-08T08:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "(But I also think that prospective funding is great too; just that it should make up 70% of the funding ecosystem rather than like 95%, to use some made up numbers.)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "(But I also think that prospective funding is great too; just that it should make up 70% of the funding ecosystem rather than like 95%, to use some made up numbers.)",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    }
+  ]
+}

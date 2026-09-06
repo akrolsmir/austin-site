@@ -1,0 +1,2614 @@
+{
+  "page": {
+    "id": "1cca6e41f23e8032ac72dd734784dd1b",
+    "title": "The structures of companies vs fields",
+    "date": "2025-04-05T18:15:00.000+00:00",
+    "edited": "2025-04-20T20:55:00.000Z",
+    "url": "https://akrolsmir.notion.site/The-structures-of-companies-vs-fields-1cca6e41f23e8032ac72dd734784dd1b",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "1cca6e41-f23e-807d-a4d9-d890dbea4974",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1cca6e41-f23e-8032-ac72-dd734784dd1b"
+      },
+      "created_time": "2025-04-05T18:21:00.000Z",
+      "last_edited_time": "2025-04-20T20:54:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Thesis: EA/AI safety is comprised of a bunch of tiny orgs that are not closely coordinated. Why is this? How does this compare to the structures of a competent large org (eg Google?)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Thesis: EA/AI safety is comprised of a bunch of tiny orgs that are not closely coordinated. Why is this? How does this compare to the structures of a competent large org (eg Google?)",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1cca6e41-f23e-80a9-b384-f7d0a8b5e38d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1cca6e41-f23e-8032-ac72-dd734784dd1b"
+      },
+      "created_time": "2025-04-05T18:15:00.000Z",
+      "last_edited_time": "2025-04-05T18:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Comparing movements (AI safety, EA) to large orgs (Google, Amazon)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Comparing movements (AI safety, EA) to large orgs (Google, Amazon)",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1cca6e41-f23e-80e9-8da4-fee92317535f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1cca6e41-f23e-8032-ac72-dd734784dd1b"
+      },
+      "created_time": "2025-04-05T18:34:00.000Z",
+      "last_edited_time": "2025-04-05T18:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "How are initiatives started?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "How are initiatives started?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "1cca6e41-f23e-803c-b10e-ef0b2b6bd654",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1cca6e41-f23e-80e9-8da4-fee92317535f"
+          },
+          "created_time": "2025-04-05T18:21:00.000Z",
+          "last_edited_time": "2025-04-05T18:34:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Google: Top down management, OKRs. Some 20% time projects bottoms-up.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Google: Top down management, OKRs. Some 20% time projects bottoms-up.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "1cca6e41-f23e-8083-b347-de170f0dcd32",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1cca6e41-f23e-80e9-8da4-fee92317535f"
+          },
+          "created_time": "2025-04-05T18:26:00.000Z",
+          "last_edited_time": "2025-04-05T18:35:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "EA/AIS: Bottoms-up doocracy. Funders have a bit of say, but mostly approve/reject applications.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "EA/AIS: Bottoms-up doocracy. Funders have a bit of say, but mostly approve/reject applications.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1cca6e41-f23e-8094-b145-d565249d305f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1cca6e41-f23e-8032-ac72-dd734784dd1b"
+      },
+      "created_time": "2025-04-05T18:18:00.000Z",
+      "last_edited_time": "2025-04-05T18:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "How is strategy decided?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "How is strategy decided?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "1cca6e41-f23e-80cf-8ac2-df205880fcb1",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1cca6e41-f23e-8094-b145-d565249d305f"
+          },
+          "created_time": "2025-04-05T18:35:00.000Z",
+          "last_edited_time": "2025-04-05T18:37:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Google: ?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Google: ?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "1cca6e41-f23e-80ba-8eb9-fdf02f19fefd",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1cca6e41-f23e-8094-b145-d565249d305f"
+          },
+          "created_time": "2025-04-05T18:35:00.000Z",
+          "last_edited_time": "2025-04-05T18:36:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "EA/AIS: Some people write papers or books (eg Will MacAskill, Toby Ord, Scott Alexander). Others pick up on them and try to execute on them?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "EA/AIS: Some people write papers or books (eg Will MacAskill, Toby Ord, Scott Alexander). Others pick up on them and try to execute on them?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1cca6e41-f23e-80bf-8a4f-fe37d6ec0e04",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1cca6e41-f23e-8032-ac72-dd734784dd1b"
+      },
+      "created_time": "2025-04-05T18:27:00.000Z",
+      "last_edited_time": "2025-04-05T18:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "How do individuals and projects get feedback about whether they are succeeding?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "How do individuals and projects get feedback about whether they are succeeding?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "1cca6e41-f23e-80fd-a12c-dfa8140740b6",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1cca6e41-f23e-80bf-8a4f-fe37d6ec0e04"
+          },
+          "created_time": "2025-04-05T18:27:00.000Z",
+          "last_edited_time": "2025-04-05T18:33:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Google: Feedback from managers, also the real world. Perf review every other year.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Google: Feedback from managers, also the real world. Perf review every other year.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "1cca6e41-f23e-80c9-bdb1-f402a53475ca",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1cca6e41-f23e-80bf-8a4f-fe37d6ec0e04"
+          },
+          "created_time": "2025-04-05T18:28:00.000Z",
+          "last_edited_time": "2025-04-05T18:28:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "EA/AIS: Occasional feedback from funders, paper submissions.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "EA/AIS: Occasional feedback from funders, paper submissions.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1cca6e41-f23e-8005-bbbe-ec4f7f2c347e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1cca6e41-f23e-8032-ac72-dd734784dd1b"
+      },
+      "created_time": "2025-04-05T18:17:00.000Z",
+      "last_edited_time": "2025-04-05T18:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "How does funding move?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "How does funding move?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "1cca6e41-f23e-80a9-a0f5-da0cbba74785",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1cca6e41-f23e-8005-bbbe-ec4f7f2c347e"
+          },
+          "created_time": "2025-04-05T18:33:00.000Z",
+          "last_edited_time": "2025-04-05T18:48:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Google: (speculating) Top-down allocation of headcount to managers?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Google: (speculating) Top-down allocation of headcount to managers?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "1cca6e41-f23e-8079-a0fb-c8c35c1ed1e7",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1cca6e41-f23e-80a9-a0f5-da0cbba74785"
+              },
+              "created_time": "2025-04-05T18:48:00.000Z",
+              "last_edited_time": "2025-04-05T18:48:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Some things like Waymo are spun out",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Some things like Waymo are spun out",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "1cca6e41-f23e-806a-b78d-ddacc696958c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1cca6e41-f23e-8005-bbbe-ec4f7f2c347e"
+          },
+          "created_time": "2025-04-05T18:19:00.000Z",
+          "last_edited_time": "2025-04-05T18:48:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "EA/AIS is thought to be pretty centralized to OpenPhil, though there are other ways to get money",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "EA/AIS is thought to be pretty centralized to OpenPhil, though there are other ways to get money",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "1cca6e41-f23e-800b-a7a6-fbc7c573c70d",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1cca6e41-f23e-806a-b78d-ddacc696958c"
+              },
+              "created_time": "2025-04-05T18:18:00.000Z",
+              "last_edited_time": "2025-04-05T18:27:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Some fields are more competitive, between multiple funders",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Some fields are more competitive, between multiple funders",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1cca6e41-f23e-8099-a01e-ffe7b62cc1db",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1cca6e41-f23e-8032-ac72-dd734784dd1b"
+      },
+      "created_time": "2025-04-05T18:18:00.000Z",
+      "last_edited_time": "2025-04-05T18:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "How do members communicate to each other? How does information move?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "How do members communicate to each other? How does information move?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "1cca6e41-f23e-8021-a281-dcf097d749b4",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1cca6e41-f23e-8099-a01e-ffe7b62cc1db"
+          },
+          "created_time": "2025-04-05T18:19:00.000Z",
+          "last_edited_time": "2025-04-05T18:19:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Google: Internal emails, chat, mailing lists. You prioritize stuff from your own email",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Google: Internal emails, chat, mailing lists. You prioritize stuff from your own email",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "1cca6e41-f23e-80f8-a533-dc79a6909230",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1cca6e41-f23e-8099-a01e-ffe7b62cc1db"
+          },
+          "created_time": "2025-04-05T18:26:00.000Z",
+          "last_edited_time": "2025-04-05T18:28:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "EA/AIS: Blogs, emails, conferences, Constellation slack, Twitter",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "EA/AIS: Blogs, emails, conferences, Constellation slack, Twitter",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1cca6e41-f23e-804d-9161-c766c2a57f98",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1cca6e41-f23e-8032-ac72-dd734784dd1b"
+      },
+      "created_time": "2025-04-05T18:21:00.000Z",
+      "last_edited_time": "2025-04-05T18:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "How does the field communicate to the world?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "How does the field communicate to the world?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "1cca6e41-f23e-8096-9a0a-cc86cfd5a635",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1cca6e41-f23e-804d-9161-c766c2a57f98"
+          },
+          "created_time": "2025-04-05T18:22:00.000Z",
+          "last_edited_time": "2025-04-05T18:26:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Google: Kinda badly with “comms”/PR, vs eg sama on Twitter",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Google: Kinda badly with “comms”/PR, vs eg sama on Twitter",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "1cca6e41-f23e-80cd-bfb4-d55b212f8fb8",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1cca6e41-f23e-8096-9a0a-cc86cfd5a635"
+              },
+              "created_time": "2025-04-05T18:26:00.000Z",
+              "last_edited_time": "2025-04-05T18:28:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "But also: ship a website that everyone uses, which is a kind of comms",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "But also: ship a website that everyone uses, which is a kind of comms",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "1cca6e41-f23e-8041-95c3-f47255e51fc7",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1cca6e41-f23e-804d-9161-c766c2a57f98"
+          },
+          "created_time": "2025-04-05T18:26:00.000Z",
+          "last_edited_time": "2025-04-05T18:32:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "EA/AIS: also badly. random talks with media? Own our own stack?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "EA/AIS: also badly. random talks with media? Own our own stack?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1cca6e41-f23e-8014-ae36-f1668eb70fd9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1cca6e41-f23e-8032-ac72-dd734784dd1b"
+      },
+      "created_time": "2025-04-05T18:19:00.000Z",
+      "last_edited_time": "2025-04-05T18:36:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "How are members recruited? ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "How are members recruited? ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "1cca6e41-f23e-8068-a607-e020f22d48d4",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1cca6e41-f23e-8014-ae36-f1668eb70fd9"
+          },
+          "created_time": "2025-04-05T18:19:00.000Z",
+          "last_edited_time": "2025-04-05T18:36:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Google: You get hired. Very clear line of in or out. Screened fairly carefully.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Google: You get hired. Very clear line of in or out. Screened fairly carefully.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "1cca6e41-f23e-800a-b93b-dde39679caec",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1cca6e41-f23e-8014-ae36-f1668eb70fd9"
+          },
+          "created_time": "2025-04-05T18:28:00.000Z",
+          "last_edited_time": "2025-04-05T18:36:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "EA/AIS: 80k, blogs, friendships, programs like Atlas.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "EA/AIS: 80k, blogs, friendships, programs like Atlas.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1cca6e41-f23e-807e-a19e-efb70c2424f9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1cca6e41-f23e-8032-ac72-dd734784dd1b"
+      },
+      "created_time": "2025-04-05T18:36:00.000Z",
+      "last_edited_time": "2025-04-05T18:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "How are membership boundaries enforced?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "How are membership boundaries enforced?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "1cca6e41-f23e-80fc-853b-d9e15ccf6380",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1cca6e41-f23e-807e-a19e-efb70c2424f9"
+          },
+          "created_time": "2025-04-05T18:37:00.000Z",
+          "last_edited_time": "2025-04-05T18:37:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Google: Clear “who is hired”, also leveling system for seniority",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Google: Clear “who is hired”, also leveling system for seniority",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "1cca6e41-f23e-803d-984b-ff3b4218d6c5",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1cca6e41-f23e-807e-a19e-efb70c2424f9"
+          },
+          "created_time": "2025-04-05T18:36:00.000Z",
+          "last_edited_time": "2025-04-05T18:45:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "EA/AIS: Very unclear who is in our out, or what people’s roles are. Same for what orgs are in EA or AI safety.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "EA/AIS: Very unclear who is in our out, or what people’s roles are. Same for what orgs are in EA or AI safety.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1cca6e41-f23e-8040-b9df-d8051d31b3e8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1cca6e41-f23e-8032-ac72-dd734784dd1b"
+      },
+      "created_time": "2025-04-05T18:22:00.000Z",
+      "last_edited_time": "2025-04-05T18:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "How are members supported?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "How are members supported?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "1cca6e41-f23e-806e-8ce1-da2edc19491d",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1cca6e41-f23e-8040-b9df-d8051d31b3e8"
+          },
+          "created_time": "2025-04-05T18:22:00.000Z",
+          "last_edited_time": "2025-04-05T18:36:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Google: Benefits, vesting. Retention matters a lot",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Google: Benefits, vesting. Retention matters a lot",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "1cca6e41-f23e-80da-a844-ea29f0269acb",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1cca6e41-f23e-8040-b9df-d8051d31b3e8"
+          },
+          "created_time": "2025-04-05T18:22:00.000Z",
+          "last_edited_time": "2025-04-05T18:36:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "EA/AIS: Parties, social connections. Retention doesn’t matter as much.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "EA/AIS: Parties, social connections. Retention doesn’t matter as much.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1cca6e41-f23e-80d9-9cb8-ee50936b88a4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1cca6e41-f23e-8032-ac72-dd734784dd1b"
+      },
+      "created_time": "2025-04-05T18:45:00.000Z",
+      "last_edited_time": "2025-04-05T18:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Internal tooling & software",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Internal tooling & software",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "1cca6e41-f23e-80d5-971d-e1eaf59c6c27",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1cca6e41-f23e-80d9-9cb8-ee50936b88a4"
+          },
+          "created_time": "2025-04-05T18:46:00.000Z",
+          "last_edited_time": "2025-04-05T18:46:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Google invests a lot in this, has a whole cottage industry of internal tools",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Google invests a lot in this, has a whole cottage industry of internal tools",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "1cca6e41-f23e-8086-8ef6-e34eb11cc4d0",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1cca6e41-f23e-80d5-971d-e1eaf59c6c27"
+              },
+              "created_time": "2025-04-05T18:46:00.000Z",
+              "last_edited_time": "2025-04-05T18:46:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "A bit Galapagos-like, in that the wider world has ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "A bit Galapagos-like, in that the wider world has ",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "1cca6e41-f23e-809d-8f80-ddcb7548ac91",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1cca6e41-f23e-80d9-9cb8-ee50936b88a4"
+          },
+          "created_time": "2025-04-05T18:46:00.000Z",
+          "last_edited_time": "2025-04-05T18:47:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "EA/AIS have EA Forum/Lesswrong",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "EA/AIS have EA Forum/Lesswrong",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1cca6e41-f23e-80ef-a564-f081c7a9a8d5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1cca6e41-f23e-8032-ac72-dd734784dd1b"
+      },
+      "created_time": "2025-04-05T18:47:00.000Z",
+      "last_edited_time": "2025-04-05T18:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Facilities",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Facilities",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "1cca6e41-f23e-805a-8fa3-d68fdcc55642",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1cca6e41-f23e-80ef-a564-f081c7a9a8d5"
+          },
+          "created_time": "2025-04-05T18:47:00.000Z",
+          "last_edited_time": "2025-04-05T18:47:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Google has pretty amazing campuses set up for productivity",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Google has pretty amazing campuses set up for productivity",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "1cca6e41-f23e-80af-8741-ee4670b9c9ff",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1cca6e41-f23e-80ef-a564-f081c7a9a8d5"
+          },
+          "created_time": "2025-04-05T18:47:00.000Z",
+          "last_edited_time": "2025-04-05T18:49:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "EA/AIS have a few coworking & events spaces (Mox, Constellation, Lighthaven)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "EA/AIS have a few coworking & events spaces (Mox, Constellation, Lighthaven)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1cca6e41-f23e-803b-ba72-e039cf23e718",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1cca6e41-f23e-8032-ac72-dd734784dd1b"
+      },
+      "created_time": "2025-04-05T18:44:00.000Z",
+      "last_edited_time": "2025-04-05T18:44:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1cca6e41-f23e-8015-801f-f37762c2049c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1cca6e41-f23e-8032-ac72-dd734784dd1b"
+      },
+      "created_time": "2025-04-05T18:23:00.000Z",
+      "last_edited_time": "2025-04-05T18:44:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Appendix",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Appendix",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1cca6e41-f23e-80fe-aa8f-cb16d4e544c9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1cca6e41-f23e-8032-ac72-dd734784dd1b"
+      },
+      "created_time": "2025-04-05T18:23:00.000Z",
+      "last_edited_time": "2025-04-05T18:51:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Think about:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Think about:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "1cca6e41-f23e-8014-8b3c-c2f31f376c47",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1cca6e41-f23e-80fe-aa8f-cb16d4e544c9"
+          },
+          "created_time": "2025-04-05T18:23:00.000Z",
+          "last_edited_time": "2025-04-05T18:24:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "vs in the startup ecosystem, field of tech/AIS?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "vs in the startup ecosystem, field of tech/AIS?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "1cca6e41-f23e-80c4-a660-d2ad06641062",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1cca6e41-f23e-80fe-aa8f-cb16d4e544c9"
+          },
+          "created_time": "2025-04-05T18:23:00.000Z",
+          "last_edited_time": "2025-04-05T18:50:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "vs within a growing startup (cf High Growth Handbook?), eg Stripe or Anthropic?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "vs within a growing startup (cf High Growth Handbook?), eg Stripe or Anthropic?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "1cca6e41-f23e-80c9-9ae3-f3787f63faa6",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1cca6e41-f23e-80fe-aa8f-cb16d4e544c9"
+          },
+          "created_time": "2025-04-05T18:23:00.000Z",
+          "last_edited_time": "2025-04-05T18:24:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "How do theory of firm considerations change with ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "How do theory of firm considerations change with ",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "1cca6e41-f23e-800b-8418-ed5733e5b06f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1cca6e41-f23e-80fe-aa8f-cb16d4e544c9"
+          },
+          "created_time": "2025-04-05T18:31:00.000Z",
+          "last_edited_time": "2025-04-05T18:31:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Which is a better bet, “AI safety” or “Anthropic”?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Which is a better bet, “AI safety” or “Anthropic”?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "1cca6e41-f23e-8013-9907-f48a952db787",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1cca6e41-f23e-80fe-aa8f-cb16d4e544c9"
+          },
+          "created_time": "2025-04-05T18:50:00.000Z",
+          "last_edited_time": "2025-04-05T18:52:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Considerations on when things should be small orgs/firms vs aligned entities",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Considerations on when things should be small orgs/firms vs aligned entities",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "1cca6e41-f23e-804b-9031-d371fd721fda",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1cca6e41-f23e-8013-9907-f48a952db787"
+              },
+              "created_time": "2025-04-05T18:51:00.000Z",
+              "last_edited_time": "2025-04-05T18:53:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Ronald Coase on ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Ronald Coase on ",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "transaction costs",
+                      "link": {
+                        "url": "https://en.wikipedia.org/wiki/Theory_of_the_firm"
+                      }
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "transaction costs",
+                    "href": "https://en.wikipedia.org/wiki/Theory_of_the_firm"
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "1cca6e41-f23e-8045-abc9-d338afc5690b",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1cca6e41-f23e-8013-9907-f48a952db787"
+              },
+              "created_time": "2025-04-05T18:52:00.000Z",
+              "last_edited_time": "2025-04-05T18:52:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Large orgs can have “money” as alignment mechanism",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Large orgs can have “money” as alignment mechanism",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1cca6e41-f23e-8093-80d8-e27067057890",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1cca6e41-f23e-8032-ac72-dd734784dd1b"
+      },
+      "created_time": "2025-04-05T18:24:00.000Z",
+      "last_edited_time": "2025-04-05T18:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1cca6e41-f23e-8076-a7c1-d51692788dfb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1cca6e41-f23e-8032-ac72-dd734784dd1b"
+      },
+      "created_time": "2025-04-05T18:31:00.000Z",
+      "last_edited_time": "2025-04-05T18:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Observations:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Observations:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1cca6e41-f23e-8047-afc6-e72880fb0cb8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1cca6e41-f23e-8032-ac72-dd734784dd1b"
+      },
+      "created_time": "2025-04-05T18:22:00.000Z",
+      "last_edited_time": "2025-04-05T18:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Case study: I asked Nick Beckstead why he is doing ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Case study: I asked Nick Beckstead why he is doing ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Secure AI Project",
+              "link": {
+                "url": "https://secureaiproject.org/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Secure AI Project",
+            "href": "https://secureaiproject.org/"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " rather than doing more funding stuff similar to Future Fund or OpenPhil. Turns out funders don’t have very much control over outcomes, and he saw so much low hanging fruit. He’s conceiving of SAIP’s advantage as taking full ownership over outcomes, which is rare in AIS nonprofits.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " rather than doing more funding stuff similar to Future Fund or OpenPhil. Turns out funders don’t have very much control over outcomes, and he saw so much low hanging fruit. He’s conceiving of SAIP’s advantage as taking full ownership over outcomes, which is rare in AIS nonprofits.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1cca6e41-f23e-80d3-99b1-c515633688d6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1cca6e41-f23e-8032-ac72-dd734784dd1b"
+      },
+      "created_time": "2025-04-05T18:24:00.000Z",
+      "last_edited_time": "2025-04-05T18:44:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Motivation for this piece:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Motivation for this piece:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1cca6e41-f23e-80e1-b12a-f6c8201d70af",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1cca6e41-f23e-8032-ac72-dd734784dd1b"
+      },
+      "created_time": "2025-04-05T18:24:00.000Z",
+      "last_edited_time": "2025-04-05T18:44:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Figure out what ties Manifund together",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Figure out what ties Manifund together",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "1cca6e41-f23e-8051-b762-e2c29510ccc2",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1cca6e41-f23e-80e1-b12a-f6c8201d70af"
+          },
+          "created_time": "2025-04-05T18:24:00.000Z",
+          "last_edited_time": "2025-04-05T18:25:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Doing 4 different things, vs focusing on a single thing well",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Doing 4 different things, vs focusing on a single thing well",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "1cca6e41-f23e-80e0-855a-cd47add5bb7c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1cca6e41-f23e-80e1-b12a-f6c8201d70af"
+          },
+          "created_time": "2025-04-05T18:25:00.000Z",
+          "last_edited_time": "2025-04-05T18:25:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Climbing gradient towards “larger, more money” vs setting up incentives for the field",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Climbing gradient towards “larger, more money” vs setting up incentives for the field",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "1cca6e41-f23e-8070-8cf7-e7bdded6cab3",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1cca6e41-f23e-80e1-b12a-f6c8201d70af"
+          },
+          "created_time": "2025-04-05T18:25:00.000Z",
+          "last_edited_time": "2025-04-05T18:38:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Considerations on a Manifund incubation",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Considerations on a Manifund incubation",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1cca6e41-f23e-807b-9ab1-ece6de7e7b26",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1cca6e41-f23e-8032-ac72-dd734784dd1b"
+      },
+      "created_time": "2025-04-05T18:24:00.000Z",
+      "last_edited_time": "2025-04-05T18:44:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Have reasonable suggestions for AI for Epistemics retreat & fieldbuilding",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Have reasonable suggestions for AI for Epistemics retreat & fieldbuilding",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "1cca6e41-f23e-809f-acb8-cac5b6e33568",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1cca6e41-f23e-807b-9ab1-ece6de7e7b26"
+          },
+          "created_time": "2025-04-05T18:39:00.000Z",
+          "last_edited_time": "2025-04-05T18:44:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "publish this & the retro thoughts from hackathon",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "publish this & the retro thoughts from hackathon",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    }
+  ]
+}

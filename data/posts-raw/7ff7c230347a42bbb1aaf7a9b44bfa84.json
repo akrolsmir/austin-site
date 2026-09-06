@@ -1,0 +1,3687 @@
+{
+  "page": {
+    "id": "7ff7c230347a42bbb1aaf7a9b44bfa84",
+    "title": "Funding in EA: Grants, Loans, Equity",
+    "date": "2023-07-22",
+    "edited": "2025-01-02T21:40:00.000Z",
+    "url": "https://akrolsmir.notion.site/Funding-in-EA-Grants-Loans-Equity-7ff7c230347a42bbb1aaf7a9b44bfa84",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "15b178f0-0203-45fb-991e-dd1756bcdb51",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7ff7c230-347a-42bb-b1aa-f7a9b44bfa84"
+      },
+      "created_time": "2023-07-22T23:26:00.000Z",
+      "last_edited_time": "2023-07-22T23:29:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "We’re only scratching the surface in the design space of “how can people with money (funders) support provide who need money (grantees)”.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "We’re only scratching the surface in the design space of “how can people with money (funders) support provide who need money (grantees)”.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "e4155c7b-e85c-4f84-8dfe-7ec7450b79bc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7ff7c230-347a-42bb-b1aa-f7a9b44bfa84"
+      },
+      "created_time": "2023-07-22T22:40:00.000Z",
+      "last_edited_time": "2023-07-22T23:44:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Grants",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Grants",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "086c56fc-a6d6-4cb6-9d4d-e991bdacda79",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7ff7c230-347a-42bb-b1aa-f7a9b44bfa84"
+      },
+      "created_time": "2023-07-22T22:41:00.000Z",
+      "last_edited_time": "2023-10-10T06:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Restricted vs Unrestricted",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Restricted vs Unrestricted",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "16d70e4a-c1ba-4460-bf5a-a7398a0fa16f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "086c56fc-a6d6-4cb6-9d4d-e991bdacda79"
+          },
+          "created_time": "2023-07-22T23:44:00.000Z",
+          "last_edited_time": "2023-07-22T23:45:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Restricted tends to be the default — “I’ll give you money for this project”. But this is quite annoying for nonprofits; reduces their flexibility and ability to react",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Restricted tends to be the default — “I’ll give you money for this project”. But this is quite annoying for nonprofits; reduces their flexibility and ability to react",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "b167be5c-8089-40b0-a22b-7ecf5cb05fda",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7ff7c230-347a-42bb-b1aa-f7a9b44bfa84"
+      },
+      "created_time": "2023-07-22T23:25:00.000Z",
+      "last_edited_time": "2023-07-22T23:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Lump sum vs Over time",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Lump sum vs Over time",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "e177c3d4-99f6-4086-a337-d757cc3523fd",
+          "parent": {
+            "type": "block_id",
+            "block_id": "b167be5c-8089-40b0-a22b-7ecf5cb05fda"
+          },
+          "created_time": "2023-07-22T23:27:00.000Z",
+          "last_edited_time": "2023-07-22T23:32:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Over time would be less expensive (wrt cost of capital to funder); keep incentives aligned. Could have checkpoints to see regular reports of more work.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Over time would be less expensive (wrt cost of capital to funder); keep incentives aligned. Could have checkpoints to see regular reports of more work.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "fb346eba-5349-4df5-8d54-de13ba6c6027",
+              "parent": {
+                "type": "block_id",
+                "block_id": "e177c3d4-99f6-4086-a337-d757cc3523fd"
+              },
+              "created_time": "2023-07-22T23:28:00.000Z",
+              "last_edited_time": "2023-07-22T23:32:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": true,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Is it good for funders to have more touchpoints with their grantees?",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Is it good for funders to have more touchpoints with their grantees?",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "children": [
+                {
+                  "object": "block",
+                  "id": "aab3ec28-6536-44bc-9552-ba83d292a585",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "fb346eba-5349-4df5-8d54-de13ba6c6027"
+                  },
+                  "created_time": "2023-07-22T23:28:00.000Z",
+                  "last_edited_time": "2023-07-22T23:33:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Failure mode: funders telling grantees how to do their work, when grantees are the actual expert",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Failure mode: funders telling grantees how to do their work, when grantees are the actual expert",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "45605160-eb14-48a3-9643-5b28c3bf8c98",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7ff7c230-347a-42bb-b1aa-f7a9b44bfa84"
+      },
+      "created_time": "2023-07-22T23:32:00.000Z",
+      "last_edited_time": "2023-07-22T23:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "To individuals vs to orgs",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "To individuals vs to orgs",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "3f38a9b8-3243-45eb-82b4-db1e3cdde8d7",
+          "parent": {
+            "type": "block_id",
+            "block_id": "45605160-eb14-48a3-9643-5b28c3bf8c98"
+          },
+          "created_time": "2023-07-22T23:32:00.000Z",
+          "last_edited_time": "2023-07-22T23:45:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Microgrants to individuals has become very popular: Emergent Ventures, Fast Grants, ACX Grants, etc",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Microgrants to individuals has become very popular: Emergent Ventures, Fast Grants, ACX Grants, etc",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "88e92130-346f-49fa-9fa4-b3629c6cd934",
+          "parent": {
+            "type": "block_id",
+            "block_id": "45605160-eb14-48a3-9643-5b28c3bf8c98"
+          },
+          "created_time": "2023-07-22T23:45:00.000Z",
+          "last_edited_time": "2023-07-22T23:46:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Grants to individuals may make them less likely to work within an org",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Grants to individuals may make them less likely to work within an org",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "c32b9d05-a222-484f-9643-cd6878f6f5c9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7ff7c230-347a-42bb-b1aa-f7a9b44bfa84"
+      },
+      "created_time": "2023-07-22T22:42:00.000Z",
+      "last_edited_time": "2023-07-22T22:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "d8ae7fff-04bd-4def-a98e-314ece33ce7d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7ff7c230-347a-42bb-b1aa-f7a9b44bfa84"
+      },
+      "created_time": "2023-07-22T22:42:00.000Z",
+      "last_edited_time": "2023-07-22T23:44:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "On the surface, it might seem that grants are the most desirable. Free money! Some problems with grants:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "On the surface, it might seem that grants are the most desirable. Free money! Some problems with grants:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "62cb4a62-0830-4221-a455-304183a5fbf4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7ff7c230-347a-42bb-b1aa-f7a9b44bfa84"
+      },
+      "created_time": "2023-07-22T23:04:00.000Z",
+      "last_edited_time": "2023-07-22T23:30:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Implicit restriction on what you can spend it on",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Implicit restriction on what you can spend it on",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "761dada2-5710-44ef-8636-e9541b5a3511",
+          "parent": {
+            "type": "block_id",
+            "block_id": "62cb4a62-0830-4221-a455-304183a5fbf4"
+          },
+          "created_time": "2023-07-22T23:05:00.000Z",
+          "last_edited_time": "2023-07-22T23:30:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Grantees have to try and predict “does this make the funder happy”",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Grantees have to try and predict “does this make the funder happy”",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "d565ee80-8407-494b-b58a-3766035f69b7",
+              "parent": {
+                "type": "block_id",
+                "block_id": "761dada2-5710-44ef-8636-e9541b5a3511"
+              },
+              "created_time": "2023-07-22T23:30:00.000Z",
+              "last_edited_time": "2023-07-22T23:30:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Unlike in for-profit companies, where the objectives are clearer",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Unlike in for-profit companies, where the objectives are clearer",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "be88912b-9e5e-4998-a76e-e98f73d606b2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7ff7c230-347a-42bb-b1aa-f7a9b44bfa84"
+      },
+      "created_time": "2023-07-22T23:04:00.000Z",
+      "last_edited_time": "2023-07-22T23:30:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Grants move “PR risk budget” onto the funder",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Grants move “PR risk budget” onto the funder",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "81588945-9fe2-4782-b5e0-53a456f1efd1",
+          "parent": {
+            "type": "block_id",
+            "block_id": "be88912b-9e5e-4998-a76e-e98f73d606b2"
+          },
+          "created_time": "2023-07-22T23:04:00.000Z",
+          "last_edited_time": "2023-07-22T23:05:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Cf “Every grant is also a bounty”",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Cf “Every grant is also a bounty”",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "63c2a065-24c4-4038-a8fd-e31fac492aef",
+          "parent": {
+            "type": "block_id",
+            "block_id": "be88912b-9e5e-4998-a76e-e98f73d606b2"
+          },
+          "created_time": "2023-07-22T23:05:00.000Z",
+          "last_edited_time": "2023-07-22T23:31:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Necessitates more screening by the funder, more cautiousness. If you make one bad grant, everyone comes at you",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Necessitates more screening by the funder, more cautiousness. If you make one bad grant, everyone comes at you",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "67acb4f3-ee41-46c1-8491-32f38033ee36",
+              "parent": {
+                "type": "block_id",
+                "block_id": "63c2a065-24c4-4038-a8fd-e31fac492aef"
+              },
+              "created_time": "2023-07-22T23:30:00.000Z",
+              "last_edited_time": "2023-07-22T23:31:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "But more screening also weeds out the weird but promising ideas",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "But more screening also weeds out the weird but promising ideas",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "53e93200-aa8c-4579-ab8a-a8a89d8cc4fb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7ff7c230-347a-42bb-b1aa-f7a9b44bfa84"
+      },
+      "created_time": "2023-07-22T22:42:00.000Z",
+      "last_edited_time": "2023-07-22T23:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Less mechanical alignment between grantee and funder.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Less mechanical alignment between grantee and funder.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "d03669ff-f143-485a-b3d4-d2d07835961d",
+          "parent": {
+            "type": "block_id",
+            "block_id": "53e93200-aa8c-4579-ab8a-a8a89d8cc4fb"
+          },
+          "created_time": "2023-07-22T22:42:00.000Z",
+          "last_edited_time": "2023-07-22T22:43:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "The incentive of a grantor is to pick grants that look good instead of grants that will pay out well in the future",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "The incentive of a grantor is to pick grants that look good instead of grants that will pay out well in the future",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "2af1e7ac-c1fd-42ca-a0d5-b971322e76b4",
+          "parent": {
+            "type": "block_id",
+            "block_id": "53e93200-aa8c-4579-ab8a-a8a89d8cc4fb"
+          },
+          "created_time": "2023-07-22T22:43:00.000Z",
+          "last_edited_time": "2023-07-22T22:43:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "A loan or an equity investment requires a story of some kind, that",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "A loan or an equity investment requires a story of some kind, that",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "03018baa-da2f-4f9c-9e02-6a3904015007",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7ff7c230-347a-42bb-b1aa-f7a9b44bfa84"
+      },
+      "created_time": "2023-07-22T22:44:00.000Z",
+      "last_edited_time": "2023-07-22T23:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Most expensive for the grantor",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Most expensive for the grantor",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "083c952b-39a6-4685-85d1-04ccbc290827",
+          "parent": {
+            "type": "block_id",
+            "block_id": "03018baa-da2f-4f9c-9e02-6a3904015007"
+          },
+          "created_time": "2023-07-22T22:44:00.000Z",
+          "last_edited_time": "2023-07-22T22:54:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "When you give a loan, there’s some chance of default, but in expectation you’ll be able to make back your capital",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "When you give a loan, there’s some chance of default, but in expectation you’ll be able to make back your capital",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "543ee9e8-49e5-4784-9be6-90f3d7be856d",
+          "parent": {
+            "type": "block_id",
+            "block_id": "03018baa-da2f-4f9c-9e02-6a3904015007"
+          },
+          "created_time": "2023-07-22T22:45:00.000Z",
+          "last_edited_time": "2023-07-22T22:54:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Grantors have to ask to raise more money after, and would have to optimize for “good-lookingness” of grants",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Grantors have to ask to raise more money after, and would have to optimize for “good-lookingness” of grants",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "8e859ce2-4128-4585-b6d4-7b0d652d28a3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7ff7c230-347a-42bb-b1aa-f7a9b44bfa84"
+      },
+      "created_time": "2023-07-22T23:39:00.000Z",
+      "last_edited_time": "2023-07-22T23:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Free money might attract scammers?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Free money might attract scammers?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "4fc533b7-6bc3-4532-bc5e-6cdc5b1ce624",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7ff7c230-347a-42bb-b1aa-f7a9b44bfa84"
+      },
+      "created_time": "2023-07-22T23:39:00.000Z",
+      "last_edited_time": "2023-07-22T23:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Free money might encourage free-spending (or appear to)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Free money might encourage free-spending (or appear to)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "dee01acd-fa88-4125-9320-99a53a009143",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7ff7c230-347a-42bb-b1aa-f7a9b44bfa84"
+      },
+      "created_time": "2023-07-22T22:40:00.000Z",
+      "last_edited_time": "2023-07-22T22:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "4e8b13d6-3c09-4fdd-a2e5-d5a757897572",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7ff7c230-347a-42bb-b1aa-f7a9b44bfa84"
+      },
+      "created_time": "2023-07-22T22:40:00.000Z",
+      "last_edited_time": "2023-07-22T22:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Loans",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Loans",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "e32600e7-478d-47a5-a3a6-a9dd7dcba605",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7ff7c230-347a-42bb-b1aa-f7a9b44bfa84"
+      },
+      "created_time": "2023-07-22T22:40:00.000Z",
+      "last_edited_time": "2023-07-22T23:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Loans to individuals",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Loans to individuals",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "ca40e860-081d-4ce2-b9b5-ddd058725542",
+          "parent": {
+            "type": "block_id",
+            "block_id": "e32600e7-478d-47a5-a3a6-a9dd7dcba605"
+          },
+          "created_time": "2023-07-22T23:06:00.000Z",
+          "last_edited_time": "2023-07-22T23:19:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "E.g. student loans? Common for expensive long programs like med school",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "E.g. student loans? Common for expensive long programs like med school",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "344c9268-5041-4b9f-a79e-81df9b0264e2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7ff7c230-347a-42bb-b1aa-f7a9b44bfa84"
+      },
+      "created_time": "2023-07-22T22:40:00.000Z",
+      "last_edited_time": "2023-07-22T23:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Loans to nonprofit orgs",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Loans to nonprofit orgs",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "c5780616-5b1d-4cfe-aade-2b059304191a",
+          "parent": {
+            "type": "block_id",
+            "block_id": "344c9268-5041-4b9f-a79e-81df9b0264e2"
+          },
+          "created_time": "2023-07-22T22:43:00.000Z",
+          "last_edited_time": "2023-07-22T23:38:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "E.g. contingent on future fundraising",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "E.g. contingent on future fundraising",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "061510b5-370b-4575-974d-33e6cf4b71e5",
+              "parent": {
+                "type": "block_id",
+                "block_id": "c5780616-5b1d-4cfe-aade-2b059304191a"
+              },
+              "created_time": "2023-07-22T23:01:00.000Z",
+              "last_edited_time": "2023-07-22T23:07:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Would larger grantmakers be unwilling to pay future loans, if what that does is just subsidize earlier grantmakers?",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Would larger grantmakers be unwilling to pay future loans, if what that does is just subsidize earlier grantmakers?",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "f3a3f99e-ea76-4070-845b-efe4abc6dece",
+              "parent": {
+                "type": "block_id",
+                "block_id": "c5780616-5b1d-4cfe-aade-2b059304191a"
+              },
+              "created_time": "2023-07-22T23:38:00.000Z",
+              "last_edited_time": "2023-07-22T23:38:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "If a grantmaker has promised funding but is slow about delivering it (cough SFF), then a loan can help smoothen operations",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "If a grantmaker has promised funding but is slow about delivering it (cough SFF), then a loan can help smoothen operations",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "93df45ac-30e0-4409-b9fa-65af4aef5e80",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7ff7c230-347a-42bb-b1aa-f7a9b44bfa84"
+      },
+      "created_time": "2023-07-22T22:44:00.000Z",
+      "last_edited_time": "2023-07-22T22:44:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Microloans",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Microloans",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "b7c219c2-664a-49dc-a323-a771ef0872ed",
+          "parent": {
+            "type": "block_id",
+            "block_id": "93df45ac-30e0-4409-b9fa-65af4aef5e80"
+          },
+          "created_time": "2023-07-22T22:44:00.000Z",
+          "last_edited_time": "2023-07-22T23:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Providing access to finance in Africa was a popular thing. why didn’t this end up working out/seeming cost effective, esp in comparison to GiveDirectly?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Providing access to finance in Africa was a popular thing. why didn’t this end up working out/seeming cost effective, esp in comparison to GiveDirectly?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "f95dd092-45b3-40c1-9b58-fb30847fab63",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7ff7c230-347a-42bb-b1aa-f7a9b44bfa84"
+      },
+      "created_time": "2023-07-22T22:40:00.000Z",
+      "last_edited_time": "2023-07-22T23:07:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Unsecured vs secured",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Unsecured vs secured",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "c711e8d8-be50-4f49-8c38-ac098acb4e8c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "f95dd092-45b3-40c1-9b58-fb30847fab63"
+          },
+          "created_time": "2023-07-22T23:07:00.000Z",
+          "last_edited_time": "2023-07-22T23:07:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Generally hard to securitize the kinds of loans given in EA…",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Generally hard to securitize the kinds of loans given in EA…",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "99aab084-5e42-4a1d-a438-aa167ada9802",
+              "parent": {
+                "type": "block_id",
+                "block_id": "c711e8d8-be50-4f49-8c38-ac098acb4e8c"
+              },
+              "created_time": "2023-07-22T23:07:00.000Z",
+              "last_edited_time": "2023-07-22T23:07:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "$300k loan: securitized against Oli’s personal assets",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "$300k loan: securitized against Oli’s personal assets",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "f942fbb0-e0f2-4916-a1db-e8bbb935f63c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7ff7c230-347a-42bb-b1aa-f7a9b44bfa84"
+      },
+      "created_time": "2023-07-22T22:56:00.000Z",
+      "last_edited_time": "2023-07-22T22:56:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "46d579e2-9559-4454-8271-395de8717d47",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7ff7c230-347a-42bb-b1aa-f7a9b44bfa84"
+      },
+      "created_time": "2023-07-22T22:56:00.000Z",
+      "last_edited_time": "2023-07-22T23:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Why get loans in EA, compared to from a commercial source?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Why get loans in EA, compared to from a commercial source?",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "e3ed14b0-dbd8-4f05-9ccf-f4056a480e87",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7ff7c230-347a-42bb-b1aa-f7a9b44bfa84"
+      },
+      "created_time": "2023-07-22T22:57:00.000Z",
+      "last_edited_time": "2023-07-22T23:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Lower interest rates, because:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Lower interest rates, because:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "ea94aaf4-878c-44da-a367-5221531c4b36",
+          "parent": {
+            "type": "block_id",
+            "block_id": "e3ed14b0-dbd8-4f05-9ccf-f4056a480e87"
+          },
+          "created_time": "2023-07-22T22:56:00.000Z",
+          "last_edited_time": "2023-07-22T23:21:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "More trust within EA community. An EA funder has much more context about the work of the grantee, compared to a for-profit bank.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "More trust within EA community. An EA funder has much more context about the work of the grantee, compared to a for-profit bank.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "eaf6f942-2a71-44da-8c76-ec0ca7f68635",
+              "parent": {
+                "type": "block_id",
+                "block_id": "ea94aaf4-878c-44da-a367-5221531c4b36"
+              },
+              "created_time": "2023-07-22T23:08:00.000Z",
+              "last_edited_time": "2023-07-22T23:09:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "The grantee and funder operate in the same community, so the grantee is more socially incentivized not to default",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "The grantee and funder operate in the same community, so the grantee is more socially incentivized not to default",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "83b641f3-653e-4ca4-beb6-2699159095c7",
+          "parent": {
+            "type": "block_id",
+            "block_id": "e3ed14b0-dbd8-4f05-9ccf-f4056a480e87"
+          },
+          "created_time": "2023-07-22T22:56:00.000Z",
+          "last_edited_time": "2023-07-22T23:22:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Funders and grantees share incentives. If you’re going to conduct positive-sum trade, you’d rather it go to someone who shares your values. Grantee prefers profits go to funder; funder prefers grantees get cheaper money.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Funders and grantees share incentives. If you’re going to conduct positive-sum trade, you’d rather it go to someone who shares your values. Grantee prefers profits go to funder; funder prefers grantees get cheaper money.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "5e6f7a66-23a5-46af-9589-fb39a8a3b015",
+              "parent": {
+                "type": "block_id",
+                "block_id": "83b641f3-653e-4ca4-beb6-2699159095c7"
+              },
+              "created_time": "2023-07-22T22:57:00.000Z",
+              "last_edited_time": "2023-07-22T23:22:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "In the case of a default, more willing to write off as a grant",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "In the case of a default, more willing to write off as a grant",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "d6a93af6-a211-4b43-84df-695d5153eccf",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7ff7c230-347a-42bb-b1aa-f7a9b44bfa84"
+      },
+      "created_time": "2023-07-22T23:07:00.000Z",
+      "last_edited_time": "2023-07-22T23:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Can move faster - this doesn’t currently happen at all",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Can move faster - this doesn’t currently happen at all",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "5a6ff9df-a7de-4d16-9c77-c83323a4430d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7ff7c230-347a-42bb-b1aa-f7a9b44bfa84"
+      },
+      "created_time": "2023-07-22T23:23:00.000Z",
+      "last_edited_time": "2023-07-22T23:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Extremely unclear that commercial sources would provide loans to upskill in safety",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Extremely unclear that commercial sources would provide loans to upskill in safety",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "6a5348f5-4a2e-4e7a-889f-448f71b6f516",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7ff7c230-347a-42bb-b1aa-f7a9b44bfa84"
+      },
+      "created_time": "2023-07-22T22:59:00.000Z",
+      "last_edited_time": "2023-07-22T22:59:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "bb496f52-88e7-4bb6-9e3a-e68b80453d13",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7ff7c230-347a-42bb-b1aa-f7a9b44bfa84"
+      },
+      "created_time": "2023-07-22T22:59:00.000Z",
+      "last_edited_time": "2023-07-22T23:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Note: Loans don’t have to be net profitable to collect meaningful returns ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Note: Loans don’t have to be net profitable to collect meaningful returns ",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "54fcb28a-9400-4ff1-9d99-8bdd6a3a3dbb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7ff7c230-347a-42bb-b1aa-f7a9b44bfa84"
+      },
+      "created_time": "2023-07-22T23:23:00.000Z",
+      "last_edited_time": "2023-07-22T23:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Can have zero interest rate",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Can have zero interest rate",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "6b3aa7dd-db5c-4850-89f5-508e2b4c0f1d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7ff7c230-347a-42bb-b1aa-f7a9b44bfa84"
+      },
+      "created_time": "2023-07-22T23:23:00.000Z",
+      "last_edited_time": "2023-07-22T23:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Or negative interest rate! Kind of a hybrid, putting you on a scale closer to a grant",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Or negative interest rate! Kind of a hybrid, putting you on a scale closer to a grant",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "5c035d7b-5b7a-46e4-baf3-125546be4c0e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7ff7c230-347a-42bb-b1aa-f7a9b44bfa84"
+      },
+      "created_time": "2023-07-22T22:59:00.000Z",
+      "last_edited_time": "2023-07-22T23:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "“I’ll lend you $12k now; you pay back $1k a month for the next 6 months”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“I’ll lend you $12k now; you pay back $1k a month for the next 6 months”",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "924b052e-ae36-410f-9468-18f1106a4acd",
+          "parent": {
+            "type": "block_id",
+            "block_id": "5c035d7b-5b7a-46e4-baf3-125546be4c0e"
+          },
+          "created_time": "2023-07-22T23:24:00.000Z",
+          "last_edited_time": "2023-07-22T23:24:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "For a total interest rate of -50%.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "For a total interest rate of -50%.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "dc10afe2-3cf2-4e40-8b46-bcde9b36cdeb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7ff7c230-347a-42bb-b1aa-f7a9b44bfa84"
+      },
+      "created_time": "2023-07-22T22:40:00.000Z",
+      "last_edited_time": "2023-07-22T22:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "32c34828-0398-42ba-90d7-ad445d0a492a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7ff7c230-347a-42bb-b1aa-f7a9b44bfa84"
+      },
+      "created_time": "2023-07-22T22:40:00.000Z",
+      "last_edited_time": "2023-07-22T22:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Equity",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Equity",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "6f44d908-055b-40ec-af9f-3d3f7afa3960",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7ff7c230-347a-42bb-b1aa-f7a9b44bfa84"
+      },
+      "created_time": "2023-07-22T22:40:00.000Z",
+      "last_edited_time": "2023-07-22T23:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Income share agreements",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Income share agreements",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "13c9743b-576b-4750-be0f-19938245eff9",
+          "parent": {
+            "type": "block_id",
+            "block_id": "6f44d908-055b-40ec-af9f-3d3f7afa3960"
+          },
+          "created_time": "2023-07-22T22:52:00.000Z",
+          "last_edited_time": "2023-07-22T23:41:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "An economists’s dream. Funders do better as the grantee makes more.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "An economists’s dream. Funders do better as the grantee makes more.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "89f90980-9cd7-40fc-80eb-f3a4d3afbf7b",
+              "parent": {
+                "type": "block_id",
+                "block_id": "13c9743b-576b-4750-be0f-19938245eff9"
+              },
+              "created_time": "2023-07-22T22:52:00.000Z",
+              "last_edited_time": "2023-07-22T23:24:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Never really took off at Upstart or Lambda School but still seems kind of reasonable, especially for…",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Never really took off at Upstart or Lambda School but still seems kind of reasonable, especially for…",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "08c35460-4760-4bb9-b40a-a4c360f40c54",
+          "parent": {
+            "type": "block_id",
+            "block_id": "6f44d908-055b-40ec-af9f-3d3f7afa3960"
+          },
+          "created_time": "2023-07-22T23:24:00.000Z",
+          "last_edited_time": "2023-07-22T23:24:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Upskilling to work at a top TAIS lab (eg OpenAI, Anthropic, Deepmind) where salaries are $250-500k",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Upskilling to work at a top TAIS lab (eg OpenAI, Anthropic, Deepmind) where salaries are $250-500k",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "04fdcf1b-6097-4966-aaf5-1a1027ab583f",
+              "parent": {
+                "type": "block_id",
+                "block_id": "08c35460-4760-4bb9-b40a-a4c360f40c54"
+              },
+              "created_time": "2023-07-22T23:09:00.000Z",
+              "last_edited_time": "2023-07-22T23:24:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Example: could sell 5% of future salary earned by TAIS",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Example: could sell 5% of future salary earned by TAIS",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "50444a01-79b9-4b9e-a03b-810a4d79b59e",
+          "parent": {
+            "type": "block_id",
+            "block_id": "6f44d908-055b-40ec-af9f-3d3f7afa3960"
+          },
+          "created_time": "2023-07-22T23:11:00.000Z",
+          "last_edited_time": "2023-07-22T23:13:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "What about work that is valuable but not highly compensated? Happens a lot in nonprofit orgs, e.g. if OP would prefer 1 good hire over $1.5m more funding, but pays $150k in salary to that good hire.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "What about work that is valuable but not highly compensated? Happens a lot in nonprofit orgs, e.g. if OP would prefer 1 good hire over $1.5m more funding, but pays $150k in salary to that good hire.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "8080d9ff-66dc-4b42-81dd-d288e41f2a73",
+              "parent": {
+                "type": "block_id",
+                "block_id": "50444a01-79b9-4b9e-a03b-810a4d79b59e"
+              },
+              "created_time": "2023-07-22T23:13:00.000Z",
+              "last_edited_time": "2023-07-22T23:25:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Ideally OP pays some of that surplus to the seed funder…?",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Ideally OP pays some of that surplus to the seed funder…?",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "62e11cb9-2e98-4238-aec7-d2bfbc674c0e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7ff7c230-347a-42bb-b1aa-f7a9b44bfa84"
+      },
+      "created_time": "2023-07-22T22:40:00.000Z",
+      "last_edited_time": "2023-07-22T23:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Literal equity",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Literal equity",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "b8437fa9-7386-4126-95e6-40f046e1650c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "62e11cb9-2e98-4238-aec7-d2bfbc674c0e"
+          },
+          "created_time": "2023-07-22T22:51:00.000Z",
+          "last_edited_time": "2023-07-22T23:00:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Great for for-profits (C-corps, LLCs)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Great for for-profits (C-corps, LLCs)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "694c56d4-c361-420a-bf28-9b0e67a82d1b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "62e11cb9-2e98-4238-aec7-d2bfbc674c0e"
+          },
+          "created_time": "2023-07-22T23:16:00.000Z",
+          "last_edited_time": "2023-07-22T23:16:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Not allowable for nonprofits",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Not allowable for nonprofits",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "057ee149-24d7-4415-a3d2-ed8014d5dd6d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7ff7c230-347a-42bb-b1aa-f7a9b44bfa84"
+      },
+      "created_time": "2023-07-22T22:40:00.000Z",
+      "last_edited_time": "2023-07-22T23:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Impact certificates",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Impact certificates",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "03f31f98-3937-43ad-a4cc-321bec9b826f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "057ee149-24d7-4415-a3d2-ed8014d5dd6d"
+          },
+          "created_time": "2023-07-22T23:00:00.000Z",
+          "last_edited_time": "2023-07-22T23:16:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Kind of like the above, though currently contingent on prizes",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Kind of like the above, though currently contingent on prizes",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "5c73cebc-877e-490a-9874-85b6a24caf58",
+          "parent": {
+            "type": "block_id",
+            "block_id": "057ee149-24d7-4415-a3d2-ed8014d5dd6d"
+          },
+          "created_time": "2023-07-22T23:00:00.000Z",
+          "last_edited_time": "2023-07-22T23:16:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Perhaps: nonprofits should view funds raised as revenue income stream",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Perhaps: nonprofits should view funds raised as revenue income stream",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "a2fae397-a0be-4e1a-b6bb-5bd78392fec9",
+          "parent": {
+            "type": "block_id",
+            "block_id": "057ee149-24d7-4415-a3d2-ed8014d5dd6d"
+          },
+          "created_time": "2023-07-22T23:13:00.000Z",
+          "last_edited_time": "2023-07-22T23:13:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [],
+            "icon": null,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "55d2afbb-9c1c-4c96-8081-77e9473426ca",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7ff7c230-347a-42bb-b1aa-f7a9b44bfa84"
+      },
+      "created_time": "2023-07-22T23:13:00.000Z",
+      "last_edited_time": "2023-07-22T23:36:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Is more “financialization” within EA good?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Is more “financialization” within EA good?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "cbc746e1-aecd-4f41-a821-215e5b8160ed",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7ff7c230-347a-42bb-b1aa-f7a9b44bfa84"
+      },
+      "created_time": "2023-07-22T23:13:00.000Z",
+      "last_edited_time": "2023-07-22T23:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Financialization makes explicit what used to be implicit. Is this good?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Financialization makes explicit what used to be implicit. Is this good?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "66b1d553-4316-4f59-82c2-c7146a687790",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7ff7c230-347a-42bb-b1aa-f7a9b44bfa84"
+      },
+      "created_time": "2023-07-22T23:14:00.000Z",
+      "last_edited_time": "2023-07-22T23:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Classic study: when a daycare started charging fees for late pickups, parents felt empowered to just come in late",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Classic study: when a daycare started charging fees for late pickups, parents felt empowered to just come in late",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "f1fd29f6-5d2f-4caa-b27b-8f89a9911183",
+          "parent": {
+            "type": "block_id",
+            "block_id": "66b1d553-4316-4f59-82c2-c7146a687790"
+          },
+          "created_time": "2023-07-22T23:14:00.000Z",
+          "last_edited_time": "2025-01-02T21:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "IMO, the daycare should have just charged more (until it hits the market clearing rate/happy price)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "IMO, the daycare should have just charged more (until it hits the market clearing rate/happy price)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "ffcd8b62-ee4f-4dd9-8086-ed8829ec3021",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7ff7c230-347a-42bb-b1aa-f7a9b44bfa84"
+      },
+      "created_time": "2023-07-22T23:15:00.000Z",
+      "last_edited_time": "2023-07-22T23:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Explicit metrics give very concrete feedback",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Explicit metrics give very concrete feedback",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "1961182a-0376-49a6-a261-29f43025e923",
+          "parent": {
+            "type": "block_id",
+            "block_id": "ffcd8b62-ee4f-4dd9-8086-ed8829ec3021"
+          },
+          "created_time": "2023-07-22T23:15:00.000Z",
+          "last_edited_time": "2023-07-22T23:16:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Yes yes, Goodheart, but Goodheart doesn’t mean “let’s stop counting how many users we’re serving”",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Yes yes, Goodheart, but Goodheart doesn’t mean “let’s stop counting how many users we’re serving”",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "8f10662d-7f71-4081-8640-13872205d74a",
+          "parent": {
+            "type": "block_id",
+            "block_id": "ffcd8b62-ee4f-4dd9-8086-ed8829ec3021"
+          },
+          "created_time": "2023-07-22T23:36:00.000Z",
+          "last_edited_time": "2023-07-22T23:37:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Money is a great proxy for impact, one of the best that we have.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Money is a great proxy for impact, one of the best that we have.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "b0ace26b-035d-49ad-b94c-8439ede99f6a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7ff7c230-347a-42bb-b1aa-f7a9b44bfa84"
+      },
+      "created_time": "2023-07-22T23:36:00.000Z",
+      "last_edited_time": "2023-07-22T23:36:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "EA was founded on something like “financializing altruism”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "EA was founded on something like “financializing altruism”",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "08c493fc-2495-4490-b526-03911c001159",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7ff7c230-347a-42bb-b1aa-f7a9b44bfa84"
+      },
+      "created_time": "2023-07-22T23:14:00.000Z",
+      "last_edited_time": "2023-07-22T23:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "There is something warm & fuzzy about “free” though, which may encourage better community norms?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "There is something warm & fuzzy about “free” though, which may encourage better community norms?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "dfe2d914-ece4-4790-9c87-61075cf8d0d2",
+          "parent": {
+            "type": "block_id",
+            "block_id": "08c493fc-2495-4490-b526-03911c001159"
+          },
+          "created_time": "2023-07-22T23:42:00.000Z",
+          "last_edited_time": "2023-07-22T23:42:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Too much financialization reduces the necessity for trust",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Too much financialization reduces the necessity for trust",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "8278e3c4-17ca-4e7d-a041-8708d0fdee10",
+              "parent": {
+                "type": "block_id",
+                "block_id": "dfe2d914-ece4-4790-9c87-61075cf8d0d2"
+              },
+              "created_time": "2023-07-22T23:17:00.000Z",
+              "last_edited_time": "2023-07-22T23:42:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Once upon a time, to get to the airport for a late night flight, my dad would call up his brother; with the understanding that when my brother needed the same service, he would help out. Now… we just call Ubers.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Once upon a time, to get to the airport for a late night flight, my dad would call up his brother; with the understanding that when my brother needed the same service, he would help out. Now… we just call Ubers.",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "07611376-ee57-43e9-87bb-d989766096c2",
+              "parent": {
+                "type": "block_id",
+                "block_id": "dfe2d914-ece4-4790-9c87-61075cf8d0d2"
+              },
+              "created_time": "2023-07-22T23:42:00.000Z",
+              "last_edited_time": "2023-07-22T23:43:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Vulnerability & dependence are what forms strong relationships",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Vulnerability & dependence are what forms strong relationships",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "69038b32-b068-491d-94a6-5be40fb9c356",
+          "parent": {
+            "type": "block_id",
+            "block_id": "08c493fc-2495-4490-b526-03911c001159"
+          },
+          "created_time": "2023-07-22T23:17:00.000Z",
+          "last_edited_time": "2023-07-22T23:42:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Early Christians: no charging within each other?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Early Christians: no charging within each other?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "965918e8-d8cc-46ce-b2a0-9dfae1965e6e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7ff7c230-347a-42bb-b1aa-f7a9b44bfa84"
+      },
+      "created_time": "2023-07-22T23:17:00.000Z",
+      "last_edited_time": "2023-07-22T23:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "f051d9c0-5ee7-4961-9b24-15e0c4c2cb7e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7ff7c230-347a-42bb-b1aa-f7a9b44bfa84"
+      },
+      "created_time": "2023-07-22T23:17:00.000Z",
+      "last_edited_time": "2023-07-22T23:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    }
+  ]
+}

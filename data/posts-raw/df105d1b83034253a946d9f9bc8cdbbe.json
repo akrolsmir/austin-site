@@ -1,0 +1,1752 @@
+{
+  "page": {
+    "id": "df105d1b83034253a946d9f9bc8cdbbe",
+    "title": "Musings on Discord",
+    "date": "2023-11-01",
+    "edited": "2023-11-02T04:04:00.000Z",
+    "url": "https://akrolsmir.notion.site/Musings-on-Discord-df105d1b83034253a946d9f9bc8cdbbe",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "1ad80024-7b03-48e7-bb8e-f6f94a67ad9f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "df105d1b-8303-4253-a946-d9f9bc8cdbbe"
+      },
+      "created_time": "2023-11-02T03:44:00.000Z",
+      "last_edited_time": "2023-11-02T03:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I have a love/hate relationship with Discord",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I have a love/hate relationship with Discord",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "e6945668-cecd-41ce-a12a-cfcc338ac50d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "df105d1b-8303-4253-a946-d9f9bc8cdbbe"
+      },
+      "created_time": "2023-11-02T03:46:00.000Z",
+      "last_edited_time": "2023-11-02T04:01:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Love:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Love:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "57d1f53e-d823-4c4e-a9ae-74c2acdcebfb",
+          "parent": {
+            "type": "block_id",
+            "block_id": "e6945668-cecd-41ce-a12a-cfcc338ac50d"
+          },
+          "created_time": "2023-11-02T03:46:00.000Z",
+          "last_edited_time": "2023-11-02T04:01:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Acts as an external brain for the combined Manifold core team + community",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Acts as an external brain for the combined Manifold core team + community",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "b2bdd82e-fc13-4352-9f9c-8f1745f03d43",
+              "parent": {
+                "type": "block_id",
+                "block_id": "57d1f53e-d823-4c4e-a9ae-74c2acdcebfb"
+              },
+              "created_time": "2023-11-02T03:55:00.000Z",
+              "last_edited_time": "2023-11-02T03:56:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Makes understanding our teammates and users much, much easier",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Makes understanding our teammates and users much, much easier",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "695457d4-ad84-40f2-a2e9-7102d152d79c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "e6945668-cecd-41ce-a12a-cfcc338ac50d"
+          },
+          "created_time": "2023-11-02T04:00:00.000Z",
+          "last_edited_time": "2023-11-02T04:01:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Helps our power users get to know us as people and buy in to a shared culture",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Helps our power users get to know us as people and buy in to a shared culture",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "3ccf5063-0842-4dbf-8eb8-a0351f8d25c3",
+          "parent": {
+            "type": "block_id",
+            "block_id": "e6945668-cecd-41ce-a12a-cfcc338ac50d"
+          },
+          "created_time": "2023-11-02T04:00:00.000Z",
+          "last_edited_time": "2023-11-02T04:02:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Counterfactually responsible for Manifold’s existence (I first met my cofounder James through Discord!)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Counterfactually responsible for Manifold’s existence (I first met my cofounder James through Discord!)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "f3056eb8-f601-401f-bbbb-220fc55dd30b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "df105d1b-8303-4253-a946-d9f9bc8cdbbe"
+      },
+      "created_time": "2023-11-02T03:46:00.000Z",
+      "last_edited_time": "2023-11-02T03:59:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Hate:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Hate:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "02fde235-c0f5-46b3-98af-3c10ee9c897b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "f3056eb8-f601-401f-bbbb-220fc55dd30b"
+          },
+          "created_time": "2023-11-02T03:46:00.000Z",
+          "last_edited_time": "2023-11-02T04:00:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Quite distracting, productivity drain",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Quite distracting, productivity drain",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "f5e2d6cf-9240-48c9-8021-4b45c3866f4f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "f3056eb8-f601-401f-bbbb-220fc55dd30b"
+          },
+          "created_time": "2023-11-02T03:58:00.000Z",
+          "last_edited_time": "2023-11-02T03:59:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "More writing on Discord means less writing on Manifold itself",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "More writing on Discord means less writing on Manifold itself",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "97f73f40-7037-49e9-aa71-fd5452f68129",
+              "parent": {
+                "type": "block_id",
+                "block_id": "f5e2d6cf-9240-48c9-8021-4b45c3866f4f"
+              },
+              "created_time": "2023-11-02T03:59:00.000Z",
+              "last_edited_time": "2023-11-02T03:59:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Especially among the core team & power users (who is precisely Discord’s most active userbase)",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Especially among the core team & power users (who is precisely Discord’s most active userbase)",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "ff8a553c-5290-4110-a079-23ad7caa5831",
+          "parent": {
+            "type": "block_id",
+            "block_id": "f3056eb8-f601-401f-bbbb-220fc55dd30b"
+          },
+          "created_time": "2023-11-02T03:46:00.000Z",
+          "last_edited_time": "2023-11-02T03:59:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Rewards fast engagement over thoughtful, persistent content",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Rewards fast engagement over thoughtful, persistent content",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "89603ba3-7cd2-45f4-84e8-e81711ee7ec1",
+              "parent": {
+                "type": "block_id",
+                "block_id": "ff8a553c-5290-4110-a079-23ad7caa5831"
+              },
+              "created_time": "2023-11-02T03:59:00.000Z",
+              "last_edited_time": "2023-11-02T03:59:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Also rewards people who have lots of time to spare",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Also rewards people who have lots of time to spare",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "4635632a-d28c-4a69-b178-2425f26a4f65",
+          "parent": {
+            "type": "block_id",
+            "block_id": "f3056eb8-f601-401f-bbbb-220fc55dd30b"
+          },
+          "created_time": "2023-11-02T03:56:00.000Z",
+          "last_edited_time": "2023-11-02T04:00:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Badly indexed, not googleable, hard to search through history",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Badly indexed, not googleable, hard to search through history",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "30715d02-6a51-4c4d-8f30-0287dd196f50",
+          "parent": {
+            "type": "block_id",
+            "block_id": "f3056eb8-f601-401f-bbbb-220fc55dd30b"
+          },
+          "created_time": "2023-11-02T03:56:00.000Z",
+          "last_edited_time": "2023-11-02T03:56:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Internet anonymity culture instead of real names",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Internet anonymity culture instead of real names",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "ef036cad-4144-4019-8732-1dfe8b7648c7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "df105d1b-8303-4253-a946-d9f9bc8cdbbe"
+      },
+      "created_time": "2023-11-02T03:46:00.000Z",
+      "last_edited_time": "2023-11-02T03:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "9c270f7e-8588-4bbf-84e4-3b8f8182d3a0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "df105d1b-8303-4253-a946-d9f9bc8cdbbe"
+      },
+      "created_time": "2023-11-02T03:46:00.000Z",
+      "last_edited_time": "2023-11-02T03:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Discord vs Slack",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Discord vs Slack",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "4742e45e-72c4-4b12-b7bb-fc0578d695ee",
+      "parent": {
+        "type": "page_id",
+        "page_id": "df105d1b-8303-4253-a946-d9f9bc8cdbbe"
+      },
+      "created_time": "2023-11-02T03:47:00.000Z",
+      "last_edited_time": "2023-11-02T03:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Discord defaults open, Slack defaults closed",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Discord defaults open, Slack defaults closed",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "5c1105e2-a90e-49ab-8f87-ed6b410c059d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "df105d1b-8303-4253-a946-d9f9bc8cdbbe"
+      },
+      "created_time": "2023-11-02T04:04:00.000Z",
+      "last_edited_time": "2023-11-02T04:04:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Discord : Rationality :: Slack : EA",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Discord : Rationality :: Slack : EA",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3d366796-b5ab-48ea-9465-a4a20cdd05af",
+      "parent": {
+        "type": "page_id",
+        "page_id": "df105d1b-8303-4253-a946-d9f9bc8cdbbe"
+      },
+      "created_time": "2023-11-02T03:47:00.000Z",
+      "last_edited_time": "2023-11-02T03:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Discord has mostly superior product offerings for a large community of users",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Discord has mostly superior product offerings for a large community of users",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "fdb9b427-9833-4635-bb86-000cf6c4576c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "3d366796-b5ab-48ea-9465-a4a20cdd05af"
+          },
+          "created_time": "2023-11-02T03:49:00.000Z",
+          "last_edited_time": "2023-11-02T03:49:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Events, Stages, role-based permissions, etc",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Events, Stages, role-based permissions, etc",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "ba758a8e-c304-492b-9f3d-2400987cef5d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "df105d1b-8303-4253-a946-d9f9bc8cdbbe"
+      },
+      "created_time": "2023-11-02T03:48:00.000Z",
+      "last_edited_time": "2023-11-02T03:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Discord has more of a chill, gamer vibe vs Slack, which angles for the enterprise",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Discord has more of a chill, gamer vibe vs Slack, which angles for the enterprise",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "fe2bb4b4-13e7-4eee-9293-790e6515efe3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "df105d1b-8303-4253-a946-d9f9bc8cdbbe"
+      },
+      "created_time": "2023-11-02T03:48:00.000Z",
+      "last_edited_time": "2023-11-02T03:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Slack has more integrations with business-y things (eg with Airtable), to my annoyance",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Slack has more integrations with business-y things (eg with Airtable), to my annoyance",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "f92645d0-f6bd-4c83-b122-9c247db0223a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "df105d1b-8303-4253-a946-d9f9bc8cdbbe"
+      },
+      "created_time": "2023-11-02T03:45:00.000Z",
+      "last_edited_time": "2023-11-02T03:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2f496e9b-fcb8-4fbc-bee7-2468f0c372de",
+      "parent": {
+        "type": "page_id",
+        "page_id": "df105d1b-8303-4253-a946-d9f9bc8cdbbe"
+      },
+      "created_time": "2023-11-02T03:45:00.000Z",
+      "last_edited_time": "2023-11-02T03:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Using your chat system well",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Using your chat system well",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "74f08e30-88fc-4a67-9687-5fa52b0c4609",
+      "parent": {
+        "type": "page_id",
+        "page_id": "df105d1b-8303-4253-a946-d9f9bc8cdbbe"
+      },
+      "created_time": "2023-11-02T04:02:00.000Z",
+      "last_edited_time": "2023-11-02T04:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "To get a new server off the ground, you need a mix of:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "To get a new server off the ground, you need a mix of:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "709279e8-660a-475f-b793-1733353edac0",
+          "parent": {
+            "type": "block_id",
+            "block_id": "74f08e30-88fc-4a67-9687-5fa52b0c4609"
+          },
+          "created_time": "2023-11-02T04:03:00.000Z",
+          "last_edited_time": "2023-11-02T04:03:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "leading by example (aka posting a bunch in the way that you want others to post)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "leading by example (aka posting a bunch in the way that you want others to post)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "a311247b-7731-4d32-a606-e1874d334f51",
+          "parent": {
+            "type": "block_id",
+            "block_id": "74f08e30-88fc-4a67-9687-5fa52b0c4609"
+          },
+          "created_time": "2023-11-02T04:03:00.000Z",
+          "last_edited_time": "2023-11-02T04:03:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "some attempts at moderation to facilitate good conversations",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "some attempts at moderation to facilitate good conversations",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "95e210da-97f4-449a-ba83-b7b454cda39d",
+          "parent": {
+            "type": "block_id",
+            "block_id": "74f08e30-88fc-4a67-9687-5fa52b0c4609"
+          },
+          "created_time": "2023-11-02T04:03:00.000Z",
+          "last_edited_time": "2023-11-02T04:04:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "directing more activity at the site (for example, Manifold discord started with me + James + Stephen chatting there. And then we directed people there for bug reports, etc)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "directing more activity at the site (for example, Manifold discord started with me + James + Stephen chatting there. And then we directed people there for bug reports, etc)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "4c83b0a1-2837-4fa7-854e-d709e6e79144",
+      "parent": {
+        "type": "page_id",
+        "page_id": "df105d1b-8303-4253-a946-d9f9bc8cdbbe"
+      },
+      "created_time": "2023-11-02T03:49:00.000Z",
+      "last_edited_time": "2023-11-02T03:50:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "#kudos channel — harness people’s dopamine addiction for good, by creating a space to quickly shout out nice things",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "#kudos channel — harness people’s dopamine addiction for good, by creating a space to quickly shout out nice things",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "cc66163d-fe18-4404-b7ff-a3719502f524",
+      "parent": {
+        "type": "page_id",
+        "page_id": "df105d1b-8303-4253-a946-d9f9bc8cdbbe"
+      },
+      "created_time": "2023-11-02T03:52:00.000Z",
+      "last_edited_time": "2023-11-02T03:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Channels where anyone can post but only some subset can read",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Channels where anyone can post but only some subset can read",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "37b1830f-ef5f-4e4c-9524-fe4a9eabb77c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "cc66163d-fe18-4404-b7ff-a3719502f524"
+          },
+          "created_time": "2023-11-02T03:57:00.000Z",
+          "last_edited_time": "2023-11-02T03:58:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "My theory is that very little content needs to be private, but channels with few members are important for ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "My theory is that very little content needs to be private, but channels with few members are important for ",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "ff1b543a-f14e-4932-9e8d-e600ae26a55d",
+          "parent": {
+            "type": "block_id",
+            "block_id": "cc66163d-fe18-4404-b7ff-a3719502f524"
+          },
+          "created_time": "2023-11-02T03:52:00.000Z",
+          "last_edited_time": "2023-11-02T03:57:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "I’ve experimented with this a few times, eg #grantmakers-corner in Manifund and the current #trustworthyish channel on Manifold",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "I’ve experimented with this a few times, eg #grantmakers-corner in Manifund and the current #trustworthyish channel on Manifold",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "6a875d02-9fbf-436a-a471-63d2af8ee65b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "df105d1b-8303-4253-a946-d9f9bc8cdbbe"
+      },
+      "created_time": "2023-11-02T03:50:00.000Z",
+      "last_edited_time": "2023-11-02T03:54:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "#austins-field-notes channel — a place for one person to write random musings",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "#austins-field-notes channel — a place for one person to write random musings",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "c3fa3ea7-7ea0-4543-bc7e-6c47b0648602",
+          "parent": {
+            "type": "block_id",
+            "block_id": "6a875d02-9fbf-436a-a471-63d2af8ee65b"
+          },
+          "created_time": "2023-11-02T03:53:00.000Z",
+          "last_edited_time": "2023-11-02T03:54:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "this one is more experimental, but Keri and Saul swear by it and it lowers the barrier to musing about random things",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "this one is more experimental, but Keri and Saul swear by it and it lowers the barrier to musing about random things",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "49803a1f-b7b5-4d80-b611-f1e65973d34e",
+              "parent": {
+                "type": "block_id",
+                "block_id": "c3fa3ea7-7ea0-4543-bc7e-6c47b0648602"
+              },
+              "created_time": "2023-11-02T03:54:00.000Z",
+              "last_edited_time": "2023-11-02T03:54:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "I think a few startups adopt this as a best practice (similar to 1:1s)",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "I think a few startups adopt this as a best practice (similar to 1:1s)",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "6386234c-fd93-4664-9b1c-e3e6ba046594",
+          "parent": {
+            "type": "block_id",
+            "block_id": "6a875d02-9fbf-436a-a471-63d2af8ee65b"
+          },
+          "created_time": "2023-11-02T03:50:00.000Z",
+          "last_edited_time": "2023-11-02T03:54:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "I worry this will end up competing against Notion as the place for me to leave quick thoughts",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "I worry this will end up competing against Notion as the place for me to leave quick thoughts",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "010751b2-69da-4630-8b53-72ea24b6fdf5",
+              "parent": {
+                "type": "block_id",
+                "block_id": "6386234c-fd93-4664-9b1c-e3e6ba046594"
+              },
+              "created_time": "2023-11-02T03:51:00.000Z",
+              "last_edited_time": "2023-11-02T03:55:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "I guess my ideal platform is a Discord/Notion hybrid…",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "I guess my ideal platform is a Discord/Notion hybrid…",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "58d786da-12d3-4375-b4af-e97a19c70ad9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "df105d1b-8303-4253-a946-d9f9bc8cdbbe"
+      },
+      "created_time": "2023-11-02T03:54:00.000Z",
+      "last_edited_time": "2023-11-02T03:54:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "9de0c0f5-fe87-42bb-b997-7cf9e2158847",
+      "parent": {
+        "type": "page_id",
+        "page_id": "df105d1b-8303-4253-a946-d9f9bc8cdbbe"
+      },
+      "created_time": "2023-11-02T03:51:00.000Z",
+      "last_edited_time": "2023-11-02T03:54:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "When to spin up a new Discord server?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "When to spin up a new Discord server?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "04694099-c4b3-41e6-a35c-29d2e5d1f458",
+      "parent": {
+        "type": "page_id",
+        "page_id": "df105d1b-8303-4253-a946-d9f9bc8cdbbe"
+      },
+      "created_time": "2023-11-02T03:54:00.000Z",
+      "last_edited_time": "2023-11-02T03:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I might be on the hook for too many of these at the moment :P",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I might be on the hook for too many of these at the moment :P",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "5a311cd6-88d6-4d67-80e1-d3b4965d3e7f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "04694099-c4b3-41e6-a35c-29d2e5d1f458"
+          },
+          "created_time": "2023-11-02T03:55:00.000Z",
+          "last_edited_time": "2023-11-02T03:55:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Alternatively: “when should I kill a discord server?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Alternatively: “when should I kill a discord server?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    }
+  ]
+}

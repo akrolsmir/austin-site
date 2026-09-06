@@ -1,0 +1,2551 @@
+{
+  "page": {
+    "id": "86fa1c83489d42bf96680682f99607c7",
+    "title": "Why impact certs might be really good",
+    "date": "2022-08-15",
+    "edited": "2022-08-17T20:27:00.000Z",
+    "url": "https://akrolsmir.notion.site/Why-impact-certs-might-be-really-good-86fa1c83489d42bf96680682f99607c7",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "aa7bc31f-2393-43e6-b10e-068ab8739041",
+      "parent": {
+        "type": "page_id",
+        "page_id": "86fa1c83-489d-42bf-9668-0682f99607c7"
+      },
+      "created_time": "2022-08-15T21:57:00.000Z",
+      "last_edited_time": "2022-08-15T22:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I’ve been pushing hard for impact certs (aka equity for charities; aka retroactive public goods funding). But people outside the startup space often don’t see the benefits",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I’ve been pushing hard for impact certs (aka equity for charities; aka retroactive public goods funding). But people outside the startup space often don’t see the benefits",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "6b22bcd3-fddf-41f4-833e-316f93ae679a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "86fa1c83-489d-42bf-9668-0682f99607c7"
+      },
+      "created_time": "2022-08-15T21:57:00.000Z",
+      "last_edited_time": "2022-08-15T21:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3e32b4de-b454-4c3a-b491-2838b008c717",
+      "parent": {
+        "type": "page_id",
+        "page_id": "86fa1c83-489d-42bf-9668-0682f99607c7"
+      },
+      "created_time": "2022-08-15T15:56:00.000Z",
+      "last_edited_time": "2022-08-15T21:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "quote",
+      "quote": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "A reminder: impact certificates are like a VC funding ecosystem for charity. Charity founders with good ideas sell shares in their proposed projects. Profit-seeking investors buy shares of (“invest in”) projects that they expect to succeed. This funds the project; if it does succeed, altruistic people/foundations (“final oracular funders”) buy the impact, compensating the investors.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "A reminder: impact certificates are like a VC funding ecosystem for charity. Charity founders with good ideas sell shares in their proposed projects. Profit-seeking investors buy shares of (“invest in”) projects that they expect to succeed. This funds the project; if it does succeed, altruistic people/foundations (“final oracular funders”) buy the impact, compensating the investors.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "eeb2723e-6a0d-4403-8844-444cde2bde0b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "86fa1c83-489d-42bf-9668-0682f99607c7"
+      },
+      "created_time": "2022-08-15T15:56:00.000Z",
+      "last_edited_time": "2022-08-15T15:56:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "(",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "(",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Courtesy of Scott",
+              "link": {
+                "url": "https://astralcodexten.substack.com/p/impact-markets-the-annoying-details"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Courtesy of Scott",
+            "href": "https://astralcodexten.substack.com/p/impact-markets-the-annoying-details"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ")",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ")",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "ed59adfc-f561-4e48-803e-5fc2f2a3c10c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "86fa1c83-489d-42bf-9668-0682f99607c7"
+      },
+      "created_time": "2022-08-15T14:21:00.000Z",
+      "last_edited_time": "2022-08-15T21:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Nice things about impact certs",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Nice things about impact certs",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3410155c-7dc8-4908-90e8-a64b7b35f726",
+      "parent": {
+        "type": "page_id",
+        "page_id": "86fa1c83-489d-42bf-9668-0682f99607c7"
+      },
+      "created_time": "2022-08-15T15:57:00.000Z",
+      "last_edited_time": "2022-08-15T15:58:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Aka why Capitalism is Good",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Aka why Capitalism is Good",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2a8d265a-2677-4e74-9d86-8ed09b3b5ecc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "86fa1c83-489d-42bf-9668-0682f99607c7"
+      },
+      "created_time": "2022-08-15T14:21:00.000Z",
+      "last_edited_time": "2022-08-15T22:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Impact Certs separate out risk takers (profit-seeking investors, angels, VCs) from impact buyers (large philanthropic donors, governments)",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Impact Certs separate out risk takers (profit-seeking investors, angels, VCs) from impact buyers (large philanthropic donors, governments)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "93acfdca-3dcc-4171-8d00-6afb6d9f2519",
+          "parent": {
+            "type": "block_id",
+            "block_id": "2a8d265a-2677-4e74-9d86-8ed09b3b5ecc"
+          },
+          "created_time": "2022-08-15T17:22:00.000Z",
+          "last_edited_time": "2022-08-15T22:09:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Impact buyers want results (impact), not risk",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Impact buyers want results (impact), not risk",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "73ae3630-b342-4906-b006-0cd2fd023b82",
+              "parent": {
+                "type": "block_id",
+                "block_id": "93acfdca-3dcc-4171-8d00-6afb6d9f2519"
+              },
+              "created_time": "2022-08-15T14:35:00.000Z",
+              "last_edited_time": "2022-08-15T22:09:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Impact buyers can focus just on evaluating what good things happened in the past, and paying bounties for things they liked",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Impact buyers can focus just on evaluating what good things happened in the past, and paying bounties for things they liked",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "f054464d-b066-4e3a-8c85-fe65002a641b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "2a8d265a-2677-4e74-9d86-8ed09b3b5ecc"
+          },
+          "created_time": "2022-08-15T17:22:00.000Z",
+          "last_edited_time": "2022-08-15T22:08:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Risk takers want positive returns on investment",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Risk takers want positive returns on investment",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "fa4235fd-966b-4929-92c1-3e0a33791f29",
+              "parent": {
+                "type": "block_id",
+                "block_id": "f054464d-b066-4e3a-8c85-fe65002a641b"
+              },
+              "created_time": "2022-08-15T14:35:00.000Z",
+              "last_edited_time": "2022-08-15T22:09:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Risk takers can focus on getting to intimately know founding teams and assessing project ideas for chance of success",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Risk takers can focus on getting to intimately know founding teams and assessing project ideas for chance of success",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "0db4c61f-698e-4c6b-b6ad-80bf5f77506c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "2a8d265a-2677-4e74-9d86-8ed09b3b5ecc"
+          },
+          "created_time": "2022-08-15T22:08:00.000Z",
+          "last_edited_time": "2022-08-15T22:10:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Separating out these roles allows for division of labor or comparative advantage",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Separating out these roles allows for division of labor or comparative advantage",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "6fa4ecbe-4642-44d3-8632-e270dc1e1e6d",
+          "parent": {
+            "type": "block_id",
+            "block_id": "2a8d265a-2677-4e74-9d86-8ed09b3b5ecc"
+          },
+          "created_time": "2022-08-15T17:23:00.000Z",
+          "last_edited_time": "2022-08-15T22:08:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Contrast: Today’s grant-based funding model is kind of like Kickstarter. Philanthropists see a pitch or application for a project, and have to decide if they want to buy it up front.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Contrast: Today’s grant-based funding model is kind of like Kickstarter. Philanthropists see a pitch or application for a project, and have to decide if they want to buy it up front.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "371227f5-3646-400e-9c3a-20631160f2fe",
+              "parent": {
+                "type": "block_id",
+                "block_id": "6fa4ecbe-4642-44d3-8632-e270dc1e1e6d"
+              },
+              "created_time": "2022-08-15T17:24:00.000Z",
+              "last_edited_time": "2022-08-15T22:08:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "But look around your room. How much of the stuff you bought was through Kickstarter-like upfront funding, vs just going onto Amazon and buying stuff that was already made",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "But look around your room. How much of the stuff you bought was through Kickstarter-like upfront funding, vs just going onto Amazon and buying stuff that was already made",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "947a5fb2-f072-4355-b9b2-6dd67b2aa848",
+              "parent": {
+                "type": "block_id",
+                "block_id": "6fa4ecbe-4642-44d3-8632-e270dc1e1e6d"
+              },
+              "created_time": "2022-08-15T17:26:00.000Z",
+              "last_edited_time": "2022-08-15T22:08:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "With Kickstarter: things take a long time; projects sometime fail entirely or are fraudulent; flashy demo videos win money instead of products that are actually good to use",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "With Kickstarter: things take a long time; projects sometime fail entirely or are fraudulent; flashy demo videos win money instead of products that are actually good to use",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "1c49c184-9594-4938-8a26-4e3e715a9610",
+          "parent": {
+            "type": "block_id",
+            "block_id": "2a8d265a-2677-4e74-9d86-8ed09b3b5ecc"
+          },
+          "created_time": "2022-08-15T17:25:00.000Z",
+          "last_edited_time": "2022-08-15T22:08:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "For-profit capitalist ecosystem makes buying products a really good experience. The manufacturers are funded via loans or equity, go make the product, and then sell it to you after the product exists",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "For-profit capitalist ecosystem makes buying products a really good experience. The manufacturers are funded via loans or equity, go make the product, and then sell it to you after the product exists",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "9485cb22-7947-45d1-b5d1-c0b9b74c3abd",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c49c184-9594-4938-8a26-4e3e715a9610"
+              },
+              "created_time": "2022-08-15T17:45:00.000Z",
+              "last_edited_time": "2022-08-15T17:46:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "It would be good if buying impact were this efficient for philanthropists",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "It would be good if buying impact were this efficient for philanthropists",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "59b6af10-ca36-4994-ad38-5b3be6ac6667",
+      "parent": {
+        "type": "page_id",
+        "page_id": "86fa1c83-489d-42bf-9668-0682f99607c7"
+      },
+      "created_time": "2022-08-15T14:22:00.000Z",
+      "last_edited_time": "2022-08-15T21:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Impact certs allows charity founders to get rich — and this is a good thing! (contra ",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Impact certs allows charity founders to get rich — and this is a good thing! (contra ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Scott",
+              "link": {
+                "url": "https://astralcodexten.substack.com/p/impact-markets-the-annoying-details"
+              }
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Scott",
+            "href": "https://astralcodexten.substack.com/p/impact-markets-the-annoying-details"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ")",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ")",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "0d61b4c9-0ad9-4f2c-88d0-6f0f3a8daa70",
+          "parent": {
+            "type": "block_id",
+            "block_id": "59b6af10-ca36-4994-ad38-5b3be6ac6667"
+          },
+          "created_time": "2022-08-15T14:31:00.000Z",
+          "last_edited_time": "2022-08-15T16:36:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Makes “founding a charity” much more competitive with “founding a startup”, so smart talented ambitious folks will be more interested in founding charities. This makes charities that are more effective at achieving their goals",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Makes “founding a charity” much more competitive with “founding a startup”, so smart talented ambitious folks will be more interested in founding charities. This makes charities that are more effective at achieving their goals",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "4097d27d-6967-42dd-905c-3eb4505d93c5",
+          "parent": {
+            "type": "block_id",
+            "block_id": "59b6af10-ca36-4994-ad38-5b3be6ac6667"
+          },
+          "created_time": "2022-08-15T15:59:00.000Z",
+          "last_edited_time": "2022-08-15T21:37:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Also, means that successful charity-minded folks will end up having money to direct completely at their own discretion",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Also, means that successful charity-minded folks will end up having money to direct completely at their own discretion",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "bc20cf3b-5d2b-45b0-9202-9ff45e669e1c",
+              "parent": {
+                "type": "block_id",
+                "block_id": "4097d27d-6967-42dd-905c-3eb4505d93c5"
+              },
+              "created_time": "2022-08-15T14:32:00.000Z",
+              "last_edited_time": "2022-08-15T16:44:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Status is nice and all but ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Status is nice and all but ",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "money is the unit of caring",
+                      "link": {
+                        "url": "https://www.lesswrong.com/posts/ZpDnRCeef2CLEFeKM/money-the-unit-of-caring"
+                      }
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "money is the unit of caring",
+                    "href": "https://www.lesswrong.com/posts/ZpDnRCeef2CLEFeKM/money-the-unit-of-caring"
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": " - and more importantly, decisionmaking",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": " - and more importantly, decisionmaking",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "08eef720-c74e-4934-8f14-e38464a25275",
+              "parent": {
+                "type": "block_id",
+                "block_id": "4097d27d-6967-42dd-905c-3eb4505d93c5"
+              },
+              "created_time": "2022-08-15T14:30:00.000Z",
+              "last_edited_time": "2022-08-15T21:37:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": true,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "It’s a tragedy that Holden Karnofsky (founder of Givewell and Open Philanthropy) isn’t a billionaire. He’d likely allocate the money much better than wherever it ended up flowing to ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "It’s a tragedy that Holden Karnofsky (founder of Givewell and Open Philanthropy) isn’t a billionaire. He’d likely allocate the money much better than wherever it ended up flowing to ",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "children": [
+                {
+                  "object": "block",
+                  "id": "85aa4df2-3cdc-4f8c-bc83-1cc6cfa699d2",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "08eef720-c74e-4934-8f14-e38464a25275"
+                  },
+                  "created_time": "2022-08-15T16:00:00.000Z",
+                  "last_edited_time": "2022-08-15T17:46:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Sure, Holden can ask eg Dustin Moskovitz for money to fund something he likes, but in practice the ",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Sure, Holden can ask eg Dustin Moskovitz for money to fund something he likes, but in practice the ",
+                        "href": null
+                      },
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "inconvenience",
+                          "link": {
+                            "url": "https://www.lesswrong.com/posts/reitXJgJXFzKpdKyd/beware-trivial-inconveniences"
+                          }
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "inconvenience",
+                        "href": "https://www.lesswrong.com/posts/reitXJgJXFzKpdKyd/beware-trivial-inconveniences"
+                      },
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": " likely means it happens less than if Holden just had that money",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": " likely means it happens less than if Holden just had that money",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                },
+                {
+                  "object": "block",
+                  "id": "6143a5b0-35dd-4026-8725-3484fbd33552",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "08eef720-c74e-4934-8f14-e38464a25275"
+                  },
+                  "created_time": "2022-08-15T16:44:00.000Z",
+                  "last_edited_time": "2022-08-15T21:37:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Also, risky things can feel embarrassing to ask for funding, even if the EV is high. Extrapolating from my own n=1, anyways",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Also, risky things can feel embarrassing to ask for funding, even if the EV is high. Extrapolating from my own n=1, anyways",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "09b7493c-354c-4f55-bcba-5a33cb311135",
+      "parent": {
+        "type": "page_id",
+        "page_id": "86fa1c83-489d-42bf-9668-0682f99607c7"
+      },
+      "created_time": "2022-08-15T14:22:00.000Z",
+      "last_edited_time": "2022-08-15T22:12:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "When distributed to employees, impact certs give employees equity in the outcomes",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "When distributed to employees, impact certs give employees equity in the outcomes",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "d014b49e-af31-401d-8441-57ccdaf60340",
+          "parent": {
+            "type": "block_id",
+            "block_id": "09b7493c-354c-4f55-bcba-5a33cb311135"
+          },
+          "created_time": "2022-08-15T14:36:00.000Z",
+          "last_edited_time": "2022-08-15T22:11:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Less cash cost for salaries: like startups, early-stage charities don’t have much cash on hand. But startups manage to attract great employees (vs Google-like cash comp) through the promise of huge returns on startup equity",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Less cash cost for salaries: like startups, early-stage charities don’t have much cash on hand. But startups manage to attract great employees (vs Google-like cash comp) through the promise of huge returns on startup equity",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "72b3275c-f465-4273-a15d-bc614345a108",
+          "parent": {
+            "type": "block_id",
+            "block_id": "09b7493c-354c-4f55-bcba-5a33cb311135"
+          },
+          "created_time": "2022-08-15T14:36:00.000Z",
+          "last_edited_time": "2022-08-15T22:12:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "More alignment - now the employees get to see that if the charity does well, their personal finances will be taken care of; so they no longer have to trade off between caring about the charity’s mission and their own finances",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "More alignment - now the employees get to see that if the charity does well, their personal finances will be taken care of; so they no longer have to trade off between caring about the charity’s mission and their own finances",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "982e9cb0-8b45-4e89-b23f-e2cd0ce438c3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "86fa1c83-489d-42bf-9668-0682f99607c7"
+      },
+      "created_time": "2022-08-15T14:29:00.000Z",
+      "last_edited_time": "2022-08-15T21:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Investors are motivated to help charities, since they now have “skin in the game”",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Investors are motivated to help charities, since they now have “skin in the game”",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "20b3f5f9-ef16-4d09-8e65-83cc25f9d9c4",
+          "parent": {
+            "type": "block_id",
+            "block_id": "982e9cb0-8b45-4e89-b23f-e2cd0ce438c3"
+          },
+          "created_time": "2022-08-15T14:33:00.000Z",
+          "last_edited_time": "2022-08-15T17:50:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Manifold’s (for-profit) investors provide advice, introduce us to potential hires and other funders, tell us when we’re making mistakes, complain when the product has bugs",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Manifold’s (for-profit) investors provide advice, introduce us to potential hires and other funders, tell us when we’re making mistakes, complain when the product has bugs",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "822fcf58-fa15-44df-b543-1f7a6885a03b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "982e9cb0-8b45-4e89-b23f-e2cd0ce438c3"
+          },
+          "created_time": "2022-08-15T14:34:00.000Z",
+          "last_edited_time": "2022-08-15T21:43:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Meanwhile, grantmakers will… ghost you for a while on actually getting the funds, and don’t have a culture of providing feedback (they’re too busy evaluating other grants??)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Meanwhile, grantmakers will… ghost you for a while on actually getting the funds, and don’t have a culture of providing feedback (they’re too busy evaluating other grants??)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "bcaf8592-fa3f-4178-a139-cda5e0a7939a",
+              "parent": {
+                "type": "block_id",
+                "block_id": "822fcf58-fa15-44df-b543-1f7a6885a03b"
+              },
+              "created_time": "2022-08-15T17:48:00.000Z",
+              "last_edited_time": "2022-08-15T21:42:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "The longer they hold onto their check, the more control/decisionmaking capability they have",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "The longer they hold onto their check, the more control/decisionmaking capability they have",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "1382c410-d978-4c72-bec0-f4b061be98cd",
+              "parent": {
+                "type": "block_id",
+                "block_id": "822fcf58-fa15-44df-b543-1f7a6885a03b"
+              },
+              "created_time": "2022-08-15T17:51:00.000Z",
+              "last_edited_time": "2022-08-15T21:43:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Speaking personally: going through with a grant or donation I’ve promised always feels much less urgent to me compared to getting in on an investment opportunity",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Speaking personally: going through with a grant or donation I’ve promised always feels much less urgent to me compared to getting in on an investment opportunity",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "bcdbff07-8d83-42fe-9558-2ca56dd1e85e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "86fa1c83-489d-42bf-9668-0682f99607c7"
+      },
+      "created_time": "2022-08-15T14:40:00.000Z",
+      "last_edited_time": "2022-08-15T21:44:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "The price of the certs are a quantifiable, numeric signal to charities about how valuable their projects are",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "The price of the certs are a quantifiable, numeric signal to charities about how valuable their projects are",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "d5f1000d-3160-4408-b6b8-b4429651cf8b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "bcdbff07-8d83-42fe-9558-2ca56dd1e85e"
+          },
+          "created_time": "2022-08-15T16:37:00.000Z",
+          "last_edited_time": "2022-08-15T16:38:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "From impact investors: signal of how promising their work seems",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "From impact investors: signal of how promising their work seems",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "3e8c60ca-ca96-4f6f-ba51-6bb4c57b2c8f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "bcdbff07-8d83-42fe-9558-2ca56dd1e85e"
+          },
+          "created_time": "2022-08-15T16:38:00.000Z",
+          "last_edited_time": "2022-08-15T16:39:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "From impact buyers: signal of how effective their work ended up being",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "From impact buyers: signal of how effective their work ended up being",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "e5cf57b5-15d4-45d9-a49b-2a22d2154e39",
+              "parent": {
+                "type": "block_id",
+                "block_id": "3e8c60ca-ca96-4f6f-ba51-6bb4c57b2c8f"
+              },
+              "created_time": "2022-08-15T16:39:00.000Z",
+              "last_edited_time": "2022-08-15T17:32:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Ludicrous that Givewell-type evaluation, and eg Nuno’s critique of Open Phil is done so rarely in the charity space",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Ludicrous that Givewell-type evaluation, and eg Nuno’s critique of Open Phil is done so rarely in the charity space",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "22035c9d-9740-4b9b-8ee7-fee85a29ad7a",
+          "parent": {
+            "type": "block_id",
+            "block_id": "bcdbff07-8d83-42fe-9558-2ca56dd1e85e"
+          },
+          "created_time": "2022-08-15T16:38:00.000Z",
+          "last_edited_time": "2022-08-15T17:13:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "These signals are useful to others as well - later founders can look at these as credible signals about whether their project is worth pursuing, since investors and buyers have actually put down money",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "These signals are useful to others as well - later founders can look at these as credible signals about whether their project is worth pursuing, since investors and buyers have actually put down money",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "c081c4e5-2264-41c8-9731-ce39c77d0482",
+              "parent": {
+                "type": "block_id",
+                "block_id": "22035c9d-9740-4b9b-8ee7-fee85a29ad7a"
+              },
+              "created_time": "2022-08-15T16:53:00.000Z",
+              "last_edited_time": "2022-08-15T21:44:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "In terms of useful signals, ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "In terms of useful signals, ",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "FTX FF’s grants DB",
+                      "link": {
+                        "url": "https://ftxfuturefund.org/all-grants/#grants"
+                      }
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "FTX FF’s grants DB",
+                    "href": "https://ftxfuturefund.org/all-grants/#grants"
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": " >>> ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": " >>> ",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "FTX FF’s ideas DB",
+                      "link": {
+                        "url": "https://ftxfuturefund.org/projects/"
+                      }
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "FTX FF’s ideas DB",
+                    "href": "https://ftxfuturefund.org/projects/"
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "467fcd0a-cc43-41b9-a1f6-e78cbfcd3080",
+              "parent": {
+                "type": "block_id",
+                "block_id": "22035c9d-9740-4b9b-8ee7-fee85a29ad7a"
+              },
+              "created_time": "2022-08-15T17:13:00.000Z",
+              "last_edited_time": "2022-08-15T17:13:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [],
+                "icon": null,
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "f3a2159c-4994-4af0-877a-0c8603361e56",
+      "parent": {
+        "type": "page_id",
+        "page_id": "86fa1c83-489d-42bf-9668-0682f99607c7"
+      },
+      "created_time": "2022-08-15T14:40:00.000Z",
+      "last_edited_time": "2022-08-15T15:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Q: If founders and employees and investors are getting rich, aren’t we taking money out of the hands of impact buyers or impact recipients?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Q: If founders and employees and investors are getting rich, aren’t we taking money out of the hands of impact buyers or impact recipients?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "babf7841-68f3-4f27-8988-571839d410d3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "86fa1c83-489d-42bf-9668-0682f99607c7"
+      },
+      "created_time": "2022-08-15T14:41:00.000Z",
+      "last_edited_time": "2022-08-15T17:52:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I’m a bit skeptical this would be the case",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I’m a bit skeptical this would be the case",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "d641127c-1984-489a-b9c4-99f325fa64bb",
+          "parent": {
+            "type": "block_id",
+            "block_id": "babf7841-68f3-4f27-8988-571839d410d3"
+          },
+          "created_time": "2022-08-15T14:41:00.000Z",
+          "last_edited_time": "2022-08-15T17:54:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Even in the for-profit capitalist ecosystem, the ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Even in the for-profit capitalist ecosystem, the ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "majority of the gains from innovation accrue to society at large, not the companies",
+                  "link": {
+                    "url": "https://www.nber.org/digest/oct04/who-gains-innovation"
+                  }
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "majority of the gains from innovation accrue to society at large, not the companies",
+                "href": "https://www.nber.org/digest/oct04/who-gains-innovation"
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "f3ed2895-4a7d-4b2b-b4fc-350b5eb1ed3f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "babf7841-68f3-4f27-8988-571839d410d3"
+          },
+          "created_time": "2022-08-15T14:41:00.000Z",
+          "last_edited_time": "2022-08-15T17:54:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Also: better allocation of resources (human time, physical attention) should cause more wealth to be created overall. Grow the pie!",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Also: better allocation of resources (human time, physical attention) should cause more wealth to be created overall. Grow the pie!",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "7c5052f5-5167-4196-b2b6-ec4dbf4e9b4a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "86fa1c83-489d-42bf-9668-0682f99607c7"
+      },
+      "created_time": "2022-08-15T15:42:00.000Z",
+      "last_edited_time": "2022-08-15T17:54:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "But… maybe, to some degree. Would recommend starting with smaller tests.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "But… maybe, to some degree. Would recommend starting with smaller tests.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "4e2455c5-0953-4ca6-89cb-73b3ddbc3e6a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "86fa1c83-489d-42bf-9668-0682f99607c7"
+      },
+      "created_time": "2022-08-15T16:03:00.000Z",
+      "last_edited_time": "2022-08-15T16:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "dfab737f-5535-4400-abba-857326304565",
+      "parent": {
+        "type": "page_id",
+        "page_id": "86fa1c83-489d-42bf-9668-0682f99607c7"
+      },
+      "created_time": "2022-08-15T16:03:00.000Z",
+      "last_edited_time": "2022-08-15T16:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Q: Is there actually enough money in the ecosystem?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Q: Is there actually enough money in the ecosystem?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "f613fbd0-5b7a-4867-8fcc-73e578741aad",
+      "parent": {
+        "type": "page_id",
+        "page_id": "86fa1c83-489d-42bf-9668-0682f99607c7"
+      },
+      "created_time": "2022-08-15T16:03:00.000Z",
+      "last_edited_time": "2022-08-17T20:27:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Maybe charities pay low wages for the same reason video game companies pay low wages: it’s a passion project, meaning that the supply of talent exceeds the supply of dollars. If so, without shifting more money out of the rest of the economy, there won’t be enough potential for gains for investors to get interested…",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Maybe charities pay low wages for the same reason video game companies pay low wages: it’s a passion project, meaning that the supply of talent exceeds the supply of dollars. If so, without shifting more money out of the rest of the economy, there won’t be enough potential for gains for investors to get interested…",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "2b52f5a0-ddc1-4520-9d50-1ca06bd23b5f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "f613fbd0-5b7a-4867-8fcc-73e578741aad"
+          },
+          "created_time": "2022-08-15T17:54:00.000Z",
+          "last_edited_time": "2022-08-17T20:27:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Again, this is kind of a fixed-pie worry, whereas my belief is that improving resource allocation among charities would cause them to be more effective overall",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Again, this is kind of a fixed-pie worry, whereas my belief is that improving resource allocation among charities would cause them to be more effective overall",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "f9709c00-cf68-49db-82c9-32cf8cdae7b2",
+          "parent": {
+            "type": "block_id",
+            "block_id": "f613fbd0-5b7a-4867-8fcc-73e578741aad"
+          },
+          "created_time": "2022-08-15T17:55:00.000Z",
+          "last_edited_time": "2022-08-15T17:56:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Wild guess: ultimately, governments would have to step in and be the final ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Wild guess: ultimately, governments would have to step in and be the final ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "final",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": true,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "final",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": " buyer of impact. But this probably won’t happen anytime soon",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": " buyer of impact. But this probably won’t happen anytime soon",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "cb27a0b8-8ead-4d01-bbfe-affcb16bcd83",
+          "parent": {
+            "type": "block_id",
+            "block_id": "f613fbd0-5b7a-4867-8fcc-73e578741aad"
+          },
+          "created_time": "2022-08-15T17:57:00.000Z",
+          "last_edited_time": "2022-08-17T20:27:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "TODO: Ballpark some numbers?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "TODO: Ballpark some numbers?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "b43d0550-5eb9-4a1e-8d8d-81eb33998a47",
+      "parent": {
+        "type": "page_id",
+        "page_id": "86fa1c83-489d-42bf-9668-0682f99607c7"
+      },
+      "created_time": "2022-08-17T20:26:00.000Z",
+      "last_edited_time": "2022-08-17T20:26:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1d0242b2-782b-48ed-b2aa-a3beaa830b32",
+      "parent": {
+        "type": "page_id",
+        "page_id": "86fa1c83-489d-42bf-9668-0682f99607c7"
+      },
+      "created_time": "2022-08-15T15:52:00.000Z",
+      "last_edited_time": "2022-08-17T20:26:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Comments",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Comments",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3ea6fd47-9eed-478e-a091-b0cb3d6350cb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "86fa1c83-489d-42bf-9668-0682f99607c7"
+      },
+      "created_time": "2022-08-17T20:26:00.000Z",
+      "last_edited_time": "2022-08-17T20:26:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "If you have thoughts, please leave them on ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "If you have thoughts, please leave them on ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "the Notion page",
+              "link": {
+                "url": "/86fa1c83489d42bf96680682f99607c7"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "the Notion page",
+            "href": "/86fa1c83489d42bf96680682f99607c7"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "!",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "!",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    }
+  ]
+}

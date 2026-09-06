@@ -1,0 +1,3406 @@
+{
+  "page": {
+    "id": "5b44bf80b79542f6ad793c1ade32bf11",
+    "title": "In Defense of SBF",
+    "date": "2022-11-13",
+    "edited": "2022-11-14T16:07:00.000Z",
+    "url": "https://akrolsmir.notion.site/In-Defense-of-SBF-5b44bf80b79542f6ad793c1ade32bf11",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "fae2559d-5586-4be3-9f57-14385ce63552",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-13T14:46:00.000Z",
+      "last_edited_time": "2022-11-14T16:07:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Epistemic status: I ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Epistemic status: I ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "may regret writing this",
+              "link": {
+                "url": "https://manifold.markets/Austin/if-i-post-a-rant-defending-sbf-will"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "may regret writing this",
+            "href": "https://manifold.markets/Austin/if-i-post-a-rant-defending-sbf-will"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ", but will likely regret not writing this more.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ", but will likely regret not writing this more.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "a97cbfa0-0ef9-44ea-b9ea-df9cb1e03089",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-13T14:46:00.000Z",
+      "last_edited_time": "2022-11-13T14:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Key points:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Key points:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "792fa6eb-7b0f-41dc-9840-969cf4b49068",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-13T14:46:00.000Z",
+      "last_edited_time": "2022-11-14T01:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "1. The FTX blowup might be a bad judgement call, not willful fraud",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "1. The FTX blowup might be a bad judgement call, not willful fraud",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "94137a16-934e-400b-af78-a2a4a2ba3e27",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-13T14:46:00.000Z",
+      "last_edited_time": "2022-11-14T02:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "2. Loyalty is good, and y’all are way over-updating",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "2. Loyalty is good, and y’all are way over-updating",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2da2421f-5856-4aeb-9481-04c952221970",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-13T14:46:00.000Z",
+      "last_edited_time": "2022-11-14T07:51:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "3.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "3.",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " Ambition is good, and failed bets are worth celebrating",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " Ambition is good, and failed bets are worth celebrating",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "5db73d84-d533-4ecc-97c4-5b8f3a5517fe",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-13T14:46:00.000Z",
+      "last_edited_time": "2022-11-14T03:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "1. Fraud or bad judgement?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "1. Fraud or bad judgement?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "8ce61892-b312-48ff-9511-85963ea90b7b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-13T14:49:00.000Z",
+      "last_edited_time": "2022-11-13T15:44:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Never attribute to malice that which is adequately explained by stupidity — ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Never attribute to malice that which is adequately explained by stupidity — ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Hanlon’s razor",
+              "link": {
+                "url": "https://en.wikipedia.org/wiki/Hanlon%27s_razor"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Hanlon’s razor",
+            "href": "https://en.wikipedia.org/wiki/Hanlon%27s_razor"
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "8cb9f443-d844-4af5-9777-9b726cef2cfb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-13T14:51:00.000Z",
+      "last_edited_time": "2022-11-13T17:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Here’s my model of what happened: SBF was busy. Things were confusing. He made a lot of decisions. One of them blew up.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Here’s my model of what happened: SBF was busy. Things were confusing. He made a lot of decisions. One of them blew up.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "37e09b2e-922a-45e2-90b1-367e591f520d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-13T15:32:00.000Z",
+      "last_edited_time": "2022-11-13T17:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Why do I believe this “bad judgement” thesis? Well, it’s what Sam claims. Publicly on Twitter, his explanation comes out to: “I genuinely believed customers were not leveraged, and that we could pay out all deposits”.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Why do I believe this “bad judgement” thesis? Well, it’s what Sam claims. Publicly on Twitter, his explanation comes out to: “I genuinely believed customers were not leveraged, and that we could pay out all deposits”.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "a0560999-c100-47dd-8e66-a59f1bd09aba",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-13T17:12:00.000Z",
+      "last_edited_time": "2022-11-13T17:12:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "external",
+        "external": {
+          "url": "https://i.imgur.com/ebVRwbk.png"
+        }
+      }
+    },
+    {
+      "object": "block",
+      "id": "2e3a87b9-56af-46ea-ba09-6f655791a537",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-13T16:57:00.000Z",
+      "last_edited_time": "2022-11-14T01:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I’m biased towards trusting people at their word; and furthermore, SBF was a personal hero of mine. So you might not extend him the same trust that I do. But: Sam doesn’t have a history of lying on the record. Even at this point in time, when the muckrakers of the world are busy scrutinizing every deed he’s done, I don’t see any allegations of the form “he lied about this thing”. “Truthful, but mistaken” seems like a better model for SBF than “masterful schemer”. I choose to believe this. Maybe I’ll be wrong; feel free to ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I’m biased towards trusting people at their word; and furthermore, SBF was a personal hero of mine. So you might not extend him the same trust that I do. But: Sam doesn’t have a history of lying on the record. Even at this point in time, when the muckrakers of the world are busy scrutinizing every deed he’s done, I don’t see any allegations of the form “he lied about this thing”. “Truthful, but mistaken” seems like a better model for SBF than “masterful schemer”. I choose to believe this. Maybe I’ll be wrong; feel free to ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "bet on whether I’ll change my mind",
+              "link": {
+                "url": "https://manifold.markets/Austin/if-i-post-a-rant-defending-sbf-will"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "bet on whether I’ll change my mind",
+            "href": "https://manifold.markets/Austin/if-i-post-a-rant-defending-sbf-will"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ".",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ".",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " (",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " (",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "This comment does lead me to some level of doubt",
+              "link": {
+                "url": "https://forum.effectivealtruism.org/posts/xafpj3on76uRDoBja/the-ftx-future-fund-team-has-resigned-1?commentId=NbevNWixq3bJMEW7b"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "This comment does lead me to some level of doubt",
+            "href": "https://forum.effectivealtruism.org/posts/xafpj3on76uRDoBja/the-ftx-future-fund-team-has-resigned-1?commentId=NbevNWixq3bJMEW7b"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ".)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ".)",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "f4120b95-f62a-4a25-b0b9-a4c23f68bcf8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-13T17:21:00.000Z",
+      "last_edited_time": "2022-11-13T17:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Why do I emphasize the difference between fraud (roughly, taking funds from customers with full knowledge) and a bad judgement call? Because “don’t do fraud” is a good heuristic to propagate, but “don’t make mistakes” is not.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Why do I emphasize the difference between fraud (roughly, taking funds from customers with full knowledge) and a bad judgement call? Because “don’t do fraud” is a good heuristic to propagate, but “don’t make mistakes” is not.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "966df1ad-a309-4333-be4b-442e58bd1a4a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-13T17:21:00.000Z",
+      "last_edited_time": "2022-11-13T17:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "It’s really, really easy to pick apart other people’s mistakes, especially after the fact. If you’re a public figure making 10 good decisions and 1 bad one, a critic can jump in with “look at that mistake! It was such a mistake! I would never had made that mistake!” Oftentimes, the critic is even correct! But: in the same position, they would have made 2 other bad decisions, ones that weren’t even on their radar. From ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "It’s really, really easy to pick apart other people’s mistakes, especially after the fact. If you’re a public figure making 10 good decisions and 1 bad one, a critic can jump in with “look at that mistake! It was such a mistake! I would never had made that mistake!” Oftentimes, the critic is even correct! But: in the same position, they would have made 2 other bad decisions, ones that weren’t even on their radar. From ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Zvi Mowshowitz on what would be difficult about being “in charge” during Covid",
+              "link": {
+                "url": "https://thezvi.wordpress.com/2021/02/07/why-i-am-not-in-charge/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Zvi Mowshowitz on what would be difficult about being “in charge” during Covid",
+            "href": "https://thezvi.wordpress.com/2021/02/07/why-i-am-not-in-charge/"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ":",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ":",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "d296338a-a39e-4532-ad45-201ea92a1c36",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-13T17:21:00.000Z",
+      "last_edited_time": "2022-11-13T17:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "quote",
+      "quote": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "…You can do better by taking a market price or model output as a baseline, then taking into account a bias or missing consideration. Thus, you can be ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "…You can do better by taking a market price or model output as a baseline, then taking into account a bias or missing consideration. Thus, you can be ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "much worse ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "much worse ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "at creating the right answer from scratch, and yet do better than the consensus answer.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "at creating the right answer from scratch, and yet do better than the consensus answer.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "85719732-5dae-482b-9411-185a40c7a907",
+          "parent": {
+            "type": "block_id",
+            "block_id": "d296338a-a39e-4532-ad45-201ea92a1c36"
+          },
+          "created_time": "2022-11-13T17:21:00.000Z",
+          "last_edited_time": "2022-11-13T17:21:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Think of this as trying someone’s fifteen-step chocolate chip cookie recipe, then noticing that it would be better with more chocolate chips. You might have better cookies, but you should not then claim that you are the superior baker.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Think of this as trying someone’s fifteen-step chocolate chip cookie recipe, then noticing that it would be better with more chocolate chips. You might have better cookies, but you should not then claim that you are the superior baker.",
+                "href": null
+              }
+            ],
+            "icon": null,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "9adb0fc8-110b-447b-8631-2bb530600874",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-13T17:21:00.000Z",
+      "last_edited_time": "2022-11-14T07:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "If you, right now, are sitting on a high horse, saying “it’s so obvious; just don’t take customer deposits and gamble with them”… guess what, you do not understand how complex systems break. There is no special ability to know which of your many decisions might be the one that causes it all go kaput. I’ve witnessed and responded to my fair share of outages at Google and Manifold, and very often dumb things led to these outages— but you’ll never know ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "If you, right now, are sitting on a high horse, saying “it’s so obvious; just don’t take customer deposits and gamble with them”… guess what, you do not understand how complex systems break. There is no special ability to know which of your many decisions might be the one that causes it all go kaput. I’ve witnessed and responded to my fair share of outages at Google and Manifold, and very often dumb things led to these outages— but you’ll never know ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "which ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "which ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "of your actions are the dumb ones. While you were editing a config file that later broke the site, you didn’t sit back and think “hm, maybe this will crash the site, I should look at it carefully”. That change looked no different than the twenty other changes you made this week, all of which were fine and good.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "of your actions are the dumb ones. While you were editing a config file that later broke the site, you didn’t sit back and think “hm, maybe this will crash the site, I should look at it carefully”. That change looked no different than the twenty other changes you made this week, all of which were fine and good.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "f658ddbf-48e0-444c-bbc9-3a95da8f9717",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-13T14:46:00.000Z",
+      "last_edited_time": "2022-11-13T17:51:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "2. On loyalty",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "2. On loyalty",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "5b88b5c9-d874-466e-9cca-d6495c75baed",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-13T14:46:00.000Z",
+      "last_edited_time": "2022-11-14T07:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Whether this blowup was caused by intentional deception or an honest mistake, the EA community has been extremely quick to change its tune. In less than a week, everyone has gone from “SBF, golden boy” to “What a criminal, don’t be like that guy”. EA leaders have posted ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Whether this blowup was caused by intentional deception or an honest mistake, the EA community has been extremely quick to change its tune. In less than a week, everyone has gone from “SBF, golden boy” to “What a criminal, don’t be like that guy”. EA leaders have posted ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "denunciations",
+              "link": {
+                "url": "https://forum.effectivealtruism.org/posts/WdeiPrwgqW2wHAxgT/a-personal-statement-on-ftx"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "denunciations",
+            "href": "https://forum.effectivealtruism.org/posts/WdeiPrwgqW2wHAxgT/a-personal-statement-on-ftx"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " of ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " of ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "fraud",
+              "link": {
+                "url": "https://forum.effectivealtruism.org/posts/mCCutDxCavtnhxhBR/some-comments-on-recent-ftx-related-events#Separate_from_the_details_of_the_FTX_situation__do_you_think_that_fraud_could_be_justified_if_it_raises_huge_amounts_of_money_for_good_causes_"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "fraud",
+            "href": "https://forum.effectivealtruism.org/posts/mCCutDxCavtnhxhBR/some-comments-on-recent-ftx-related-events#Separate_from_the_details_of_the_FTX_situation__do_you_think_that_fraud_could_be_justified_if_it_raises_huge_amounts_of_money_for_good_causes_"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ", and distanced themselves from Sam; the most upvoted all-time EA Forum post is a community condemnation; the entire Future Fund team ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ", and distanced themselves from Sam; the most upvoted all-time EA Forum post is a community condemnation; the entire Future Fund team ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "up and resigned",
+              "link": {
+                "url": "https://forum.effectivealtruism.org/posts/xafpj3on76uRDoBja/the-ftx-future-fund-team-has-resigned-1"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "up and resigned",
+            "href": "https://forum.effectivealtruism.org/posts/xafpj3on76uRDoBja/the-ftx-future-fund-team-has-resigned-1"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ".",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ".",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "147ff2b7-519e-48d2-bdac-6d444b71e3bd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-13T18:13:00.000Z",
+      "last_edited_time": "2022-11-14T07:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "To be fair, the rest of the world is dogpiling on him too. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "To be fair, the rest of the world is dogpiling on him too. ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Elon Musk call",
+              "link": {
+                "url": "https://coingape.com/this-dude-is-full-of-shit-elon-musk-shares-his-impression-of-sbf-in-a-twitter-space/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Elon Musk call",
+            "href": "https://coingape.com/this-dude-is-full-of-shit-elon-musk-shares-his-impression-of-sbf-in-a-twitter-space/"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "e",
+              "link": {
+                "url": "https://coingape.com/this-dude-is-full-of-shit-elon-musk-shares-his-impression-of-sbf-in-a-twitter-space/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "e",
+            "href": "https://coingape.com/this-dude-is-full-of-shit-elon-musk-shares-his-impression-of-sbf-in-a-twitter-space/"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "d Sam “full of shit”",
+              "link": {
+                "url": "https://coingape.com/this-dude-is-full-of-shit-elon-musk-shares-his-impression-of-sbf-in-a-twitter-space/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "d Sam “full of shit”",
+            "href": "https://coingape.com/this-dude-is-full-of-shit-elon-musk-shares-his-impression-of-sbf-in-a-twitter-space/"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "; Sequoia ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "; Sequoia ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "deleted their glowing profile of SBF published one month ago",
+              "link": {
+                "url": "https://www.businessinsider.com/ftx-investor-sequoia-removes-sam-bankman-fried-profile-2022-11"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "deleted their glowing profile of SBF published one month ago",
+            "href": "https://www.businessinsider.com/ftx-investor-sequoia-removes-sam-bankman-fried-profile-2022-11"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "; Miami took the FTX name off their arena.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "; Miami took the FTX name off their arena.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "bc4ef285-6c56-442b-b517-7e39fbd43f6c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-13T14:56:00.000Z",
+      "last_edited_time": "2022-11-14T07:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "But from EA folks, this behavior strikes me as cowardly, coldhearted, opportunistic, bandwagon-y, two-faced and distasteful. I am extremely confused, because these EA leaders are some of the smartest and “good-est” people in the world, whose work I respect and admire, who have shaped the way I think. So it’s very possible that I’m just in the wrong here, but…",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "But from EA folks, this behavior strikes me as cowardly, coldhearted, opportunistic, bandwagon-y, two-faced and distasteful. I am extremely confused, because these EA leaders are some of the smartest and “good-est” people in the world, whose work I respect and admire, who have shaped the way I think. So it’s very possible that I’m just in the wrong here, but…",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "6a458633-1414-4847-84d9-8446e2a854e9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-13T17:59:00.000Z",
+      "last_edited_time": "2022-11-14T16:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Whatever happened to loyalty? To supporting those who have helped you in the past? Are EA folks only fair-weather friends, happy to accept your money in good times but also ready to eviscerate you to maintain deniability and a glossy PR sheen? What distinguishes altruism from selfishness is “being good to people who cannot help you back”. It is extremely suspicious that EA as a whole was happy to laud praise on SBF while the money was flowing, and then turn their backs as soon as it was clear the gravy train dried up.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Whatever happened to loyalty? To supporting those who have helped you in the past? Are EA folks only fair-weather friends, happy to accept your money in good times but also ready to eviscerate you to maintain deniability and a glossy PR sheen? What distinguishes altruism from selfishness is “being good to people who cannot help you back”. It is extremely suspicious that EA as a whole was happy to laud praise on SBF while the money was flowing, and then turn their backs as soon as it was clear the gravy train dried up.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1e0f81ae-a055-41d1-9f6d-3f5873802c96",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-13T15:02:00.000Z",
+      "last_edited_time": "2022-11-14T07:50:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Having a scout mindset is good; updating your beliefs about SBF in light of new evidence is good; but there is such a thing as updating too far. Sure, the community should call out the bad, but have we up and forgotten about every good thing that SBF have accomplished, ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Having a scout mindset is good; updating your beliefs about SBF in light of new evidence is good; but there is such a thing as updating too far. Sure, the community should call out the bad, but have we up and forgotten about every good thing that SBF have accomplished, ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "especially",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "especially",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " for EA? Every point in ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " for EA? Every point in ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "the deleted Sequoia article",
+              "link": {
+                "url": "https://web.archive.org/web/20221027181005/https://www.sequoiacap.com/article/sam-bankman-fried-spotlight/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "the deleted Sequoia article",
+            "href": "https://web.archive.org/web/20221027181005/https://www.sequoiacap.com/article/sam-bankman-fried-spotlight/"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " is still true.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " is still true.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3f591af2-cdd2-43d4-9b32-251052285b17",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-13T18:17:00.000Z",
+      "last_edited_time": "2022-11-13T18:17:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "SBF:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "SBF:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "5b5bbccc-5eec-4956-a4f4-09970a5e7413",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-13T15:01:00.000Z",
+      "last_edited_time": "2022-11-13T15:01:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Is a committed vegan",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Is a committed vegan",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "d476568f-a81f-4d75-a990-2e9ad4e6c4a5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-13T15:01:00.000Z",
+      "last_edited_time": "2022-11-14T01:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Earned to give while at Jane Street",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Earned to give while at Jane Street",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "529c7cfc-352a-446c-87c6-99b53cc60cf7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-13T15:13:00.000Z",
+      "last_edited_time": "2022-11-14T02:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Led CEA for a few months",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Led CEA for a few months",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "ee879eae-c6d9-4095-ad7e-4fa02eab9156",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-13T15:13:00.000Z",
+      "last_edited_time": "2022-11-13T15:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Sent money to Ukrainians in time of need",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Sent money to Ukrainians in time of need",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "286ff15d-0acf-49b3-b20a-b3ea85ae6d0e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-13T17:00:00.000Z",
+      "last_edited_time": "2022-11-14T07:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Incubated hundreds of millions worth of good longtermist causes through Future Fund and related spending on eg Anthropic",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Incubated hundreds of millions worth of good longtermist causes through Future Fund and related spending on eg Anthropic",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "e688b762-992b-4a18-93f0-ab5e119d0324",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-14T02:19:00.000Z",
+      "last_edited_time": "2022-11-14T15:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Take a step back: what are we assessing here? If the question is “should I associate with a person who has this track record, and also once fraudulently misused customer money, but has repented and is trying as hard as possible to fix it”… the answer seems like a clear yes to me. And as a prosaic consideration, I continue to believe that Sam and the rest of the FTX leadership team are extremely talented and aligned people. Even with tarnished reputations today, I expect them to accomplish good and great things. To jump immediately to cutting ties seems like a large strategic error.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Take a step back: what are we assessing here? If the question is “should I associate with a person who has this track record, and also once fraudulently misused customer money, but has repented and is trying as hard as possible to fix it”… the answer seems like a clear yes to me. And as a prosaic consideration, I continue to believe that Sam and the rest of the FTX leadership team are extremely talented and aligned people. Even with tarnished reputations today, I expect them to accomplish good and great things. To jump immediately to cutting ties seems like a large strategic error.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "502fb243-c1bc-48cd-a0d4-c2725ed15604",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-13T18:00:00.000Z",
+      "last_edited_time": "2022-11-14T07:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "And on a personal note, I aspire to create a lot of value for the world, and direct it towards doing lots of good. Call me overconfident, but I expect to be a billionaire someday. The way EA treats SBF here sets a precedence: i",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "And on a personal note, I aspire to create a lot of value for the world, and direct it towards doing lots of good. Call me overconfident, but I expect to be a billionaire someday. The way EA treats SBF here sets a precedence: i",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "f the EA community is happy to accept money when the going is good, but then is ready to cut ties once the money dries up… you can guess how excited I would be to contribute in the first place.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "f the EA community is happy to accept money when the going is good, but then is ready to cut ties once the money dries up… you can guess how excited I would be to contribute in the first place.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "0d08faf1-a91f-4fda-934b-bb3c2159d7b5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-13T15:10:00.000Z",
+      "last_edited_time": "2022-11-13T18:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "3. On Ambition",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "3. On Ambition",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "f3a848df-2519-4e60-af35-ed2b700d4ccb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-13T17:35:00.000Z",
+      "last_edited_time": "2022-11-14T15:51:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Imagine a world in which things had gone a little differently. In World 2, CZ never triggered a bank run on FTX because he got locked out of his Twitter account. Alameda repays its debts and continues on to print money. In 2025, FTX is stable and worth hundreds of billions as the world’s largest online brokerage — and then the news breaks that three years ago, Sam willfully took a risky gamble using customer funds to keep FTX and Alameda both afloat. What would your reaction be? Would you denounce fraud, demand that customers be compensated (how much?), ask Sam to step down?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Imagine a world in which things had gone a little differently. In World 2, CZ never triggered a bank run on FTX because he got locked out of his Twitter account. Alameda repays its debts and continues on to print money. In 2025, FTX is stable and worth hundreds of billions as the world’s largest online brokerage — and then the news breaks that three years ago, Sam willfully took a risky gamble using customer funds to keep FTX and Alameda both afloat. What would your reaction be? Would you denounce fraud, demand that customers be compensated (how much?), ask Sam to step down?",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "74761a57-bfe7-4dc9-80b2-c2e19df42c4a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-13T17:35:00.000Z",
+      "last_edited_time": "2022-11-13T17:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Fred Smith, the founder of FedEx, famously gambled his company’s entire bank account at a casino in order to keep deliveries going:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Fred Smith, the founder of FedEx, famously gambled his company’s entire bank account at a casino in order to keep deliveries going:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "b82e00d7-dae5-493e-8a8e-37ebcfd0297e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-13T17:35:00.000Z",
+      "last_edited_time": "2022-11-14T02:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "quote",
+      "quote": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I asked Fred where the funds had come from, and he responded, ‘The meeting with the General Dynamics board was a bust and I knew we needed money for Monday, so I took a plane to Las Vegas and won $27,000.’ I said, ‘You mean you took our last $5,000-- how could you do that?’ He shrugged his shoulders and said, ‘What difference does it make? Without the funds for the fuel companies, we couldn't have flown anyway.’ Fred's luck held again. It was not much, but it came at a critical time and kept us in business for another week.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I asked Fred where the funds had come from, and he responded, ‘The meeting with the General Dynamics board was a bust and I knew we needed money for Monday, so I took a plane to Las Vegas and won $27,000.’ I said, ‘You mean you took our last $5,000-- how could you do that?’ He shrugged his shoulders and said, ‘What difference does it make? Without the funds for the fuel companies, we couldn't have flown anyway.’ Fred's luck held again. It was not much, but it came at a critical time and kept us in business for another week.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "af2f6495-389f-4886-a667-5e38d870e010",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-13T17:39:00.000Z",
+      "last_edited_time": "2022-11-14T16:02:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Of course, these two stories aren’t exactly the same; betting investor/company money is different than betting money entrusted to you for other purposes. But I can’t help but think that if SBF’s plan had worked, and he was still EA’s rich uncle financing our ventures, we would be applauding him for bravado and wisdom in making that call. It feels like EA is punishing SBF not for being unethical, but for being unlucky. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Of course, these two stories aren’t exactly the same; betting investor/company money is different than betting money entrusted to you for other purposes. But I can’t help but think that if SBF’s plan had worked, and he was still EA’s rich uncle financing our ventures, we would be applauding him for bravado and wisdom in making that call. It feels like EA is punishing SBF not for being unethical, but for being unlucky. ",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "d26f8254-38d2-4021-abe7-2f4322a35ee4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-13T18:09:00.000Z",
+      "last_edited_time": "2022-11-14T16:02:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "(Crucially: ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "(Crucially: ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "I think that it is correct to consistently support him in our world and World 2. You can also be consistent by saying that EA should denounce him in both worlds.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I think that it is correct to consistently support him in our world and World 2. You can also be consistent by saying that EA should denounce him in both worlds.",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " But if you believe the latter — tell me, how much did you know about crypto, exchanges, or trading firms before last week?)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " But if you believe the latter — tell me, how much did you know about crypto, exchanges, or trading firms before last week?)",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "085e0ae0-fc82-4ae1-b772-4d3e381544d0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-14T07:25:00.000Z",
+      "last_edited_time": "2022-11-14T16:01:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Risk-taking and ambition are two sides of the same coin. If you swarm to denouncing risks that failed, you do not understand what it takes to succeed. My very subjective sense of people in the EA community is that we are much more likely to fail due to insufficient ambition than too much risk-taking, especially without the support and skillset of the FTX team.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Risk-taking and ambition are two sides of the same coin. If you swarm to denouncing risks that failed, you do not understand what it takes to succeed. My very subjective sense of people in the EA community is that we are much more likely to fail due to insufficient ambition than too much risk-taking, especially without the support and skillset of the FTX team.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "cdbeccd0-0784-4884-ab33-44175ca58f20",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-13T15:10:00.000Z",
+      "last_edited_time": "2022-11-13T17:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Appendix",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Appendix",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20138f13-386f-4066-9aa2-afb906b36ce6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-13T14:52:00.000Z",
+      "last_edited_time": "2022-11-14T02:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Disclaimers",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Disclaimers",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ": Manifold received a $1m investment and $500k grant through the FTX Future Fund. Our team spent a couple weeks in the Bahamas as part of the EA Bahamas Fellowship program, including meeting SBF in person at a party in his penthouse. We may have exchanged a couple dozen words; I do not know him personally. All opinions here are my own.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ": Manifold received a $1m investment and $500k grant through the FTX Future Fund. Our team spent a couple weeks in the Bahamas as part of the EA Bahamas Fellowship program, including meeting SBF in person at a party in his penthouse. We may have exchanged a couple dozen words; I do not know him personally. All opinions here are my own.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "f1d754fe-6c1f-427c-bd07-6da124ebbf63",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-13T14:47:00.000Z",
+      "last_edited_time": "2022-11-14T07:30:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Responses to this situation I endorse",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Responses to this situation I endorse",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ":",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ":",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3f236555-e814-4c98-ad95-25de73ef14fd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-13T14:47:00.000Z",
+      "last_edited_time": "2022-11-14T01:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "In favour of compassion, and against bandwagons of outrage",
+              "link": {
+                "url": "https://forum.effectivealtruism.org/posts/sdAgwtHkBZmkmkcpZ/in-favour-of-compassion-and-against-bandwagons-of-outrage"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "In favour of compassion, and against bandwagons of outrage",
+            "href": "https://forum.effectivealtruism.org/posts/sdAgwtHkBZmkmkcpZ/in-favour-of-compassion-and-against-bandwagons-of-outrage"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " by Emrik",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " by Emrik",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1247a782-f8e0-4902-a31c-abfffb0bac55",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-13T14:47:00.000Z",
+      "last_edited_time": "2022-11-14T01:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Eliezer Yudkowsky",
+              "link": {
+                "url": "https://forum.effectivealtruism.org/posts/FKJ8yiF3KjFhAuivt/impco-don-t-injure-yourself-by-returning-ftxff-money-for"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Eliezer Yudkowsky",
+            "href": "https://forum.effectivealtruism.org/posts/FKJ8yiF3KjFhAuivt/impco-don-t-injure-yourself-by-returning-ftxff-money-for"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "91773a16-ce57-46e2-ad57-be62e9779b77",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-13T14:47:00.000Z",
+      "last_edited_time": "2022-11-14T01:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Matt Levine",
+              "link": {
+                "url": "https://news.bloomberglaw.com/banking-law/matt-levines-money-stuff-ftx-is-still-looking-for-money"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Matt Levine",
+            "href": "https://news.bloomberglaw.com/banking-law/matt-levines-money-stuff-ftx-is-still-looking-for-money"
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "d82c1956-58b4-4c82-b96c-1efd4e460a9e",
+          "parent": {
+            "type": "block_id",
+            "block_id": "91773a16-ce57-46e2-ad57-be62e9779b77"
+          },
+          "created_time": "2022-11-14T01:37:00.000Z",
+          "last_edited_time": "2022-11-14T01:37:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "quote",
+          "quote": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "This is a little weird, but I do feel like I ought to disclose a bias here, which is that I ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "This is a little weird, but I do feel like I ought to disclose a bias here, which is that I ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "like ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": true,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "like ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "\nSam Bankman-Fried. I have done a few ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "\nSam Bankman-Fried. I have done a few ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "podcast",
+                  "link": {
+                    "url": "https://link.mail.bloombergbusiness.com/click/29660451.134205/aHR0cHM6Ly93d3cuYmxvb21iZXJnLmNvbS9uZXdzL2FydGljbGVzLzIwMjItMDQtMjUvb2RkLWxvdHMtZnVsbC10cmFuc2NyaXB0LXNhbS1iYW5rbWFuLWZyaWVkLWFuZC1tYXR0LWxldmluZS1vbi1jcnlwdG8_Y21waWQ9QkJEMTExMDIyX01PTkVZU1RVRkYmdXRtX21lZGl1bT1lbWFpbCZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX3Rlcm09MjIxMTEwJnV0bV9jYW1wYWlnbj1tb25leXN0dWZm/5d840bbee763e4276a611082Bee4439bc"
+                  }
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "podcast",
+                "href": "https://link.mail.bloombergbusiness.com/click/29660451.134205/aHR0cHM6Ly93d3cuYmxvb21iZXJnLmNvbS9uZXdzL2FydGljbGVzLzIwMjItMDQtMjUvb2RkLWxvdHMtZnVsbC10cmFuc2NyaXB0LXNhbS1iYW5rbWFuLWZyaWVkLWFuZC1tYXR0LWxldmluZS1vbi1jcnlwdG8_Y21waWQ9QkJEMTExMDIyX01PTkVZU1RVRkYmdXRtX21lZGl1bT1lbWFpbCZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX3Rlcm09MjIxMTEwJnV0bV9jYW1wYWlnbj1tb25leXN0dWZm/5d840bbee763e4276a611082Bee4439bc"
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": " ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": " ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "interviews",
+                  "link": {
+                    "url": "https://link.mail.bloombergbusiness.com/click/29660451.134205/aHR0cHM6Ly93d3cuYmxvb21iZXJnLmNvbS9uZXdzL2FydGljbGVzLzIwMjEtMDgtMDYvdHJhbnNjcmlwdC1zYW0tYmFua21hbi1mcmllZC1hbmQtbWF0dC1sZXZpbmUtb24tY3J5cHRvLW1hcmtldC1zdHJ1Y3R1cmU_Y21waWQ9QkJEMTExMDIyX01PTkVZU1RVRkYmdXRtX21lZGl1bT1lbWFpbCZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX3Rlcm09MjIxMTEwJnV0bV9jYW1wYWlnbj1tb25leXN0dWZm/5d840bbee763e4276a611082B0e7a53d9"
+                  }
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "interviews",
+                "href": "https://link.mail.bloombergbusiness.com/click/29660451.134205/aHR0cHM6Ly93d3cuYmxvb21iZXJnLmNvbS9uZXdzL2FydGljbGVzLzIwMjEtMDgtMDYvdHJhbnNjcmlwdC1zYW0tYmFua21hbi1mcmllZC1hbmQtbWF0dC1sZXZpbmUtb24tY3J5cHRvLW1hcmtldC1zdHJ1Y3R1cmU_Y21waWQ9QkJEMTExMDIyX01PTkVZU1RVRkYmdXRtX21lZGl1bT1lbWFpbCZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX3Rlcm09MjIxMTEwJnV0bV9jYW1wYWlnbj1tb25leXN0dWZm/5d840bbee763e4276a611082B0e7a53d9"
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": " and ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": " and ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "events",
+                  "link": {
+                    "url": "https://link.mail.bloombergbusiness.com/click/29660451.134205/aHR0cHM6Ly93d3cuYmxvb21iZXJnLmNvbS9uZXdzL2xpdmUtYmxvZy8yMDIyLTA3LTE4L2Z0eC1zLXNhbS1iYW5rbWFuLWZyaWVkLWF0LWJsb29tYmVyZy1jcnlwdG8tc3VtbWl0P2NtcGlkPUJCRDExMTAyMl9NT05FWVNUVUZGJnV0bV9tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV90ZXJtPTIyMTExMCZ1dG1fY2FtcGFpZ249bW9uZXlzdHVmZg/5d840bbee763e4276a611082B08f1c3b9"
+                  }
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "events",
+                "href": "https://link.mail.bloombergbusiness.com/click/29660451.134205/aHR0cHM6Ly93d3cuYmxvb21iZXJnLmNvbS9uZXdzL2xpdmUtYmxvZy8yMDIyLTA3LTE4L2Z0eC1zLXNhbS1iYW5rbWFuLWZyaWVkLWF0LWJsb29tYmVyZy1jcnlwdG8tc3VtbWl0P2NtcGlkPUJCRDExMTAyMl9NT05FWVNUVUZGJnV0bV9tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV90ZXJtPTIyMTExMCZ1dG1fY2FtcGFpZ249bW9uZXlzdHVmZg/5d840bbee763e4276a611082B08f1c3b9"
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": " with him, and I have always found him likable, smart, thoughtful, well-intentioned and candid. That is not in any sense investing advice or whatever; it’s just how I feel. I am rooting for this all to work out for him and FTX.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": " with him, and I have always found him likable, smart, thoughtful, well-intentioned and candid. That is not in any sense investing advice or whatever; it’s just how I feel. I am rooting for this all to work out for him and FTX.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "8a0957a6-4874-4673-9961-5b1ec7e2daf9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-13T14:47:00.000Z",
+      "last_edited_time": "2022-11-14T01:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Scott Alexander",
+              "link": {
+                "url": "https://astralcodexten.substack.com/p/open-thread-250"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Scott Alexander",
+            "href": "https://astralcodexten.substack.com/p/open-thread-250"
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "e9abd2da-4a48-458e-8fa1-a98167e81099",
+          "parent": {
+            "type": "block_id",
+            "block_id": "8a0957a6-4874-4673-9961-5b1ec7e2daf9"
+          },
+          "created_time": "2022-11-14T01:38:00.000Z",
+          "last_edited_time": "2022-11-14T01:38:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "quote",
+          "quote": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "My ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "My ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "emotional ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": true,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "emotional ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "conflict of interest here is that I’m really f#%king devastated. I never met or communicated with SBF, but I was friendly with another FTX/Alameda higher-up around 2018, before they moved abroad. At the time they seemed like a remarkably kind, decent, and thoughtful person, and I liked them a lot. I desperately want to believe they didn’t know about the fraud, but it seems really implausible. If they did, then I genuinely have no idea what happened, and I hope the investigation finds some reasonable explanation, like that they were doing so many stimulants and psychedelics that the DMT entities were piloting their body like an anime mech. I probably shouldn’t ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "conflict of interest here is that I’m really f#%king devastated. I never met or communicated with SBF, but I was friendly with another FTX/Alameda higher-up around 2018, before they moved abroad. At the time they seemed like a remarkably kind, decent, and thoughtful person, and I liked them a lot. I desperately want to believe they didn’t know about the fraud, but it seems really implausible. If they did, then I genuinely have no idea what happened, and I hope the investigation finds some reasonable explanation, like that they were doing so many stimulants and psychedelics that the DMT entities were piloting their body like an anime mech. I probably shouldn’t ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "exactly",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": true,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "exactly",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": " say “I hope they’re okay” when there are so many victims who deserve okayness more. But I hope there’s some other world-branch where they never got involved in any of this and they’re living their best life and doing lots of good, and I hope the version of me in that world branch is giving them the support and reassurance that I can’t give them here.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": " say “I hope they’re okay” when there are so many victims who deserve okayness more. But I hope there’s some other world-branch where they never got involved in any of this and they’re living their best life and doing lots of good, and I hope the version of me in that world branch is giving them the support and reassurance that I can’t give them here.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "5ecc9d41-7747-46ee-b9fa-4a69f8bcaff0",
+              "parent": {
+                "type": "block_id",
+                "block_id": "e9abd2da-4a48-458e-8fa1-a98167e81099"
+              },
+              "created_time": "2022-11-14T01:38:00.000Z",
+              "last_edited_time": "2022-11-14T01:42:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "More generally, I trusted and looked up to the FTX/Alameda people. I didn’t actually keep money in FTX, but I would have if there had been any reason to; I didn’t actually tell other people they should trust FTX, but I would have if those other people had asked. Lower your opinion of me accordingly.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "More generally, I trusted and looked up to the FTX/Alameda people. I didn’t actually keep money in FTX, but I would have if there had been any reason to; I didn’t actually tell other people they should trust FTX, but I would have if those other people had asked. Lower your opinion of me accordingly.",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "aa7e8c83-e382-42a6-afbc-dc5d7f699ebe",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-13T14:47:00.000Z",
+      "last_edited_time": "2022-11-14T02:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Suggested reading",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Suggested reading",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ": ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ": ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Oshi no Ko chapters 24-26",
+              "link": {
+                "url": "https://guya.cubari.moe/read/manga/Oshi-no-Ko/24/1/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Oshi no Ko chapters 24-26",
+            "href": "https://guya.cubari.moe/read/manga/Oshi-no-Ko/24/1/"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ". ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ". ",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "a5230912-1fbe-4c87-a0b6-832b2cff1484",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-13T18:28:00.000Z",
+      "last_edited_time": "2022-11-14T07:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Thanks",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Thanks",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " to Sinclair, Rachel, Jack and Lynelle, along with many others, for discussions on this topic.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " to Sinclair, Rachel, Jack and Lynelle, along with many others, for discussions on this topic.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "82187781-47fa-4f83-83ae-6f926d8d0bd6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-14T02:06:00.000Z",
+      "last_edited_time": "2022-11-14T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2bf2043c-dbe5-4f58-9b7b-bfe8f8090eb3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-14T02:06:00.000Z",
+      "last_edited_time": "2022-11-14T02:07:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "e4fb1e29-f724-41c9-88b5-bc6691d1db80",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-14T02:06:00.000Z",
+      "last_edited_time": "2022-11-14T02:07:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "3. On Forgiveness",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": true,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "3. On Forgiveness",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "f92b2795-76dc-461b-980f-51ffc27b0d20",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-14T02:07:00.000Z",
+      "last_edited_time": "2022-11-14T02:07:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "For if you forgive other people when they sin against you, your heavenly Father will also forgive you.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": true,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "For if you forgive other people when they sin against you, your heavenly Father will also forgive you.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "a1baa0d1-394e-47ee-8a77-0f17ccbfc343",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-14T02:07:00.000Z",
+      "last_edited_time": "2022-11-14T02:07:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "(You’re probably not Christian, so replace “your heavenly Father” with “other ethical agents” or “AGI” or whatever makes this work for you.)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": true,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "(You’re probably not Christian, so replace “your heavenly Father” with “other ethical agents” or “AGI” or whatever makes this work for you.)",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2d06997a-3ff1-4697-9732-a4d31236019a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-14T02:07:00.000Z",
+      "last_edited_time": "2022-11-14T02:07:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Also: What about forgiveness? For a moment, assume SBF was guilty of what was assumed. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": true,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Also: What about forgiveness? For a moment, assume SBF was guilty of what was assumed. ",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "74ebf799-6b9b-4556-99f8-5459da439084",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-14T02:07:00.000Z",
+      "last_edited_time": "2022-11-14T02:07:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Forgive and you will be forgiven",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": true,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Forgive and you will be forgiven",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "42f69705-e9e0-4899-9da5-3beb19635374",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5b44bf80-b795-42f6-ad79-3c1ade32bf11"
+      },
+      "created_time": "2022-11-14T02:07:00.000Z",
+      "last_edited_time": "2022-11-14T02:07:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "(To be clear, it’s not EA’s role or right to forgive for offenses he may have committed against others, eg customers of FTX. But for deceiving the EA community, if that is what happened - that we can forgive)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": true,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "(To be clear, it’s not EA’s role or right to forgive for offenses he may have committed against others, eg customers of FTX. But for deceiving the EA community, if that is what happened - that we can forgive)",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    }
+  ]
+}

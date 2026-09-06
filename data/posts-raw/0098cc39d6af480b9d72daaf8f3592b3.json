@@ -1,0 +1,2377 @@
+{
+  "page": {
+    "id": "0098cc39d6af480b9d72daaf8f3592b3",
+    "title": "New market types",
+    "date": "2022-05-29",
+    "edited": "2022-05-30T07:34:00.000Z",
+    "url": "https://akrolsmir.notion.site/New-market-types-0098cc39d6af480b9d72daaf8f3592b3",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "47b7db35-7af2-4088-b95f-4ba6ac459d79",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:47:00.000Z",
+      "last_edited_time": "2022-05-30T06:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "A survey of new market types that would allow people to trade on more kinds of information!",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "A survey of new market types that would allow people to trade on more kinds of information!",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "e462f80a-e6f0-46a2-ae40-769709938bf8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:47:00.000Z",
+      "last_edited_time": "2022-05-30T06:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "True Numeric Markets",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "True Numeric Markets",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "9e3d99e1-96ca-4329-8718-bf5c15805884",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:47:00.000Z",
+      "last_edited_time": "2022-05-30T06:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "embed",
+      "embed": {
+        "caption": [],
+        "url": "https://manifold.markets/Austin/will-manifold-change-numeric-market"
+      }
+    },
+    {
+      "object": "block",
+      "id": "a3f083a7-9663-473b-9320-18701c23533c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:47:00.000Z",
+      "last_edited_time": "2022-05-30T06:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Today’s numeric markets are implemented where users can input their guess about the most likely result as a normal distribution around curve. Under the hood, we turn the range between MIN and MAX to 100 buckets using our Dynamic Parimutuel system.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Today’s numeric markets are implemented where users can input their guess about the most likely result as a normal distribution around curve. Under the hood, we turn the range between MIN and MAX to 100 buckets using our Dynamic Parimutuel system.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "ea9746bc-4910-4f96-8d51-8938d8ec77a2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:54:00.000Z",
+      "last_edited_time": "2022-05-30T06:54:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "a7759a62-16fa-4f35-944b-baf5d883acc9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:54:00.000Z",
+      "last_edited_time": "2022-05-30T07:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Dynamic Parimutuel has the drawback here of not having a locked in payout. Instead, we can use the YES/NO market type",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Dynamic Parimutuel has the drawback here of not having a locked in payout. Instead, we can use the YES/NO market type",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "6830906f-0890-4d87-ad56-2a8379b203a9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:47:00.000Z",
+      "last_edited_time": "2022-05-30T06:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "9cc8d3ec-fe2f-44b4-9e9c-c5213611f4b8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:47:00.000Z",
+      "last_edited_time": "2022-05-30T06:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Use cases:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Use cases:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "7e84e9c0-fe17-46eb-87fd-5cf0c7ecdc6f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:47:00.000Z",
+      "last_edited_time": "2022-05-30T07:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "“How many <X> will there be on <Y date>”? E.g. “How many Covid cases by the end of the year?”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“How many <X> will there be on <Y date>”? E.g. “How many Covid cases by the end of the year?”",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "5f5b234e-ae4a-4785-ace6-ba97f3fb0da7",
+          "parent": {
+            "type": "block_id",
+            "block_id": "7e84e9c0-fe17-46eb-87fd-5cf0c7ecdc6f"
+          },
+          "created_time": "2022-05-30T07:03:00.000Z",
+          "last_edited_time": "2022-05-30T07:04:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "This is super general! I think many YES/NO markets today would be better framed using a point estimate of what a particular value ought to look like.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "This is super general! I think many YES/NO markets today would be better framed using a point estimate of what a particular value ought to look like.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "0274a33a-0fbc-4b7c-ba02-41721cacbe1c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:52:00.000Z",
+      "last_edited_time": "2022-05-30T06:54:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "“How many days from market creation until <X happens>? E.g. “How many days until a new #1 Billboard song is crowned?”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“How many days from market creation until <X happens>? E.g. “How many days until a new #1 Billboard song is crowned?”",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3ffd1db7-f4ac-4660-ab24-3b302040feef",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:47:00.000Z",
+      "last_edited_time": "2022-05-30T06:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "02ef2971-04f3-4710-bed3-f451a1bc2539",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:47:00.000Z",
+      "last_edited_time": "2022-05-30T06:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Drawbacks:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Drawbacks:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "d2bdf2ec-6bd7-47e9-8316-8ec4ddb2eb67",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:47:00.000Z",
+      "last_edited_time": "2022-05-30T07:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "With only ability to bet on MIN or MAX, you can’t put in arbitrary distributions. This means that you can’t earn as much on an outcome happening as you might, even if you have really precise information.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "With only ability to bet on MIN or MAX, you can’t put in arbitrary distributions. This means that you can’t earn as much on an outcome happening as you might, even if you have really precise information.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "ef0da5de-48ff-4951-9421-13a134aca4d5",
+          "parent": {
+            "type": "block_id",
+            "block_id": "d2bdf2ec-6bd7-47e9-8316-8ec4ddb2eb67"
+          },
+          "created_time": "2022-05-30T07:07:00.000Z",
+          "last_edited_time": "2022-05-30T07:09:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Imagine we’re betting “On what day this year will Alex visit his 10th state [1-365]”, with the market predicting 100, but I’m very certain it should be 150. I can bet up the value to 150 and make guaranteed money, but it’s not the most efficient use of capital because I’ve also invested in a payout for when Alex hits that state on day 160 or 365.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Imagine we’re betting “On what day this year will Alex visit his 10th state [1-365]”, with the market predicting 100, but I’m very certain it should be 150. I can bet up the value to 150 and make guaranteed money, but it’s not the most efficient use of capital because I’ve also invested in a payout for when Alex hits that state on day 160 or 365.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "0491e115-f00f-4de8-824f-01ff33aa65b8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:47:00.000Z",
+      "last_edited_time": "2022-05-30T06:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Multi-category CPMM",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Multi-category CPMM",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "239bba1f-ebeb-448c-8db7-25a18b96d16c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:47:00.000Z",
+      "last_edited_time": "2022-05-30T06:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Today’s markets are all binary, pricing two assets proportional to each other. However, the constant product market maker should work to n=3 or even more assets. For example, you could imagine 4 outcomes for “which multiple choice answer is correct?”, with a formula keeping",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Today’s markets are all binary, pricing two assets proportional to each other. However, the constant product market maker should work to n=3 or even more assets. For example, you could imagine 4 outcomes for “which multiple choice answer is correct?”, with a formula keeping",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2a01615d-eab2-4979-a39e-2fd8e10661b3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:57:00.000Z",
+      "last_edited_time": "2022-05-30T06:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "A * B * C * D = k",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "A * B * C * D = k",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "38eeaa09-94b3-48cd-b563-3228e80332fa",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:57:00.000Z",
+      "last_edited_time": "2022-05-30T06:58:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "To buy up shares of B, you would take M$1, create 1 share each of A/B/C/D, and put A/C/D rest into the pool to withdrawal some additional share of B.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "To buy up shares of B, you would take M$1, create 1 share each of A/B/C/D, and put A/C/D rest into the pool to withdrawal some additional share of B.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3c878b54-8bd5-41c1-891c-aafa7b46c59c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:47:00.000Z",
+      "last_edited_time": "2022-05-30T06:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "9168154e-5c3e-4232-aab9-68c61927583c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:47:00.000Z",
+      "last_edited_time": "2022-05-30T06:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Use cases:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Use cases:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "83fdbba7-bd36-4830-82ac-3d4dfce27841",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:47:00.000Z",
+      "last_edited_time": "2022-05-30T06:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Exclusive situations: “Who will win the Democratic primary?”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Exclusive situations: “Who will win the Democratic primary?”",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "52ea41b0-7229-44f6-a032-c817f6bb5930",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:47:00.000Z",
+      "last_edited_time": "2022-05-30T06:59:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Numeric buckets: “Will there be [0-5], [6-10], [11-30], [30+] attendees at this dinner party?”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Numeric buckets: “Will there be [0-5], [6-10], [11-30], [30+] attendees at this dinner party?”",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "5a7ef3d1-77a3-483d-bd86-8da9e1571c0c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "52ea41b0-7229-44f6-a032-c817f6bb5930"
+          },
+          "created_time": "2022-05-30T06:55:00.000Z",
+          "last_edited_time": "2022-05-30T06:59:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "In the limit, as you add more buckets, CPMM may become intractable to compute?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "In the limit, as you add more buckets, CPMM may become intractable to compute?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "800c1daa-132f-461c-a916-298df9fe7484",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:47:00.000Z",
+      "last_edited_time": "2022-05-30T06:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Conditional prediction markets with efficient capital allocation",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Conditional prediction markets with efficient capital allocation",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "f8cb64f4-7373-43b2-bc3f-694e453b76a0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:47:00.000Z",
+      "last_edited_time": "2022-05-30T06:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Better Free Response?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Better Free Response?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "8b95e2d3-734f-4f47-a0c2-6e4ea542e5a0",
+          "parent": {
+            "type": "block_id",
+            "block_id": "f8cb64f4-7373-43b2-bc3f-694e453b76a0"
+          },
+          "created_time": "2022-05-30T06:47:00.000Z",
+          "last_edited_time": "2022-05-30T06:59:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Dynamically adding new outcomes may be tricky.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Dynamically adding new outcomes may be tricky.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "daa77049-9c83-4498-87dd-2eb4bd167f84",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:47:00.000Z",
+      "last_edited_time": "2022-05-30T06:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "8a1ad64f-46f3-4659-8044-378934835773",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:47:00.000Z",
+      "last_edited_time": "2022-05-30T06:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Partially resolved markets",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Partially resolved markets",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "a16ebc93-86c9-471a-808d-c94a443a0a2b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:47:00.000Z",
+      "last_edited_time": "2022-05-30T06:50:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Every YES and NO share is a claim on some portion of M$1. Today, the creator of the market can decide where to send the M$1.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Every YES and NO share is a claim on some portion of M$1. Today, the creator of the market can decide where to send the M$1.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "dbc62000-5224-4ba1-86da-d3045d0b0b0e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:50:00.000Z",
+      "last_edited_time": "2022-05-30T06:50:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Resolving to YES sends M$1 to YES holders",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Resolving to YES sends M$1 to YES holders",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "fc4f0263-df94-49cf-a18a-639c590cc1ad",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:50:00.000Z",
+      "last_edited_time": "2022-05-30T06:51:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Resolving to NO sends M$1 to NO holders",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Resolving to NO sends M$1 to NO holders",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "a408001b-46e0-4d20-9af5-4d12ef365944",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:51:00.000Z",
+      "last_edited_time": "2022-05-30T06:51:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Resolving to PROB at 30% sends M$0.3 to YES, M$ 0.7 to NO",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Resolving to PROB at 30% sends M$0.3 to YES, M$ 0.7 to NO",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "a68f917d-9bf7-4cb6-9106-bab1514376fc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:51:00.000Z",
+      "last_edited_time": "2022-05-30T07:28:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "For certain kinds of numeric markets, the creator and traders actually know part of how this question will resolve. For example, in a numeric market on “What % of the Manifold team will catch COVID this year?”, once 4 out of 6 members have caught COVID, the question is guaranteed to resolve to at least 66%. Each YES share at this point should be worth >66%; but the liquidity pool is still holding on to the full M$1.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "For certain kinds of numeric markets, the creator and traders actually know part of how this question will resolve. For example, in a numeric market on “What % of the Manifold team will catch COVID this year?”, once 4 out of 6 members have caught COVID, the question is guaranteed to resolve to at least 66%. Each YES share at this point should be worth >66%; but the liquidity pool is still holding on to the full M$1.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "e88af31d-f77e-4bee-961e-9e004a500d75",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T07:28:00.000Z",
+      "last_edited_time": "2022-05-30T07:29:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "With partial resolution, the market creator could decide to pay M$0.66 immediately to each holder of YES. Afterwards, each YES or NO share can pay out at most M$0.34.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "With partial resolution, the market creator could decide to pay M$0.66 immediately to each holder of YES. Afterwards, each YES or NO share can pay out at most M$0.34.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3f3631af-dfed-4530-ba10-566d2f4c80bc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T07:29:00.000Z",
+      "last_edited_time": "2022-05-30T07:29:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Use cases:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Use cases:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "e0e8d5cb-01a6-4264-b19b-5ba1c00eab18",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T07:29:00.000Z",
+      "last_edited_time": "2022-05-30T07:30:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Freeing up more capital to traders",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Freeing up more capital to traders",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "6ba77007-b1d9-4f02-8d82-6d09d3de99f1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:47:00.000Z",
+      "last_edited_time": "2022-05-30T06:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "embed",
+      "embed": {
+        "caption": [],
+        "url": "https://manifold.markets/MartinRandall/will-partial-resolution-of-yesno-ma"
+      }
+    },
+    {
+      "object": "block",
+      "id": "9f4e31f6-ef1e-4cb6-a736-a1036fc83e28",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:47:00.000Z",
+      "last_edited_time": "2022-05-30T06:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "eeaaff2e-f1d2-4bea-9f11-75d37e58727d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:47:00.000Z",
+      "last_edited_time": "2022-05-30T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Bonus: continuously resolved markets",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Bonus: continuously resolved markets",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "606c51ea-78e9-4f8c-941b-d3291d2b7bb5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:47:00.000Z",
+      "last_edited_time": "2022-05-30T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "(Is this the same thing as a perpetual swap?)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "(Is this the same thing as a perpetual swap?)",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "51aee3fb-e61b-42ea-8bfe-5396e872c067",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:47:00.000Z",
+      "last_edited_time": "2022-05-30T06:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "ef69a1eb-8ddf-4e91-9eac-0449a4d500c0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:47:00.000Z",
+      "last_edited_time": "2022-05-30T06:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Equity",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Equity",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "87b2134a-cfb4-404e-9f81-288508d5b586",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:47:00.000Z",
+      "last_edited_time": "2022-05-30T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Manifold’s markets today are paired swaps between YES and NO shares. But the same Uniswap mechanism can work for any pair of things. For example, you could swap USD with GOOG (shares of Google), meaning that people wanting to buy GOOG shares can swap in USD to get some, or sell GOOG shares to take out USD.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Manifold’s markets today are paired swaps between YES and NO shares. But the same Uniswap mechanism can work for any pair of things. For example, you could swap USD with GOOG (shares of Google), meaning that people wanting to buy GOOG shares can swap in USD to get some, or sell GOOG shares to take out USD.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "32249997-8a92-499f-981e-7462e0e5227e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:47:00.000Z",
+      "last_edited_time": "2022-05-30T06:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "22b42162-10a3-49a2-bf92-2d3cf88a7d03",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:47:00.000Z",
+      "last_edited_time": "2022-05-30T07:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Actually, you could use YES/NO shares as a formulation of this! You could view a YES share as a bet that 1 GOOG share will be worth ~infinity USD, and NO shares as a bet that ~infinity GOOG shares will be worth 1 USD.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Actually, you could use YES/NO shares as a formulation of this! You could view a YES share as a bet that 1 GOOG share will be worth ~infinity USD, and NO shares as a bet that ~infinity GOOG shares will be worth 1 USD.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "5e6969f3-832c-40c3-9f36-aeee5b4ef058",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:47:00.000Z",
+      "last_edited_time": "2022-05-30T06:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2390e7f2-84ab-4e21-ad3e-2eec4852a6b1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:47:00.000Z",
+      "last_edited_time": "2022-05-30T06:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "embed",
+      "embed": {
+        "caption": [],
+        "url": "https://manifold.markets/Austin/will-manifold-implement-retroactive"
+      }
+    },
+    {
+      "object": "block",
+      "id": "8266e8d3-9c38-45b1-9180-a22ca3deea4e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:47:00.000Z",
+      "last_edited_time": "2022-05-30T06:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Perpetual Swaps",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Perpetual Swaps",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "b7f1ad33-359f-4de9-8a41-ba06b1aff54a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:47:00.000Z",
+      "last_edited_time": "2022-05-30T06:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Allowing people to directly trade GOOG can be tricky, because your system has to enforce actually moving shares of GOOG around. What if you just want to let people bet for or against the value of GOOG, without ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Allowing people to directly trade GOOG can be tricky, because your system has to enforce actually moving shares of GOOG around. What if you just want to let people bet for or against the value of GOOG, without ",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "95793229-7156-44fb-95f7-dc59b6d2a37f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:47:00.000Z",
+      "last_edited_time": "2022-05-30T06:59:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Enter Perpetual Swaps. Using this mechanism, traders can agree to bet on any asset without the underlying asset being locked on the chain!",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Enter Perpetual Swaps. Using this mechanism, traders can agree to bet on any asset without the underlying asset being locked on the chain!",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "e2734669-83c4-4097-9cca-14d063e59b3d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:47:00.000Z",
+      "last_edited_time": "2022-05-30T06:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "embed",
+      "embed": {
+        "caption": [],
+        "url": "https://manifold.markets/Austin/will-manifold-offer-a-perpetual-swa"
+      }
+    },
+    {
+      "object": "block",
+      "id": "f86220f4-a12b-4fde-b336-94ed265a1baf",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:47:00.000Z",
+      "last_edited_time": "2022-05-30T06:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "040337bf-38bd-43d6-8f1a-f88657a5a792",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:47:00.000Z",
+      "last_edited_time": "2022-05-30T06:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Previous notes",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Previous notes",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "bf8726f0-3ef0-4450-956d-5679ee0f9089",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:47:00.000Z",
+      "last_edited_time": "2022-05-30T06:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "mention",
+            "mention": {
+              "type": "page",
+              "page": {
+                "id": "36321d16-1855-43ad-93d6-e9484f8718c4"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Untitled",
+            "href": "https://app.notion.com/p/36321d16185543ad93d6e9484f8718c4"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " ",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3df9a3f0-30b7-4a75-abf4-2e02b83d424c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:47:00.000Z",
+      "last_edited_time": "2022-05-30T06:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "mention",
+            "mention": {
+              "type": "page",
+              "page": {
+                "id": "8f0c2b7c-0ef9-4173-b572-9e14b3e2c577"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Untitled",
+            "href": "https://app.notion.com/p/8f0c2b7c0ef94173b5729e14b3e2c577"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " ",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "766fd348-cac7-4bd3-859b-c683c336ca55",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:47:00.000Z",
+      "last_edited_time": "2022-05-30T06:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "mention",
+            "mention": {
+              "type": "page",
+              "page": {
+                "id": "b53988ca-f0c4-4522-adeb-ec75add89a35"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Untitled",
+            "href": "https://app.notion.com/p/b53988caf0c44522adebec75add89a35"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " ",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "090050f6-5305-4291-8384-8bf1763f7e6e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "0098cc39-d6af-480b-9d72-daaf8f3592b3"
+      },
+      "created_time": "2022-05-30T06:47:00.000Z",
+      "last_edited_time": "2022-05-30T06:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "mention",
+            "mention": {
+              "type": "page",
+              "page": {
+                "id": "caa6ac9c-0981-4b8e-8e20-8dae94cc17c7"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Untitled",
+            "href": "https://app.notion.com/p/caa6ac9c09814b8e8e208dae94cc17c7"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " ",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    }
+  ]
+}

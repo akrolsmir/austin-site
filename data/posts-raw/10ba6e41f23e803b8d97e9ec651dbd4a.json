@@ -1,0 +1,1888 @@
+{
+  "page": {
+    "id": "10ba6e41f23e803b8d97e9ec651dbd4a",
+    "title": "What is play?",
+    "date": "2024-09-24",
+    "edited": "2024-09-24T12:58:00.000Z",
+    "url": "https://akrolsmir.notion.site/What-is-play-10ba6e41f23e803b8d97e9ec651dbd4a",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "f2c2a121-4ff2-4dbe-b0b4-e7b50703d59e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "10ba6e41-f23e-803b-8d97-e9ec651dbd4a"
+      },
+      "created_time": "2024-09-24T12:40:00.000Z",
+      "last_edited_time": "2024-09-24T12:58:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "WIP, meditations while thinking about how I want buni to be",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "WIP, meditations while thinking about how I want buni to be",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "10ba6e41-f23e-80a1-b940-d503f11f446b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "10ba6e41-f23e-803b-8d97-e9ec651dbd4a"
+      },
+      "created_time": "2024-09-24T12:35:00.000Z",
+      "last_edited_time": "2024-09-24T12:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "One of the best things about the Manifold community spirit is the sense of play",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "One of the best things about the Manifold community spirit is the sense of play",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "10ba6e41-f23e-80ae-bb60-d3d361a6a671",
+          "parent": {
+            "type": "block_id",
+            "block_id": "10ba6e41-f23e-80a1-b940-d503f11f446b"
+          },
+          "created_time": "2024-09-24T12:41:00.000Z",
+          "last_edited_time": "2024-09-24T12:42:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "This was designed into Manifest, to be a place where intellectuals play",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "This was designed into Manifest, to be a place where intellectuals play",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "10ba6e41-f23e-805d-a566-fd4162d935b8",
+          "parent": {
+            "type": "block_id",
+            "block_id": "10ba6e41-f23e-80a1-b940-d503f11f446b"
+          },
+          "created_time": "2024-09-24T12:28:00.000Z",
+          "last_edited_time": "2024-09-24T12:41:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Also most of my favorite sites (mmm.page, civitai, partiful)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Also most of my favorite sites (mmm.page, civitai, partiful)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "dd38f5ad-3ed2-486c-8cb6-36480dc6915a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "10ba6e41-f23e-803b-8d97-e9ec651dbd4a"
+      },
+      "created_time": "2024-09-24T12:26:00.000Z",
+      "last_edited_time": "2024-09-24T12:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Part of Janus’s thoughts on LLMs too: you need to play with them to understand them",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Part of Janus’s thoughts on LLMs too: you need to play with them to understand them",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "ff632c95-349d-410a-8474-4bef0af8ac0c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "10ba6e41-f23e-803b-8d97-e9ec651dbd4a"
+      },
+      "created_time": "2024-09-24T12:40:00.000Z",
+      "last_edited_time": "2024-09-24T12:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "10ba6e41-f23e-80aa-8898-fb67209004c0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "10ba6e41-f23e-803b-8d97-e9ec651dbd4a"
+      },
+      "created_time": "2024-09-24T12:28:00.000Z",
+      "last_edited_time": "2024-09-24T12:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Things that facilitate play",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Things that facilitate play",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "4a20a5f4-7860-49b1-8088-cb55d055eeac",
+      "parent": {
+        "type": "page_id",
+        "page_id": "10ba6e41-f23e-803b-8d97-e9ec651dbd4a"
+      },
+      "created_time": "2024-09-24T12:28:00.000Z",
+      "last_edited_time": "2024-09-24T12:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Liberty, freedom from (some) constraints",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Liberty, freedom from (some) constraints",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "10ba6e41-f23e-80d0-9384-f768e3b9683c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "4a20a5f4-7860-49b1-8088-cb55d055eeac"
+          },
+          "created_time": "2024-09-24T12:34:00.000Z",
+          "last_edited_time": "2024-09-24T12:34:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "“Cheap” — easier to play when it doesn’t feel costly",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "“Cheap” — easier to play when it doesn’t feel costly",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "10ba6e41-f23e-800e-9dd5-ec2eaba54fcb",
+          "parent": {
+            "type": "block_id",
+            "block_id": "4a20a5f4-7860-49b1-8088-cb55d055eeac"
+          },
+          "created_time": "2024-09-24T12:47:00.000Z",
+          "last_edited_time": "2024-09-24T12:47:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "“optional” — play is voluntary",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "“optional” — play is voluntary",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "10ba6e41-f23e-808b-b448-d19d8940091e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "10ba6e41-f23e-803b-8d97-e9ec651dbd4a"
+      },
+      "created_time": "2024-09-24T12:29:00.000Z",
+      "last_edited_time": "2024-09-24T12:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Sandbox — separation of effects from the “real world” (?)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Sandbox — separation of effects from the “real world” (?)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "10ba6e41-f23e-80ec-a231-cfdbf7f245a7",
+          "parent": {
+            "type": "block_id",
+            "block_id": "10ba6e41-f23e-808b-b448-d19d8940091e"
+          },
+          "created_time": "2024-09-24T12:30:00.000Z",
+          "last_edited_time": "2024-09-24T12:30:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "In Secret Hitler you can lie and deceive and everyone agrees this is okay",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "In Secret Hitler you can lie and deceive and everyone agrees this is okay",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "10ba6e41-f23e-8024-826c-c1b2f5d4bb3e",
+          "parent": {
+            "type": "block_id",
+            "block_id": "10ba6e41-f23e-808b-b448-d19d8940091e"
+          },
+          "created_time": "2024-09-24T12:32:00.000Z",
+          "last_edited_time": "2024-09-24T12:32:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "You don’t think about your Manifold mana like cash",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "You don’t think about your Manifold mana like cash",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "10ba6e41-f23e-8091-9f92-ca52d8851d2d",
+          "parent": {
+            "type": "block_id",
+            "block_id": "10ba6e41-f23e-808b-b448-d19d8940091e"
+          },
+          "created_time": "2024-09-24T12:49:00.000Z",
+          "last_edited_time": "2024-09-24T12:49:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "No real punishments",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "No real punishments",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "10ba6e41-f23e-807d-a64f-c9833d591b64",
+          "parent": {
+            "type": "block_id",
+            "block_id": "10ba6e41-f23e-808b-b448-d19d8940091e"
+          },
+          "created_time": "2024-09-24T12:35:00.000Z",
+          "last_edited_time": "2024-09-24T12:49:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "(cuts a bit against “everything is open”)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "(cuts a bit against “everything is open”)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "10ba6e41-f23e-809e-bcb0-d5cd1d243ce5",
+              "parent": {
+                "type": "block_id",
+                "block_id": "10ba6e41-f23e-807d-a64f-c9833d591b64"
+              },
+              "created_time": "2024-09-24T12:43:00.000Z",
+              "last_edited_time": "2024-09-24T12:43:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "though it doesn’t have to, once openness is the norm",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "though it doesn’t have to, once openness is the norm",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "10ba6e41-f23e-80ee-9f75-f71d0993de46",
+      "parent": {
+        "type": "page_id",
+        "page_id": "10ba6e41-f23e-803b-8d97-e9ec651dbd4a"
+      },
+      "created_time": "2024-09-24T12:32:00.000Z",
+      "last_edited_time": "2024-09-24T12:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Intimacy, trust — play requires a willingness to try things. that people don’t judge/criticize",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Intimacy, trust — play requires a willingness to try things. that people don’t judge/criticize",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "10ba6e41-f23e-80c6-8248-d60ea3970135",
+      "parent": {
+        "type": "page_id",
+        "page_id": "10ba6e41-f23e-803b-8d97-e9ec651dbd4a"
+      },
+      "created_time": "2024-09-24T12:28:00.000Z",
+      "last_edited_time": "2024-09-24T12:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Focus, concentration? Can you play when you’re distracted?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Focus, concentration? Can you play when you’re distracted?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "c4e4725e-498d-4743-bae9-9955ad68248f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "10ba6e41-f23e-803b-8d97-e9ec651dbd4a"
+      },
+      "created_time": "2024-09-24T12:30:00.000Z",
+      "last_edited_time": "2024-09-24T12:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Messiness, lack of polish, imperfections",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Messiness, lack of polish, imperfections",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "10ba6e41-f23e-8006-8619-d61f7cfd54e3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "10ba6e41-f23e-803b-8d97-e9ec651dbd4a"
+      },
+      "created_time": "2024-09-24T12:34:00.000Z",
+      "last_edited_time": "2024-09-24T12:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Challenge? does play require obstacles?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Challenge? does play require obstacles?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "e32d1b10-bc58-4664-8c15-a8997d360851",
+          "parent": {
+            "type": "block_id",
+            "block_id": "10ba6e41-f23e-8006-8619-d61f7cfd54e3"
+          },
+          "created_time": "2024-09-24T12:35:00.000Z",
+          "last_edited_time": "2024-09-24T12:35:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "cf Maro on making board games",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "cf Maro on making board games",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "10ba6e41-f23e-8076-9486-cfe7be10bc07",
+          "parent": {
+            "type": "block_id",
+            "block_id": "10ba6e41-f23e-8006-8619-d61f7cfd54e3"
+          },
+          "created_time": "2024-09-24T12:38:00.000Z",
+          "last_edited_time": "2024-09-24T12:38:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "And Maro on “constraints breed creativity”",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "And Maro on “constraints breed creativity”",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "10ba6e41-f23e-8002-a329-e29238d04c1c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "10ba6e41-f23e-803b-8d97-e9ec651dbd4a"
+      },
+      "created_time": "2024-09-24T12:38:00.000Z",
+      "last_edited_time": "2024-09-24T12:50:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Novelty, exploration",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Novelty, exploration",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "10ba6e41-f23e-8031-a7f4-d856c3608f21",
+          "parent": {
+            "type": "block_id",
+            "block_id": "10ba6e41-f23e-8002-a329-e29238d04c1c"
+          },
+          "created_time": "2024-09-24T12:48:00.000Z",
+          "last_edited_time": "2024-09-24T12:48:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Play is often about doing things one hasn’t done before",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Play is often about doing things one hasn’t done before",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "10ba6e41-f23e-80b0-9128-e3188cc98c22",
+          "parent": {
+            "type": "block_id",
+            "block_id": "10ba6e41-f23e-8002-a329-e29238d04c1c"
+          },
+          "created_time": "2024-09-24T12:50:00.000Z",
+          "last_edited_time": "2024-09-24T12:50:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Though, some pieces: when I play a new Magic set, the framework is familiar and I’m exploring the card interactions",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Though, some pieces: when I play a new Magic set, the framework is familiar and I’m exploring the card interactions",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "10ba6e41-f23e-809b-8115-ed4c0e45bd8c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "10ba6e41-f23e-803b-8d97-e9ec651dbd4a"
+      },
+      "created_time": "2024-09-24T12:31:00.000Z",
+      "last_edited_time": "2024-09-24T12:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Play vs work",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Play vs work",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "10ba6e41-f23e-80dc-bf8c-cd90ffa5f11e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "10ba6e41-f23e-803b-8d97-e9ec651dbd4a"
+      },
+      "created_time": "2024-09-24T12:31:00.000Z",
+      "last_edited_time": "2024-09-24T12:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "You ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "You ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "want",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "want",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " to vs you ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " to vs you ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "have",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "have",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " to",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " to",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "10ba6e41-f23e-8083-8622-ce799fd64964",
+      "parent": {
+        "type": "page_id",
+        "page_id": "10ba6e41-f23e-803b-8d97-e9ec651dbd4a"
+      },
+      "created_time": "2024-09-24T12:36:00.000Z",
+      "last_edited_time": "2024-09-24T12:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "At the highest level, work is in pursuit of money",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "At the highest level, work is in pursuit of money",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "10ba6e41-f23e-8053-b4e1-ec123d366e71",
+          "parent": {
+            "type": "block_id",
+            "block_id": "10ba6e41-f23e-8083-8622-ce799fd64964"
+          },
+          "created_time": "2024-09-24T12:36:00.000Z",
+          "last_edited_time": "2024-09-24T12:57:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Play is not really in pursuit of something, except maybe fun",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Play is not really in pursuit of something, except maybe fun",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "10ba6e41-f23e-8008-9460-fb1845a9314d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "10ba6e41-f23e-803b-8d97-e9ec651dbd4a"
+      },
+      "created_time": "2024-09-24T12:36:00.000Z",
+      "last_edited_time": "2024-09-24T12:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I often think working on Manifold was a ton of fun…",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I often think working on Manifold was a ton of fun…",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "10ba6e41-f23e-80aa-9ebb-f80ac9816e39",
+          "parent": {
+            "type": "block_id",
+            "block_id": "10ba6e41-f23e-8008-9460-fb1845a9314d"
+          },
+          "created_time": "2024-09-24T12:57:00.000Z",
+          "last_edited_time": "2024-09-24T12:57:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "and that’s the way it should be!",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "and that’s the way it should be!",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "10ba6e41-f23e-8061-aed7-c36734b7d498",
+      "parent": {
+        "type": "page_id",
+        "page_id": "10ba6e41-f23e-803b-8d97-e9ec651dbd4a"
+      },
+      "created_time": "2024-09-24T12:37:00.000Z",
+      "last_edited_time": "2024-09-24T12:56:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "cf PG on ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "cf PG on ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "what doesn’t feel like work",
+              "link": {
+                "url": "https://paulgraham.com/work.html"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "what doesn’t feel like work",
+            "href": "https://paulgraham.com/work.html"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ", and ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ", and ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "doing what you love",
+              "link": {
+                "url": "https://paulgraham.com/love.html"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "doing what you love",
+            "href": "https://paulgraham.com/love.html"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "10ba6e41-f23e-8046-a5cb-fcdcb354bc6a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "10ba6e41-f23e-803b-8d97-e9ec651dbd4a"
+      },
+      "created_time": "2024-09-24T12:37:00.000Z",
+      "last_edited_time": "2024-09-24T12:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Work hard vs play hard",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Work hard vs play hard",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "10ba6e41-f23e-8080-8b47-c31bc3461bdf",
+          "parent": {
+            "type": "block_id",
+            "block_id": "10ba6e41-f23e-8046-a5cb-fcdcb354bc6a"
+          },
+          "created_time": "2024-09-24T12:57:00.000Z",
+          "last_edited_time": "2024-09-24T12:57:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Is playing hard an oxymoron?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Is playing hard an oxymoron?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "10ba6e41-f23e-800e-8f4f-ee7c5a06d0ae",
+              "parent": {
+                "type": "block_id",
+                "block_id": "10ba6e41-f23e-8080-8b47-c31bc3461bdf"
+              },
+              "created_time": "2024-09-24T12:46:00.000Z",
+              "last_edited_time": "2024-09-24T12:57:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Playing hard is… traditionally, sth like your body can’t take it any more?",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Playing hard is… traditionally, sth like your body can’t take it any more?",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "10ba6e41-f23e-804c-a86b-ec195376c9e5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "10ba6e41-f23e-803b-8d97-e9ec651dbd4a"
+      },
+      "created_time": "2024-09-24T12:42:00.000Z",
+      "last_edited_time": "2024-09-24T12:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "10ba6e41-f23e-803f-8490-fb9ba1817ab7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "10ba6e41-f23e-803b-8d97-e9ec651dbd4a"
+      },
+      "created_time": "2024-09-24T12:42:00.000Z",
+      "last_edited_time": "2024-09-24T12:44:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Related to play",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Related to play",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "10ba6e41-f23e-8004-b540-ca9ea3bdf3bb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "10ba6e41-f23e-803b-8d97-e9ec651dbd4a"
+      },
+      "created_time": "2024-09-24T12:44:00.000Z",
+      "last_edited_time": "2024-09-24T12:44:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "“fun” — kind of the goal. Maybe see “fun sequence”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“fun” — kind of the goal. Maybe see “fun sequence”",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "10ba6e41-f23e-80e8-9799-d27c011bd0df",
+      "parent": {
+        "type": "page_id",
+        "page_id": "10ba6e41-f23e-803b-8d97-e9ec651dbd4a"
+      },
+      "created_time": "2024-09-24T12:44:00.000Z",
+      "last_edited_time": "2024-09-24T12:44:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "“toys” — objects which facilitate and encourage play",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“toys” — objects which facilitate and encourage play",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "10ba6e41-f23e-8007-a819-dea36c7d63af",
+      "parent": {
+        "type": "page_id",
+        "page_id": "10ba6e41-f23e-803b-8d97-e9ec651dbd4a"
+      },
+      "created_time": "2024-09-24T12:44:00.000Z",
+      "last_edited_time": "2024-09-24T12:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "“games” — systems set up to help with play",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“games” — systems set up to help with play",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "10ba6e41-f23e-8018-9b85-fd9868be383d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "10ba6e41-f23e-803b-8d97-e9ec651dbd4a"
+      },
+      "created_time": "2024-09-24T12:45:00.000Z",
+      "last_edited_time": "2024-09-24T12:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "“playact” — to pretend to be someone else, to simulate a different role",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“playact” — to pretend to be someone else, to simulate a different role",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    }
+  ]
+}

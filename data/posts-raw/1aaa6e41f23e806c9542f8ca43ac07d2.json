@@ -1,0 +1,3094 @@
+{
+  "page": {
+    "id": "1aaa6e41f23e806c9542f8ca43ac07d2",
+    "title": "Leadership for introverts",
+    "date": "2025-03-02",
+    "edited": "2025-03-03T00:02:00.000Z",
+    "url": "https://akrolsmir.notion.site/Leadership-for-introverts-1aaa6e41f23e806c9542f8ca43ac07d2",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "1aaa6e41-f23e-8096-8e4c-dcedb46879f5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1aaa6e41-f23e-806c-9542-f8ca43ac07d2"
+      },
+      "created_time": "2025-03-02T21:48:00.000Z",
+      "last_edited_time": "2025-03-02T23:07:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " like to describe myself as a ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " like to describe myself as a ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "hopeless introvert",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "hopeless introvert",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ". Yet",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ". Yet",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " I’m also often seen organizing groups of people, from companies like Manifold, to retreats and trips, to large events and conferences like Manifest. Here are some thoughts on how someone who doesn’t identify as a “people person” might still succeed at leading people to do cool things.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " I’m also often seen organizing groups of people, from companies like Manifold, to retreats and trips, to large events and conferences like Manifest. Here are some thoughts on how someone who doesn’t identify as a “people person” might still succeed at leading people to do cool things.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1aaa6e41-f23e-80ea-8104-ed6952c193ee",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1aaa6e41-f23e-806c-9542-f8ca43ac07d2"
+      },
+      "created_time": "2025-03-02T22:46:00.000Z",
+      "last_edited_time": "2025-03-02T22:54:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "How to start things",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "How to start things",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1aaa6e41-f23e-807e-9433-ffd36b4e501c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1aaa6e41-f23e-806c-9542-f8ca43ac07d2"
+      },
+      "created_time": "2025-03-02T22:50:00.000Z",
+      "last_edited_time": "2025-03-02T22:54:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "An easy way to lead is by virtue of being the person to have thought of and started the thing.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "An easy way to lead is by virtue of being the person to have thought of and started the thing.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1aaa6e41-f23e-808e-b844-ec840168f436",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1aaa6e41-f23e-806c-9542-f8ca43ac07d2"
+      },
+      "created_time": "2025-03-02T21:29:00.000Z",
+      "last_edited_time": "2025-03-02T22:56:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Look at a group of people or an event, and notice all the inefficiencies/ways things could be better, and want to act to make it better",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Look at a group of people or an event, and notice all the inefficiencies/ways things could be better, and want to act to make it better",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "1aaa6e41-f23e-808a-936a-d1d96c658091",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1aaa6e41-f23e-808e-b844-ec840168f436"
+          },
+          "created_time": "2025-03-02T21:34:00.000Z",
+          "last_edited_time": "2025-03-02T22:56:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "It’s good to have lots of experiences of things having happened in a particular way before. Eg to have attended a few conferences (and noticed what’s good/bad about them) before deciding to start one.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "It’s good to have lots of experiences of things having happened in a particular way before. Eg to have attended a few conferences (and noticed what’s good/bad about them) before deciding to start one.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "1aaa6e41-f23e-80fb-b4fb-e8c8c0b0f4b8",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1aaa6e41-f23e-808a-936a-d1d96c658091"
+              },
+              "created_time": "2025-03-02T22:47:00.000Z",
+              "last_edited_time": "2025-03-02T23:02:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "For me Manifest was, in many ways, a response to all the bad things (and some of the good ones!) of EAG. EAG seemed too focused on 1:1s, like someone had noticed that the most important outcome of a conference was “making professional connections you could ask a favor from” and then applied extreme monomaniacal optimization pressure towards that one single OKR. It wasn’t ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "For me Manifest was, in many ways, a response to all the bad things (and some of the good ones!) of EAG. EAG seemed too focused on 1:1s, like someone had noticed that the most important outcome of a conference was “making professional connections you could ask a favor from” and then applied extreme monomaniacal optimization pressure towards that one single OKR. It wasn’t ",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "fun",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": true,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "fun",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": ", and it didn’t even try to be.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": ", and it didn’t even try to be.",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1aaa6e41-f23e-803a-80a8-fb172a65bf59",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1aaa6e41-f23e-806c-9542-f8ca43ac07d2"
+      },
+      "created_time": "2025-03-02T21:32:00.000Z",
+      "last_edited_time": "2025-03-02T23:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Seeing the latent potential in a scene. Noticing some commonly articulated desire (eg ”I wish I had more friends”). Or noticing the desire in yourself (”dogfooding”), and expecting that others will have that same desire.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Seeing the latent potential in a scene. Noticing some commonly articulated desire (eg ”I wish I had more friends”). Or noticing the desire in yourself (”dogfooding”), and expecting that others will have that same desire.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "1aaa6e41-f23e-807c-8958-d0230cd001d3",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1aaa6e41-f23e-803a-80a8-fb172a65bf59"
+          },
+          "created_time": "2025-03-02T23:00:00.000Z",
+          "last_edited_time": "2025-03-02T23:06:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "In the case of Manifest, I’d been feeling that the Manifold community could really have a great time if we all hung out in person; and separately noticed that Lighthaven was an amazing place and might be open to hosting the thing we were describing.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "In the case of Manifest, I’d been feeling that the Manifold community could really have a great time if we all hung out in person; and separately noticed that Lighthaven was an amazing place and might be open to hosting the thing we were describing.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "1aaa6e41-f23e-8056-9171-dbde033f4a7b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1aaa6e41-f23e-803a-80a8-fb172a65bf59"
+          },
+          "created_time": "2025-03-02T23:05:00.000Z",
+          "last_edited_time": "2025-03-02T23:06:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "For things like 1907 House and Mox, I really wanted a great house for myself, a really great coworking space for myself.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "For things like 1907 House and Mox, I really wanted a great house for myself, a really great coworking space for myself.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1aaa6e41-f23e-80df-90fd-c88742ee1c48",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1aaa6e41-f23e-806c-9542-f8ca43ac07d2"
+      },
+      "created_time": "2025-03-02T22:00:00.000Z",
+      "last_edited_time": "2025-03-02T22:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Being willing to stick a flag in the ground and declare “this is happening”.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Being willing to stick a flag in the ground and declare “this is happening”.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "1aaa6e41-f23e-8001-b589-e4488499fee4",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1aaa6e41-f23e-80df-90fd-c88742ee1c48"
+          },
+          "created_time": "2025-03-02T22:00:00.000Z",
+          "last_edited_time": "2025-03-02T22:45:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Someone has to book the venue, create the group chat, find the time that works well for folks, convince everyone else that everyone else is showing up",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Someone has to book the venue, create the group chat, find the time that works well for folks, convince everyone else that everyone else is showing up",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1aaa6e41-f23e-80f0-b75a-def0390b0e53",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1aaa6e41-f23e-806c-9542-f8ca43ac07d2"
+      },
+      "created_time": "2025-03-02T21:31:00.000Z",
+      "last_edited_time": "2025-03-02T22:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Being okay with small outcomes. Not a problem when I threw Taco Tuesday and literally one other person show",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Being okay with small outcomes. Not a problem when I threw Taco Tuesday and literally one other person show",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "s",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "s",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "ed up — then we had a nice (platonic) dinner date. Not a problem if you throw Taco Tuesday and zero people show up, no one will see or remember!",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ed up — then we had a nice (platonic) dinner date. Not a problem if you throw Taco Tuesday and zero people show up, no one will see or remember!",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1aaa6e41-f23e-809c-ba47-c0dbbd67c83a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1aaa6e41-f23e-806c-9542-f8ca43ac07d2"
+      },
+      "created_time": "2025-03-02T21:29:00.000Z",
+      "last_edited_time": "2025-03-02T22:50:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Useful traits for leading",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Useful traits for leading",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1aaa6e41-f23e-8011-85e9-f13e48d8c454",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1aaa6e41-f23e-806c-9542-f8ca43ac07d2"
+      },
+      "created_time": "2025-03-02T21:29:00.000Z",
+      "last_edited_time": "2025-03-02T23:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Caring a lot about each of the individual people; “empathy”.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Caring a lot about each of the individual people; “empathy”.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "1aaa6e41-f23e-80b1-881f-eb4a1adbbeba",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1aaa6e41-f23e-8011-85e9-f13e48d8c454"
+          },
+          "created_time": "2025-03-02T21:32:00.000Z",
+          "last_edited_time": "2025-03-02T23:09:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Whenever I’m at an event/party I host, I’ll instinctively pick up on what the least happy/most bored person in the room is doing.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Whenever I’m at an event/party I host, I’ll instinctively pick up on what the least happy/most bored person in the room is doing.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "1aaa6e41-f23e-80fd-94a7-fb15964f8ab1",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1aaa6e41-f23e-80b1-881f-eb4a1adbbeba"
+              },
+              "created_time": "2025-03-02T23:08:00.000Z",
+              "last_edited_time": "2025-03-02T23:09:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "It really bothers me when eg I’m sharing a car with 4 friends, and someone starts a deep intense conversation about Magic: the Gathering, but one of them has never played and is just completely tuning out. I suspect that being sensitive to this pattern is helpful for leading things well.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "It really bothers me when eg I’m sharing a car with 4 friends, and someone starts a deep intense conversation about Magic: the Gathering, but one of them has never played and is just completely tuning out. I suspect that being sensitive to this pattern is helpful for leading things well.",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1aaa6e41-f23e-8079-a2c7-d3d47663b9c3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1aaa6e41-f23e-806c-9542-f8ca43ac07d2"
+      },
+      "created_time": "2025-03-02T21:34:00.000Z",
+      "last_edited_time": "2025-03-02T23:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Taking ownership, responsibility for outcomes",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Taking ownership, responsibility for outcomes",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "1aaa6e41-f23e-80c8-9aa7-df032fce6925",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1aaa6e41-f23e-8079-a2c7-d3d47663b9c3"
+          },
+          "created_time": "2025-03-02T21:46:00.000Z",
+          "last_edited_time": "2025-03-02T23:15:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Taking some of the emotional weight for issues, conflicts. Figuring out a way to solve the problem, or at least, make the person feel heard",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Taking some of the emotional weight for issues, conflicts. Figuring out a way to solve the problem, or at least, make the person feel heard",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "1aaa6e41-f23e-804c-ab7d-d47506c28e78",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1aaa6e41-f23e-8079-a2c7-d3d47663b9c3"
+          },
+          "created_time": "2025-03-02T23:10:00.000Z",
+          "last_edited_time": "2025-03-02T23:15:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "General competence, being able to execute on plans well, having a wide range of tools to use and feeling comfortable using them. Tools include: asks you can make of people; software like Airtable or Notion or Partiful or Google Sheets",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "General competence, being able to execute on plans well, having a wide range of tools to use and feeling comfortable using them. Tools include: asks you can make of people; software like Airtable or Notion or Partiful or Google Sheets",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "; ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "; ",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "1aaa6e41-f23e-806e-a63f-c57d2a5b3cc8",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1aaa6e41-f23e-8079-a2c7-d3d47663b9c3"
+          },
+          "created_time": "2025-03-02T23:10:00.000Z",
+          "last_edited_time": "2025-03-02T23:15:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Being able to quickly model what the potential outcomes of a decision involving a group of people will be. How will people feel when plans change. What percent of people will see a message. How long does it take for everyone to fill out a damn survey of when to meet.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Being able to quickly model what the potential outcomes of a decision involving a group of people will be. How will people feel when plans change. What percent of people will see a message. How long does it take for everyone to fill out a damn survey of when to meet.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1aaa6e41-f23e-8000-9acb-ebd6516a0d55",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1aaa6e41-f23e-806c-9542-f8ca43ac07d2"
+      },
+      "created_time": "2025-03-02T21:35:00.000Z",
+      "last_edited_time": "2025-03-02T22:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Being both flexible to things that happen; and rigid enough to fit with the initial vision",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Being both flexible to things that happen; and rigid enough to fit with the initial vision",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "1aaa6e41-f23e-8054-9027-e291c03ed8e2",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1aaa6e41-f23e-8000-9acb-ebd6516a0d55"
+          },
+          "created_time": "2025-03-02T21:35:00.000Z",
+          "last_edited_time": "2025-03-02T22:45:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Rigid: Eg having a schedule/calendar, and sticking to it. A schedule is a system for helping people inside and outside your event/company coordinate and have a set of expectations on what will happen. (stares hard at Ricki)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Rigid: Eg having a schedule/calendar, and sticking to it. A schedule is a system for helping people inside and outside your event/company coordinate and have a set of expectations on what will happen. (stares hard at Ricki)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "1aaa6e41-f23e-80fb-bfd4-eb95bd767635",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1aaa6e41-f23e-8000-9acb-ebd6516a0d55"
+          },
+          "created_time": "2025-03-02T21:38:00.000Z",
+          "last_edited_time": "2025-03-02T23:14:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Flexible: recognizing, appreciating, and implementing good ideas that come from the people you’re leading.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Flexible: recognizing, appreciating, and implementing good ideas that come from the people you’re leading.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "1aaa6e41-f23e-8095-8107-ebd8478b6a4d",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1aaa6e41-f23e-80fb-bfd4-eb95bd767635"
+              },
+              "created_time": "2025-03-02T22:43:00.000Z",
+              "last_edited_time": "2025-03-02T22:43:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "You can’t come up with all the good ideas yourself. ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "You can’t come up with all the good ideas yourself. ",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "1aaa6e41-f23e-802d-90b7-c1230e5e20bd",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1aaa6e41-f23e-80fb-bfd4-eb95bd767635"
+              },
+              "created_time": "2025-03-02T21:42:00.000Z",
+              "last_edited_time": "2025-03-02T23:03:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": true,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Eg recently, Ross wants to get some tiles for Mox. ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Eg recently, Ross wants to get some tiles for Mox. ",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Let’s give it a try!",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Let’s give it a try!",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "children": [
+                {
+                  "object": "block",
+                  "id": "1aaa6e41-f23e-8062-8cf4-d6ef359f2441",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "1aaa6e41-f23e-802d-90b7-c1230e5e20bd"
+                  },
+                  "created_time": "2025-03-02T22:43:00.000Z",
+                  "last_edited_time": "2025-03-02T23:03:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Keywords: solving for the curse of knowledge, comparative advantage, distributed intelligence.",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Keywords: solving for the curse of knowledge, comparative advantage, distributed intelligence.",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                }
+              ]
+            },
+            {
+              "object": "block",
+              "id": "1aaa6e41-f23e-8099-94ca-ee3f082d87b1",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1aaa6e41-f23e-80fb-bfd4-eb95bd767635"
+              },
+              "created_time": "2025-03-02T22:42:00.000Z",
+              "last_edited_time": "2025-03-02T22:45:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "How I like to bring people together: enabling them to put the most beautiful ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "How I like to bring people together: enabling them to put the most beautiful ",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "bits",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "bits",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": " of themself on display. Unconference-style, nudging you to run the thing that is most “you”.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": " of themself on display. Unconference-style, nudging you to run the thing that is most “you”.",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1aaa6e41-f23e-80f3-a897-fbdc1a162973",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1aaa6e41-f23e-806c-9542-f8ca43ac07d2"
+      },
+      "created_time": "2025-03-02T21:36:00.000Z",
+      "last_edited_time": "2025-03-02T23:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Communication: Making sure your messages, plans & intent are heard and understood.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Communication: Making sure your messages, plans & intent are heard and understood.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "1aaa6e41-f23e-8090-b422-cd50a718f0cf",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1aaa6e41-f23e-80f3-a897-fbdc1a162973"
+          },
+          "created_time": "2025-03-02T21:54:00.000Z",
+          "last_edited_time": "2025-03-02T23:16:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Thinking through how you talk with everyone",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Thinking through how you talk with everyone",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "1aaa6e41-f23e-8024-b571-efab78376114",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1aaa6e41-f23e-8090-b422-cd50a718f0cf"
+              },
+              "created_time": "2025-03-02T23:16:00.000Z",
+              "last_edited_time": "2025-03-02T23:16:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Directly in conversation, or on online chat or email, or with signs or websites, or with choice of venue or location",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Directly in conversation, or on online chat or email, or with signs or websites, or with choice of venue or location",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "1aaa6e41-f23e-802c-b546-ef2c7d4da2c9",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1aaa6e41-f23e-80f3-a897-fbdc1a162973"
+          },
+          "created_time": "2025-03-02T21:54:00.000Z",
+          "last_edited_time": "2025-03-02T23:16:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Thinking through how people talk with each other",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Thinking through how people talk with each other",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "1aaa6e41-f23e-8010-a9fe-cc6d3dd2a83d",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1aaa6e41-f23e-802c-b546-ef2c7d4da2c9"
+              },
+              "created_time": "2025-03-02T23:03:00.000Z",
+              "last_edited_time": "2025-03-02T23:03:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "As an introvert, ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "As an introvert, ",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "I often think the point of organizing stuff is so that I don’t have to actually talk to my friends, but rather they can just talk to each other and I can bask in the warm glow of them sharing thoughts, getting to know each other, laughing",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "I often think the point of organizing stuff is so that I don’t have to actually talk to my friends, but rather they can just talk to each other and I can bask in the warm glow of them sharing thoughts, getting to know each other, laughing",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1aaa6e41-f23e-8033-9d53-dd3a8c712ea0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1aaa6e41-f23e-806c-9542-f8ca43ac07d2"
+      },
+      "created_time": "2025-03-02T22:05:00.000Z",
+      "last_edited_time": "2025-03-02T22:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1aaa6e41-f23e-80ec-a555-d3b95ddcb885",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1aaa6e41-f23e-806c-9542-f8ca43ac07d2"
+      },
+      "created_time": "2025-03-02T22:05:00.000Z",
+      "last_edited_time": "2025-03-02T22:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "When is being an introvert useful",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "When is being an introvert useful",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1aaa6e41-f23e-80b5-bcfd-ef6f48375aed",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1aaa6e41-f23e-806c-9542-f8ca43ac07d2"
+      },
+      "created_time": "2025-03-02T22:05:00.000Z",
+      "last_edited_time": "2025-03-02T22:12:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "If you’re the kind of introvert like me, who shines in 1:1 situations, you can really deeply get to know what’s going on in the heads of specific people, modeling them especially well.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "If you’re the kind of introvert like me, who shines in 1:1 situations, you can really deeply get to know what’s going on in the heads of specific people, modeling them especially well.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1aaa6e41-f23e-80db-a215-d2283f4f9e75",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1aaa6e41-f23e-806c-9542-f8ca43ac07d2"
+      },
+      "created_time": "2025-03-02T22:06:00.000Z",
+      "last_edited_time": "2025-03-02T22:11:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "A failure mode of extroverts at events is to lose track of responsibility, having too much fun being in a group setting to pay attention and debug issues as they arise. Introversion helps avoid this",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "A failure mode of extroverts at events is to lose track of responsibility, having too much fun being in a group setting to pay attention and debug issues as they arise. Introversion helps avoid this",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "1aaa6e41-f23e-802e-b1a3-eb8e0f7fe2c8",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1aaa6e41-f23e-80db-a215-d2283f4f9e75"
+          },
+          "created_time": "2025-03-02T22:10:00.000Z",
+          "last_edited_time": "2025-03-02T22:12:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Flip side of this coin: while organizing a thing, I don’t always immerse into the scene, or feel the same experience that the people I’m organizing for feel. Instead I often feel like I’m serving, or hosting. (This isn’t bad, I ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Flip side of this coin: while organizing a thing, I don’t always immerse into the scene, or feel the same experience that the people I’m organizing for feel. Instead I often feel like I’m serving, or hosting. (This isn’t bad, I ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "like",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "like",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": " enjoy solving problems for people)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": " enjoy solving problems for people)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1aaa6e41-f23e-8091-9d4b-f7c0a9323f84",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1aaa6e41-f23e-806c-9542-f8ca43ac07d2"
+      },
+      "created_time": "2025-03-02T22:08:00.000Z",
+      "last_edited_time": "2025-03-02T22:52:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Being an introvert is especially good for throwing events for introverts. From Byrne Hobart: ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Being an introvert is especially good for throwing events for introverts. From Byrne Hobart: ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "1aaa6e41-f23e-804b-9b67-fc63c7082b15",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1aaa6e41-f23e-8091-9d4b-f7c0a9323f84"
+          },
+          "created_time": "2025-03-02T22:08:00.000Z",
+          "last_edited_time": "2025-03-02T22:09:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "quote",
+          "quote": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "The Manifest conference has been a successful experiment: put enough introverts with common interests into a confined space and they’ll spontaneously turn into extroverts.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "The Manifest conference has been a successful experiment: put enough introverts with common interests into a confined space and they’ll spontaneously turn into extroverts.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1aaa6e41-f23e-80c8-85dd-ef4fe8101af5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1aaa6e41-f23e-806c-9542-f8ca43ac07d2"
+      },
+      "created_time": "2025-03-02T22:11:00.000Z",
+      "last_edited_time": "2025-03-02T22:11:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1aaa6e41-f23e-80c1-b4fd-fdf6cfecf804",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1aaa6e41-f23e-806c-9542-f8ca43ac07d2"
+      },
+      "created_time": "2025-03-02T22:11:00.000Z",
+      "last_edited_time": "2025-03-02T23:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "When being an introvert is less useful, if you’re me",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "When being an introvert is less useful, if you’re me",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1aaa6e41-f23e-809a-a3a3-e2c2a0b79967",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1aaa6e41-f23e-806c-9542-f8ca43ac07d2"
+      },
+      "created_time": "2025-03-02T22:13:00.000Z",
+      "last_edited_time": "2025-03-02T22:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Still not great at ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Still not great at ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "speaking in groups",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "speaking in groups",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ", esp cracking jokes and getting everyone to laugh. Thing to work on, I suppose. Very envious of specific folks who can light up a crowd, like Ricki Heicklen or Misha Glouberman.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ", esp cracking jokes and getting everyone to laugh. Thing to work on, I suppose. Very envious of specific folks who can light up a crowd, like Ricki Heicklen or Misha Glouberman.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1aaa6e41-f23e-80c8-b76a-ea3c42acb923",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1aaa6e41-f23e-806c-9542-f8ca43ac07d2"
+      },
+      "created_time": "2025-03-02T23:20:00.000Z",
+      "last_edited_time": "2025-03-02T23:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Perhaps relatedly, I don’t really like the “spotlight”, feels uncomfortable to be at the center of attention",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Perhaps relatedly, I don’t really like the “spotlight”, feels uncomfortable to be at the center of attention",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1aaa6e41-f23e-80af-8d7d-e1e5fb99021c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1aaa6e41-f23e-806c-9542-f8ca43ac07d2"
+      },
+      "created_time": "2025-03-02T21:32:00.000Z",
+      "last_edited_time": "2025-03-02T21:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1aaa6e41-f23e-806a-859b-ec129644a061",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1aaa6e41-f23e-806c-9542-f8ca43ac07d2"
+      },
+      "created_time": "2025-03-02T21:28:00.000Z",
+      "last_edited_time": "2025-03-02T23:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Struggles with identifying as a “leader”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Struggles with identifying as a “leader”",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1aaa6e41-f23e-80bb-8015-c1d73d5de4c4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1aaa6e41-f23e-806c-9542-f8ca43ac07d2"
+      },
+      "created_time": "2025-03-02T23:16:00.000Z",
+      "last_edited_time": "2025-03-02T23:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Leadership is inherently not very egalitarian, where US/western and Christian norms",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Leadership is inherently not very egalitarian, where US/western and Christian norms",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1aaa6e41-f23e-8010-b692-d1bff6c39412",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1aaa6e41-f23e-806c-9542-f8ca43ac07d2"
+      },
+      "created_time": "2025-03-02T21:27:00.000Z",
+      "last_edited_time": "2025-03-02T21:56:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Aside: “leadership” is kind of a bad LinkedIn word, up there with “networking”, “platform”, “reach”. Very blah. I don’t typically myself as “a leader” or “leading”.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Aside: “leadership” is kind of a bad LinkedIn word, up there with “networking”, “platform”, “reach”. Very blah. I don’t typically myself as “a leader” or “leading”.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1aaa6e41-f23e-80d1-a288-cfab2cef99fb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1aaa6e41-f23e-806c-9542-f8ca43ac07d2"
+      },
+      "created_time": "2025-03-02T21:46:00.000Z",
+      "last_edited_time": "2025-03-02T21:56:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "But: People like getting led.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "But: People like getting led.",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " Analogy: when someone at the Indian restaurant says “I’ll arrange the menu, don’t worry”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " Analogy: when someone at the Indian restaurant says “I’ll arrange the menu, don’t worry”",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "1aaa6e41-f23e-80c9-b819-f6973d09ecf2",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1aaa6e41-f23e-80d1-a288-cfab2cef99fb"
+          },
+          "created_time": "2025-03-02T21:56:00.000Z",
+          "last_edited_time": "2025-03-02T22:03:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Incidentally: some people do enjoy leading, and are good at it. (My friend Barak Gila comes to mind). Can have a bit of a clash if there are two visions for what should happen. But can also have really good separation of responsibilities (eg you figure out the meals situation for the ski trip, I’ll organize the carpools)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Incidentally: some people do enjoy leading, and are good at it. (My friend Barak Gila comes to mind). Can have a bit of a clash if there are two visions for what should happen. But can also have really good separation of responsibilities (eg you figure out the meals situation for the ski trip, I’ll organize the carpools)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1aaa6e41-f23e-808d-ac16-f761a2a99d59",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1aaa6e41-f23e-806c-9542-f8ca43ac07d2"
+      },
+      "created_time": "2025-03-02T21:45:00.000Z",
+      "last_edited_time": "2025-03-02T21:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1aaa6e41-f23e-8099-a01c-cdc707bd947b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1aaa6e41-f23e-806c-9542-f8ca43ac07d2"
+      },
+      "created_time": "2025-03-02T21:45:00.000Z",
+      "last_edited_time": "2025-03-02T21:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1aaa6e41-f23e-80ef-8dcc-f4be9a73ed80",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1aaa6e41-f23e-806c-9542-f8ca43ac07d2"
+      },
+      "created_time": "2025-03-02T21:25:00.000Z",
+      "last_edited_time": "2025-03-02T23:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Personal journey of leadership?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Personal journey of leadership?",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1aaa6e41-f23e-8030-9355-ddf44b8b2dbc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1aaa6e41-f23e-806c-9542-f8ca43ac07d2"
+      },
+      "created_time": "2025-03-02T21:39:00.000Z",
+      "last_edited_time": "2025-03-02T23:17:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Age ~5 to 18: Being the oldest brother, growing up",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Age ~5 to 18: Being the oldest brother, growing up",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1aaa6e41-f23e-80ec-a96a-ced38e97710e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1aaa6e41-f23e-806c-9542-f8ca43ac07d2"
+      },
+      "created_time": "2025-03-02T21:39:00.000Z",
+      "last_edited_time": "2025-03-02T23:17:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Age 13: Destination Imagination, having my group of 5 friends make it to nationals",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Age 13: Destination Imagination, having my group of 5 friends make it to nationals",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1aaa6e41-f23e-804f-b7f6-c15e2fa9c096",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1aaa6e41-f23e-806c-9542-f8ca43ac07d2"
+      },
+      "created_time": "2025-03-02T23:17:00.000Z",
+      "last_edited_time": "2025-03-02T23:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Age 16: High school club leadership (Computers & Technology Club; Model UN; JETS)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Age 16: High school club leadership (Computers & Technology Club; Model UN; JETS)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1aaa6e41-f23e-8045-8eb9-e71ec0a81136",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1aaa6e41-f23e-806c-9542-f8ca43ac07d2"
+      },
+      "created_time": "2025-03-02T23:18:00.000Z",
+      "last_edited_time": "2025-03-02T23:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Age 18: Learn Algebra, group of 8 friends releasing a popular Android app in the summer before college",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Age 18: Learn Algebra, group of 8 friends releasing a popular Android app in the summer before college",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1aaa6e41-f23e-80e2-8890-c626dc72a7a5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1aaa6e41-f23e-806c-9542-f8ca43ac07d2"
+      },
+      "created_time": "2025-03-02T21:39:00.000Z",
+      "last_edited_time": "2025-03-02T23:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Age 19-23: Berkeley scene, then Google social scene",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Age 19-23: Berkeley scene, then Google social scene",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1aaa6e41-f23e-806e-99ad-d9e176976a18",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1aaa6e41-f23e-806c-9542-f8ca43ac07d2"
+      },
+      "created_time": "2025-03-02T21:40:00.000Z",
+      "last_edited_time": "2025-03-02T23:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Age 23: Hangouts Chat social scene",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Age 23: Hangouts Chat social scene",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1aaa6e41-f23e-8034-a261-d6c744ed97ef",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1aaa6e41-f23e-806c-9542-f8ca43ac07d2"
+      },
+      "created_time": "2025-03-02T21:40:00.000Z",
+      "last_edited_time": "2025-03-02T23:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Age 26: Streamlit tech lead",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Age 26: Streamlit tech lead",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1aaa6e41-f23e-80e3-aba6-df186c7beb3a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1aaa6e41-f23e-806c-9542-f8ca43ac07d2"
+      },
+      "created_time": "2025-03-02T21:40:00.000Z",
+      "last_edited_time": "2025-03-02T23:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "One Word",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "One Word",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1aaa6e41-f23e-804f-91e5-eae4d9c298d8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1aaa6e41-f23e-806c-9542-f8ca43ac07d2"
+      },
+      "created_time": "2025-03-02T21:39:00.000Z",
+      "last_edited_time": "2025-03-02T21:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Manifold",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Manifold",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1aaa6e41-f23e-802e-b057-fe12fb9a6c50",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1aaa6e41-f23e-806c-9542-f8ca43ac07d2"
+      },
+      "created_time": "2025-03-02T21:39:00.000Z",
+      "last_edited_time": "2025-03-02T21:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Mexifold",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Mexifold",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1aaa6e41-f23e-8082-bed1-e97ffe77fed6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1aaa6e41-f23e-806c-9542-f8ca43ac07d2"
+      },
+      "created_time": "2025-03-02T21:39:00.000Z",
+      "last_edited_time": "2025-03-02T21:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Manifest",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Manifest",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1aaa6e41-f23e-8048-9576-d89fad822e3f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1aaa6e41-f23e-806c-9542-f8ca43ac07d2"
+      },
+      "created_time": "2025-03-02T21:39:00.000Z",
+      "last_edited_time": "2025-03-02T21:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Manifund?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Manifund?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1aaa6e41-f23e-8069-9841-df1a86c4e695",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1aaa6e41-f23e-806c-9542-f8ca43ac07d2"
+      },
+      "created_time": "2025-03-02T21:40:00.000Z",
+      "last_edited_time": "2025-03-02T21:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "1907 house",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "1907 house",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1aaa6e41-f23e-80c0-b50a-e2f0e1ea7d82",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1aaa6e41-f23e-806c-9542-f8ca43ac07d2"
+      },
+      "created_time": "2025-03-02T21:45:00.000Z",
+      "last_edited_time": "2025-03-02T21:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    }
+  ]
+}

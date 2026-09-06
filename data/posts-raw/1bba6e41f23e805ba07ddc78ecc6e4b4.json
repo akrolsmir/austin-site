@@ -1,0 +1,3427 @@
+{
+  "page": {
+    "id": "1bba6e41f23e805ba07ddc78ecc6e4b4",
+    "title": "AI for Epistemics Hackathon",
+    "date": "2025-03-19T01:42:00.000+00:00",
+    "edited": "2025-03-19T01:43:00.000Z",
+    "url": "https://akrolsmir.notion.site/AI-for-Epistemics-Hackathon-1bba6e41f23e805ba07ddc78ecc6e4b4",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "1bba6e41-f23e-808d-a507-e87ca0c67326",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bba6e41-f23e-805b-a07d-dc78ecc6e4b4"
+      },
+      "created_time": "2025-03-19T01:42:00.000Z",
+      "last_edited_time": "2025-03-19T01:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Linkpost for ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Linkpost for ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "https://manifund.substack.com/p/ai-for-epistemics-hackathon",
+              "link": {
+                "url": "https://manifund.substack.com/p/ai-for-epistemics-hackathon"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://manifund.substack.com/p/ai-for-epistemics-hackathon",
+            "href": "https://manifund.substack.com/p/ai-for-epistemics-hackathon"
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1bba6e41-f23e-80c2-ae25-ff1db6697d4c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bba6e41-f23e-805b-a07d-dc78ecc6e4b4"
+      },
+      "created_time": "2025-03-19T01:42:00.000Z",
+      "last_edited_time": "2025-03-19T01:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "AI for Epistemics is about helping to leverage AI for better truthseeking mechanisms — at the level of individual users, the whole of society, or in transparent ways within the AI systems themselves. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "AI for Epistemics is about helping to leverage AI for better truthseeking mechanisms — at the level of individual users, the whole of society, or in transparent ways within the AI systems themselves. ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Manifund",
+              "link": {
+                "url": "http://manifund.org/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Manifund",
+            "href": "http://manifund.org/"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " & ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " & ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Elicit",
+              "link": {
+                "url": "https://elicit.com/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Elicit",
+            "href": "https://elicit.com/"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " recently hosted a hackathon to explore new projects in the space, with about 40 participants, 9 projects judged, and 3 winners splitting a $10k prize pool. Read on to see what we built!",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " recently hosted a hackathon to explore new projects in the space, with about 40 participants, 9 projects judged, and 3 winners splitting a $10k prize pool. Read on to see what we built!",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1bba6e41-f23e-8005-abd0-d495e8469af0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bba6e41-f23e-805b-a07d-dc78ecc6e4b4"
+      },
+      "created_time": "2025-03-19T01:42:00.000Z",
+      "last_edited_time": "2025-03-19T01:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "external",
+        "external": {
+          "url": "https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F65cf0dd1-760a-4fc4-bc51-fe540904252d_3754x1091.png"
+        }
+      }
+    },
+    {
+      "object": "block",
+      "id": "1bba6e41-f23e-80db-b05a-f8a440dfabaa",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bba6e41-f23e-805b-a07d-dc78ecc6e4b4"
+      },
+      "created_time": "2025-03-19T01:42:00.000Z",
+      "last_edited_time": "2025-03-19T01:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Resources",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Resources",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1bba6e41-f23e-8054-b172-d3b7ee1a9e99",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bba6e41-f23e-805b-a07d-dc78ecc6e4b4"
+      },
+      "created_time": "2025-03-19T01:42:00.000Z",
+      "last_edited_time": "2025-03-19T01:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "See the project showcase: ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "See the project showcase: ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "https://moxsf.com/ai4e-hacks",
+              "link": {
+                "url": "https://moxsf.com/ai4e-hacks"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://moxsf.com/ai4e-hacks",
+            "href": "https://moxsf.com/ai4e-hacks"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1bba6e41-f23e-80ed-b7f4-ebe8ace16f36",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bba6e41-f23e-805b-a07d-dc78ecc6e4b4"
+      },
+      "created_time": "2025-03-19T01:42:00.000Z",
+      "last_edited_time": "2025-03-19T01:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Watch the recordings: ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Watch the recordings: ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "project demos",
+              "link": {
+                "url": "https://youtu.be/xGAfG0L_82g"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "project demos",
+            "href": "https://youtu.be/xGAfG0L_82g"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ", ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ", ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "opening speeches",
+              "link": {
+                "url": "https://youtu.be/bMW3J3jjFUA"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "opening speeches",
+            "href": "https://youtu.be/bMW3J3jjFUA"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1bba6e41-f23e-8027-9616-e2204092ac15",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bba6e41-f23e-805b-a07d-dc78ecc6e4b4"
+      },
+      "created_time": "2025-03-19T01:42:00.000Z",
+      "last_edited_time": "2025-03-19T01:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "See the outline of project ideas: ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "See the outline of project ideas: ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "link",
+              "link": {
+                "url": "https://docs.google.com/document/d/18_h13T-Yx5dxN7DRP8WXgKk-twObsMgrOAXoM2GLJ1k/edit?tab=t.nip7ri77dom0"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "link",
+            "href": "https://docs.google.com/document/d/18_h13T-Yx5dxN7DRP8WXgKk-twObsMgrOAXoM2GLJ1k/edit?tab=t.nip7ri77dom0"
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "1bba6e41-f23e-80ce-9efc-fc7d12d9215b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1bba6e41-f23e-8027-9616-e2204092ac15"
+          },
+          "created_time": "2025-03-19T01:42:00.000Z",
+          "last_edited_time": "2025-03-19T01:42:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Thanks to Owen Cotton-Barratt, Raymond Douglas, and Ben Goldhaber for preparing this!",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Thanks to Owen Cotton-Barratt, Raymond Douglas, and Ben Goldhaber for preparing this!",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1bba6e41-f23e-8058-abde-e575e09e691c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bba6e41-f23e-805b-a07d-dc78ecc6e4b4"
+      },
+      "created_time": "2025-03-19T01:42:00.000Z",
+      "last_edited_time": "2025-03-19T01:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Lukas Finnveden on “What's important in ‘AI for epistemics’?”: ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Lukas Finnveden on “What's important in ‘AI for epistemics’?”: ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "link",
+              "link": {
+                "url": "https://lukasfinnveden.substack.com/p/whats-important-in-ai-for-epistemics"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "link",
+            "href": "https://lukasfinnveden.substack.com/p/whats-important-in-ai-for-epistemics"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1bba6e41-f23e-80f9-88fe-cb3c0c207873",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bba6e41-f23e-805b-a07d-dc78ecc6e4b4"
+      },
+      "created_time": "2025-03-19T01:42:00.000Z",
+      "last_edited_time": "2025-03-19T01:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Automation of Wisdom and Philosophy essay contest: ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Automation of Wisdom and Philosophy essay contest: ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "link",
+              "link": {
+                "url": "https://blog.aiimpacts.org/p/winners-of-the-essay-competition"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "link",
+            "href": "https://blog.aiimpacts.org/p/winners-of-the-essay-competition"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1bba6e41-f23e-80f0-bbd2-c87ca605b069",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bba6e41-f23e-805b-a07d-dc78ecc6e4b4"
+      },
+      "created_time": "2025-03-19T01:42:00.000Z",
+      "last_edited_time": "2025-03-19T01:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Why this hackathon?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Why this hackathon?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1bba6e41-f23e-8080-aafd-f499f9694b88",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bba6e41-f23e-805b-a07d-dc78ecc6e4b4"
+      },
+      "created_time": "2025-03-19T01:42:00.000Z",
+      "last_edited_time": "2025-03-19T01:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "From the opening speeches; lightly edited.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "From the opening speeches; lightly edited.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1bba6e41-f23e-804e-a692-feb06756a381",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bba6e41-f23e-805b-a07d-dc78ecc6e4b4"
+      },
+      "created_time": "2025-03-19T01:42:00.000Z",
+      "last_edited_time": "2025-03-19T01:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Andreas Stuhlmüller: Why I'm excited about AI for Epistemics",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Andreas Stuhlmüller: Why I'm excited about AI for Epistemics",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1bba6e41-f23e-8080-9ac9-f7ca4b737853",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bba6e41-f23e-805b-a07d-dc78ecc6e4b4"
+      },
+      "created_time": "2025-03-19T01:42:00.000Z",
+      "last_edited_time": "2025-03-19T01:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "In short - AI for Epistemics is important and tractable.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "In short - AI for Epistemics is important and tractable.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1bba6e41-f23e-80a8-b339-c70b6d3c3028",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bba6e41-f23e-805b-a07d-dc78ecc6e4b4"
+      },
+      "created_time": "2025-03-19T01:42:00.000Z",
+      "last_edited_time": "2025-03-19T01:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Why is it important? If you think about the next few years, things could get pretty chaotic. As everyone rushes to integrate AI systems into every part of the economy, the world could change more rapidly than it does today. There's significant risk that people and organizations will make mistakes for relatively uninteresting reasons—simply because they didn't have enough time to think things through.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Why is it important? If you think about the next few years, things could get pretty chaotic. As everyone rushes to integrate AI systems into every part of the economy, the world could change more rapidly than it does today. There's significant risk that people and organizations will make mistakes for relatively uninteresting reasons—simply because they didn't have enough time to think things through.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1bba6e41-f23e-8037-9806-c9e96acaf0ec",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bba6e41-f23e-805b-a07d-dc78ecc6e4b4"
+      },
+      "created_time": "2025-03-19T01:42:00.000Z",
+      "last_edited_time": "2025-03-19T01:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "If we can make it easier for people to think clearly and carefully, that's really important. People will use AI tools to help them make decisions either way; eventually unassisted decision-making just won’t be competitive anymore. This is a lever: the more these tools actually help people make wise decisions, or help them figure out whether they're right or wrong about something, the better off we'll be.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "If we can make it easier for people to think clearly and carefully, that's really important. People will use AI tools to help them make decisions either way; eventually unassisted decision-making just won’t be competitive anymore. This is a lever: the more these tools actually help people make wise decisions, or help them figure out whether they're right or wrong about something, the better off we'll be.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1bba6e41-f23e-80d6-9283-ecc87c543c9d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bba6e41-f23e-805b-a07d-dc78ecc6e4b4"
+      },
+      "created_time": "2025-03-19T01:42:00.000Z",
+      "last_edited_time": "2025-03-19T01:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "AI for Epistemics is also tractable now in a way it wasn't before. We're just reaching the point where models are good enough and cheap enough to apply at scale. You can now realistically say, \"Let's analyze all news articles,\" or \"Let's review all scientific papers,\" or thoroughly check every sentence of a document, at a level of detail that wasn't feasible before.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "AI for Epistemics is also tractable now in a way it wasn't before. We're just reaching the point where models are good enough and cheap enough to apply at scale. You can now realistically say, \"Let's analyze all news articles,\" or \"Let's review all scientific papers,\" or thoroughly check every sentence of a document, at a level of detail that wasn't feasible before.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1bba6e41-f23e-80b2-9a01-d033d8eb65db",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bba6e41-f23e-805b-a07d-dc78ecc6e4b4"
+      },
+      "created_time": "2025-03-19T01:42:00.000Z",
+      "last_edited_time": "2025-03-19T01:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Given good ideas for epistemic tools, the implementation cost has dropped dramatically. Building significant products in hackathons has become much easier. You can basically copy and paste your project description into Cursor, type \"please continue\" five times, and you'll have a working demo.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Given good ideas for epistemic tools, the implementation cost has dropped dramatically. Building significant products in hackathons has become much easier. You can basically copy and paste your project description into Cursor, type \"please continue\" five times, and you'll have a working demo.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1bba6e41-f23e-803c-9574-ec3800651e6e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bba6e41-f23e-805b-a07d-dc78ecc6e4b4"
+      },
+      "created_time": "2025-03-19T01:42:00.000Z",
+      "last_edited_time": "2025-03-19T01:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "The key challenge we'll need to think about today is: how can we tell if we're actually making things better? What evidence can we see that would lead us to believe a tool genuinely improves people's thinking, rather than just being a fun UI with knobs to play with?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "The key challenge we'll need to think about today is: how can we tell if we're actually making things better? What evidence can we see that would lead us to believe a tool genuinely improves people's thinking, rather than just being a fun UI with knobs to play with?",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1bba6e41-f23e-8012-b59a-df60312ff252",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bba6e41-f23e-805b-a07d-dc78ecc6e4b4"
+      },
+      "created_time": "2025-03-19T01:42:00.000Z",
+      "last_edited_time": "2025-03-19T01:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I'm really excited about this hackathon. This is the event I've been most excited about for quite a while. I'm very grateful to Austin for creating this space for us.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I'm really excited about this hackathon. This is the event I've been most excited about for quite a while. I'm very grateful to Austin for creating this space for us.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1bba6e41-f23e-8092-927d-ebcb3e98d581",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bba6e41-f23e-805b-a07d-dc78ecc6e4b4"
+      },
+      "created_time": "2025-03-19T01:42:00.000Z",
+      "last_edited_time": "2025-03-19T01:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Austin Chen: Why a hackathon?",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Austin Chen: Why a hackathon?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1bba6e41-f23e-80f3-a78b-ee0d7cfe1be7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bba6e41-f23e-805b-a07d-dc78ecc6e4b4"
+      },
+      "created_time": "2025-03-19T01:42:00.000Z",
+      "last_edited_time": "2025-03-19T01:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Andreas first talked to me a couple months ago, saying we want to do more for the AI for Epistemics field. We were thinking about some ideas: “oh, maybe we should do a grants program, or a fellowship program, or something like that”.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Andreas first talked to me a couple months ago, saying we want to do more for the AI for Epistemics field. We were thinking about some ideas: “oh, maybe we should do a grants program, or a fellowship program, or something like that”.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1bba6e41-f23e-8027-b3cc-e761357b4c1c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bba6e41-f23e-805b-a07d-dc78ecc6e4b4"
+      },
+      "created_time": "2025-03-19T01:42:00.000Z",
+      "last_edited_time": "2025-03-19T01:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "But I have a special place in my heart for hackathons specifically. So I really sold him hard: we're gonna do a hackathon. We can do all that other stuff too later, but: first things first. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "But I have a special place in my heart for hackathons specifically. So I really sold him hard: we're gonna do a hackathon. We can do all that other stuff too later, but: first things first. ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "(Andreas, wryly: “I was very hard to sell.”)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "(Andreas, wryly: “I was very hard to sell.”)",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1bba6e41-f23e-80cf-8fdd-ecf41f92ee22",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bba6e41-f23e-805b-a07d-dc78ecc6e4b4"
+      },
+      "created_time": "2025-03-19T01:42:00.000Z",
+      "last_edited_time": "2025-03-19T01:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I like hackathons for a lot of reasons:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I like hackathons for a lot of reasons:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1bba6e41-f23e-803d-bca5-e718130c2bbd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bba6e41-f23e-805b-a07d-dc78ecc6e4b4"
+      },
+      "created_time": "2025-03-19T01:42:00.000Z",
+      "last_edited_time": "2025-03-19T01:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Hackathons are a sandbox. They're a place where you can play with an idea a little bit. You don't have to worry about whether this thing will be great down the line, or even live past the end of the day. So it gives you a chance to be a bit more creative, try riskier things.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Hackathons are a sandbox. They're a place where you can play with an idea a little bit. You don't have to worry about whether this thing will be great down the line, or even live past the end of the day. So it gives you a chance to be a bit more creative, try riskier things.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1bba6e41-f23e-809b-9256-dc1b848c1238",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bba6e41-f23e-805b-a07d-dc78ecc6e4b4"
+      },
+      "created_time": "2025-03-19T01:42:00.000Z",
+      "last_edited_time": "2025-03-19T01:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "It's a blank canvas. You don't have to worry about what your current users will think, or “will this make money?”. You can just… do stuff.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "It's a blank canvas. You don't have to worry about what your current users will think, or “will this make money?”. You can just… do stuff.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1bba6e41-f23e-8097-8790-ffa25f79d2aa",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bba6e41-f23e-805b-a07d-dc78ecc6e4b4"
+      },
+      "created_time": "2025-03-19T01:42:00.000Z",
+      "last_edited_time": "2025-03-19T01:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Hackathons are a forcing function. There's the demos in eight hours. We're all gonna get up there and present and talk about what we did. So you have to sit there and actually build your idea. You can't just keep spinning your wheels, thinking forever.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Hackathons are a forcing function. There's the demos in eight hours. We're all gonna get up there and present and talk about what we did. So you have to sit there and actually build your idea. You can't just keep spinning your wheels, thinking forever.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1bba6e41-f23e-8020-bbe0-d21e38e71fd1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bba6e41-f23e-805b-a07d-dc78ecc6e4b4"
+      },
+      "created_time": "2025-03-19T01:42:00.000Z",
+      "last_edited_time": "2025-03-19T01:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "And it's a chance to meet people. It's a filtering function to find people who care a lot about this particular niche. Right now, AI for Epistemics is a tiny field. All the people who care about it are maybe in this room right now (plus a few others who are remote). But hopefully, it will grow down the line. And this is your chance to meet each other, talk to each other, share your ideas, build stuff out.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "And it's a chance to meet people. It's a filtering function to find people who care a lot about this particular niche. Right now, AI for Epistemics is a tiny field. All the people who care about it are maybe in this room right now (plus a few others who are remote). But hopefully, it will grow down the line. And this is your chance to meet each other, talk to each other, share your ideas, build stuff out.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1bba6e41-f23e-805b-9c16-f9c4545c1c31",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bba6e41-f23e-805b-a07d-dc78ecc6e4b4"
+      },
+      "created_time": "2025-03-19T01:42:00.000Z",
+      "last_edited_time": "2025-03-19T01:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Those are some of the reasons I'm excited about hackathons. I'm glad that Andreas and the Elicit team are happy to host this with us today.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Those are some of the reasons I'm excited about hackathons. I'm glad that Andreas and the Elicit team are happy to host this with us today.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1bba6e41-f23e-80db-acee-ca5dc6e41584",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bba6e41-f23e-805b-a07d-dc78ecc6e4b4"
+      },
+      "created_time": "2025-03-19T01:43:00.000Z",
+      "last_edited_time": "2025-03-19T01:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1bba6e41-f23e-80be-8449-fff578753812",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bba6e41-f23e-805b-a07d-dc78ecc6e4b4"
+      },
+      "created_time": "2025-03-19T01:43:00.000Z",
+      "last_edited_time": "2025-03-19T01:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1bba6e41-f23e-8083-b75a-c6992b9f74cb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bba6e41-f23e-805b-a07d-dc78ecc6e4b4"
+      },
+      "created_time": "2025-03-19T01:43:00.000Z",
+      "last_edited_time": "2025-03-19T01:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "… (projects omitted)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "… (projects omitted)",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1bba6e41-f23e-80d5-a560-cc1045e776fa",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bba6e41-f23e-805b-a07d-dc78ecc6e4b4"
+      },
+      "created_time": "2025-03-19T01:43:00.000Z",
+      "last_edited_time": "2025-03-19T01:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1bba6e41-f23e-8082-9118-cc58548448d0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bba6e41-f23e-805b-a07d-dc78ecc6e4b4"
+      },
+      "created_time": "2025-03-19T01:43:00.000Z",
+      "last_edited_time": "2025-03-19T01:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "What went well",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "What went well",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1bba6e41-f23e-80e1-bb6e-c0c501fde483",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bba6e41-f23e-805b-a07d-dc78ecc6e4b4"
+      },
+      "created_time": "2025-03-19T01:43:00.000Z",
+      "last_edited_time": "2025-03-19T01:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Hacks were pretty cool! Especially given that they all represented ~8 hours of work",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Hacks were pretty cool! Especially given that they all represented ~8 hours of work",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "1bba6e41-f23e-80a1-8643-c9b073ca30ca",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1bba6e41-f23e-80e1-bb6e-c0c501fde483"
+          },
+          "created_time": "2025-03-19T01:43:00.000Z",
+          "last_edited_time": "2025-03-19T01:43:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Many are minimal versions of products I really want to exist, and play with more",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Many are minimal versions of products I really want to exist, and play with more",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "1bba6e41-f23e-80d6-b007-e254a1428f62",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1bba6e41-f23e-80e1-bb6e-c0c501fde483"
+          },
+          "created_time": "2025-03-19T01:43:00.000Z",
+          "last_edited_time": "2025-03-19T01:43:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Almost all of them felt like a worthwhile showcase, exploration of something interesting, and relevant to this field",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Almost all of them felt like a worthwhile showcase, exploration of something interesting, and relevant to this field",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1bba6e41-f23e-8027-a11e-d053adce5a45",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bba6e41-f23e-805b-a07d-dc78ecc6e4b4"
+      },
+      "created_time": "2025-03-19T01:43:00.000Z",
+      "last_edited_time": "2025-03-19T01:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Lots of great people came for this! Very hard to think of more central folks for AI for Epistemics:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Lots of great people came for this! Very hard to think of more central folks for AI for Epistemics:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "1bba6e41-f23e-80d5-b1ec-c181a10e8a4b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1bba6e41-f23e-8027-a11e-d053adce5a45"
+          },
+          "created_time": "2025-03-19T01:43:00.000Z",
+          "last_edited_time": "2025-03-19T01:43:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "our lovely faces, once more",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "our lovely faces, once more",
+                "href": null
+              }
+            ],
+            "icon": null,
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "1bba6e41-f23e-8028-afac-ef12c36b2fba",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1bba6e41-f23e-8027-a11e-d053adce5a45"
+          },
+          "created_time": "2025-03-19T01:43:00.000Z",
+          "last_edited_time": "2025-03-19T01:43:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "image",
+          "image": {
+            "caption": [],
+            "type": "external",
+            "external": {
+              "url": "https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F65cf0dd1-760a-4fc4-bc51-fe540904252d_3754x1091.png"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1bba6e41-f23e-80d1-a408-fdce620288eb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bba6e41-f23e-805b-a07d-dc78ecc6e4b4"
+      },
+      "created_time": "2025-03-19T01:43:00.000Z",
+      "last_edited_time": "2025-03-19T01:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "From left to right: Rafe Kennedy, Oli Habryka, Evan Hadfield, Kirill Chesnov, Owain Evans, Charlie George, Panda Smith, Gustavo Lacerda, Andreas Stuhlmüller, Austin Chen, David Nachbach (virtual), Lukas Finnveden, Tamera Lanham, Noa Nabeshima, Campbell Hutcheson, Keri Warr, Xyra Sinclair, Tilman Bayer, Raymon Arnold, Chris Lakin, Ozzie Gooen",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "From left to right: Rafe Kennedy, Oli Habryka, Evan Hadfield, Kirill Chesnov, Owain Evans, Charlie George, Panda Smith, Gustavo Lacerda, Andreas Stuhlmüller, Austin Chen, David Nachbach (virtual), Lukas Finnveden, Tamera Lanham, Noa Nabeshima, Campbell Hutcheson, Keri Warr, Xyra Sinclair, Tilman Bayer, Raymon Arnold, Chris Lakin, Ozzie Gooen",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "1bba6e41-f23e-80e4-962b-fbdcc44085fc",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1bba6e41-f23e-80d1-a408-fdce620288eb"
+          },
+          "created_time": "2025-03-19T01:43:00.000Z",
+          "last_edited_time": "2025-03-19T01:43:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Not pictured participants and viewers: William Saunders, Ben Goldhaber, Deger Turan, Vishal Maini, Ross Rheingans-Yoo, Ethan Alley, Dan Selsam, Stephen Grugett, David Chee, Saul Munn, Gavriel Kleinwaks and many others…",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": true,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Not pictured participants and viewers: William Saunders, Ben Goldhaber, Deger Turan, Vishal Maini, Ross Rheingans-Yoo, Ethan Alley, Dan Selsam, Stephen Grugett, David Chee, Saul Munn, Gavriel Kleinwaks and many others…",
+                "href": null
+              }
+            ],
+            "icon": null,
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "1bba6e41-f23e-80e7-ad99-c5fc83a081d8",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1bba6e41-f23e-80d1-a408-fdce620288eb"
+          },
+          "created_time": "2025-03-19T01:43:00.000Z",
+          "last_edited_time": "2025-03-19T01:43:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Some of the goal of the hackathon, as with any event, is just to bring people together and have them stay in contact",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Some of the goal of the hackathon, as with any event, is just to bring people together and have them stay in contact",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1bba6e41-f23e-80ea-9779-ce187fce1201",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bba6e41-f23e-805b-a07d-dc78ecc6e4b4"
+      },
+      "created_time": "2025-03-19T01:43:00.000Z",
+      "last_edited_time": "2025-03-19T01:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Good conversations at the beginning while participants were ideating, and throughout. Both on AI for Epistemics and other topics.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Good conversations at the beginning while participants were ideating, and throughout. Both on AI for Epistemics and other topics.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1bba6e41-f23e-80d6-9ade-dbe92d5e5c99",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bba6e41-f23e-805b-a07d-dc78ecc6e4b4"
+      },
+      "created_time": "2025-03-19T01:43:00.000Z",
+      "last_edited_time": "2025-03-19T01:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Overall event felt smooth and cohesive, especially for being pulled together on not that much organizer time",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Overall event felt smooth and cohesive, especially for being pulled together on not that much organizer time",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "1bba6e41-f23e-80ff-8142-c84a2434716d",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1bba6e41-f23e-80d6-9ade-dbe92d5e5c99"
+          },
+          "created_time": "2025-03-19T01:43:00.000Z",
+          "last_edited_time": "2025-03-19T01:43:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Pretty happy with the continuing artifacts that we produced out of this hackathon (the showcase page, the video recordings, this writeup)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Pretty happy with the continuing artifacts that we produced out of this hackathon (the showcase page, the video recordings, this writeup)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "1bba6e41-f23e-806c-a01f-cfcd3cee0abf",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1bba6e41-f23e-80d6-9ade-dbe92d5e5c99"
+          },
+          "created_time": "2025-03-19T01:43:00.000Z",
+          "last_edited_time": "2025-03-19T01:43:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Somewhat more effortful to do all this compared to typical hackathons Austin has run, but hopefully worthwhile when trying to incubate a new field",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Somewhat more effortful to do all this compared to typical hackathons Austin has run, but hopefully worthwhile when trying to incubate a new field",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1bba6e41-f23e-805a-a233-c532e82a9b27",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bba6e41-f23e-805b-a07d-dc78ecc6e4b4"
+      },
+      "created_time": "2025-03-19T01:43:00.000Z",
+      "last_edited_time": "2025-03-19T01:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Mox",
+              "link": {
+                "url": "http://moxsf.com/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Mox",
+            "href": "http://moxsf.com/"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " seemed to be a good venue for this event! This was just our third week of operating, but I think our venue supported the hackathon well.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " seemed to be a good venue for this event! This was just our third week of operating, but I think our venue supported the hackathon well.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "1bba6e41-f23e-8031-8364-fb33c537c9c7",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1bba6e41-f23e-805a-a233-c532e82a9b27"
+          },
+          "created_time": "2025-03-19T01:43:00.000Z",
+          "last_edited_time": "2025-03-19T01:43:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "One participant remarked:",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "One participant remarked:",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1bba6e41-f23e-800e-bcaf-cd703a90f148",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bba6e41-f23e-805b-a07d-dc78ecc6e4b4"
+      },
+      "created_time": "2025-03-19T01:43:00.000Z",
+      "last_edited_time": "2025-03-19T01:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "quote",
+      "quote": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Something I like about your office is that it seems to naturally create the Cal Newport Deep Work architecture, where the further in you go the more deepworky it is",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Something I like about your office is that it seems to naturally create the Cal Newport Deep Work architecture, where the further in you go the more deepworky it is",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1bba6e41-f23e-805f-a53b-c12a9fa34422",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bba6e41-f23e-805b-a07d-dc78ecc6e4b4"
+      },
+      "created_time": "2025-03-19T01:43:00.000Z",
+      "last_edited_time": "2025-03-19T01:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "What could have gone better",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "What could have gone better",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1bba6e41-f23e-8015-9cb7-f24ac5f4a7da",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bba6e41-f23e-805b-a07d-dc78ecc6e4b4"
+      },
+      "created_time": "2025-03-19T01:43:00.000Z",
+      "last_edited_time": "2025-03-19T01:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Fewer submitted hacks than we’d hoped for",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Fewer submitted hacks than we’d hoped for",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "1bba6e41-f23e-80e4-a71e-c6bb99b8b523",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1bba6e41-f23e-8015-9cb7-f24ac5f4a7da"
+          },
+          "created_time": "2025-03-19T01:43:00.000Z",
+          "last_edited_time": "2025-03-19T01:43:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Had ~40 people around but only ~10 submissions. Ideally more like 15-20?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Had ~40 people around but only ~10 submissions. Ideally more like 15-20?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "1bba6e41-f23e-8077-a848-ff8e8b8f67e6",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1bba6e41-f23e-8015-9cb7-f24ac5f4a7da"
+          },
+          "created_time": "2025-03-19T01:43:00.000Z",
+          "last_edited_time": "2025-03-19T01:43:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Maybe we should have promoted this event harder, or cast a wider net?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Maybe we should have promoted this event harder, or cast a wider net?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "1bba6e41-f23e-80d3-abc7-d978ccd3edc6",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1bba6e41-f23e-8077-a848-ff8e8b8f67e6"
+              },
+              "created_time": "2025-03-19T01:43:00.000Z",
+              "last_edited_time": "2025-03-19T01:43:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "There’s a tradeoff on average participant quality vs number of submissions.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "There’s a tradeoff on average participant quality vs number of submissions.",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "1bba6e41-f23e-80f9-928c-e5d77a3b3e37",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1bba6e41-f23e-8077-a848-ff8e8b8f67e6"
+              },
+              "created_time": "2025-03-19T01:43:00.000Z",
+              "last_edited_time": "2025-03-19T01:43:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "But maybe projects are hit-based, so having the best projects matters more than having a high average quality",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "But maybe projects are hit-based, so having the best projects matters more than having a high average quality",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "1bba6e41-f23e-80e3-b8e4-f373e3ef3eb8",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1bba6e41-f23e-8015-9cb7-f24ac5f4a7da"
+          },
+          "created_time": "2025-03-19T01:43:00.000Z",
+          "last_edited_time": "2025-03-19T01:43:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Maybe try to get higher commitment from folks, if we run this again",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Maybe try to get higher commitment from folks, if we run this again",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1bba6e41-f23e-800a-8cfb-e0cbb9565344",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bba6e41-f23e-805b-a07d-dc78ecc6e4b4"
+      },
+      "created_time": "2025-03-19T01:43:00.000Z",
+      "last_edited_time": "2025-03-19T01:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Hoping to have discovered more people from outside our current networks, who are excited for AI for Epistemics",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Hoping to have discovered more people from outside our current networks, who are excited for AI for Epistemics",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "1bba6e41-f23e-809e-939f-d69fc001358f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1bba6e41-f23e-800a-8cfb-e0cbb9565344"
+          },
+          "created_time": "2025-03-19T01:43:00.000Z",
+          "last_edited_time": "2025-03-19T01:43:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "2 of the 3 prizes went to teams from Elicit",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "2 of the 3 prizes went to teams from Elicit",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "1bba6e41-f23e-8030-82b1-cad34f1b9b53",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1bba6e41-f23e-809e-939f-d69fc001358f"
+              },
+              "created_time": "2025-03-19T01:43:00.000Z",
+              "last_edited_time": "2025-03-19T01:43:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "(Which says something about how great the Elicit team is, in case anyone out there is thinking about finding a new job…)",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "(Which says something about how great the Elicit team is, in case anyone out there is thinking about finding a new job…)",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1bba6e41-f23e-8091-bc15-f219ee62bc49",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bba6e41-f23e-805b-a07d-dc78ecc6e4b4"
+      },
+      "created_time": "2025-03-19T01:43:00.000Z",
+      "last_edited_time": "2025-03-19T01:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Unclear path to deployment for these projects, or continuing impact",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Unclear path to deployment for these projects, or continuing impact",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "1bba6e41-f23e-80ca-b732-f2a17b72f478",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1bba6e41-f23e-8091-bc15-f219ee62bc49"
+          },
+          "created_time": "2025-03-19T01:43:00.000Z",
+          "last_edited_time": "2025-03-19T01:43:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Admittedly, this is a standard problem with a hackathon form factor, especially when the hackathon isn’t housed within an org/for specific product features",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Admittedly, this is a standard problem with a hackathon form factor, especially when the hackathon isn’t housed within an org/for specific product features",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1bba6e41-f23e-80f6-816d-f6b791e93b5c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bba6e41-f23e-805b-a07d-dc78ecc6e4b4"
+      },
+      "created_time": "2025-03-19T01:43:00.000Z",
+      "last_edited_time": "2025-03-19T01:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Not sure we made great use of the ideas doc & categories that Owen/Raymond/Ben compiled?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Not sure we made great use of the ideas doc & categories that Owen/Raymond/Ben compiled?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "1bba6e41-f23e-8096-a9aa-c800572ffd09",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1bba6e41-f23e-80f6-816d-f6b791e93b5c"
+          },
+          "created_time": "2025-03-19T01:43:00.000Z",
+          "last_edited_time": "2025-03-19T01:43:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "But hopefully, their work will set a stage of “this is what AI for Epistemics is about”",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "But hopefully, their work will set a stage of “this is what AI for Epistemics is about”",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "1bba6e41-f23e-802b-ad12-cd20f57335ed",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1bba6e41-f23e-80f6-816d-f6b791e93b5c"
+          },
+          "created_time": "2025-03-19T01:43:00.000Z",
+          "last_edited_time": "2025-03-19T01:43:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Perhaps having such specified categories was too confusing for participants",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Perhaps having such specified categories was too confusing for participants",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "1bba6e41-f23e-8048-aa7b-fbd578cd2378",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1bba6e41-f23e-802b-ad12-cd20f57335ed"
+              },
+              "created_time": "2025-03-19T01:43:00.000Z",
+              "last_edited_time": "2025-03-19T01:43:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "One participant asked, “do I have to do something in these categories?” (A: no, but it’s bad that this wasn’t clear)",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "One participant asked, “do I have to do something in these categories?” (A: no, but it’s bad that this wasn’t clear)",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1bba6e41-f23e-808e-8777-ede9b1d22700",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bba6e41-f23e-805b-a07d-dc78ecc6e4b4"
+      },
+      "created_time": "2025-03-19T01:43:00.000Z",
+      "last_edited_time": "2025-03-19T01:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "As judges: hard to give great judgements and feedback in short amount of time, by just looking at demos and asking questions",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "As judges: hard to give great judgements and feedback in short amount of time, by just looking at demos and asking questions",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "1bba6e41-f23e-805e-b5e6-f91b7428b39f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1bba6e41-f23e-808e-8777-ede9b1d22700"
+          },
+          "created_time": "2025-03-19T01:43:00.000Z",
+          "last_edited_time": "2025-03-19T01:43:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "The format of “demos in front of an audience” do bias towards presentation ability and flashiness, over usability of a core product",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "The format of “demos in front of an audience” do bias towards presentation ability and flashiness, over usability of a core product",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "1bba6e41-f23e-8076-b99e-e9a9ce48994d",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1bba6e41-f23e-808e-8777-ede9b1d22700"
+          },
+          "created_time": "2025-03-19T01:43:00.000Z",
+          "last_edited_time": "2025-03-19T01:43:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Might change up the structure for next time",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Might change up the structure for next time",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "1bba6e41-f23e-8029-9a10-ea48ca1e60d8",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1bba6e41-f23e-8076-b99e-e9a9ce48994d"
+              },
+              "created_time": "2025-03-19T01:43:00.000Z",
+              "last_edited_time": "2025-03-19T01:43:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "More time for judges and audience to play with hackathon demos?",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "More time for judges and audience to play with hackathon demos?",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "1bba6e41-f23e-80dd-8143-fc31178a6cab",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1bba6e41-f23e-8076-b99e-e9a9ce48994d"
+              },
+              "created_time": "2025-03-19T01:43:00.000Z",
+              "last_edited_time": "2025-03-19T01:43:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Open up voting to the public, so it’s more democratized?",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Open up voting to the public, so it’s more democratized?",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1bba6e41-f23e-8009-a096-d4047712a915",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bba6e41-f23e-805b-a07d-dc78ecc6e4b4"
+      },
+      "created_time": "2025-03-19T01:43:00.000Z",
+      "last_edited_time": "2025-03-19T01:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Final notes",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Final notes",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1bba6e41-f23e-80a1-a910-efa2ff26c298",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bba6e41-f23e-805b-a07d-dc78ecc6e4b4"
+      },
+      "created_time": "2025-03-19T01:43:00.000Z",
+      "last_edited_time": "2025-03-19T01:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Overall, we’re very happy with how this hackathon turned out. Building a new field from scratch is difficult, high-dimensional problem, and this is just one step along the way; but I think we made meaningful progress, with ideas we brainstormed, hacks we demoed, and people we gathered.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Overall, we’re very happy with how this hackathon turned out. Building a new field from scratch is difficult, high-dimensional problem, and this is just one step along the way; but I think we made meaningful progress, with ideas we brainstormed, hacks we demoed, and people we gathered.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1bba6e41-f23e-807d-901d-ded1623a2ef3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bba6e41-f23e-805b-a07d-dc78ecc6e4b4"
+      },
+      "created_time": "2025-03-19T01:43:00.000Z",
+      "last_edited_time": "2025-03-19T01:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "After the end of the hackathon, a few of the judges and participants continued to discuss: “What’s next for AI for Epistemics? How does one build a nascent field? Is ‘AI for Epistemics’ even a good name?” We’ll try to share more on this in the coming days; until then, if AI for Epistemics excites you, leave a comment or reach out to us!",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "After the end of the hackathon, a few of the judges and participants continued to discuss: “What’s next for AI for Epistemics? How does one build a nascent field? Is ‘AI for Epistemics’ even a good name?” We’ll try to share more on this in the coming days; until then, if AI for Epistemics excites you, leave a comment or reach out to us!",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    }
+  ]
+}

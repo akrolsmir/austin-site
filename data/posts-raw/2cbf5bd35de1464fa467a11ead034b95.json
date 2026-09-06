@@ -1,0 +1,3002 @@
+{
+  "page": {
+    "id": "2cbf5bd35de1464fa467a11ead034b95",
+    "title": "Storybook Brawl",
+    "date": "2021-09-21",
+    "edited": "2021-11-17T09:38:00.000Z",
+    "url": "https://akrolsmir.notion.site/Storybook-Brawl-2cbf5bd35de1464fa467a11ead034b95",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "9d04bee1-7b3c-4362-a4e4-503869f74ec6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:20:00.000Z",
+      "last_edited_time": "2021-09-20T14:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Beginner",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Beginner",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "85b5e649-f34b-4c93-afc1-802f5040221a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:21:00.000Z",
+      "last_edited_time": "2021-09-20T14:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Overview of the game",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Overview of the game",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2c3a4770-3f9f-41e0-aeba-8c953b889e10",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:21:00.000Z",
+      "last_edited_time": "2021-09-20T14:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "See LSV's article",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "See LSV's article",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "b9e1c953-22fa-4491-adb0-a202be530644",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:21:00.000Z",
+      "last_edited_time": "2021-09-20T14:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Or try playing it yourself, seriously, it's a free game",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Or try playing it yourself, seriously, it's a free game",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "8ba3eb83-1110-40f2-bea2-8d945dc5eae3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:21:00.000Z",
+      "last_edited_time": "2021-09-20T14:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Intermediate",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Intermediate",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "fa330dc9-3c9b-405e-b14f-9825b27715c6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:21:00.000Z",
+      "last_edited_time": "2021-09-20T14:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Tactics",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Tactics",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "746f674e-2e47-4285-9663-bf5923fbc195",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:23:00.000Z",
+      "last_edited_time": "2021-09-20T14:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Certain cards pair well with other cards",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Certain cards pair well with other cards",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "379908f8-4804-4b8f-a909-b20e63c4e5e1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:23:00.000Z",
+      "last_edited_time": "2021-09-20T14:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Support + Spawn",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Support + Spawn",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "bf768971-8690-435c-848b-19e72df22df0",
+          "parent": {
+            "type": "block_id",
+            "block_id": "379908f8-4804-4b8f-a909-b20e63c4e5e1"
+          },
+          "created_time": "2021-09-20T14:24:00.000Z",
+          "last_edited_time": "2021-09-20T14:24:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Nim + Black Cat",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Nim + Black Cat",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "67adb434-230c-497f-bbe3-681d29cc9d3e",
+          "parent": {
+            "type": "block_id",
+            "block_id": "379908f8-4804-4b8f-a909-b20e63c4e5e1"
+          },
+          "created_time": "2021-09-20T14:24:00.000Z",
+          "last_edited_time": "2021-09-20T14:24:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Sword + Black Cat",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Sword + Black Cat",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "e55c7e5f-d8ed-484e-8629-44a01385bfdb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:24:00.000Z",
+      "last_edited_time": "2021-09-20T14:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Good synergies",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Good synergies",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "eb7fd7b3-cd35-4aa4-9029-8ce7b6b5947b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:47:00.000Z",
+      "last_edited_time": "2021-09-20T14:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2160e929-a522-49b3-8a8c-9b90a6d217d9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:47:00.000Z",
+      "last_edited_time": "2021-09-20T14:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Positioning",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Positioning",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "558a8cb7-f644-46e3-ba8a-aee6f93c9101",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:47:00.000Z",
+      "last_edited_time": "2021-09-20T14:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Top left (position 1) characters are more likely to get to attack first. Good for ranged or slay",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Top left (position 1) characters are more likely to get to attack first. Good for ranged or slay",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2d18fb9e-350d-4b31-8e6b-1ae79f672abb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:48:00.000Z",
+      "last_edited_time": "2021-09-20T14:50:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Bottom left is second best for this, as it'll usually live to get in an attack. Plus, the remaining",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Bottom left is second best for this, as it'll usually live to get in an attack. Plus, the remaining",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "96226e38-0e8c-45b1-9d5f-8d57ee1f6c3b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:50:00.000Z",
+      "last_edited_time": "2021-09-20T14:51:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Bottom right is good for weak characters that provide buffs to the board (Good Unicorn, Fairy Godmother), or accumulate buffs as others die (Vulture, Snow Wight)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Bottom right is good for weak characters that provide buffs to the board (Good Unicorn, Fairy Godmother), or accumulate buffs as others die (Vulture, Snow Wight)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "b58dbd86-d8c7-44db-8f75-be72383f59ea",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:48:00.000Z",
+      "last_edited_time": "2021-09-20T14:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Summoned creatures spawn in the same location (e.g. Black Cat), which is good for support",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Summoned creatures spawn in the same location (e.g. Black Cat), which is good for support",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "efb5fd20-4359-4405-bfb8-907b1291e74b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "b58dbd86-d8c7-44db-8f75-be72383f59ea"
+          },
+          "created_time": "2021-09-20T14:48:00.000Z",
+          "last_edited_time": "2021-09-20T14:49:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Pattern of multiple summons can be used (Bo Peep) to fill in ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Pattern of multiple summons can be used (Bo Peep) to fill in ",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1c188f59-86d9-4785-abeb-9f8112a3cf2f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:22:00.000Z",
+      "last_edited_time": "2021-09-20T14:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Hero selection",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Hero selection",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "f1e720fa-8323-44b4-abf1-74e419ace24a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:22:00.000Z",
+      "last_edited_time": "2021-09-20T14:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "The three parts of a game",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "The three parts of a game",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "6e0a0bb3-eeaa-4391-a9d5-8410e42510ea",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:22:00.000Z",
+      "last_edited_time": "2021-09-20T14:30:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Every Storybook Brawl game consists of 3 main parts:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Every Storybook Brawl game consists of 3 main parts:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "9733f15d-ab6f-4d7b-aa3f-1414348b1635",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:30:00.000Z",
+      "last_edited_time": "2021-09-20T14:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "The early game: Levels 2-3, where you're trying to fill up your board gold-efficiently",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "The early game: Levels 2-3, where you're trying to fill up your board gold-efficiently",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "78769e43-253e-463e-b27d-dd4cf5a956b7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:31:00.000Z",
+      "last_edited_time": "2021-09-20T14:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "None of the minions you buy here will carry on to the late game",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "None of the minions you buy here will carry on to the late game",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "08e5d8b8-813d-4d6c-8e84-450ab6a5ff7e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:31:00.000Z",
+      "last_edited_time": "2021-09-20T14:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "It's really hard to die here, but watch out for your health anyways",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "It's really hard to die here, but watch out for your health anyways",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "c6e2dc02-d9d2-48c6-b8de-3e9e39fb63bb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:31:00.000Z",
+      "last_edited_time": "2021-09-20T14:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "The number of possible play patterns is not that large",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "The number of possible play patterns is not that large",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "c1e88031-8e70-4a90-bcfe-2600732a323a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:32:00.000Z",
+      "last_edited_time": "2021-09-20T14:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "e0e3b3d3-b988-41ed-a595-9b8da8ead2c6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:32:00.000Z",
+      "last_edited_time": "2021-09-20T14:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "The mid game: Levels 4-5, where people are starting to die off",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "The mid game: Levels 4-5, where people are starting to die off",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "14c6c7e1-f0fc-4198-bc2e-839618cf41e7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:32:00.000Z",
+      "last_edited_time": "2021-09-20T14:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "You start making upgrades instead of pure purchases",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "You start making upgrades instead of pure purchases",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "a3ddf34b-caf5-406f-9912-61bdfd3c31a4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:33:00.000Z",
+      "last_edited_time": "2021-09-20T14:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Powerleveling becomes an option",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Powerleveling becomes an option",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "6ae770fa-d435-4d9b-9f3b-126455eda2fb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:33:00.000Z",
+      "last_edited_time": "2021-09-20T14:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Some of your purchases will make it to the endgame",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Some of your purchases will make it to the endgame",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "06128219-fa52-4b7b-b0d6-74e0119612a1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:46:00.000Z",
+      "last_edited_time": "2021-09-20T14:54:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Easy: falling into a particular comp (animals, royals). Just pick what's on theme",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Easy: falling into a particular comp (animals, royals). Just pick what's on theme",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "50e3e6d2-d0d7-44e3-b861-81109020572c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:53:00.000Z",
+      "last_edited_time": "2021-09-20T14:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Harder: Having a mishmash of strong cards",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Harder: Having a mishmash of strong cards",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "b270331e-5e70-4e1d-b978-efa36c7a0d57",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:35:00.000Z",
+      "last_edited_time": "2021-09-20T14:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "718bc888-be87-4216-8585-9dc1ba00c302",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:35:00.000Z",
+      "last_edited_time": "2021-09-20T14:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "The end game: Level 6: Determining who gets the crown",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "The end game: Level 6: Determining who gets the crown",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "98a2f6b0-07d0-49a2-b489-316e610408d4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:35:00.000Z",
+      "last_edited_time": "2021-09-20T14:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Treasures will make or break your comp; each one adds ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Treasures will make or break your comp; each one adds ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "6fc218fe-7ff0-4cd1-ad48-12b2f04efd23",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:35:00.000Z",
+      "last_edited_time": "2021-09-20T14:58:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Only a handful of viable options and you should be angling for one of these. Strongest to weakest:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Only a handful of viable options and you should be angling for one of these. Strongest to weakest:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "9099aaac-2c4b-4dcf-87e7-a14900a9bc33",
+          "parent": {
+            "type": "block_id",
+            "block_id": "6fc218fe-7ff0-4cd1-ad48-12b2f04efd23"
+          },
+          "created_time": "2021-09-20T14:51:00.000Z",
+          "last_edited_time": "2021-09-20T14:52:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Good Boy",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Good Boy",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "47eedf8f-c66d-4e32-ad46-8c04e3d72b47",
+          "parent": {
+            "type": "block_id",
+            "block_id": "6fc218fe-7ff0-4cd1-ad48-12b2f04efd23"
+          },
+          "created_time": "2021-09-20T14:52:00.000Z",
+          "last_edited_time": "2021-09-20T14:52:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Treants",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Treants",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "075c96b3-1161-4611-924d-0607481740f9",
+          "parent": {
+            "type": "block_id",
+            "block_id": "6fc218fe-7ff0-4cd1-ad48-12b2f04efd23"
+          },
+          "created_time": "2021-09-20T14:52:00.000Z",
+          "last_edited_time": "2021-09-20T14:52:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Royals",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Royals",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "e00930f8-7536-41bd-aff8-904bf4581d22",
+          "parent": {
+            "type": "block_id",
+            "block_id": "6fc218fe-7ff0-4cd1-ad48-12b2f04efd23"
+          },
+          "created_time": "2021-09-20T14:52:00.000Z",
+          "last_edited_time": "2021-09-20T14:52:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Pumpking",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Pumpking",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "5d30cf39-b93c-430f-8d54-23625548d697",
+          "parent": {
+            "type": "block_id",
+            "block_id": "6fc218fe-7ff0-4cd1-ad48-12b2f04efd23"
+          },
+          "created_time": "2021-09-20T14:53:00.000Z",
+          "last_edited_time": "2021-09-20T14:53:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Animals",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Animals",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "dad4f09e-5b1a-4351-94d3-1146c8d453a6",
+          "parent": {
+            "type": "block_id",
+            "block_id": "6fc218fe-7ff0-4cd1-ad48-12b2f04efd23"
+          },
+          "created_time": "2021-09-20T14:52:00.000Z",
+          "last_edited_time": "2021-09-20T14:58:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Dwarves",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Dwarves",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "c592dc3f-19c4-4dcb-b449-f279d6c72909",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:32:00.000Z",
+      "last_edited_time": "2021-09-20T14:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "067f443c-df8f-48fd-a0ac-ccfd8498170a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:22:00.000Z",
+      "last_edited_time": "2021-09-20T14:58:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Tempo (Who's the beatdown)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Tempo (Who's the beatdown)",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2d5aa982-d445-4e2c-8780-c1c7c2c08db2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:23:00.000Z",
+      "last_edited_time": "2021-09-20T14:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "One of the things that most informs your Storybook playing is, \"who's the beatdown\"? Or in other words, how ahead are you? ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "One of the things that most informs your Storybook playing is, \"who's the beatdown\"? Or in other words, how ahead are you? ",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "7a667150-337c-4198-a52b-54f6ca19bbd3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:25:00.000Z",
+      "last_edited_time": "2021-09-20T15:02:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "If you're very far ahead of the other players, you can start making investments in the long game by sacrificing your short game. Ways to do this:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "If you're very far ahead of the other players, you can start making investments in the long game by sacrificing your short game. Ways to do this:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "8827e3c2-e7fc-4360-bc24-821bb57f01ef",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T15:02:00.000Z",
+      "last_edited_time": "2021-09-20T15:02:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Buying XP (Turkish Delight, For Glory), which does nothing immediately, but improves your position in future rounds",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Buying XP (Turkish Delight, For Glory), which does nothing immediately, but improves your position in future rounds",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "86121a60-a445-4266-b254-9e3eb91cbaca",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T15:02:00.000Z",
+      "last_edited_time": "2021-09-20T15:02:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Buying gold investments for the future (Spinning Wheel, Prized Pig)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Buying gold investments for the future (Spinning Wheel, Prized Pig)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "85ebe847-9975-485b-b4f7-01ec0b5f801e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T15:02:00.000Z",
+      "last_edited_time": "2021-09-20T15:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Buying characters that permanently scale (Vainpire, etc)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Buying characters that permanently scale (Vainpire, etc)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "80750f0d-1e33-4f7b-90e4-2700c2e308ab",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:26:00.000Z",
+      "last_edited_time": "2021-09-20T15:01:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "On the flip side, if your board is weak compared to the group, you're trying to scrabble for as high of a place as you can before dying. Just greedily buy the things that most improve your board strength. Another way to improve your short game at the cost of the long term are combat spells like Meteor or Shrink Potion.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "On the flip side, if your board is weak compared to the group, you're trying to scrabble for as high of a place as you can before dying. Just greedily buy the things that most improve your board strength. Another way to improve your short game at the cost of the long term are combat spells like Meteor or Shrink Potion.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "30be4199-fead-4809-9f8a-f53bce09834a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:27:00.000Z",
+      "last_edited_time": "2021-09-20T14:59:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Once you have a sense of how strong you are in the entire group, you can think about how strong you are relative to your next opponent. Of course, you may not know what their comp is going to be, but their health is one helpful metric. Another example: if they're a ghost, chances are they will be weaker and you can invest beyond this turn.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Once you have a sense of how strong you are in the entire group, you can think about how strong you are relative to your next opponent. Of course, you may not know what their comp is going to be, but their health is one helpful metric. Another example: if they're a ghost, chances are they will be weaker and you can invest beyond this turn.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "ea34f8f5-8b2f-43ad-8a54-85e6a32ff4a7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:29:00.000Z",
+      "last_edited_time": "2021-09-20T14:58:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "At higher levels (once there's fewer players), it's also worth memorizing what kind of the board one opponent deployed. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "At higher levels (once there's fewer players), it's also worth memorizing what kind of the board one opponent deployed. ",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "0287ced5-2a75-4bcd-95b6-53a51c0d23bb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:26:00.000Z",
+      "last_edited_time": "2021-09-20T14:26:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Gold management",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Gold management",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "b5fbc0f0-0dcd-46f7-896e-ce310cc943c1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:21:00.000Z",
+      "last_edited_time": "2021-09-20T14:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Characters",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Characters",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ": Generally, you always want to be buying the most expensive characters you can. Why? As a rule, characters that cost 3 gold are so much better than ones that cost 2 gold.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ": Generally, you always want to be buying the most expensive characters you can. Why? As a rule, characters that cost 3 gold are so much better than ones that cost 2 gold.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "78855bfc-5ef9-41ee-81e3-e3b9f6c42cef",
+          "parent": {
+            "type": "block_id",
+            "block_id": "b5fbc0f0-0dcd-46f7-896e-ce310cc943c1"
+          },
+          "created_time": "2021-09-20T14:39:00.000Z",
+          "last_edited_time": "2021-09-20T14:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "E.g. with 4 gold, you could buy 2 2/3s, or one 7/7 Juliet — a ton more stats",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "E.g. with 4 gold, you could buy 2 2/3s, or one 7/7 Juliet — a ton more stats",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "5b9c506f-e258-4415-9125-581eb4672fc2",
+          "parent": {
+            "type": "block_id",
+            "block_id": "b5fbc0f0-0dcd-46f7-896e-ce310cc943c1"
+          },
+          "created_time": "2021-09-20T14:40:00.000Z",
+          "last_edited_time": "2021-09-20T14:42:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "A single 6/6 is usually better than than two 3/3s; first, it kills e.g. 4/4s easily. Second, it takes up less board space, which is one of your most limited resources.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "A single 6/6 is usually better than than two 3/3s; first, it kills e.g. 4/4s easily. Second, it takes up less board space, which is one of your most limited resources.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "d8a25be8-6314-45e6-b3d0-6814cb82ab32",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:43:00.000Z",
+      "last_edited_time": "2021-09-20T14:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Corollary: Try to maximize your gold on the turns that you first hit a new level. This could be through piggy bank, spinning wheel, etc.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Corollary: Try to maximize your gold on the turns that you first hit a new level. This could be through piggy bank, spinning wheel, etc.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "a29cad67-c19a-4de6-af52-179f12b71a34",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:43:00.000Z",
+      "last_edited_time": "2021-09-20T14:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "c3f0d652-74b0-4a76-8246-d172b5321844",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:38:00.000Z",
+      "last_edited_time": "2021-09-20T14:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Spells",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Spells",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ": Because spells rarely advance your board space, the default is to spend your gold on characters, NOT spells. Spells tend to fill in the cracks between your extra gold. The exception, again, tends to be if you're ahead ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ": Because spells rarely advance your board space, the default is to spend your gold on characters, NOT spells. Spells tend to fill in the cracks between your extra gold. The exception, again, tends to be if you're ahead ",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "b30b73d7-b199-4816-8efa-debe082f4e0d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:54:00.000Z",
+      "last_edited_time": "2021-09-20T14:54:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "38b39153-2725-495d-bd3e-b3b30e158860",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:38:00.000Z",
+      "last_edited_time": "2021-09-20T14:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Rerolls",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Rerolls",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ": In the early game, rerolling tends not to be worth it, as the cost of 1 gold is a large chunk of your total budget. In the mid-game, the variance in the power level of different cards tends to be a lot higher, so you start spending your rolls to find comp-appropriate and high-level characters, as well as duplicates for treasures.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ": In the early game, rerolling tends not to be worth it, as the cost of 1 gold is a large chunk of your total budget. In the mid-game, the variance in the power level of different cards tends to be a lot higher, so you start spending your rolls to find comp-appropriate and high-level characters, as well as duplicates for treasures.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3748700b-3fdf-4583-aab4-e65535066a14",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:56:00.000Z",
+      "last_edited_time": "2021-09-20T14:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "In the end game, rerolling is a huge chunk of what you do, because very few characters are actually relevant or improve your endgame comp.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "In the end game, rerolling is a huge chunk of what you do, because very few characters are actually relevant or improve your endgame comp.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "111ec7ee-2765-402b-8644-7e1a000f3fbc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:43:00.000Z",
+      "last_edited_time": "2021-09-20T14:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "8d570392-7cdc-416f-bb2c-c65cfbe88cc3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:43:00.000Z",
+      "last_edited_time": "2021-09-20T14:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Time management",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Time management",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "aed92625-5355-4bb7-b9c5-fc7952de7449",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:43:00.000Z",
+      "last_edited_time": "2021-09-20T14:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Your three basic resources in Storybook Brawl are: Gold, Health, and Time. The last one is the most interesting, because in most other card games like Hearthstone or Magic, time is rarely a bottleneck. But in Storybook Brawl, a new set of options is always just a reroll away, so individually analyzing w",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Your three basic resources in Storybook Brawl are: Gold, Health, and Time. The last one is the most interesting, because in most other card games like Hearthstone or Magic, time is rarely a bottleneck. But in Storybook Brawl, a new set of options is always just a reroll away, so individually analyzing w",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "77e37e0e-7c83-45f1-aa7d-a51da3ad92d8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:45:00.000Z",
+      "last_edited_time": "2021-09-20T14:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Part of getting better at the game is seeing the patterns (which late game comps are strong, which characters are never worth picking up)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Part of getting better at the game is seeing the patterns (which late game comps are strong, which characters are never worth picking up)",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "bf812ad0-dd86-45ca-a43f-9aab8188bd51",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:45:00.000Z",
+      "last_edited_time": "2021-09-20T14:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "f51faa1a-6a1f-47fa-8601-5537aedc04bd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:21:00.000Z",
+      "last_edited_time": "2021-09-20T14:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Advanced",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Advanced",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "5f14116c-6eae-48f0-a6ab-dc3c45e4b3b1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:21:00.000Z",
+      "last_edited_time": "2021-09-20T14:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Strategy",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Strategy",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3f5c6462-23ba-4004-8c60-20db5c4e9ca2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:22:00.000Z",
+      "last_edited_time": "2021-09-20T14:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Comps",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Comps",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "bc362841-b87f-4cc3-96ac-e2f20943d0e0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2cbf5bd3-5de1-464f-a467-a11ead034b95"
+      },
+      "created_time": "2021-09-20T14:21:00.000Z",
+      "last_edited_time": "2021-09-20T14:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2285 @@
+{
+  "page": {
+    "id": "218a6e41f23e805bb107ed399ee72e07",
+    "title": "On Loyalty",
+    "date": "2025-06-20T16:26:00.000+00:00",
+    "edited": "2025-06-20T17:17:00.000Z",
+    "url": "https://akrolsmir.notion.site/On-Loyalty-218a6e41f23e805bb107ed399ee72e07",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "218a6e41-f23e-80d8-9a9a-e2231f7cd9f0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "218a6e41-f23e-805b-b107-ed399ee72e07"
+      },
+      "created_time": "2025-06-20T16:26:00.000Z",
+      "last_edited_time": "2025-06-20T16:26:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Kinds of loyalty",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Kinds of loyalty",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "218a6e41-f23e-8072-8ec9-f25b52a62a4b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "218a6e41-f23e-805b-b107-ed399ee72e07"
+      },
+      "created_time": "2025-06-20T16:26:00.000Z",
+      "last_edited_time": "2025-06-20T16:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Loyalty to a person",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Loyalty to a person",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "218a6e41-f23e-8062-8232-e8664665e8b9",
+          "parent": {
+            "type": "block_id",
+            "block_id": "218a6e41-f23e-8072-8ec9-f25b52a62a4b"
+          },
+          "created_time": "2025-06-20T16:29:00.000Z",
+          "last_edited_time": "2025-06-20T16:29:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "To a friend",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "To a friend",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "218a6e41-f23e-8002-ba13-fb273f67a845",
+          "parent": {
+            "type": "block_id",
+            "block_id": "218a6e41-f23e-8072-8ec9-f25b52a62a4b"
+          },
+          "created_time": "2025-06-20T16:27:00.000Z",
+          "last_edited_time": "2025-06-20T16:29:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "To a partner, a lover",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "To a partner, a lover",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "218a6e41-f23e-8047-a5dc-e2c904970e92",
+          "parent": {
+            "type": "block_id",
+            "block_id": "218a6e41-f23e-8072-8ec9-f25b52a62a4b"
+          },
+          "created_time": "2025-06-20T16:29:00.000Z",
+          "last_edited_time": "2025-06-20T16:29:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "To family",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "To family",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "218a6e41-f23e-80a2-bf32-e456ec52468c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "218a6e41-f23e-8072-8ec9-f25b52a62a4b"
+          },
+          "created_time": "2025-06-20T16:33:00.000Z",
+          "last_edited_time": "2025-06-20T16:33:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "To yourself",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "To yourself",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "218a6e41-f23e-8048-ad05-ed46d79a9e7c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "218a6e41-f23e-805b-b107-ed399ee72e07"
+      },
+      "created_time": "2025-06-20T16:26:00.000Z",
+      "last_edited_time": "2025-06-20T16:27:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Loyalty to a cause",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Loyalty to a cause",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "218a6e41-f23e-80fb-9b68-d041d636cbe9",
+          "parent": {
+            "type": "block_id",
+            "block_id": "218a6e41-f23e-8048-ad05-ed46d79a9e7c"
+          },
+          "created_time": "2025-06-20T16:27:00.000Z",
+          "last_edited_time": "2025-06-20T16:29:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "To orgs, companies",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "To orgs, companies",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "218a6e41-f23e-8099-86a1-f712980218a3",
+          "parent": {
+            "type": "block_id",
+            "block_id": "218a6e41-f23e-8048-ad05-ed46d79a9e7c"
+          },
+          "created_time": "2025-06-20T16:26:00.000Z",
+          "last_edited_time": "2025-06-20T16:29:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "To countries",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "To countries",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "218a6e41-f23e-8060-9022-d16cfc545ed2",
+          "parent": {
+            "type": "block_id",
+            "block_id": "218a6e41-f23e-8048-ad05-ed46d79a9e7c"
+          },
+          "created_time": "2025-06-20T16:26:00.000Z",
+          "last_edited_time": "2025-06-20T16:29:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "To movements, religions",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "To movements, religions",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "218a6e41-f23e-80b7-aa41-c32ca488951f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "218a6e41-f23e-8048-ad05-ed46d79a9e7c"
+          },
+          "created_time": "2025-06-20T16:26:00.000Z",
+          "last_edited_time": "2025-06-20T16:29:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "To ideas",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "To ideas",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "218a6e41-f23e-805b-85c4-cb10cb36ad0d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "218a6e41-f23e-805b-b107-ed399ee72e07"
+      },
+      "created_time": "2025-06-20T16:29:00.000Z",
+      "last_edited_time": "2025-06-20T16:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Examples of loyalty",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Examples of loyalty",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "218a6e41-f23e-80c6-9ed2-f11213d649c3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "218a6e41-f23e-805b-b107-ed399ee72e07"
+      },
+      "created_time": "2025-06-20T16:43:00.000Z",
+      "last_edited_time": "2025-06-20T16:56:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Publicly standing up for someone who did you a good turn",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Publicly standing up for someone who did you a good turn",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "218a6e41-f23e-80c4-8f70-f092dfece194",
+      "parent": {
+        "type": "page_id",
+        "page_id": "218a6e41-f23e-805b-b107-ed399ee72e07"
+      },
+      "created_time": "2025-06-20T16:42:00.000Z",
+      "last_edited_time": "2025-06-20T16:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Helping an old friend get through an alcohol addiction",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Helping an old friend get through an alcohol addiction",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "218a6e41-f23e-80aa-a874-eb98c5ab8a46",
+      "parent": {
+        "type": "page_id",
+        "page_id": "218a6e41-f23e-805b-b107-ed399ee72e07"
+      },
+      "created_time": "2025-06-20T17:10:00.000Z",
+      "last_edited_time": "2025-06-20T17:11:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Retroactive funding to a writer who has taught you a lot",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Retroactive funding to a writer who has taught you a lot",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "218a6e41-f23e-8074-8157-f9b2c662c981",
+      "parent": {
+        "type": "page_id",
+        "page_id": "218a6e41-f23e-805b-b107-ed399ee72e07"
+      },
+      "created_time": "2025-06-20T17:03:00.000Z",
+      "last_edited_time": "2025-06-20T17:11:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Early Christian martyrdom was loyalty to Christ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Early Christian martyrdom was loyalty to Christ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "218a6e41-f23e-8026-aa5d-ce264ec7d102",
+      "parent": {
+        "type": "page_id",
+        "page_id": "218a6e41-f23e-805b-b107-ed399ee72e07"
+      },
+      "created_time": "2025-06-20T16:29:00.000Z",
+      "last_edited_time": "2025-06-20T16:29:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Why is loyalty good?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Why is loyalty good?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "218a6e41-f23e-80d1-97d7-df48f6cf9f3b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "218a6e41-f23e-805b-b107-ed399ee72e07"
+      },
+      "created_time": "2025-06-20T16:36:00.000Z",
+      "last_edited_time": "2025-06-20T17:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Allows for high commitment from both parties, and deepening of a relationship",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Allows for high commitment from both parties, and deepening of a relationship",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "218a6e41-f23e-8064-9e7e-ebd62c679c69",
+          "parent": {
+            "type": "block_id",
+            "block_id": "218a6e41-f23e-80d1-97d7-df48f6cf9f3b"
+          },
+          "created_time": "2025-06-20T17:12:00.000Z",
+          "last_edited_time": "2025-06-20T17:16:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Think of loyalty in a marriage",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Think of loyalty in a marriage",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "218a6e41-f23e-8017-ae38-e65c6da69496",
+          "parent": {
+            "type": "block_id",
+            "block_id": "218a6e41-f23e-80d1-97d7-df48f6cf9f3b"
+          },
+          "created_time": "2025-06-20T17:16:00.000Z",
+          "last_edited_time": "2025-06-20T17:17:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Relies on trust rather than legibility",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Relies on trust rather than legibility",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "218a6e41-f23e-80ef-ab1b-c9e1890fb7d1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "218a6e41-f23e-805b-b107-ed399ee72e07"
+      },
+      "created_time": "2025-06-20T16:39:00.000Z",
+      "last_edited_time": "2025-06-20T17:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Loyalty is a force for justice and fairness, in a decentralized way",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Loyalty is a force for justice and fairness, in a decentralized way",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "218a6e41-f23e-8009-8269-fe2e8364d43b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "218a6e41-f23e-80ef-ab1b-c9e1890fb7d1"
+          },
+          "created_time": "2025-06-20T16:41:00.000Z",
+          "last_edited_time": "2025-06-20T16:58:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Rather than enforcing fairness through an impartial court, loyalty makes the world better through",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Rather than enforcing fairness through an impartial court, loyalty makes the world better through",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "218a6e41-f23e-803c-b163-e2da87c972a8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "218a6e41-f23e-805b-b107-ed399ee72e07"
+      },
+      "created_time": "2025-06-20T16:29:00.000Z",
+      "last_edited_time": "2025-06-20T17:10:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Useful heuristic when deciding who to work with, who to reward, who to believe",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Useful heuristic when deciding who to work with, who to reward, who to believe",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "218a6e41-f23e-8059-8fda-fe5e4282bc38",
+          "parent": {
+            "type": "block_id",
+            "block_id": "218a6e41-f23e-803c-b163-e2da87c972a8"
+          },
+          "created_time": "2025-06-20T17:10:00.000Z",
+          "last_edited_time": "2025-06-20T17:10:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "The world is full of people who want things from you, and loyalty helps you decide which ones to ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "The world is full of people who want things from you, and loyalty helps you decide which ones to ",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "218a6e41-f23e-805a-bc04-e1b28d6a8567",
+      "parent": {
+        "type": "page_id",
+        "page_id": "218a6e41-f23e-805b-b107-ed399ee72e07"
+      },
+      "created_time": "2025-06-20T16:29:00.000Z",
+      "last_edited_time": "2025-06-20T16:30:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Why might loyalty be bad?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Why might loyalty be bad?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "218a6e41-f23e-800a-a7f3-fe609184260f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "218a6e41-f23e-805b-b107-ed399ee72e07"
+      },
+      "created_time": "2025-06-20T16:30:00.000Z",
+      "last_edited_time": "2025-06-20T17:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "EA seems somewhat at odds with loyalty",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "EA seems somewhat at odds with loyalty",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "218a6e41-f23e-8077-9bc5-d9f62d3a3167",
+          "parent": {
+            "type": "block_id",
+            "block_id": "218a6e41-f23e-800a-a7f3-fe609184260f"
+          },
+          "created_time": "2025-06-20T16:31:00.000Z",
+          "last_edited_time": "2025-06-20T17:05:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "EA-the-ideal stands for values of being utilitarian, selfless, caring about others regardless of how they care about you or what they can do for you",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "EA-the-ideal stands for values of being utilitarian, selfless, caring about others regardless of how they care about you or what they can do for you",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "218a6e41-f23e-80e5-b4ae-d64099fcbfbf",
+          "parent": {
+            "type": "block_id",
+            "block_id": "218a6e41-f23e-800a-a7f3-fe609184260f"
+          },
+          "created_time": "2025-06-20T17:02:00.000Z",
+          "last_edited_time": "2025-06-20T17:09:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "EA-the-movement practices some amount of loyalty (eg funding and invites for folks who are “aligned”)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "EA-the-movement practices some amount of loyalty (eg funding and invites for folks who are “aligned”)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "218a6e41-f23e-8011-ad66-e13925a0ced9",
+          "parent": {
+            "type": "block_id",
+            "block_id": "218a6e41-f23e-800a-a7f3-fe609184260f"
+          },
+          "created_time": "2025-06-20T17:08:00.000Z",
+          "last_edited_time": "2025-06-20T17:09:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Loyalty seems soldier-y, where EA/rats care about scout-ness",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Loyalty seems soldier-y, where EA/rats care about scout-ness",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "218a6e41-f23e-80b9-8b65-ee2d0d328190",
+      "parent": {
+        "type": "page_id",
+        "page_id": "218a6e41-f23e-805b-b107-ed399ee72e07"
+      },
+      "created_time": "2025-06-20T16:31:00.000Z",
+      "last_edited_time": "2025-06-20T17:11:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "In excess, blind loyalty is associated with authoritarianism, nationalism",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "In excess, blind loyalty is associated with authoritarianism, nationalism",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "218a6e41-f23e-8027-8b4e-eb60ebece59a",
+          "parent": {
+            "type": "block_id",
+            "block_id": "218a6e41-f23e-80b9-8b65-ee2d0d328190"
+          },
+          "created_time": "2025-06-20T17:11:00.000Z",
+          "last_edited_time": "2025-06-20T17:11:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Trump is famously loyalty-driven",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Trump is famously loyalty-driven",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "218a6e41-f23e-80c9-89d1-e826815af831",
+          "parent": {
+            "type": "block_id",
+            "block_id": "218a6e41-f23e-80b9-8b65-ee2d0d328190"
+          },
+          "created_time": "2025-06-20T16:35:00.000Z",
+          "last_edited_time": "2025-06-20T17:11:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Loyalty creates winners and losers; if you’re not in the circle of loyalty for someone powerful, it might seem (or be) unfair",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Loyalty creates winners and losers; if you’re not in the circle of loyalty for someone powerful, it might seem (or be) unfair",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "218a6e41-f23e-8019-a593-c7e2ec894dea",
+          "parent": {
+            "type": "block_id",
+            "block_id": "218a6e41-f23e-80b9-8b65-ee2d0d328190"
+          },
+          "created_time": "2025-06-20T16:36:00.000Z",
+          "last_edited_time": "2025-06-20T17:11:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Loyalty is meritocratic, only to the extent that the person you’re loyal to is actually good",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Loyalty is meritocratic, only to the extent that the person you’re loyal to is actually good",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "218a6e41-f23e-8033-af90-e21d4eb92415",
+      "parent": {
+        "type": "page_id",
+        "page_id": "218a6e41-f23e-805b-b107-ed399ee72e07"
+      },
+      "created_time": "2025-06-20T16:57:00.000Z",
+      "last_edited_time": "2025-06-20T17:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Loyalty and identity: Does loyalty make sense if somebody you loved has changed?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Loyalty and identity: Does loyalty make sense if somebody you loved has changed?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "218a6e41-f23e-8094-b3e9-dec17d86b0b6",
+          "parent": {
+            "type": "block_id",
+            "block_id": "218a6e41-f23e-8033-af90-e21d4eb92415"
+          },
+          "created_time": "2025-06-20T16:57:00.000Z",
+          "last_edited_time": "2025-06-20T17:15:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Can you be loyal to the older version of (a person, a movement, a country), while spurning the present version? Would it be virtuous, loyal to help that person stay true to their older self? Or to adapt with them?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Can you be loyal to the older version of (a person, a movement, a country), while spurning the present version? Would it be virtuous, loyal to help that person stay true to their older self? Or to adapt with them?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "218a6e41-f23e-80a1-9756-f40afed3b11e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "218a6e41-f23e-805b-b107-ed399ee72e07"
+      },
+      "created_time": "2025-06-20T16:30:00.000Z",
+      "last_edited_time": "2025-06-20T16:30:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Related virtues",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Related virtues",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "218a6e41-f23e-8003-b8ae-c31411a5b531",
+      "parent": {
+        "type": "page_id",
+        "page_id": "218a6e41-f23e-805b-b107-ed399ee72e07"
+      },
+      "created_time": "2025-06-20T16:32:00.000Z",
+      "last_edited_time": "2025-06-20T17:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Sacrifice. Loyalty matters most — maybe only matters at all — when it’s put to the test, when you have to give up something (money, time, reputation, public standing, your life) in support of what you’re loyal to. When there’s no clear immediate personal benefit to being loyal.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Sacrifice. Loyalty matters most — maybe only matters at all — when it’s put to the test, when you have to give up something (money, time, reputation, public standing, your life) in support of what you’re loyal to. When there’s no clear immediate personal benefit to being loyal.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "218a6e41-f23e-8006-9d94-cff7c1279159",
+      "parent": {
+        "type": "page_id",
+        "page_id": "218a6e41-f23e-805b-b107-ed399ee72e07"
+      },
+      "created_time": "2025-06-20T16:30:00.000Z",
+      "last_edited_time": "2025-06-20T16:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Empathy, “guess culture”, modeling others",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Empathy, “guess culture”, modeling others",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "218a6e41-f23e-80a9-aa77-c5f8fbe239d5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "218a6e41-f23e-805b-b107-ed399ee72e07"
+      },
+      "created_time": "2025-06-20T16:58:00.000Z",
+      "last_edited_time": "2025-06-20T16:58:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Faith, trust, belief",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Faith, trust, belief",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "218a6e41-f23e-8014-9e33-d044a8206405",
+      "parent": {
+        "type": "page_id",
+        "page_id": "218a6e41-f23e-805b-b107-ed399ee72e07"
+      },
+      "created_time": "2025-06-20T17:04:00.000Z",
+      "last_edited_time": "2025-06-20T17:04:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Reliability, consistency, predictability",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Reliability, consistency, predictability",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "218a6e41-f23e-8041-833a-d18b634f9235",
+      "parent": {
+        "type": "page_id",
+        "page_id": "218a6e41-f23e-805b-b107-ed399ee72e07"
+      },
+      "created_time": "2025-06-20T16:30:00.000Z",
+      "last_edited_time": "2025-06-20T16:30:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "218a6e41-f23e-807f-b2c3-c0e24a3605a2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "218a6e41-f23e-805b-b107-ed399ee72e07"
+      },
+      "created_time": "2025-06-20T16:30:00.000Z",
+      "last_edited_time": "2025-06-20T17:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Personal examples where “loyalty” seemed appropriate",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Personal examples where “loyalty” seemed appropriate",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "218a6e41-f23e-80e6-aebd-da67c13059a1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "218a6e41-f23e-805b-b107-ed399ee72e07"
+      },
+      "created_time": "2025-06-20T16:59:00.000Z",
+      "last_edited_time": "2025-06-20T16:59:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "The kinds of loyalty that I seem to exercise most these days is helping out people who supported me when I was much less well-known, capable.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "The kinds of loyalty that I seem to exercise most these days is helping out people who supported me when I was much less well-known, capable.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "218a6e41-f23e-801f-8257-d033456e2d13",
+      "parent": {
+        "type": "page_id",
+        "page_id": "218a6e41-f23e-805b-b107-ed399ee72e07"
+      },
+      "created_time": "2025-06-20T16:30:00.000Z",
+      "last_edited_time": "2025-06-20T17:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Throughout Manifold:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Throughout Manifold:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "218a6e41-f23e-8038-a404-c82df58bc20f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "218a6e41-f23e-805b-b107-ed399ee72e07"
+      },
+      "created_time": "2025-06-20T16:59:00.000Z",
+      "last_edited_time": "2025-06-20T17:00:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "The Manifold team, the Manifold community",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "The Manifold team, the Manifold community",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "218a6e41-f23e-8042-a80a-e664877a9620",
+      "parent": {
+        "type": "page_id",
+        "page_id": "218a6e41-f23e-805b-b107-ed399ee72e07"
+      },
+      "created_time": "2025-06-20T16:30:00.000Z",
+      "last_edited_time": "2025-06-20T16:50:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "To Scott Alexander",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "To Scott Alexander",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "218a6e41-f23e-8008-a753-c6b92980bf6b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "218a6e41-f23e-805b-b107-ed399ee72e07"
+      },
+      "created_time": "2025-06-20T16:30:00.000Z",
+      "last_edited_time": "2025-06-20T16:50:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "To FTX & Future Fund",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "To FTX & Future Fund",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "218a6e41-f23e-80ec-a6e2-dbdac4648c0f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "218a6e41-f23e-8008-a753-c6b92980bf6b"
+          },
+          "created_time": "2025-06-20T16:50:00.000Z",
+          "last_edited_time": "2025-06-20T16:56:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "One of my biggest regrets is not standing up more for the Future Fund ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "One of my biggest regrets is not standing up more for the Future Fund ",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "218a6e41-f23e-8068-a241-ed4db50d51dc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "218a6e41-f23e-805b-b107-ed399ee72e07"
+      },
+      "created_time": "2025-06-20T16:36:00.000Z",
+      "last_edited_time": "2025-06-20T17:00:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "To EA",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "To EA",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "218a6e41-f23e-80ea-bd9f-c31ccfcbf694",
+          "parent": {
+            "type": "block_id",
+            "block_id": "218a6e41-f23e-8068-a241-ed4db50d51dc"
+          },
+          "created_time": "2025-06-20T16:37:00.000Z",
+          "last_edited_time": "2025-06-20T17:00:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "EA Bahamas",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "EA Bahamas",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "218a6e41-f23e-8014-858f-e094729c471d",
+          "parent": {
+            "type": "block_id",
+            "block_id": "218a6e41-f23e-8068-a241-ed4db50d51dc"
+          },
+          "created_time": "2025-06-20T16:37:00.000Z",
+          "last_edited_time": "2025-06-20T17:00:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Future Forum",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Future Forum",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "218a6e41-f23e-80fc-a4ac-e30acf969122",
+      "parent": {
+        "type": "page_id",
+        "page_id": "218a6e41-f23e-805b-b107-ed399ee72e07"
+      },
+      "created_time": "2025-06-20T16:30:00.000Z",
+      "last_edited_time": "2025-06-20T16:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "To Richard Hanania, through Manifest controversy",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "To Richard Hanania, through Manifest controversy",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "218a6e41-f23e-8049-aeab-e0ecad281813",
+      "parent": {
+        "type": "page_id",
+        "page_id": "218a6e41-f23e-805b-b107-ed399ee72e07"
+      },
+      "created_time": "2025-06-20T17:13:00.000Z",
+      "last_edited_time": "2025-06-20T17:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    }
+  ]
+}

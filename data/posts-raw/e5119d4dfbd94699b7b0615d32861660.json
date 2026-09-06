@@ -1,0 +1,1038 @@
+{
+  "page": {
+    "id": "e5119d4dfbd94699b7b0615d32861660",
+    "title": "On meeting heroes",
+    "date": "2022-04-19",
+    "edited": "2022-04-24T19:52:00.000Z",
+    "url": "https://akrolsmir.notion.site/On-meeting-heroes-e5119d4dfbd94699b7b0615d32861660",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "4cf06ab5-4cbd-4266-9cdb-d3b92da8309e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "e5119d4d-fbd9-4699-b7b0-615d32861660"
+      },
+      "created_time": "2022-04-19T17:36:00.000Z",
+      "last_edited_time": "2022-04-19T17:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Since working on Manifold, I’ve met the coolest people on earth",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Since working on Manifold, I’ve met the coolest people on earth",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "4c728e09-424c-4644-8e4f-092265c71159",
+          "parent": {
+            "type": "block_id",
+            "block_id": "4cf06ab5-4cbd-4266-9cdb-d3b92da8309e"
+          },
+          "created_time": "2022-04-19T17:36:00.000Z",
+          "last_edited_time": "2022-04-19T17:46:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Would name them to make this concrete, BUT don’t want to appropriate status. So an analogy:",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Would name them to make this concrete, BUT don’t want to appropriate status. So an analogy:",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "20c0a921-3dca-40bf-947e-9b9ceae5972b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "4cf06ab5-4cbd-4266-9cdb-d3b92da8309e"
+          },
+          "created_time": "2022-04-19T17:36:00.000Z",
+          "last_edited_time": "2022-04-19T17:42:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Imagine you listen to Taylor Swift every day. Then Taylor Swift reaches out and says “hey I saw your music critique blog, super cool, wanna get lunch?” and then you have lunch and she basically presents as a normal human being, and sometimes trips over her own feet.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Imagine you listen to Taylor Swift every day. Then Taylor Swift reaches out and says “hey I saw your music critique blog, super cool, wanna get lunch?” and then you have lunch and she basically presents as a normal human being, and sometimes trips over her own feet.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "38a1f236-cdc7-46ba-aef4-5c6641002cd7",
+              "parent": {
+                "type": "block_id",
+                "block_id": "20c0a921-3dca-40bf-947e-9b9ceae5972b"
+              },
+              "created_time": "2022-04-19T17:39:00.000Z",
+              "last_edited_time": "2022-04-19T17:46:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "This has happened to me 5-10 times in the last 6 months",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "This has happened to me 5-10 times in the last 6 months",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "973cba58-8c3d-41fc-89eb-dd653f69dd95",
+      "parent": {
+        "type": "page_id",
+        "page_id": "e5119d4d-fbd9-4699-b7b0-615d32861660"
+      },
+      "created_time": "2022-04-19T17:39:00.000Z",
+      "last_edited_time": "2022-04-19T17:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Saying: Never meet your heroes",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Saying: Never meet your heroes",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "e8a538e1-c195-4dbb-b73d-93a20306c52e",
+          "parent": {
+            "type": "block_id",
+            "block_id": "973cba58-8c3d-41fc-89eb-dd653f69dd95"
+          },
+          "created_time": "2022-04-19T17:41:00.000Z",
+          "last_edited_time": "2022-04-19T17:42:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Thought it was because “they’ll disappoint you”",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Thought it was because “they’ll disappoint you”",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "385fd1d0-9ecf-46cb-85e9-b01e4c74772a",
+              "parent": {
+                "type": "block_id",
+                "block_id": "e8a538e1-c195-4dbb-b73d-93a20306c52e"
+              },
+              "created_time": "2022-04-19T17:41:00.000Z",
+              "last_edited_time": "2022-04-19T17:52:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": true,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "So far, not very disappointed. But surprised - they’re not gods walking the earth",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "So far, not very disappointed. But surprised - they’re not gods walking the earth",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "children": [
+                {
+                  "object": "block",
+                  "id": "cd144602-3d93-478c-8192-8125d3c05939",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "385fd1d0-9ecf-46cb-85e9-b01e4c74772a"
+                  },
+                  "created_time": "2022-04-19T17:38:00.000Z",
+                  "last_edited_time": "2022-04-19T17:52:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Someone told me: this is good and normal; people who don’t present as normal, you should be extra skeptical of",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Someone told me: this is good and normal; people who don’t present as normal, you should be extra skeptical of",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "413e30f8-b5d2-42e6-a2d1-f65cc029e888",
+      "parent": {
+        "type": "page_id",
+        "page_id": "e5119d4d-fbd9-4699-b7b0-615d32861660"
+      },
+      "created_time": "2022-04-19T17:42:00.000Z",
+      "last_edited_time": "2022-04-19T17:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Worry: ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Worry: ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "there are no gods walking the earth",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "there are no gods walking the earth",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ". No cabal of hypercompetent beings ready to take the helm when the going gets tough.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ". No cabal of hypercompetent beings ready to take the helm when the going gets tough.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "7fb2f2e9-bb29-43b6-a5e0-687bafaf6bb5",
+          "parent": {
+            "type": "block_id",
+            "block_id": "413e30f8-b5d2-42e6-a2d1-f65cc029e888"
+          },
+          "created_time": "2022-04-19T17:43:00.000Z",
+          "last_edited_time": "2022-04-19T17:47:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Or at least it’s not clear there is a helm to take!",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Or at least it’s not clear there is a helm to take!",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "767665be-f7e6-473c-a569-04d3b7bd2581",
+          "parent": {
+            "type": "block_id",
+            "block_id": "413e30f8-b5d2-42e6-a2d1-f65cc029e888"
+          },
+          "created_time": "2022-04-19T17:43:00.000Z",
+          "last_edited_time": "2022-04-19T17:47:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Holy shit what are we going to do about XRisk",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Holy shit what are we going to do about XRisk",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "85668017-a186-405d-a51e-b33530318b7c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "413e30f8-b5d2-42e6-a2d1-f65cc029e888"
+          },
+          "created_time": "2022-04-19T17:42:00.000Z",
+          "last_edited_time": "2022-04-19T17:43:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Eliezer on hypercompetent elites: ... maybe I just haven’t met them yet...?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Eliezer on hypercompetent elites: ... maybe I just haven’t met them yet...?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "d1d3c4e0-b039-4645-91c4-5c535d715799",
+          "parent": {
+            "type": "block_id",
+            "block_id": "413e30f8-b5d2-42e6-a2d1-f65cc029e888"
+          },
+          "created_time": "2022-04-19T17:42:00.000Z",
+          "last_edited_time": "2022-04-19T17:48:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Positive spin: You (and your friends) can be heroes too",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Positive spin: You (and your friends) can be heroes too",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "123ab1e3-4c9c-458a-8fee-b7b5bab9669b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "e5119d4d-fbd9-4699-b7b0-615d32861660"
+      },
+      "created_time": "2022-04-19T17:44:00.000Z",
+      "last_edited_time": "2022-04-19T17:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Turns out, my heroes aren’t everyone’s heroes",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Turns out, my heroes aren’t everyone’s heroes",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "da11e1bc-cb67-4cb4-a4ae-eec736cf3e34",
+          "parent": {
+            "type": "block_id",
+            "block_id": "123ab1e3-4c9c-458a-8fee-b7b5bab9669b"
+          },
+          "created_time": "2022-04-19T17:44:00.000Z",
+          "last_edited_time": "2022-04-19T17:49:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Get home, meet my housemate who for context has donated a big chunk of their income to charity. Shyly tell them “I uh met X” and they were like “lol who is X” and I was sad",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Get home, meet my housemate who for context has donated a big chunk of their income to charity. Shyly tell them “I uh met X” and they were like “lol who is X” and I was sad",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "f9f5ad7f-a618-4f38-8c9b-8cfca4b1ba83",
+      "parent": {
+        "type": "page_id",
+        "page_id": "e5119d4d-fbd9-4699-b7b0-615d32861660"
+      },
+      "created_time": "2022-04-19T17:40:00.000Z",
+      "last_edited_time": "2022-04-24T19:52:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Takeways",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Takeways",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "6aabbbe9-ff91-4d28-bf8b-9caefeac2bab",
+          "parent": {
+            "type": "block_id",
+            "block_id": "f9f5ad7f-a618-4f38-8c9b-8cfca4b1ba83"
+          },
+          "created_time": "2022-04-19T17:40:00.000Z",
+          "last_edited_time": "2022-04-19T17:46:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Sometimes it’s worth just doing things you think are cool. Big motivating factor for building Manifold is because I thought one of my heroes would like it",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Sometimes it’s worth just doing things you think are cool. Big motivating factor for building Manifold is because I thought one of my heroes would like it",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "dc6e177a-4278-45e8-8daa-9926f8d758b1",
+          "parent": {
+            "type": "block_id",
+            "block_id": "f9f5ad7f-a618-4f38-8c9b-8cfca4b1ba83"
+          },
+          "created_time": "2022-04-19T17:44:00.000Z",
+          "last_edited_time": "2022-04-19T17:50:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Worth cold-reaching out to your heroes, probably",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Worth cold-reaching out to your heroes, probably",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "32e50f99-30be-47fb-ab3e-66b566f88e59",
+              "parent": {
+                "type": "block_id",
+                "block_id": "dc6e177a-4278-45e8-8daa-9926f8d758b1"
+              },
+              "created_time": "2022-04-19T17:44:00.000Z",
+              "last_edited_time": "2022-04-19T17:50:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Email advice for busy people",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Email advice for busy people",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "1b4a8a02-a94f-4688-9e08-3888d79e7a3f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "f9f5ad7f-a618-4f38-8c9b-8cfca4b1ba83"
+          },
+          "created_time": "2022-04-19T17:50:00.000Z",
+          "last_edited_time": "2022-04-19T17:52:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Sometimes people seem to want to talk to me because I am a “founder of Manifold” and this is honestly somewhat startling each time but also incredibly heartwarming",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Sometimes people seem to want to talk to me because I am a “founder of Manifold” and this is honestly somewhat startling each time but also incredibly heartwarming",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "1da7ad6c-2d89-4bc2-87ab-d0ff57666b6a",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1b4a8a02-a94f-4688-9e08-3888d79e7a3f"
+              },
+              "created_time": "2022-04-19T17:51:00.000Z",
+              "last_edited_time": "2022-04-19T17:51:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "I promise you I’m a regular person. And would love to chat.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "I promise you I’m a regular person. And would love to chat.",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "b8b9d4aa-7e2e-472b-a439-5f54626af9c7",
+          "parent": {
+            "type": "block_id",
+            "block_id": "f9f5ad7f-a618-4f38-8c9b-8cfca4b1ba83"
+          },
+          "created_time": "2022-04-24T19:52:00.000Z",
+          "last_edited_time": "2022-04-24T19:52:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [],
+            "icon": null,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "c4f51295-c6d7-45b9-a526-4ae23e862d4a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "e5119d4d-fbd9-4699-b7b0-615d32861660"
+      },
+      "created_time": "2022-04-19T17:38:00.000Z",
+      "last_edited_time": "2022-04-24T19:52:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "The coolest people in the world aren’t cool because they’re smarter than you. They just care about more important things.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "The coolest people in the world aren’t cool because they’re smarter than you. They just care about more important things.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    }
+  ]
+}

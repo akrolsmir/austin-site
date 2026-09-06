@@ -1,0 +1,2216 @@
+{
+  "page": {
+    "id": "410cc7fcd9a6405ca37549b5f93d1ccb",
+    "title": "Attention is money, money is attention",
+    "date": "2022-04-20",
+    "edited": "2022-07-07T03:38:00.000Z",
+    "url": "https://akrolsmir.notion.site/Attention-is-money-money-is-attention-410cc7fcd9a6405ca37549b5f93d1ccb",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "4ecb255e-1112-42cc-b52f-702259b4d0e6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "410cc7fc-d9a6-405c-a375-49b5f93d1ccb"
+      },
+      "created_time": "2022-04-22T07:08:00.000Z",
+      "last_edited_time": "2022-04-22T07:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "v1",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "v1",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "5a777f34-f0e2-45ae-8c3b-9510fe2c7887",
+      "parent": {
+        "type": "page_id",
+        "page_id": "410cc7fc-d9a6-405c-a375-49b5f93d1ccb"
+      },
+      "created_time": "2022-04-22T07:08:00.000Z",
+      "last_edited_time": "2022-04-22T07:10:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Fundamentally: money is “the thing that is scarce”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Fundamentally: money is “the thing that is scarce”",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "ca31d504-149a-4510-b711-2be92c3d474f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "5a777f34-f0e2-45ae-8c3b-9510fe2c7887"
+          },
+          "created_time": "2022-04-22T07:09:00.000Z",
+          "last_edited_time": "2022-04-22T07:10:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Social fiction that is used to represent scarcity",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Social fiction that is used to represent scarcity",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "010bda17-b559-46af-a230-080806663194",
+      "parent": {
+        "type": "page_id",
+        "page_id": "410cc7fc-d9a6-405c-a375-49b5f93d1ccb"
+      },
+      "created_time": "2022-04-22T07:10:00.000Z",
+      "last_edited_time": "2022-04-22T07:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Historically, scarce things looked like: land, gold, food, clothing, information",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Historically, scarce things looked like: land, gold, food, clothing, information",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "e5a8e159-fc6e-4b0e-b2c5-3b7f47282ab1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "410cc7fc-d9a6-405c-a375-49b5f93d1ccb"
+      },
+      "created_time": "2022-04-22T07:11:00.000Z",
+      "last_edited_time": "2022-04-22T07:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Now:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Now:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "6c180b1f-a3b4-45d5-9a3f-89129ef24b82",
+          "parent": {
+            "type": "block_id",
+            "block_id": "e5a8e159-fc6e-4b0e-b2c5-3b7f47282ab1"
+          },
+          "created_time": "2022-04-22T07:11:00.000Z",
+          "last_edited_time": "2022-04-22T07:11:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "land doesn’t matter",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "land doesn’t matter",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "c5601914-ef2e-4192-9a72-ede0a2875d5b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "e5a8e159-fc6e-4b0e-b2c5-3b7f47282ab1"
+          },
+          "created_time": "2022-04-22T07:11:00.000Z",
+          "last_edited_time": "2022-04-22T07:11:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "goods are cheap due to manufacturing",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "goods are cheap due to manufacturing",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "f6d3d61c-91d2-48b6-8e38-c37555680c70",
+          "parent": {
+            "type": "block_id",
+            "block_id": "e5a8e159-fc6e-4b0e-b2c5-3b7f47282ab1"
+          },
+          "created_time": "2022-04-22T07:12:00.000Z",
+          "last_edited_time": "2022-04-22T07:13:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "services are replaced by software",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "services are replaced by software",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "867a5c8b-aaf0-4980-8517-5620b40a858b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "e5a8e159-fc6e-4b0e-b2c5-3b7f47282ab1"
+          },
+          "created_time": "2022-04-22T07:13:00.000Z",
+          "last_edited_time": "2022-04-22T07:13:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "information is transmitted and replicated infinitely",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "information is transmitted and replicated infinitely",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "71e3e580-bd54-48e0-b691-9e8b4bef3d9c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "410cc7fc-d9a6-405c-a375-49b5f93d1ccb"
+      },
+      "created_time": "2022-04-22T07:11:00.000Z",
+      "last_edited_time": "2022-04-22T07:12:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "What’s left? ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "What’s left? ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "The attention of other humans",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "The attention of other humans",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2f0b037a-c7e7-4e1d-a3f9-8c0b9953b623",
+      "parent": {
+        "type": "page_id",
+        "page_id": "410cc7fc-d9a6-405c-a375-49b5f93d1ccb"
+      },
+      "created_time": "2022-04-22T07:18:00.000Z",
+      "last_edited_time": "2022-04-22T07:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2fba8d8e-9151-4176-9214-4ae38dea7035",
+      "parent": {
+        "type": "page_id",
+        "page_id": "410cc7fc-d9a6-405c-a375-49b5f93d1ccb"
+      },
+      "created_time": "2022-04-22T07:12:00.000Z",
+      "last_edited_time": "2022-04-22T07:12:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "In cyberpunk VR utopia the only thing that matters is other people",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "In cyberpunk VR utopia the only thing that matters is other people",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "f4123f0a-ed02-4737-8225-629d744af2c7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "410cc7fc-d9a6-405c-a375-49b5f93d1ccb"
+      },
+      "created_time": "2022-04-22T07:18:00.000Z",
+      "last_edited_time": "2022-04-22T07:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "a001cf62-ad59-4858-b161-67b09eefa390",
+      "parent": {
+        "type": "page_id",
+        "page_id": "410cc7fc-d9a6-405c-a375-49b5f93d1ccb"
+      },
+      "created_time": "2022-04-22T07:18:00.000Z",
+      "last_edited_time": "2022-04-22T07:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "325875e1-7018-4ae4-9358-c1eaaee1398e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "410cc7fc-d9a6-405c-a375-49b5f93d1ccb"
+      },
+      "created_time": "2022-04-22T07:08:00.000Z",
+      "last_edited_time": "2022-04-22T07:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Other candidates for scarcity:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Other candidates for scarcity:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "64311122-f0f6-4f9f-bc7c-36112a4c00dd",
+          "parent": {
+            "type": "block_id",
+            "block_id": "325875e1-7018-4ae4-9358-c1eaaee1398e"
+          },
+          "created_time": "2022-04-22T07:18:00.000Z",
+          "last_edited_time": "2022-04-22T07:18:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Time",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Time",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "7860da8d-4752-4cdb-b27d-a7ca6c19d37f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "325875e1-7018-4ae4-9358-c1eaaee1398e"
+          },
+          "created_time": "2022-04-22T07:18:00.000Z",
+          "last_edited_time": "2022-04-22T07:18:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Health",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Health",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "b92bc500-9b58-4631-9cdb-869679ed046a",
+          "parent": {
+            "type": "block_id",
+            "block_id": "325875e1-7018-4ae4-9358-c1eaaee1398e"
+          },
+          "created_time": "2022-04-22T07:18:00.000Z",
+          "last_edited_time": "2022-04-22T07:18:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Power",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Power",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "207e3b48-3f2d-4198-983d-be3ca6b1275b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "325875e1-7018-4ae4-9358-c1eaaee1398e"
+          },
+          "created_time": "2022-04-22T07:18:00.000Z",
+          "last_edited_time": "2022-04-22T07:18:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Reputation",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Reputation",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "84e3ea54-4969-49a4-baeb-67084f313be2",
+          "parent": {
+            "type": "block_id",
+            "block_id": "325875e1-7018-4ae4-9358-c1eaaee1398e"
+          },
+          "created_time": "2022-04-22T07:18:00.000Z",
+          "last_edited_time": "2022-04-22T07:18:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "(are these other ways of describing attention?)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "(are these other ways of describing attention?)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "e409539b-d20c-4b27-ad2c-ebfdee938ccf",
+          "parent": {
+            "type": "block_id",
+            "block_id": "325875e1-7018-4ae4-9358-c1eaaee1398e"
+          },
+          "created_time": "2022-04-22T07:18:00.000Z",
+          "last_edited_time": "2022-04-22T07:19:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "What goods are positional?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "What goods are positional?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "2b96e665-dd55-4772-9de6-c0204e66fddd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "410cc7fc-d9a6-405c-a375-49b5f93d1ccb"
+      },
+      "created_time": "2022-04-22T07:08:00.000Z",
+      "last_edited_time": "2022-04-22T07:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "v0 braindump",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "v0 braindump",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "ab06e2b1-a8a8-46c9-a84f-609ec4312698",
+      "parent": {
+        "type": "page_id",
+        "page_id": "410cc7fc-d9a6-405c-a375-49b5f93d1ccb"
+      },
+      "created_time": "2022-04-22T07:08:00.000Z",
+      "last_edited_time": "2022-04-22T07:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Ads are a fee in attention space",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Ads are a fee in attention space",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "071e4d10-a50d-47c6-83f7-b7dde27ae16f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "410cc7fc-d9a6-405c-a375-49b5f93d1ccb"
+      },
+      "created_time": "2022-04-22T07:08:00.000Z",
+      "last_edited_time": "2022-04-22T07:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Fees make the world go around",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Fees make the world go around",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "92d6058f-480c-481a-b6c7-9238bf0d89aa",
+      "parent": {
+        "type": "page_id",
+        "page_id": "410cc7fc-d9a6-405c-a375-49b5f93d1ccb"
+      },
+      "created_time": "2022-04-22T07:08:00.000Z",
+      "last_edited_time": "2022-04-22T07:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Taxes are fees",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Taxes are fees",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "65669759-1154-4e7b-a492-e97b8550febd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "410cc7fc-d9a6-405c-a375-49b5f93d1ccb"
+      },
+      "created_time": "2022-04-22T07:08:00.000Z",
+      "last_edited_time": "2022-04-22T07:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Economist should study attention",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Economist should study attention",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1946507a-a77e-492d-8e3c-021b5877eb65",
+      "parent": {
+        "type": "page_id",
+        "page_id": "410cc7fc-d9a6-405c-a375-49b5f93d1ccb"
+      },
+      "created_time": "2022-04-22T07:08:00.000Z",
+      "last_edited_time": "2022-04-22T07:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Attention is the scarce thing M$ represent (cf attention is the scarcest resource)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Attention is the scarce thing M$ represent (cf attention is the scarcest resource)",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "b92d4bb6-aa46-4fe3-bf0e-f8b373e3eda6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "410cc7fc-d9a6-405c-a375-49b5f93d1ccb"
+      },
+      "created_time": "2022-04-22T07:08:00.000Z",
+      "last_edited_time": "2022-04-22T07:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Legitimacy vs attention??",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Legitimacy vs attention??",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "a37a5a2b-8265-4d6d-b708-9bc066a60ffe",
+      "parent": {
+        "type": "page_id",
+        "page_id": "410cc7fc-d9a6-405c-a375-49b5f93d1ccb"
+      },
+      "created_time": "2022-04-22T07:08:00.000Z",
+      "last_edited_time": "2022-04-22T07:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Paying for a top spot on Manifold/leaderboard - bank account determines what the site does",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Paying for a top spot on Manifold/leaderboard - bank account determines what the site does",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "e03c9696-a9d7-47ae-93fb-c732f9a33996",
+      "parent": {
+        "type": "page_id",
+        "page_id": "410cc7fc-d9a6-405c-a375-49b5f93d1ccb"
+      },
+      "created_time": "2022-04-22T07:08:00.000Z",
+      "last_edited_time": "2022-04-22T07:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Anyone digging through the site sees top 10 markets",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Anyone digging through the site sees top 10 markets",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "6171e190-a92a-4161-b2ac-a587509554bd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "410cc7fc-d9a6-405c-a375-49b5f93d1ccb"
+      },
+      "created_time": "2022-04-22T07:08:00.000Z",
+      "last_edited_time": "2022-04-22T07:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "If the money determines what they are - what does it mean about what the site does",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "If the money determines what they are - what does it mean about what the site does",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "12d72689-d4d0-48be-9723-003a9ef6b15c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "410cc7fc-d9a6-405c-a375-49b5f93d1ccb"
+      },
+      "created_time": "2022-04-22T07:08:00.000Z",
+      "last_edited_time": "2022-04-22T07:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3c966591-259b-4c98-abb9-ecdec865a8da",
+      "parent": {
+        "type": "page_id",
+        "page_id": "410cc7fc-d9a6-405c-a375-49b5f93d1ccb"
+      },
+      "created_time": "2022-04-22T07:08:00.000Z",
+      "last_edited_time": "2022-04-22T07:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Quadratic funding",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Quadratic funding",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "59f2b224-f550-47f9-9b44-12000393ae94",
+      "parent": {
+        "type": "page_id",
+        "page_id": "410cc7fc-d9a6-405c-a375-49b5f93d1ccb"
+      },
+      "created_time": "2022-04-22T07:08:00.000Z",
+      "last_edited_time": "2022-04-22T07:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Even if someone's willing to dig through and find markets they want, have to think of offering spots in the top 10. If we sell those, then what our site does is predict on the kind of markets people pay to promote",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Even if someone's willing to dig through and find markets they want, have to think of offering spots in the top 10. If we sell those, then what our site does is predict on the kind of markets people pay to promote",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "8541250d-f5c6-417d-8ab3-596c7a36e7b3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "410cc7fc-d9a6-405c-a375-49b5f93d1ccb"
+      },
+      "created_time": "2022-04-22T07:08:00.000Z",
+      "last_edited_time": "2022-04-22T07:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Don't know what they are, don't know if that makes us happy. Might be good, trying to surface politically consequential info",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Don't know what they are, don't know if that makes us happy. Might be good, trying to surface politically consequential info",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "eb46ff58-ffe3-4cf3-85ae-c02967b00ca7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "410cc7fc-d9a6-405c-a375-49b5f93d1ccb"
+      },
+      "created_time": "2022-04-22T07:08:00.000Z",
+      "last_edited_time": "2022-04-22T07:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Or: incentive structure will cause top markets to be questions about corporations, and you want to answer delicate questions about history",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Or: incentive structure will cause top markets to be questions about corporations, and you want to answer delicate questions about history",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "c3dd57c9-fa25-4b19-877a-d0bef9bab7bb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "410cc7fc-d9a6-405c-a375-49b5f93d1ccb"
+      },
+      "created_time": "2022-04-22T07:08:00.000Z",
+      "last_edited_time": "2022-04-22T07:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "If we offered it, who woudl buy it",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "If we offered it, who woudl buy it",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2c6c3051-5bc4-4d35-a8e1-6568e5cbfb5b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "410cc7fc-d9a6-405c-a375-49b5f93d1ccb"
+      },
+      "created_time": "2022-04-22T07:08:00.000Z",
+      "last_edited_time": "2022-04-22T07:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Ida",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Ida",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "bfe05d51-8e4f-4a48-a664-f43fc42c943e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "410cc7fc-d9a6-405c-a375-49b5f93d1ccb"
+      },
+      "created_time": "2022-04-22T07:08:00.000Z",
+      "last_edited_time": "2022-04-22T07:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Internet is already quadratic funding",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Internet is already quadratic funding",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "fdfdae7c-cd93-4c97-9cf0-fc72d3001796",
+      "parent": {
+        "type": "page_id",
+        "page_id": "410cc7fc-d9a6-405c-a375-49b5f93d1ccb"
+      },
+      "created_time": "2022-04-22T07:08:00.000Z",
+      "last_edited_time": "2022-04-22T07:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Getting to the frontpage is very valuable",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Getting to the frontpage is very valuable",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "d9fc6e4e-6fc9-4d46-9137-5e68535b8237",
+      "parent": {
+        "type": "page_id",
+        "page_id": "410cc7fc-d9a6-405c-a375-49b5f93d1ccb"
+      },
+      "created_time": "2022-04-22T07:08:00.000Z",
+      "last_edited_time": "2022-04-22T07:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "People who had a low probability before, now has a really high chance",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "People who had a low probability before, now has a really high chance",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "6b90b6a1-8449-4c19-8250-506ca0861652",
+      "parent": {
+        "type": "page_id",
+        "page_id": "410cc7fc-d9a6-405c-a375-49b5f93d1ccb"
+      },
+      "created_time": "2022-04-22T07:13:00.000Z",
+      "last_edited_time": "2022-04-22T07:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "342a0797-2a51-432d-847b-9a5b387bfae3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "410cc7fc-d9a6-405c-a375-49b5f93d1ccb"
+      },
+      "created_time": "2022-04-22T07:08:00.000Z",
+      "last_edited_time": "2022-04-22T07:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "If Ida makes a video and has 1 share, it won't get the clout for sorting, even if the person watched it, maybe it changes their life, but no traction",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "If Ida makes a video and has 1 share, it won't get the clout for sorting, even if the person watched it, maybe it changes their life, but no traction",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "9610ef46-bd02-4c31-a10e-59aa764ccb45",
+      "parent": {
+        "type": "page_id",
+        "page_id": "410cc7fc-d9a6-405c-a375-49b5f93d1ccb"
+      },
+      "created_time": "2022-04-22T07:08:00.000Z",
+      "last_edited_time": "2022-04-22T07:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "But making stupid content that no one cares about it, if many people cares, sorting algos will promote it, and people",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "But making stupid content that no one cares about it, if many people cares, sorting algos will promote it, and people",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "a374dcbf-2e05-48a7-8926-30604147585a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "410cc7fc-d9a6-405c-a375-49b5f93d1ccb"
+      },
+      "created_time": "2022-04-22T07:08:00.000Z",
+      "last_edited_time": "2022-04-22T07:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "On the internet you make money by being popular, has the backoff, many creators, only the top portion makes a huge amount",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "On the internet you make money by being popular, has the backoff, many creators, only the top portion makes a huge amount",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "393f61c1-1305-4780-8131-c89a19528667",
+      "parent": {
+        "type": "page_id",
+        "page_id": "410cc7fc-d9a6-405c-a375-49b5f93d1ccb"
+      },
+      "created_time": "2022-04-22T07:08:00.000Z",
+      "last_edited_time": "2022-04-22T07:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Long-tail? Quadratic payment system: if a small number of watch, make a bit, if 10x watch, make",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Long-tail? Quadratic payment system: if a small number of watch, make a bit, if 10x watch, make",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "9faee05d-f731-4b6a-93b4-51ff4b0e2c43",
+      "parent": {
+        "type": "page_id",
+        "page_id": "410cc7fc-d9a6-405c-a375-49b5f93d1ccb"
+      },
+      "created_time": "2022-04-22T07:08:00.000Z",
+      "last_edited_time": "2022-04-22T07:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Skip preroll ads in Youtube - pay more money if you are willing to watch more",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Skip preroll ads in Youtube - pay more money if you are willing to watch more",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1e21f566-6760-4d3e-ad33-eba453755e7e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "410cc7fc-d9a6-405c-a375-49b5f93d1ccb"
+      },
+      "created_time": "2022-04-22T07:08:00.000Z",
+      "last_edited_time": "2022-04-22T07:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "People are contributing to your ability to show the ad for longer. If people like the ad, they will allow you to pay a marginally lower cost",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "People are contributing to your ability to show the ad for longer. If people like the ad, they will allow you to pay a marginally lower cost",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "0a40782c-c58b-452d-bd31-fa1260162fc4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "410cc7fc-d9a6-405c-a375-49b5f93d1ccb"
+      },
+      "created_time": "2022-04-22T07:08:00.000Z",
+      "last_edited_time": "2022-04-22T07:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Guy knocks on door, \"oh my god\", do you want to skip",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Guy knocks on door, \"oh my god\", do you want to skip",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "71f59a64-e5ac-4cb7-b112-efb0559b2cd5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "410cc7fc-d9a6-405c-a375-49b5f93d1ccb"
+      },
+      "created_time": "2022-04-22T07:08:00.000Z",
+      "last_edited_time": "2022-04-22T07:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Positive externality - good commercials, mayhem, favorite piece of advertising media. Some actor, painted up to be covered in bruises, always pretending to be an inanimate object that destroys. Tree branch - never predict mayhem, insurance",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Positive externality - good commercials, mayhem, favorite piece of advertising media. Some actor, painted up to be covered in bruises, always pretending to be an inanimate object that destroys. Tree branch - never predict mayhem, insurance",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "a1c987da-5b97-4da0-be59-962a07077c99",
+      "parent": {
+        "type": "page_id",
+        "page_id": "410cc7fc-d9a6-405c-a375-49b5f93d1ccb"
+      },
+      "created_time": "2022-04-22T07:08:00.000Z",
+      "last_edited_time": "2022-04-22T07:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Community classes for the arts - highest qualitiy for money, hiring a designer is relatively cheap; if Ida wanted to take a CS/programming class, CS makes excellent money, if someone works for bottom of barrel prices.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Community classes for the arts - highest qualitiy for money, hiring a designer is relatively cheap; if Ida wanted to take a CS/programming class, CS makes excellent money, if someone works for bottom of barrel prices.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "71ad2723-a107-4a32-b148-88ec6171bac4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "410cc7fc-d9a6-405c-a375-49b5f93d1ccb"
+      },
+      "created_time": "2022-04-22T07:08:00.000Z",
+      "last_edited_time": "2022-04-22T07:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "But music is oversaturated, good people > good jobs, all the good jobs are taken by people who are amazing.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "But music is oversaturated, good people > good jobs, all the good jobs are taken by people who are amazing.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    }
+  ]
+}

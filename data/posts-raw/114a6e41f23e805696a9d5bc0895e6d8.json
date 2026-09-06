@@ -1,0 +1,2920 @@
+{
+  "page": {
+    "id": "114a6e41f23e805696a9d5bc0895e6d8",
+    "title": "Web dev, after LLMs",
+    "date": "2024-10-03",
+    "edited": "2024-10-20T06:00:00.000Z",
+    "url": "https://akrolsmir.notion.site/Web-dev-after-LLMs-114a6e41f23e805696a9d5bc0895e6d8",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "114a6e41-f23e-800a-9712-c205da23ff24",
+      "parent": {
+        "type": "page_id",
+        "page_id": "114a6e41-f23e-8056-96a9-d5bc0895e6d8"
+      },
+      "created_time": "2024-10-03T19:12:00.000Z",
+      "last_edited_time": "2024-10-03T19:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Results of 3 weeks of hacking and thinking about what web will look like. Very opinionated.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Results of 3 weeks of hacking and thinking about what web will look like. Very opinionated.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "114a6e41-f23e-80ce-a420-e73d94cf2d93",
+      "parent": {
+        "type": "page_id",
+        "page_id": "114a6e41-f23e-8056-96a9-d5bc0895e6d8"
+      },
+      "created_time": "2024-10-03T19:20:00.000Z",
+      "last_edited_time": "2024-10-03T19:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "114a6e41-f23e-80f4-bd45-d31ea1a872cb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "114a6e41-f23e-8056-96a9-d5bc0895e6d8"
+      },
+      "created_time": "2024-10-03T19:11:00.000Z",
+      "last_edited_time": "2024-10-04T14:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Important, neglected LLM modality: User Interfaces",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Important, neglected LLM modality: User Interfaces",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "114a6e41-f23e-8085-a2bc-cce74b14fd60",
+          "parent": {
+            "type": "block_id",
+            "block_id": "114a6e41-f23e-80f4-bd45-d31ea1a872cb"
+          },
+          "created_time": "2024-10-03T19:13:00.000Z",
+          "last_edited_time": "2024-10-03T19:14:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "“Is this just a subset of coding, which is a subset of text modality?” eh, maybe about as much as voice is a subset of text.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "“Is this just a subset of coding, which is a subset of text modality?” eh, maybe about as much as voice is a subset of text.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "114a6e41-f23e-809e-a626-f542e41f3854",
+      "parent": {
+        "type": "page_id",
+        "page_id": "114a6e41-f23e-8056-96a9-d5bc0895e6d8"
+      },
+      "created_time": "2024-10-03T19:14:00.000Z",
+      "last_edited_time": "2024-10-03T19:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "We spend like:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "We spend like:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "114a6e41-f23e-8041-a346-d0fd5991cb53",
+          "parent": {
+            "type": "block_id",
+            "block_id": "114a6e41-f23e-809e-a626-f542e41f3854"
+          },
+          "created_time": "2024-10-03T19:16:00.000Z",
+          "last_edited_time": "2024-10-03T19:16:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "~50% of our waking hours in front of a screen",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "~50% of our waking hours in front of a screen",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "114a6e41-f23e-80ca-97db-f9806fcf0b81",
+          "parent": {
+            "type": "block_id",
+            "block_id": "114a6e41-f23e-809e-a626-f542e41f3854"
+          },
+          "created_time": "2024-10-03T19:16:00.000Z",
+          "last_edited_time": "2024-10-03T19:19:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "~50% of that is in front of content/data that we or our friends own (eg email, Facebook, Notion/Docs)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "~50% of that is in front of content/data that we or our friends own (eg email, Facebook, Notion/Docs)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "114a6e41-f23e-80e5-80e8-d17c5af6aed7",
+          "parent": {
+            "type": "block_id",
+            "block_id": "114a6e41-f23e-809e-a626-f542e41f3854"
+          },
+          "created_time": "2024-10-03T19:16:00.000Z",
+          "last_edited_time": "2024-10-03T19:18:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "but like… <1% of that is in front of UIs that we ourselves constructed (eg personal websites)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "but like… <1% of that is in front of UIs that we ourselves constructed (eg personal websites)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "114a6e41-f23e-802c-829f-fb3143efc709",
+              "parent": {
+                "type": "block_id",
+                "block_id": "114a6e41-f23e-80e5-80e8-d17c5af6aed7"
+              },
+              "created_time": "2024-10-03T19:18:00.000Z",
+              "last_edited_time": "2024-10-03T19:19:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "(perhaps a bit more in certain lines of work, eg internal dashboards via Retool)",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "(perhaps a bit more in certain lines of work, eg internal dashboards via Retool)",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "114a6e41-f23e-800b-8fe6-ff2fb7f73f68",
+      "parent": {
+        "type": "page_id",
+        "page_id": "114a6e41-f23e-8056-96a9-d5bc0895e6d8"
+      },
+      "created_time": "2024-10-03T19:17:00.000Z",
+      "last_edited_time": "2024-10-03T19:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Why are custom UIs so rare?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Why are custom UIs so rare?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "114a6e41-f23e-803f-bd3c-c85d61178030",
+          "parent": {
+            "type": "block_id",
+            "block_id": "114a6e41-f23e-800b-8fe6-ff2fb7f73f68"
+          },
+          "created_time": "2024-10-03T19:17:00.000Z",
+          "last_edited_time": "2024-10-03T19:17:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "The construction of UI today is painful, slow, inhuman",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "The construction of UI today is painful, slow, inhuman",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "114a6e41-f23e-802c-9cd5-c6b554847afb",
+          "parent": {
+            "type": "block_id",
+            "block_id": "114a6e41-f23e-800b-8fe6-ff2fb7f73f68"
+          },
+          "created_time": "2024-10-03T19:17:00.000Z",
+          "last_edited_time": "2024-10-03T19:17:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "But it won’t be, soon. LLM coding is now insanely good",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "But it won’t be, soon. LLM coding is now insanely good",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "114a6e41-f23e-8008-82f9-fb7498a8d532",
+      "parent": {
+        "type": "page_id",
+        "page_id": "114a6e41-f23e-8056-96a9-d5bc0895e6d8"
+      },
+      "created_time": "2024-10-03T19:20:00.000Z",
+      "last_edited_time": "2024-10-04T00:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "But meanwhile, UIs are the winning form factor for “Human <> Computer”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "But meanwhile, UIs are the winning form factor for “Human <> Computer”",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "114a6e41-f23e-8007-bef4-eee277295073",
+          "parent": {
+            "type": "block_id",
+            "block_id": "114a6e41-f23e-8008-82f9-fb7498a8d532"
+          },
+          "created_time": "2024-10-03T19:20:00.000Z",
+          "last_edited_time": "2024-10-03T19:20:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Maybe we’ll get to BCI in like 5 years but until then…",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Maybe we’ll get to BCI in like 5 years but until then…",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "115a6e41-f23e-8088-9e8a-e668a3dca857",
+      "parent": {
+        "type": "page_id",
+        "page_id": "114a6e41-f23e-8056-96a9-d5bc0895e6d8"
+      },
+      "created_time": "2024-10-04T00:34:00.000Z",
+      "last_edited_time": "2024-10-04T00:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "115a6e41-f23e-80a3-9e48-c493ee026a7d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "114a6e41-f23e-8056-96a9-d5bc0895e6d8"
+      },
+      "created_time": "2024-10-04T00:34:00.000Z",
+      "last_edited_time": "2024-10-04T14:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "[TODO] diagram of existing web app ecosystem, and what we’re trying to integrate",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "[TODO] diagram of existing web app ecosystem, and what we’re trying to integrate",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "115a6e41-f23e-802a-b6f3-f7628f77fa82",
+          "parent": {
+            "type": "block_id",
+            "block_id": "115a6e41-f23e-80a3-9e48-c493ee026a7d"
+          },
+          "created_time": "2024-10-04T14:03:00.000Z",
+          "last_edited_time": "2024-10-04T14:03:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Code editing (Cursor)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Code editing (Cursor)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "115a6e41-f23e-80af-8345-ca1094ed7260",
+          "parent": {
+            "type": "block_id",
+            "block_id": "115a6e41-f23e-80a3-9e48-c493ee026a7d"
+          },
+          "created_time": "2024-10-04T14:03:00.000Z",
+          "last_edited_time": "2024-10-04T14:03:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Code hosting (Github)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Code hosting (Github)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "115a6e41-f23e-8043-b74c-eaa7e0b83d3a",
+          "parent": {
+            "type": "block_id",
+            "block_id": "115a6e41-f23e-80a3-9e48-c493ee026a7d"
+          },
+          "created_time": "2024-10-04T14:03:00.000Z",
+          "last_edited_time": "2024-10-04T14:03:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Web deployment (Vercel, Namecheap)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Web deployment (Vercel, Namecheap)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "115a6e41-f23e-80fe-adfa-c4db496dfe92",
+          "parent": {
+            "type": "block_id",
+            "block_id": "115a6e41-f23e-80a3-9e48-c493ee026a7d"
+          },
+          "created_time": "2024-10-04T14:03:00.000Z",
+          "last_edited_time": "2024-10-04T14:03:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Database (Supabase)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Database (Supabase)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "115a6e41-f23e-8070-af99-d6bfbd888ce9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "114a6e41-f23e-8056-96a9-d5bc0895e6d8"
+      },
+      "created_time": "2024-10-04T00:20:00.000Z",
+      "last_edited_time": "2024-10-04T00:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "114a6e41-f23e-8040-90da-d388bcc4ec8e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "114a6e41-f23e-8056-96a9-d5bc0895e6d8"
+      },
+      "created_time": "2024-10-03T19:20:00.000Z",
+      "last_edited_time": "2024-10-04T14:01:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Why web?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Why web?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "115a6e41-f23e-808a-95ed-e9a89ed126a9",
+          "parent": {
+            "type": "block_id",
+            "block_id": "114a6e41-f23e-8040-90da-d388bcc4ec8e"
+          },
+          "created_time": "2024-10-04T00:20:00.000Z",
+          "last_edited_time": "2024-10-04T14:01:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Web is widely distributed, every device you work with has a web interface, lowest common denominator",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Web is widely distributed, every device you work with has a web interface, lowest common denominator",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "115a6e41-f23e-8066-8ca8-c279e572d798",
+          "parent": {
+            "type": "block_id",
+            "block_id": "114a6e41-f23e-8040-90da-d388bcc4ec8e"
+          },
+          "created_time": "2024-10-04T00:21:00.000Z",
+          "last_edited_time": "2024-10-04T14:01:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "SaaS distribution model is amazing — enables realtime updates for your service",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "SaaS distribution model is amazing — enables realtime updates for your service",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "115a6e41-f23e-8064-af8a-cc188a87384d",
+          "parent": {
+            "type": "block_id",
+            "block_id": "114a6e41-f23e-8040-90da-d388bcc4ec8e"
+          },
+          "created_time": "2024-10-04T14:01:00.000Z",
+          "last_edited_time": "2024-10-04T14:02:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Bypasses app store gatekeeping (on mobile) or extra download step (on desktop)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Bypasses app store gatekeeping (on mobile) or extra download step (on desktop)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "115a6e41-f23e-8029-8b6e-c3c1af279384",
+          "parent": {
+            "type": "block_id",
+            "block_id": "114a6e41-f23e-8040-90da-d388bcc4ec8e"
+          },
+          "created_time": "2024-10-04T00:21:00.000Z",
+          "last_edited_time": "2024-10-04T00:21:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Possible upstarts: VR, AR, BCI",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Possible upstarts: VR, AR, BCI",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "115a6e41-f23e-80ea-ba9e-c427b8d4464f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "114a6e41-f23e-8056-96a9-d5bc0895e6d8"
+      },
+      "created_time": "2024-10-04T00:23:00.000Z",
+      "last_edited_time": "2024-10-04T14:07:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "buni vs Cursor, Devin, Replit Agent, etc:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "buni vs Cursor, Devin, Replit Agent, etc:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "115a6e41-f23e-80f5-810d-c1544f8362df",
+          "parent": {
+            "type": "block_id",
+            "block_id": "115a6e41-f23e-80ea-ba9e-c427b8d4464f"
+          },
+          "created_time": "2024-10-04T00:24:00.000Z",
+          "last_edited_time": "2024-10-04T00:24:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "These are designed for code silos. Each app doesn’t talk very much to other apps",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "These are designed for code silos. Each app doesn’t talk very much to other apps",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "115a6e41-f23e-80ee-8930-c046a7562506",
+          "parent": {
+            "type": "block_id",
+            "block_id": "115a6e41-f23e-80ea-ba9e-c427b8d4464f"
+          },
+          "created_time": "2024-10-04T00:24:00.000Z",
+          "last_edited_time": "2024-10-04T14:07:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "buni is aiming for an extremely composable world, think NPM or wikipedia.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "buni is aiming for an extremely composable world, think NPM or wikipedia.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "115a6e41-f23e-80d3-8d14-eed0815b13ea",
+              "parent": {
+                "type": "block_id",
+                "block_id": "115a6e41-f23e-80ee-8930-c046a7562506"
+              },
+              "created_time": "2024-10-04T00:25:00.000Z",
+              "last_edited_time": "2024-10-04T00:28:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Should derisk: maybe composability doesn’t matter, maybe archipelagoes is how code wants to be?",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Should derisk: maybe composability doesn’t matter, maybe archipelagoes is how code wants to be?",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "115a6e41-f23e-80e3-8a25-cff221dadcad",
+      "parent": {
+        "type": "page_id",
+        "page_id": "114a6e41-f23e-8056-96a9-d5bc0895e6d8"
+      },
+      "created_time": "2024-10-04T14:07:00.000Z",
+      "last_edited_time": "2024-10-04T14:10:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Make it fast!",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Make it fast!",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "115a6e41-f23e-803b-87ab-e32350f373c6",
+          "parent": {
+            "type": "block_id",
+            "block_id": "115a6e41-f23e-80e3-8a25-cff221dadcad"
+          },
+          "created_time": "2024-10-04T14:07:00.000Z",
+          "last_edited_time": "2024-10-04T14:08:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "On every level, make the feedback loops quick",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "On every level, make the feedback loops quick",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "115a6e41-f23e-80c2-8fbf-ce6ec841fff2",
+              "parent": {
+                "type": "block_id",
+                "block_id": "115a6e41-f23e-803b-87ab-e32350f373c6"
+              },
+              "created_time": "2024-10-04T14:08:00.000Z",
+              "last_edited_time": "2024-10-04T14:08:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Build, deploy the app asap",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Build, deploy the app asap",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "115a6e41-f23e-801d-afd5-e3597e6a09f3",
+              "parent": {
+                "type": "block_id",
+                "block_id": "115a6e41-f23e-803b-87ab-e32350f373c6"
+              },
+              "created_time": "2024-10-04T14:08:00.000Z",
+              "last_edited_time": "2024-10-04T14:08:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Make sharing instantaneous",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Make sharing instantaneous",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "115a6e41-f23e-8018-92fd-cb9dc664d33c",
+              "parent": {
+                "type": "block_id",
+                "block_id": "115a6e41-f23e-803b-87ab-e32350f373c6"
+              },
+              "created_time": "2024-10-04T14:08:00.000Z",
+              "last_edited_time": "2024-10-04T14:09:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": true,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Get user feedback and suggestions easily?",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Get user feedback and suggestions easily?",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "children": [
+                {
+                  "object": "block",
+                  "id": "115a6e41-f23e-803b-b58d-f0428e3b030e",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "115a6e41-f23e-8018-92fd-cb9dc664d33c"
+                  },
+                  "created_time": "2024-10-04T14:08:00.000Z",
+                  "last_edited_time": "2024-10-04T14:09:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "record all user interactions, to replay/train on?",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "record all user interactions, to replay/train on?",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "114a6e41-f23e-80c6-8b3d-c87368174dae",
+      "parent": {
+        "type": "page_id",
+        "page_id": "114a6e41-f23e-8056-96a9-d5bc0895e6d8"
+      },
+      "created_time": "2024-10-03T19:14:00.000Z",
+      "last_edited_time": "2024-10-04T13:59:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "open > closed",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "open > closed",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "115a6e41-f23e-80de-8165-c5f8b9381b09",
+          "parent": {
+            "type": "block_id",
+            "block_id": "114a6e41-f23e-80c6-8b3d-c87368174dae"
+          },
+          "created_time": "2024-10-04T00:26:00.000Z",
+          "last_edited_time": "2024-10-04T13:59:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Want to experiment with a paradigm everything is public readonly; writing is reserved for keyed systems",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Want to experiment with a paradigm everything is public readonly; writing is reserved for keyed systems",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "115a6e41-f23e-8067-aaf1-fa7e85ef92ec",
+              "parent": {
+                "type": "block_id",
+                "block_id": "115a6e41-f23e-80de-8165-c5f8b9381b09"
+              },
+              "created_time": "2024-10-04T00:26:00.000Z",
+              "last_edited_time": "2024-10-04T00:26:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Helps the context flow freely, for LLMs and humans",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Helps the context flow freely, for LLMs and humans",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "115a6e41-f23e-80d6-9f66-cf0be00cc235",
+              "parent": {
+                "type": "block_id",
+                "block_id": "115a6e41-f23e-80de-8165-c5f8b9381b09"
+              },
+              "created_time": "2024-10-04T00:26:00.000Z",
+              "last_edited_time": "2024-10-04T00:29:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "(better aligned with fundamental economics of information)",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "(better aligned with fundamental economics of information)",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "115a6e41-f23e-80a0-92d2-f085a4c0e543",
+          "parent": {
+            "type": "block_id",
+            "block_id": "114a6e41-f23e-80c6-8b3d-c87368174dae"
+          },
+          "created_time": "2024-10-04T13:59:00.000Z",
+          "last_edited_time": "2024-10-04T14:00:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Revealed preference of internet is that privacy, personal data just doesn’t matter, compared to convenience or systems/tools that do things you want. E.g. Google",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Revealed preference of internet is that privacy, personal data just doesn’t matter, compared to convenience or systems/tools that do things you want. E.g. Google",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "114a6e41-f23e-80e6-82c0-f8effbe2beec",
+      "parent": {
+        "type": "page_id",
+        "page_id": "114a6e41-f23e-8056-96a9-d5bc0895e6d8"
+      },
+      "created_time": "2024-10-03T19:22:00.000Z",
+      "last_edited_time": "2024-10-04T14:10:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "multiplayer > single player",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "multiplayer > single player",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "114a6e41-f23e-8073-bc12-cc9e7a487b8e",
+          "parent": {
+            "type": "block_id",
+            "block_id": "114a6e41-f23e-80e6-82c0-f8effbe2beec"
+          },
+          "created_time": "2024-10-03T19:22:00.000Z",
+          "last_edited_time": "2024-10-03T19:22:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "today “ChatGPT”, tomorrow “SlackGPT”",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "today “ChatGPT”, tomorrow “SlackGPT”",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "115a6e41-f23e-8049-8862-dbe8105e6b73",
+          "parent": {
+            "type": "block_id",
+            "block_id": "114a6e41-f23e-80e6-82c0-f8effbe2beec"
+          },
+          "created_time": "2024-10-04T00:26:00.000Z",
+          "last_edited_time": "2024-10-04T00:26:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "But also, multiplayer like Twitter or Wikipedia are multiplayer",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "But also, multiplayer like Twitter or Wikipedia are multiplayer",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "115a6e41-f23e-80c8-a329-ea0f97b539e4",
+          "parent": {
+            "type": "block_id",
+            "block_id": "114a6e41-f23e-80e6-82c0-f8effbe2beec"
+          },
+          "created_time": "2024-10-04T14:09:00.000Z",
+          "last_edited_time": "2024-10-04T14:10:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "new features and improvements could propagate throughout an app, bottom-up",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "new features and improvements could propagate throughout an app, bottom-up",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "115a6e41-f23e-8095-9383-ebb9e8db336a",
+              "parent": {
+                "type": "block_id",
+                "block_id": "115a6e41-f23e-80c8-a329-ea0f97b539e4"
+              },
+              "created_time": "2024-10-04T14:10:00.000Z",
+              "last_edited_time": "2024-10-04T14:10:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "today, web apps are gatekept by dev teams",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "today, web apps are gatekept by dev teams",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "114a6e41-f23e-8014-b9de-cfe5851d8c51",
+      "parent": {
+        "type": "page_id",
+        "page_id": "114a6e41-f23e-8056-96a9-d5bc0895e6d8"
+      },
+      "created_time": "2024-10-03T19:21:00.000Z",
+      "last_edited_time": "2024-10-04T13:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "down the line: marketplace for agents (or: NPM for agent infra, prompts)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "down the line: marketplace for agents (or: NPM for agent infra, prompts)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "115a6e41-f23e-8088-9d09-d479229fef55",
+          "parent": {
+            "type": "block_id",
+            "block_id": "114a6e41-f23e-8014-b9de-cfe5851d8c51"
+          },
+          "created_time": "2024-10-04T00:27:00.000Z",
+          "last_edited_time": "2024-10-04T00:34:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "And also $/credits attached, like Github sponsors kinda",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "And also $/credits attached, like Github sponsors kinda",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "115a6e41-f23e-80cf-853a-ccc5836bcacf",
+          "parent": {
+            "type": "block_id",
+            "block_id": "114a6e41-f23e-8014-b9de-cfe5851d8c51"
+          },
+          "created_time": "2024-10-04T00:34:00.000Z",
+          "last_edited_time": "2024-10-04T00:34:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Theory is that agent infra is bottlenecked on good UI & code deployment",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Theory is that agent infra is bottlenecked on good UI & code deployment",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "115a6e41-f23e-80e1-bc13-f2ade6112411",
+          "parent": {
+            "type": "block_id",
+            "block_id": "114a6e41-f23e-8014-b9de-cfe5851d8c51"
+          },
+          "created_time": "2024-10-04T00:32:00.000Z",
+          "last_edited_time": "2024-10-04T00:34:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Can stick in a bunch of cool crypto mechanisms, smart contract stuff (prediction markets, perp swaps, etc)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Can stick in a bunch of cool crypto mechanisms, smart contract stuff (prediction markets, perp swaps, etc)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "115a6e41-f23e-80dd-a76e-df2ed002b9d8",
+          "parent": {
+            "type": "block_id",
+            "block_id": "114a6e41-f23e-8014-b9de-cfe5851d8c51"
+          },
+          "created_time": "2024-10-04T00:30:00.000Z",
+          "last_edited_time": "2024-10-04T13:43:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Can bootstrap into agents (or corporations of agents), with long-running identities",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Can bootstrap into agents (or corporations of agents), with long-running identities",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "115a6e41-f23e-8017-acd3-fd66b8af9564",
+          "parent": {
+            "type": "block_id",
+            "block_id": "114a6e41-f23e-8014-b9de-cfe5851d8c51"
+          },
+          "created_time": "2024-10-04T13:43:00.000Z",
+          "last_edited_time": "2024-10-04T13:43:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Beyond building prototypes of web apps, I'd eventually like to figure out how to build an open and composable web; how LLM agents live and interact through this; even economic & governance mechanisms for open source development. It's a ridiculous amount to consider, which is exciting but also distracting/scary/suspicious from an outside view, and also flies in the face of standard startup advice.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Beyond building prototypes of web apps, I'd eventually like to figure out how to build an open and composable web; how LLM agents live and interact through this; even economic & governance mechanisms for open source development. It's a ridiculous amount to consider, which is exciting but also distracting/scary/suspicious from an outside view, and also flies in the face of standard startup advice.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "115a6e41-f23e-8026-ba3e-ee0e9adb9a0f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "114a6e41-f23e-8056-96a9-d5bc0895e6d8"
+      },
+      "created_time": "2024-10-04T00:23:00.000Z",
+      "last_edited_time": "2024-10-04T00:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "115a6e41-f23e-80f6-b9c9-fd2e4e862026",
+      "parent": {
+        "type": "page_id",
+        "page_id": "114a6e41-f23e-8056-96a9-d5bc0895e6d8"
+      },
+      "created_time": "2024-10-04T00:21:00.000Z",
+      "last_edited_time": "2024-10-04T00:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Appendix",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Appendix",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "115a6e41-f23e-802c-959b-cf5fdccd0021",
+      "parent": {
+        "type": "page_id",
+        "page_id": "114a6e41-f23e-8056-96a9-d5bc0895e6d8"
+      },
+      "created_time": "2024-10-04T00:21:00.000Z",
+      "last_edited_time": "2024-10-04T14:11:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Q: What’s hard for Austin to build buni?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Q: What’s hard for Austin to build buni?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "115a6e41-f23e-8052-8979-d6852312102b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "115a6e41-f23e-802c-959b-cf5fdccd0021"
+          },
+          "created_time": "2024-10-04T00:30:00.000Z",
+          "last_edited_time": "2024-10-04T00:31:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Building app vs platform",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Building app vs platform",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "115a6e41-f23e-80d1-837c-f025b0574822",
+              "parent": {
+                "type": "block_id",
+                "block_id": "115a6e41-f23e-8052-8979-d6852312102b"
+              },
+              "created_time": "2024-10-04T00:21:00.000Z",
+              "last_edited_time": "2024-10-04T00:31:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": true,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Building a web app: you get to be dictator, monolith/monorepo, everything stays up to date",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Building a web app: you get to be dictator, monolith/monorepo, everything stays up to date",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "children": [
+                {
+                  "object": "block",
+                  "id": "115a6e41-f23e-80b9-ad74-e7138f9a10c4",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "115a6e41-f23e-80d1-837c-f025b0574822"
+                  },
+                  "created_time": "2024-10-04T00:25:00.000Z",
+                  "last_edited_time": "2024-10-04T00:25:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Managing multiple versions is hell",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Managing multiple versions is hell",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                }
+              ]
+            },
+            {
+              "object": "block",
+              "id": "115a6e41-f23e-80f6-87ba-df5e357c0341",
+              "parent": {
+                "type": "block_id",
+                "block_id": "115a6e41-f23e-8052-8979-d6852312102b"
+              },
+              "created_time": "2024-10-04T00:22:00.000Z",
+              "last_edited_time": "2024-10-04T00:31:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": true,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Building an npm-like platform or ecosystem: all kinds of weird versioning stuff, complexity of references explode. Probably need to straddle the line",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Building an npm-like platform or ecosystem: all kinds of weird versioning stuff, complexity of references explode. Probably need to straddle the line",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "children": [
+                {
+                  "object": "block",
+                  "id": "115a6e41-f23e-80fc-8c9c-d4fbfd63ade4",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "115a6e41-f23e-80f6-87ba-df5e357c0341"
+                  },
+                  "created_time": "2024-10-04T00:23:00.000Z",
+                  "last_edited_time": "2024-10-04T00:23:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Maybe LLMs can parse all your downstream deps and tell you when things work…?",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Maybe LLMs can parse all your downstream deps and tell you when things work…?",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                },
+                {
+                  "object": "block",
+                  "id": "115a6e41-f23e-8003-b49c-e9eacfa6193f",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "115a6e41-f23e-80f6-87ba-df5e357c0341"
+                  },
+                  "created_time": "2024-10-04T00:31:00.000Z",
+                  "last_edited_time": "2024-10-04T00:31:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": true,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Also: reliability matters much more",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Also: reliability matters much more",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  },
+                  "children": [
+                    {
+                      "object": "block",
+                      "id": "115a6e41-f23e-8091-b455-c3fc951f2e55",
+                      "parent": {
+                        "type": "block_id",
+                        "block_id": "115a6e41-f23e-8003-b49c-e9eacfa6193f"
+                      },
+                      "created_time": "2024-10-04T00:31:00.000Z",
+                      "last_edited_time": "2024-10-04T14:12:00.000Z",
+                      "created_by": {
+                        "object": "user",
+                        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                      },
+                      "last_edited_by": {
+                        "object": "user",
+                        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                      },
+                      "has_children": false,
+                      "in_trash": false,
+                      "type": "bulleted_list_item",
+                      "bulleted_list_item": {
+                        "rich_text": [
+                          {
+                            "type": "text",
+                            "text": {
+                              "content": "(cf Streamlit on reliable platforms)",
+                              "link": null
+                            },
+                            "annotations": {
+                              "bold": false,
+                              "italic": false,
+                              "strikethrough": false,
+                              "underline": false,
+                              "code": false,
+                              "color": "default"
+                            },
+                            "plain_text": "(cf Streamlit on reliable platforms)",
+                            "href": null
+                          }
+                        ],
+                        "color": "default"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "115a6e41-f23e-8040-987a-c249e324cdb4",
+          "parent": {
+            "type": "block_id",
+            "block_id": "115a6e41-f23e-802c-959b-cf5fdccd0021"
+          },
+          "created_time": "2024-10-04T00:31:00.000Z",
+          "last_edited_time": "2024-10-04T00:32:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Scope is ginormous — kind of encoding my entire philosophy of how code or the web “should” work",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Scope is ginormous — kind of encoding my entire philosophy of how code or the web “should” work",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "115a6e41-f23e-80a3-a5f9-eaea40dfe09c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "115a6e41-f23e-802c-959b-cf5fdccd0021"
+          },
+          "created_time": "2024-10-04T00:31:00.000Z",
+          "last_edited_time": "2024-10-04T00:32:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "many degrees of freedom when designing a whole ecosystem from scratch",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "many degrees of freedom when designing a whole ecosystem from scratch",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "115a6e41-f23e-8005-8043-de79c4597e79",
+          "parent": {
+            "type": "block_id",
+            "block_id": "115a6e41-f23e-802c-959b-cf5fdccd0021"
+          },
+          "created_time": "2024-10-04T13:29:00.000Z",
+          "last_edited_time": "2024-10-04T14:11:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "still hard to frame the killer MVP",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "still hard to frame the killer MVP",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "115a6e41-f23e-809f-a653-c42b98221e1e",
+              "parent": {
+                "type": "block_id",
+                "block_id": "115a6e41-f23e-8005-8043-de79c4597e79"
+              },
+              "created_time": "2024-10-04T14:04:00.000Z",
+              "last_edited_time": "2024-10-04T14:11:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": true,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Maybe “prompting Twitter for changes” isn’t actually that compelling?",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Maybe “prompting Twitter for changes” isn’t actually that compelling?",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "children": [
+                {
+                  "object": "block",
+                  "id": "115a6e41-f23e-8085-b654-e6d54f93f7b8",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "115a6e41-f23e-809f-a653-c42b98221e1e"
+                  },
+                  "created_time": "2024-10-04T14:07:00.000Z",
+                  "last_edited_time": "2024-10-04T14:11:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": true,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Ideally your apps kind of figure out what you need? Coming up with good prompts or searches is expensive, hard",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Ideally your apps kind of figure out what you need? Coming up with good prompts or searches is expensive, hard",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  },
+                  "children": [
+                    {
+                      "object": "block",
+                      "id": "115a6e41-f23e-80ff-aa6a-c3a89576de5c",
+                      "parent": {
+                        "type": "block_id",
+                        "block_id": "115a6e41-f23e-8085-b654-e6d54f93f7b8"
+                      },
+                      "created_time": "2024-10-04T14:11:00.000Z",
+                      "last_edited_time": "2024-10-04T14:11:00.000Z",
+                      "created_by": {
+                        "object": "user",
+                        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                      },
+                      "last_edited_by": {
+                        "object": "user",
+                        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                      },
+                      "has_children": false,
+                      "in_trash": false,
+                      "type": "bulleted_list_item",
+                      "bulleted_list_item": {
+                        "rich_text": [
+                          {
+                            "type": "text",
+                            "text": {
+                              "content": "A bit easier after you’ve used an app for a bit and think something is wrong — that’s product sense though, maybe not everyone has product sense.",
+                              "link": null
+                            },
+                            "annotations": {
+                              "bold": false,
+                              "italic": false,
+                              "strikethrough": false,
+                              "underline": false,
+                              "code": false,
+                              "color": "default"
+                            },
+                            "plain_text": "A bit easier after you’ve used an app for a bit and think something is wrong — that’s product sense though, maybe not everyone has product sense.",
+                            "href": null
+                          }
+                        ],
+                        "color": "default"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

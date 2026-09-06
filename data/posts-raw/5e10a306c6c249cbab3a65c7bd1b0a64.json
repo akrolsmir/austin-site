@@ -1,0 +1,2037 @@
+{
+  "page": {
+    "id": "5e10a306c6c249cbab3a65c7bd1b0a64",
+    "title": "Leaving Manifold",
+    "date": "2024-04-02",
+    "edited": "2024-04-09T16:30:00.000Z",
+    "url": "https://akrolsmir.notion.site/Leaving-Manifold-5e10a306c6c249cbab3a65c7bd1b0a64",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "30db37b0-e755-4f05-9d11-a0e212d0e95b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5e10a306-c6c2-49cb-ab3a-65c7bd1b0a64"
+      },
+      "created_time": "2024-04-02T14:58:00.000Z",
+      "last_edited_time": "2024-04-02T17:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "“Will I regret leaving Manifold?”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“Will I regret leaving Manifold?”",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "7f50cd82-1125-4442-b061-af3f1ff5ca39",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5e10a306-c6c2-49cb-ab3a-65c7bd1b0a64"
+      },
+      "created_time": "2024-04-02T17:19:00.000Z",
+      "last_edited_time": "2024-04-02T17:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "b5c4eb0a-8d06-4996-a84c-7c83f680905d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5e10a306-c6c2-49cb-ab3a-65c7bd1b0a64"
+      },
+      "created_time": "2024-04-02T17:19:00.000Z",
+      "last_edited_time": "2024-04-02T19:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "As of today, April 2nd, I’ve officially left the Manifold team. I’m stepping down from my executive role, returning my unvested equity, and, yes, giving up my mana salary.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "As of today, April 2nd, I’ve officially left the Manifold team. I’m stepping down from my executive role, returning my unvested equity, and, yes, giving up my mana salary.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "462b88e3-1157-401d-8d89-c52efbda1001",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5e10a306-c6c2-49cb-ab3a-65c7bd1b0a64"
+      },
+      "created_time": "2024-04-02T17:28:00.000Z",
+      "last_edited_time": "2024-04-02T19:12:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "This is really, really hard to say. When I work on a thing, I can’t help but imbue it with a piece of my soul — so walking away now feels like tearing myself in two. But I think it’s the right choice, for me and for Manifold.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "This is really, really hard to say. When I work on a thing, I can’t help but imbue it with a piece of my soul — so walking away now feels like tearing myself in two. But I think it’s the right choice, for me and for Manifold.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "be42e744-9b2b-429c-90f1-850f296cf7bc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5e10a306-c6c2-49cb-ab3a-65c7bd1b0a64"
+      },
+      "created_time": "2024-04-02T19:31:00.000Z",
+      "last_edited_time": "2024-04-02T19:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "This market resolves to my subjective feeling in 2 years.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "This market resolves to my subjective feeling in 2 years.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "8da2b76e-fe5f-4033-b399-50f97e51374d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5e10a306-c6c2-49cb-ab3a-65c7bd1b0a64"
+      },
+      "created_time": "2024-04-02T14:59:00.000Z",
+      "last_edited_time": "2024-04-02T14:59:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "145dfca3-4180-43d1-b932-66e0cd63a9e9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5e10a306-c6c2-49cb-ab3a-65c7bd1b0a64"
+      },
+      "created_time": "2024-04-02T14:58:00.000Z",
+      "last_edited_time": "2024-04-02T17:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Why I’m leaving",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Why I’m leaving",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "061db3f7-c003-46ff-accd-1e7a678304ee",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5e10a306-c6c2-49cb-ab3a-65c7bd1b0a64"
+      },
+      "created_time": "2024-04-02T14:59:00.000Z",
+      "last_edited_time": "2024-04-02T19:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Manifold feels trapped in local optima",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Manifold feels trapped in local optima",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "65ccc921-b50a-46f4-846c-17d10e59e5eb",
+          "parent": {
+            "type": "block_id",
+            "block_id": "061db3f7-c003-46ff-accd-1e7a678304ee"
+          },
+          "created_time": "2024-04-02T15:00:00.000Z",
+          "last_edited_time": "2024-04-02T19:14:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "The Manifold product is pretty stable now - we’ve succeeded at our original mission of “prediction markets that anyone can create.” Iterating on it now feels like pushing pixels around for minor gain. We spend our cycles tweaking onboarding flows and our algorithmic feed.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "The Manifold product is pretty stable now - we’ve succeeded at our original mission of “prediction markets that anyone can create.” Iterating on it now feels like pushing pixels around for minor gain. We spend our cycles tweaking onboarding flows and our algorithmic feed.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "5846a593-d063-44ca-b324-932e8d7cb7b7",
+          "parent": {
+            "type": "block_id",
+            "block_id": "061db3f7-c003-46ff-accd-1e7a678304ee"
+          },
+          "created_time": "2024-04-02T15:00:00.000Z",
+          "last_edited_time": "2024-04-02T19:32:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "The community feels less and less like “my people”. Less of the weird mechanism geeks, more random speculation I don’t enjoy. (It’s a bit how I imagine Vitalik feels about the degen gamblers who now characterize crypto.)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "The community feels less and less like “my people”. Less of the weird mechanism geeks, more random speculation I don’t enjoy. (It’s a bit how I imagine Vitalik feels about the degen gamblers who now characterize crypto.)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "615f9605-0aec-4c63-9ca0-d5b0d00ddd1e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5e10a306-c6c2-49cb-ab3a-65c7bd1b0a64"
+      },
+      "created_time": "2024-04-02T15:00:00.000Z",
+      "last_edited_time": "2024-04-02T19:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "… and I’m not excited for the next steps",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "… and I’m not excited for the next steps",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "6b71ab59-a0be-4b2f-a863-05b0bace3fbf",
+          "parent": {
+            "type": "block_id",
+            "block_id": "615f9605-0aec-4c63-9ca0-d5b0d00ddd1e"
+          },
+          "created_time": "2024-04-02T15:01:00.000Z",
+          "last_edited_time": "2024-04-02T19:32:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "For the last year or so, our priorities have been “grow DAU”, or “get to Series A”. These seem important for Manifold as a business, but are also deeply uninspiring to me.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "For the last year or so, our priorities have been “grow DAU”, or “get to Series A”. These seem important for Manifold as a business, but are also deeply uninspiring to me.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "0ad01c4a-b742-40e6-a467-5c7deec4b161",
+              "parent": {
+                "type": "block_id",
+                "block_id": "6b71ab59-a0be-4b2f-a863-05b0bace3fbf"
+              },
+              "created_time": "2024-04-02T19:32:00.000Z",
+              "last_edited_time": "2024-04-02T19:32:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Especially insidious is when our work captures people’s attention and gets them addicted.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Especially insidious is when our work captures people’s attention and gets them addicted.",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "31954c47-2075-4881-a8eb-e01e2ecf9e35",
+          "parent": {
+            "type": "block_id",
+            "block_id": "615f9605-0aec-4c63-9ca0-d5b0d00ddd1e"
+          },
+          "created_time": "2024-04-02T17:20:00.000Z",
+          "last_edited_time": "2024-04-02T19:09:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Moreover, Manifold doesn’t feel on my path for personal growth. I thrive on zero-to-one innovation, and have flexed that muscle again and again over the course of Manifold — but I see much less of this in the future.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Moreover, Manifold doesn’t feel on my path for personal growth. I thrive on zero-to-one innovation, and have flexed that muscle again and again over the course of Manifold — but I see much less of this in the future.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "841a084c-f21a-4707-a3e3-4134b79cbe70",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5e10a306-c6c2-49cb-ab3a-65c7bd1b0a64"
+      },
+      "created_time": "2024-04-02T15:01:00.000Z",
+      "last_edited_time": "2024-04-02T18:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "“Prediction markets” feel insufficiently powerful",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“Prediction markets” feel insufficiently powerful",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "e3d24613-df91-42d6-884d-504c7019087d",
+          "parent": {
+            "type": "block_id",
+            "block_id": "841a084c-f21a-4707-a3e3-4134b79cbe70"
+          },
+          "created_time": "2024-04-02T17:39:00.000Z",
+          "last_edited_time": "2024-04-02T19:09:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "I got into this game entranced by dreams of futarchy, of superpowered social coordination. By the vision of building out an objectively correct way to make decisions. But even just within Manifold, we’ve failed to dogfood our markets; they do not serve as a meaningful guide our actions.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "I got into this game entranced by dreams of futarchy, of superpowered social coordination. By the vision of building out an objectively correct way to make decisions. But even just within Manifold, we’ve failed to dogfood our markets; they do not serve as a meaningful guide our actions.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "6bd1f839-711d-4421-94f1-8899b26d0911",
+          "parent": {
+            "type": "block_id",
+            "block_id": "841a084c-f21a-4707-a3e3-4134b79cbe70"
+          },
+          "created_time": "2024-04-02T15:14:00.000Z",
+          "last_edited_time": "2024-04-02T18:13:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "At the core: binary prediction markets do not provide enough bits of information to steer by. Operationalizing questions well is tricky & labor-intensive, and boils off much of the interesting nuance in a question.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "At the core: binary prediction markets do not provide enough bits of information to steer by. Operationalizing questions well is tricky & labor-intensive, and boils off much of the interesting nuance in a question.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "2907ac59-f5e0-4950-9645-d18fc84df631",
+          "parent": {
+            "type": "block_id",
+            "block_id": "841a084c-f21a-4707-a3e3-4134b79cbe70"
+          },
+          "created_time": "2024-04-02T18:13:00.000Z",
+          "last_edited_time": "2024-04-02T18:22:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Manifold markets today serve the niche of “a fun game to bet on the news”. That’s a good niche - but not where my heart is. ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Manifold markets today serve the niche of “a fun game to bet on the news”. That’s a good niche - but not where my heart is. ",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "bbf116fb-fd01-476d-bbb0-6a1f7cf97f73",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5e10a306-c6c2-49cb-ab3a-65c7bd1b0a64"
+      },
+      "created_time": "2024-04-02T15:00:00.000Z",
+      "last_edited_time": "2024-04-02T19:10:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "AI is coming",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "AI is coming",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "e03960fe-d936-457e-a661-21e7c32cf20f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "bbf116fb-fd01-476d-bbb0-6a1f7cf97f73"
+          },
+          "created_time": "2024-04-02T17:42:00.000Z",
+          "last_edited_time": "2024-04-02T19:33:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "We started Manifold in December 2021. My intended playbook was something like: “build the next FAANG, get rich, give it all to charity.” My idols were founders like Bill Gates and SBF. It felt like Manifold had a reasonable shot at this.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "We started Manifold in December 2021. My intended playbook was something like: “build the next FAANG, get rich, give it all to charity.” My idols were founders like Bill Gates and SBF. It felt like Manifold had a reasonable shot at this.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "68d4ae10-13b9-468f-ade2-e2d3b2b11680",
+          "parent": {
+            "type": "block_id",
+            "block_id": "bbf116fb-fd01-476d-bbb0-6a1f7cf97f73"
+          },
+          "created_time": "2024-04-02T17:42:00.000Z",
+          "last_edited_time": "2024-04-02T19:32:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Then, ChatGPT dropped. Since then, I’ve seen the tech landscape shift; my most talented friends jump ship. But our conception of Manifold has not updated in response.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Then, ChatGPT dropped. Since then, I’ve seen the tech landscape shift; my most talented friends jump ship. But our conception of Manifold has not updated in response.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "b38f01f4-b915-43ca-a5be-045ed7a9a2c0",
+              "parent": {
+                "type": "block_id",
+                "block_id": "68d4ae10-13b9-468f-ade2-e2d3b2b11680"
+              },
+              "created_time": "2024-04-02T19:10:00.000Z",
+              "last_edited_time": "2024-04-02T19:33:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Text, image, and code generation have all been breathtaking, but our day-to-day work on the site feels orthogonal to all this.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Text, image, and code generation have all been breathtaking, but our day-to-day work on the site feels orthogonal to all this.",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "448d88c9-5729-44cf-8df2-253be0a7f94b",
+              "parent": {
+                "type": "block_id",
+                "block_id": "68d4ae10-13b9-468f-ade2-e2d3b2b11680"
+              },
+              "created_time": "2024-04-02T18:16:00.000Z",
+              "last_edited_time": "2024-04-02T19:32:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Even for prediction markets: I think it’s likely that betting and forecasting will be mostly up to AIs, not people.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Even for prediction markets: I think it’s likely that betting and forecasting will be mostly up to AIs, not people.",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "d158fd48-8f63-4b01-8afb-52ee8aeb1062",
+          "parent": {
+            "type": "block_id",
+            "block_id": "bbf116fb-fd01-476d-bbb0-6a1f7cf97f73"
+          },
+          "created_time": "2024-04-02T18:00:00.000Z",
+          "last_edited_time": "2024-04-02T19:34:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Broadly: there’s not enough timeline left to try for the network effects of social media. Scaling up Manifold to hit the adoption of a Reddit or a Twitter, feels like fighting the last war.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Broadly: there’s not enough timeline left to try for the network effects of social media. Scaling up Manifold to hit the adoption of a Reddit or a Twitter, feels like fighting the last war.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "9af1858f-e3f8-447f-b46d-13106ec15e42",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5e10a306-c6c2-49cb-ab3a-65c7bd1b0a64"
+      },
+      "created_time": "2024-04-02T14:59:00.000Z",
+      "last_edited_time": "2024-04-02T17:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "My eternal gratitude",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "My eternal gratitude",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "317a28a9-2859-40c0-8148-78b3aed35a96",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5e10a306-c6c2-49cb-ab3a-65c7bd1b0a64"
+      },
+      "created_time": "2024-04-02T17:43:00.000Z",
+      "last_edited_time": "2024-04-02T19:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "First and foremost: ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "First and foremost: ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "to the Manifold core team",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "to the Manifold core team",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ", thanks for spending your lives with me over the last couple years.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ", thanks for spending your lives with me over the last couple years.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "af221c71-8ccc-44fd-af7a-d4480b687740",
+          "parent": {
+            "type": "block_id",
+            "block_id": "317a28a9-2859-40c0-8148-78b3aed35a96"
+          },
+          "created_time": "2024-04-02T17:45:00.000Z",
+          "last_edited_time": "2024-04-02T19:38:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "From a ragtag bunch of misfits, to mad scientist barons: I’m extremely proud of this team we’ve built. People often comment on the how fast we ship, how fun the site is, and how great is the community; this is all downstream of your work.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "From a ragtag bunch of misfits, to mad scientist barons: I’m extremely proud of this team we’ve built. People often comment on the how fast we ship, how fun the site is, and how great is the community; this is all downstream of your work.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "f23a8cb4-997a-4a27-ad26-fad4e831d9b2",
+          "parent": {
+            "type": "block_id",
+            "block_id": "317a28a9-2859-40c0-8148-78b3aed35a96"
+          },
+          "created_time": "2024-04-02T19:38:00.000Z",
+          "last_edited_time": "2024-04-02T19:39:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "And it’s just been a blast, working together. From hackathons to offsites to just the daily grind, it doesn’t quite feel fair that work should be so much fun.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "And it’s just been a blast, working together. From hackathons to offsites to just the daily grind, it doesn’t quite feel fair that work should be so much fun.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "e3b88a17-3dbe-4f1e-97b6-3f614aff5230",
+          "parent": {
+            "type": "block_id",
+            "block_id": "317a28a9-2859-40c0-8148-78b3aed35a96"
+          },
+          "created_time": "2024-04-02T19:41:00.000Z",
+          "last_edited_time": "2024-04-02T19:44:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "I’ll still be around, eg providing advice and guidance during our “board meetings”; but where Manifold goes from here is up to you.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "I’ll still be around, eg providing advice and guidance during our “board meetings”; but where Manifold goes from here is up to you.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "7fdf6149-e6df-4598-9dde-5b651e1521a7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5e10a306-c6c2-49cb-ab3a-65c7bd1b0a64"
+      },
+      "created_time": "2024-04-02T17:43:00.000Z",
+      "last_edited_time": "2024-04-02T19:29:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "To our funders",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "To our funders",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ": thanks for betting on us!",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ": thanks for betting on us!",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "52625b13-ba01-4743-967f-cb0734c7fe1b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "7fdf6149-e6df-4598-9dde-5b651e1521a7"
+          },
+          "created_time": "2024-04-02T18:28:00.000Z",
+          "last_edited_time": "2024-04-02T19:25:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Every dollar feels like a gift, a validation of our work and ourselves. I’m sorry to not be seeing it through all the way myself; but Manifold remains in excellent hands.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Every dollar feels like a gift, a validation of our work and ourselves. I’m sorry to not be seeing it through all the way myself; but Manifold remains in excellent hands.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "7f38805d-34d1-41b5-acca-970a34346203",
+          "parent": {
+            "type": "block_id",
+            "block_id": "7fdf6149-e6df-4598-9dde-5b651e1521a7"
+          },
+          "created_time": "2024-04-02T17:45:00.000Z",
+          "last_edited_time": "2024-04-02T19:44:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "(TBH, I’m most worried about what my family will think. It’s one thing to declare this to investors, another to our charitable donors, but to my aunts, uncles, cousins and parents…? We’ll see how that convo goes!)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "(TBH, I’m most worried about what my family will think. It’s one thing to declare this to investors, another to our charitable donors, but to my aunts, uncles, cousins and parents…? We’ll see how that convo goes!)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "8bbf2c62-4e09-465a-b4aa-c1c80a167b0f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5e10a306-c6c2-49cb-ab3a-65c7bd1b0a64"
+      },
+      "created_time": "2024-04-02T14:59:00.000Z",
+      "last_edited_time": "2024-04-02T19:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "To our users",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "To our users",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ": thank you for loving Manifold as much as I have. The amount of passion we’ve seen from y’all is frankly, insane.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ": thank you for loving Manifold as much as I have. The amount of passion we’ve seen from y’all is frankly, insane.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "620bd553-a085-47e6-bea3-4e90f4834ec0",
+          "parent": {
+            "type": "block_id",
+            "block_id": "8bbf2c62-4e09-465a-b4aa-c1c80a167b0f"
+          },
+          "created_time": "2024-04-02T17:47:00.000Z",
+          "last_edited_time": "2024-04-02T19:46:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "You’ve spent hundreds of thousands of dollars and millions of hours on our site. Writing questions from serious to inane; insider trading up the wazoo; building and sharing tools; hosting meetups and dating shows; making friends with one another.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "You’ve spent hundreds of thousands of dollars and millions of hours on our site. Writing questions from serious to inane; insider trading up the wazoo; building and sharing tools; hosting meetups and dating shows; making friends with one another.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "bea6d3c5-b9e4-4a1b-9695-73ba930a062b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "8bbf2c62-4e09-465a-b4aa-c1c80a167b0f"
+          },
+          "created_time": "2024-04-02T17:44:00.000Z",
+          "last_edited_time": "2024-04-02T19:56:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "I was floored the first time we got a physical gift: Melanie mailed us some stickers, a handmade thank-you and a folded crane. I’ve worked on over a dozen projects, but this was a first; it felt like a sign that we were doing something right. And then it happened again, and again, and again…!",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "I was floored the first time we got a physical gift: Melanie mailed us some stickers, a handmade thank-you and a folded crane. I’ve worked on over a dozen projects, but this was a first; it felt like a sign that we were doing something right. And then it happened again, and again, and again…!",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "0acc0bd5-7091-49d8-9354-df6f087ecfcc",
+          "parent": {
+            "type": "block_id",
+            "block_id": "8bbf2c62-4e09-465a-b4aa-c1c80a167b0f"
+          },
+          "created_time": "2024-04-02T19:19:00.000Z",
+          "last_edited_time": "2024-04-02T19:45:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "And thanks for sharing Manifold with others! Sending a market to your friends is a precious extension of trust. It’s the primary way Manifold grows. Every time I spot a Manifold link in the wild, I feel a surge of warmth.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "And thanks for sharing Manifold with others! Sending a market to your friends is a precious extension of trust. It’s the primary way Manifold grows. Every time I spot a Manifold link in the wild, I feel a surge of warmth.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "56912cfe-c16d-4906-8675-c753bdbc2821",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5e10a306-c6c2-49cb-ab3a-65c7bd1b0a64"
+      },
+      "created_time": "2024-04-02T14:59:00.000Z",
+      "last_edited_time": "2024-04-02T19:02:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "What’s next for me",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "What’s next for me",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "55aa52ab-0b52-403c-84de-50a2d9d6ca80",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5e10a306-c6c2-49cb-ab3a-65c7bd1b0a64"
+      },
+      "created_time": "2024-04-02T14:59:00.000Z",
+      "last_edited_time": "2024-04-02T19:59:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Manifest",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Manifest",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "3fc9d176-4812-4d98-b54e-774c81a69cc1",
+          "parent": {
+            "type": "block_id",
+            "block_id": "55aa52ab-0b52-403c-84de-50a2d9d6ca80"
+          },
+          "created_time": "2024-04-02T18:17:00.000Z",
+          "last_edited_time": "2024-04-02T19:50:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Manifest is still on! It was a ridiculously fun last year, and we’re hoping to do even better this time around. ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Manifest is still on! It was a ridiculously fun last year, and we’re hoping to do even better this time around. ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "Come hang out with us",
+                  "link": {
+                    "url": "https://www.manifest.is/"
+                  }
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Come hang out with us",
+                "href": "https://www.manifest.is/"
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "~",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "~",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "f5a3f511-090d-4c7b-814e-501ce0386886",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5e10a306-c6c2-49cb-ab3a-65c7bd1b0a64"
+      },
+      "created_time": "2024-04-02T14:59:00.000Z",
+      "last_edited_time": "2024-04-02T19:59:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Manifund",
+              "link": {
+                "url": "https://manifund.org/"
+              }
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Manifund",
+            "href": "https://manifund.org/"
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "c7438cf4-2679-4c76-82e7-dca577b6b2c0",
+          "parent": {
+            "type": "block_id",
+            "block_id": "f5a3f511-090d-4c7b-814e-501ce0386886"
+          },
+          "created_time": "2024-04-02T18:17:00.000Z",
+          "last_edited_time": "2024-04-02T19:50:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "In the longer term, I’ll be focusing on Manifund. Funding for public goods remains broken, a bajillion dollar bill left on the sidewalk. We’re going to pick it up.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "In the longer term, I’ll be focusing on Manifund. Funding for public goods remains broken, a bajillion dollar bill left on the sidewalk. We’re going to pick it up.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "fd7afbab-f708-460c-aacb-e22e487c9138",
+          "parent": {
+            "type": "block_id",
+            "block_id": "f5a3f511-090d-4c7b-814e-501ce0386886"
+          },
+          "created_time": "2024-04-02T19:40:00.000Z",
+          "last_edited_time": "2024-04-02T19:59:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "How, exactly? …Still kind of tbd. It could be one of the things we’ve been piloting (regranting, impact markets, prize rounds), or something totally new. We have a bunch of ideas here; stay tuned, and reach out if you’d like to be involved.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "How, exactly? …Still kind of tbd. It could be one of the things we’ve been piloting (regranting, impact markets, prize rounds), or something totally new. We have a bunch of ideas here; stay tuned, and reach out if you’d like to be involved.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "349b24a6-2957-448f-946f-2a494a2d0871",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5e10a306-c6c2-49cb-ab3a-65c7bd1b0a64"
+      },
+      "created_time": "2024-04-02T19:06:00.000Z",
+      "last_edited_time": "2024-04-02T19:59:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "A baby!",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "A baby!",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "5dbc7329-6c1c-4c34-9ae0-9e547132668e",
+          "parent": {
+            "type": "block_id",
+            "block_id": "349b24a6-2957-448f-946f-2a494a2d0871"
+          },
+          "created_time": "2024-04-02T19:06:00.000Z",
+          "last_edited_time": "2024-04-02T19:57:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "46% Ada, as of this writing",
+                  "link": {
+                    "url": "https://manifold.markets/Austin/what-will-we-name-our-baby"
+                  }
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "46% Ada, as of this writing",
+                "href": "https://manifold.markets/Austin/what-will-we-name-our-baby"
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "fdd4bc93-0bc3-4b76-ad90-c122f9fa7ce4",
+          "parent": {
+            "type": "block_id",
+            "block_id": "349b24a6-2957-448f-946f-2a494a2d0871"
+          },
+          "created_time": "2024-04-02T19:58:00.000Z",
+          "last_edited_time": "2024-04-02T19:58:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "image",
+          "image": {
+            "caption": [],
+            "type": "file",
+            "file": {
+              "url": "https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/5e10a306c6c249cbab3a65c7bd1b0a64/fdd4bc930bc34b76ad90c122f9fa7ce4-20240402195800.jpg"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,405 @@
+{
+  "page": {
+    "id": "70a94a2c8d1b4509abe217bff8f04143",
+    "title": "Learn technical things when you're young",
+    "date": "2022-09-22",
+    "edited": "2022-10-07T15:25:00.000Z",
+    "url": "https://akrolsmir.notion.site/Learn-technical-things-when-you-re-young-70a94a2c8d1b4509abe217bff8f04143",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "6466d5cf-41c6-48d2-835e-fc4aa7177981",
+      "parent": {
+        "type": "page_id",
+        "page_id": "70a94a2c-8d1b-4509-abe2-17bff8f04143"
+      },
+      "created_time": "2022-09-22T15:03:00.000Z",
+      "last_edited_time": "2022-09-22T15:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Certain careers are much easier to pick up young. Usually technical subjects (programming, math, physics)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Certain careers are much easier to pick up young. Usually technical subjects (programming, math, physics)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "7dadbb27-525a-4b74-84ed-484953667ab3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "70a94a2c-8d1b-4509-abe2-17bff8f04143"
+      },
+      "created_time": "2022-09-22T15:03:00.000Z",
+      "last_edited_time": "2022-09-22T15:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Some can be done at older ages (teaching, leading, writing etc)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Some can be done at older ages (teaching, leading, writing etc)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "8a5285ff-26fb-4e51-897e-f2747441af83",
+      "parent": {
+        "type": "page_id",
+        "page_id": "70a94a2c-8d1b-4509-abe2-17bff8f04143"
+      },
+      "created_time": "2022-09-22T15:03:00.000Z",
+      "last_edited_time": "2022-09-22T15:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "start upwind (cf Paul graham)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "start upwind (cf Paul graham)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "48112aad-0799-4e32-8977-67545e93aabd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "70a94a2c-8d1b-4509-abe2-17bff8f04143"
+      },
+      "created_time": "2022-09-22T15:03:00.000Z",
+      "last_edited_time": "2022-09-22T15:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "programmers can become managers, vice versa doesn't really happen (tho - does this mean managing is more fun?)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "programmers can become managers, vice versa doesn't really happen (tho - does this mean managing is more fun?)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "d8ae4fcd-e912-4b06-96c1-0258a911b75f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "70a94a2c-8d1b-4509-abe2-17bff8f04143"
+      },
+      "created_time": "2022-09-22T15:03:00.000Z",
+      "last_edited_time": "2022-09-22T15:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "4dee01fc-5a10-4771-b00c-ce38b57433f0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "70a94a2c-8d1b-4509-abe2-17bff8f04143"
+      },
+      "created_time": "2022-09-22T15:03:00.000Z",
+      "last_edited_time": "2022-09-22T15:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Aka don't do community building",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Aka don't do community building",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "5a85868d-9e0d-4b36-9489-6e562c4ed1a3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "70a94a2c-8d1b-4509-abe2-17bff8f04143"
+      },
+      "created_time": "2022-10-07T15:25:00.000Z",
+      "last_edited_time": "2022-10-07T15:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "6dbcf023-5468-4d4a-b262-2ddc2722ef6a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "70a94a2c-8d1b-4509-abe2-17bff8f04143"
+      },
+      "created_time": "2022-10-07T15:25:00.000Z",
+      "last_edited_time": "2022-10-07T15:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Update ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Update ",
+            "href": null
+          },
+          {
+            "type": "mention",
+            "mention": {
+              "type": "date",
+              "date": {
+                "start": "2022-10-07",
+                "end": null,
+                "time_zone": null
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "2022-10-07",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " ",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "f6d4f705-ef39-40f6-89da-93b3c2825167",
+      "parent": {
+        "type": "page_id",
+        "page_id": "70a94a2c-8d1b-4509-abe2-17bff8f04143"
+      },
+      "created_time": "2022-10-07T15:25:00.000Z",
+      "last_edited_time": "2022-10-07T15:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Also, get feedback when you’re young. AKA don’t do technical AI Safety research",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Also, get feedback when you’re young. AKA don’t do technical AI Safety research",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    }
+  ]
+}

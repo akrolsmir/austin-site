@@ -1,0 +1,1787 @@
+{
+  "page": {
+    "id": "7fa5ded654ea4c768a6c61a1beb79c39",
+    "title": "Institutional intelligence beats individual intelligence",
+    "date": "2022-05-31",
+    "edited": "2022-06-01T07:08:00.000Z",
+    "url": "https://akrolsmir.notion.site/Institutional-intelligence-beats-individual-intelligence-7fa5ded654ea4c768a6c61a1beb79c39",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "26e7fe84-c1b2-4815-b84e-9f7504b113dc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7fa5ded6-54ea-4c76-8a6c-61a1beb79c39"
+      },
+      "created_time": "2022-05-08T12:54:00.000Z",
+      "last_edited_time": "2022-06-01T06:36:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Humans took over the world not because our individual intelligence allowed individual humans to succeed, but because we got just smart enough to coordinate",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Humans took over the world not because our individual intelligence allowed individual humans to succeed, but because we got just smart enough to coordinate",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "4dcf8106-af71-4421-8ce3-57688d820921",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7fa5ded6-54ea-4c76-8a6c-61a1beb79c39"
+      },
+      "created_time": "2022-05-08T12:54:00.000Z",
+      "last_edited_time": "2022-06-01T06:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "We've barely gotten smarter since 10000 years ago, but have gotten much better at coordinating through government law and economic mechanisms (markets, corporations)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "We've barely gotten smarter since 10000 years ago, but have gotten much better at coordinating through government law and economic mechanisms (markets, corporations)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "e4ebe7b2-5603-41f6-961e-bdd5803b07ea",
+          "parent": {
+            "type": "block_id",
+            "block_id": "4dcf8106-af71-4421-8ce3-57688d820921"
+          },
+          "created_time": "2022-06-01T06:36:00.000Z",
+          "last_edited_time": "2022-06-01T06:36:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "From families to tribes to cities to nations",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "From families to tribes to cities to nations",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "9cd997cd-5d19-412c-a285-841b6e29e2d9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7fa5ded6-54ea-4c76-8a6c-61a1beb79c39"
+      },
+      "created_time": "2022-06-01T06:53:00.000Z",
+      "last_edited_time": "2022-06-01T06:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Fundamental problem: Our power exceeds our wisdom",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Fundamental problem: Our power exceeds our wisdom",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "b4bc8fbc-b35c-49a8-a2ce-94118f116c87",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7fa5ded6-54ea-4c76-8a6c-61a1beb79c39"
+      },
+      "created_time": "2022-06-01T06:53:00.000Z",
+      "last_edited_time": "2022-06-01T06:54:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "If you buy into existential risk as the most important problem of our times, than the bottleneck appears to be something like knowledge or wisdom. What can we do to rapidly acquire more wisdom?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "If you buy into existential risk as the most important problem of our times, than the bottleneck appears to be something like knowledge or wisdom. What can we do to rapidly acquire more wisdom?",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "a74f9ab8-d16f-495f-88c8-3d59fac1fe6c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7fa5ded6-54ea-4c76-8a6c-61a1beb79c39"
+      },
+      "created_time": "2022-06-01T06:54:00.000Z",
+      "last_edited_time": "2022-06-01T07:01:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "In the early days of the rationality movement, the prescription seemed to be “make individuals smarter”. The tools of choice were Bayesian reasoning, Trigger-action-plans, attacks on akrasia; all aimed at raising the thinking level of a single person",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "In the early days of the rationality movement, the prescription seemed to be “make individuals smarter”. The tools of choice were Bayesian reasoning, Trigger-action-plans, attacks on akrasia; all aimed at raising the thinking level of a single person",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "583e14d6-b7bc-4c4b-980a-2dddc6db1443",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7fa5ded6-54ea-4c76-8a6c-61a1beb79c39"
+      },
+      "created_time": "2022-06-01T06:49:00.000Z",
+      "last_edited_time": "2022-06-01T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Viewing institutions as agents",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Viewing institutions as agents",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "9f07e99b-e59b-4e23-8d43-15d109ba4574",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7fa5ded6-54ea-4c76-8a6c-61a1beb79c39"
+      },
+      "created_time": "2022-06-01T06:49:00.000Z",
+      "last_edited_time": "2022-06-01T06:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "What is the equivalent IQ of the institution of Jane Street, if it were a single person? Someone capable of earning millions a day through good decisionmaking, with lightning fast 24/7 response times, processing information in parallel - is that 250 IQ?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "What is the equivalent IQ of the institution of Jane Street, if it were a single person? Someone capable of earning millions a day through good decisionmaking, with lightning fast 24/7 response times, processing information in parallel - is that 250 IQ?",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "70ebb8cb-1da5-4b35-af67-1c5476a3d6d0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7fa5ded6-54ea-4c76-8a6c-61a1beb79c39"
+      },
+      "created_time": "2022-06-01T06:55:00.000Z",
+      "last_edited_time": "2022-06-01T06:59:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "At any point in time, a lone trader can play the most efficient game - the market pricing game on Wall Street. But notice that all the large winnings accrue to institutions, not individuals.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "At any point in time, a lone trader can play the most efficient game - the market pricing game on Wall Street. But notice that all the large winnings accrue to institutions, not individuals.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "f80b6eeb-8fde-4d48-92b6-09c5e5d2764f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7fa5ded6-54ea-4c76-8a6c-61a1beb79c39"
+      },
+      "created_time": "2022-06-01T06:57:00.000Z",
+      "last_edited_time": "2022-06-01T06:58:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Institutional intelligence includes people, networks, processes, and computers",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Institutional intelligence includes people, networks, processes, and computers",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3be8a92b-cad8-4b30-b64e-cd4d26d419df",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7fa5ded6-54ea-4c76-8a6c-61a1beb79c39"
+      },
+      "created_time": "2022-06-01T06:57:00.000Z",
+      "last_edited_time": "2022-06-01T06:59:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "People: an institution is generally composed of other humans; the raw abilities of those humans tend to be the biggest factor in the success or failure of the institution as a whole.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "People: an institution is generally composed of other humans; the raw abilities of those humans tend to be the biggest factor in the success or failure of the institution as a whole.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "caffacaf-5f15-47c6-86ef-fa01f41bf178",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7fa5ded6-54ea-4c76-8a6c-61a1beb79c39"
+      },
+      "created_time": "2022-06-01T06:59:00.000Z",
+      "last_edited_time": "2022-06-01T06:59:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Networks: The connections between people; how well they know each other, how much they are willing to cooperate",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Networks: The connections between people; how well they know each other, how much they are willing to cooperate",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1ed4741a-5149-4dbf-92e6-4bc03eb01ab7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7fa5ded6-54ea-4c76-8a6c-61a1beb79c39"
+      },
+      "created_time": "2022-06-01T06:59:00.000Z",
+      "last_edited_time": "2022-06-01T07:07:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Process: The guidelines in place to mediate how the individual subagents talk with each other",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Process: The guidelines in place to mediate how the individual subagents talk with each other",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "0b45cf21-35f6-4aca-aac2-52d35ef46936",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1ed4741a-5149-4dbf-92e6-4bc03eb01ab7"
+          },
+          "created_time": "2022-06-01T07:06:00.000Z",
+          "last_edited_time": "2022-06-01T07:07:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Good processes:",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Good processes:",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "adda0697-9cc6-4d10-a3fa-e42c8c6d7b65",
+              "parent": {
+                "type": "block_id",
+                "block_id": "0b45cf21-35f6-4aca-aac2-52d35ef46936"
+              },
+              "created_time": "2022-06-01T07:07:00.000Z",
+              "last_edited_time": "2022-06-01T07:07:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Weekly get-togethers (Catholic mass; startup all-hands)",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Weekly get-togethers (Catholic mass; startup all-hands)",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "2d81748f-eeb9-47c8-b0da-57a017b66894",
+              "parent": {
+                "type": "block_id",
+                "block_id": "0b45cf21-35f6-4aca-aac2-52d35ef46936"
+              },
+              "created_time": "2022-06-01T07:06:00.000Z",
+              "last_edited_time": "2022-06-01T07:07:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "1:1s (Catholic confession; startup business advice)",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "1:1s (Catholic confession; startup business advice)",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "f5eb1e51-9c46-4d4c-9c80-0fcfeea173f5",
+              "parent": {
+                "type": "block_id",
+                "block_id": "0b45cf21-35f6-4aca-aac2-52d35ef46936"
+              },
+              "created_time": "2022-06-01T07:06:00.000Z",
+              "last_edited_time": "2022-06-01T07:08:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Shared rituals (Standup; prayer before meals)",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Shared rituals (Standup; prayer before meals)",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "bf8d39c9-ed45-4580-853c-85cf60f4e907",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7fa5ded6-54ea-4c76-8a6c-61a1beb79c39"
+      },
+      "created_time": "2022-06-01T07:00:00.000Z",
+      "last_edited_time": "2022-06-01T07:00:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Computers: Or more broadly, the tools that allow us to outsource some amount of our thinking, and reduce communication frictions",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Computers: Or more broadly, the tools that allow us to outsource some amount of our thinking, and reduce communication frictions",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "63befca6-d6ce-4d21-8925-f1efd329fee3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7fa5ded6-54ea-4c76-8a6c-61a1beb79c39"
+      },
+      "created_time": "2022-06-01T07:01:00.000Z",
+      "last_edited_time": "2022-06-01T07:01:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "b7be739e-0b32-4154-b99c-b5dea10ed462",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7fa5ded6-54ea-4c76-8a6c-61a1beb79c39"
+      },
+      "created_time": "2022-06-01T07:01:00.000Z",
+      "last_edited_time": "2022-06-01T07:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "What institutions have won? aka Who should we copy?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "What institutions have won? aka Who should we copy?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "6c328c4b-4b28-44b4-97c0-2149b4ac3efd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7fa5ded6-54ea-4c76-8a6c-61a1beb79c39"
+      },
+      "created_time": "2022-06-01T07:01:00.000Z",
+      "last_edited_time": "2022-06-01T07:02:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Catholicism - largest single religion in the world, with a specific set of beliefs that roll up into a single governing body (the Vatican, the Pope), chapters in every nation, very impressively organized",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Catholicism - largest single religion in the world, with a specific set of beliefs that roll up into a single governing body (the Vatican, the Pope), chapters in every nation, very impressively organized",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "cf2605c1-5f18-45ba-869c-cc7c59df8ed1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7fa5ded6-54ea-4c76-8a6c-61a1beb79c39"
+      },
+      "created_time": "2022-06-01T07:02:00.000Z",
+      "last_edited_time": "2022-06-01T07:04:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "United States - the richest country on earth, exporting democratic norms, making English the language of choice and the dollar the default currency. The original US constitution seems worthwhile to examine",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "United States - the richest country on earth, exporting democratic norms, making English the language of choice and the dollar the default currency. The original US constitution seems worthwhile to examine",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "d07d48eb-8cdd-4c45-a8e6-b21042c354b0",
+          "parent": {
+            "type": "block_id",
+            "block_id": "cf2605c1-5f18-45ba-869c-cc7c59df8ed1"
+          },
+          "created_time": "2022-06-01T07:04:00.000Z",
+          "last_edited_time": "2022-06-01T07:04:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Is this an output of good governance, or sheer luck at being thrown into a resource-rich land with stark warfare capability differentials vs native Americans?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Is this an output of good governance, or sheer luck at being thrown into a resource-rich land with stark warfare capability differentials vs native Americans?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "3a6b28aa-56c2-4a15-a028-fcc3e662cb1e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7fa5ded6-54ea-4c76-8a6c-61a1beb79c39"
+      },
+      "created_time": "2022-06-01T07:04:00.000Z",
+      "last_edited_time": "2022-06-01T07:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Big Tech Companies",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Big Tech Companies",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "a08ecd18-2ff5-44f8-a5c7-dd426e042a23",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7fa5ded6-54ea-4c76-8a6c-61a1beb79c39"
+      },
+      "created_time": "2022-06-01T07:05:00.000Z",
+      "last_edited_time": "2022-06-01T07:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Bitcoin??",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Bitcoin??",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "53e94d6d-23a6-43fb-b6e1-1c044b210f4d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7fa5ded6-54ea-4c76-8a6c-61a1beb79c39"
+      },
+      "created_time": "2022-06-01T06:36:00.000Z",
+      "last_edited_time": "2022-06-01T06:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Making “you” smart is hard. Making “us” smart might be easier? aka Why IIDM might be tractable",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Making “you” smart is hard. Making “us” smart might be easier? aka Why IIDM might be tractable",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "33d2fcff-ac28-4998-84c4-af63e4f64a30",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7fa5ded6-54ea-4c76-8a6c-61a1beb79c39"
+      },
+      "created_time": "2022-06-01T06:38:00.000Z",
+      "last_edited_time": "2022-06-01T06:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Making individuals smarter is pretty difficult. IQ is mostly hereditary, and standardized education and internet access to information goes most of the rest of the distance. I know people who are excited about embryo selection to direct a smarter population, but the timeframes on change for that run in the hundreds of years. I want to figure out what we can do today.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Making individuals smarter is pretty difficult. IQ is mostly hereditary, and standardized education and internet access to information goes most of the rest of the distance. I know people who are excited about embryo selection to direct a smarter population, but the timeframes on change for that run in the hundreds of years. I want to figure out what we can do today.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "fe640b1f-4e0d-4852-ba68-e1da5e424a90",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7fa5ded6-54ea-4c76-8a6c-61a1beb79c39"
+      },
+      "created_time": "2022-06-01T06:38:00.000Z",
+      "last_edited_time": "2022-06-01T06:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "We don’t run randomized control trials on which institutional structures end up working well… But the free market of competitive institutions might be a good proxy for searching over the space of successful institutions",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "We don’t run randomized control trials on which institutional structures end up working well… But the free market of competitive institutions might be a good proxy for searching over the space of successful institutions",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "26ddc28b-d56f-4d40-9615-d6ba4a02ba8d",
+          "parent": {
+            "type": "block_id",
+            "block_id": "fe640b1f-4e0d-4852-ba68-e1da5e424a90"
+          },
+          "created_time": "2022-06-01T06:39:00.000Z",
+          "last_edited_time": "2022-06-01T06:48:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Aside: Governments are bad precisely because they have no competition; almost by definition they have a monopoly on governing structures. You can’t credibly set up an alternative system of laws within the a country, the government would impose monopoly power to prevent that from being realized.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Aside: Governments are bad precisely because they have no competition; almost by definition they have a monopoly on governing structures. You can’t credibly set up an alternative system of laws within the a country, the government would impose monopoly power to prevent that from being realized.",
+                "href": null
+              }
+            ],
+            "icon": null,
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "832983e0-0a2c-4ced-be47-c7dee334556b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "fe640b1f-4e0d-4852-ba68-e1da5e424a90"
+          },
+          "created_time": "2022-06-01T06:39:00.000Z",
+          "last_edited_time": "2022-06-01T06:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "United States does slightly better with individual states competing over citizens. Also the EU?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "United States does slightly better with individual states competing over citizens. Also the EU?",
+                "href": null
+              }
+            ],
+            "icon": null,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "b2642df7-31dc-4197-8a80-ba1650ebb992",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7fa5ded6-54ea-4c76-8a6c-61a1beb79c39"
+      },
+      "created_time": "2022-06-01T06:41:00.000Z",
+      "last_edited_time": "2022-06-01T06:52:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Startups are often held up as an example of efficient organizations that ruthlessly execute on their goals. But if you talk to anyone inside a startup, the internal feeling is that everything is on fire and all processes are broken all the time. It turns out they don’t actually optimize their governing structure much; instead, they get to just-not-broken-enough such that institutional intelligence does not bottleneck their main product (whatever the startup sells) on rocketship growth.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Startups are often held up as an example of efficient organizations that ruthlessly execute on their goals. But if you talk to anyone inside a startup, the internal feeling is that everything is on fire and all processes are broken all the time. It turns out they don’t actually optimize their governing structure much; instead, they get to just-not-broken-enough such that institutional intelligence does not bottleneck their main product (whatever the startup sells) on rocketship growth.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "948f9ec1-dfe1-43e3-88ae-ae20af8303d2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7fa5ded6-54ea-4c76-8a6c-61a1beb79c39"
+      },
+      "created_time": "2022-06-01T06:42:00.000Z",
+      "last_edited_time": "2022-06-01T06:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "What would a startup look like whose entire product was good governance and intelligent decisionmaking?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "What would a startup look like whose entire product was good governance and intelligent decisionmaking?",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "26b475ed-8189-45b7-b0a8-31ba8b911fcd",
+          "parent": {
+            "type": "block_id",
+            "block_id": "948f9ec1-dfe1-43e3-88ae-ae20af8303d2"
+          },
+          "created_time": "2022-06-01T06:48:00.000Z",
+          "last_edited_time": "2022-06-01T06:48:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Special economic zones?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Special economic zones?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "eebd12aa-a695-44d1-9bee-4224f1b4af7a",
+          "parent": {
+            "type": "block_id",
+            "block_id": "948f9ec1-dfe1-43e3-88ae-ae20af8303d2"
+          },
+          "created_time": "2022-06-01T06:48:00.000Z",
+          "last_edited_time": "2022-06-01T06:48:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Model city creation?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Model city creation?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "2292fc66-7d45-480b-89e0-8906f06b80fb",
+          "parent": {
+            "type": "block_id",
+            "block_id": "948f9ec1-dfe1-43e3-88ae-ae20af8303d2"
+          },
+          "created_time": "2022-06-01T06:48:00.000Z",
+          "last_edited_time": "2022-06-01T06:48:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Futarchic decisions?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Futarchic decisions?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "657a1b44-c582-439a-a4e6-646bdfc008d5",
+          "parent": {
+            "type": "block_id",
+            "block_id": "948f9ec1-dfe1-43e3-88ae-ae20af8303d2"
+          },
+          "created_time": "2022-06-01T06:48:00.000Z",
+          "last_edited_time": "2022-06-01T06:48:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "DAO/Cryptocurrency?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "DAO/Cryptocurrency?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "81749e29-e1fd-4935-ae20-db8da8f41deb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7fa5ded6-54ea-4c76-8a6c-61a1beb79c39"
+      },
+      "created_time": "2022-05-08T12:55:00.000Z",
+      "last_edited_time": "2022-06-01T06:36:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "What does this mean for how humans align AI? ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "What does this mean for how humans align AI? ",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "47a0a20f-29c8-4a1f-83d3-e79b8de2de61",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7fa5ded6-54ea-4c76-8a6c-61a1beb79c39"
+      },
+      "created_time": "2022-06-01T06:36:00.000Z",
+      "last_edited_time": "2022-06-01T06:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Well, we’re not likely to beat AI by making ourselves smarter, or figuring out enough concepts in the space of ideas",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Well, we’re not likely to beat AI by making ourselves smarter, or figuring out enough concepts in the space of ideas",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "58902a1a-ab6e-46b3-a99d-c6e8c1e68329",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7fa5ded6-54ea-4c76-8a6c-61a1beb79c39"
+      },
+      "created_time": "2022-05-08T12:55:00.000Z",
+      "last_edited_time": "2022-06-01T06:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "What does this mean for movement building?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "What does this mean for movement building?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "4fe4cf9e-8f48-4829-99b4-5585ab063e56",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7fa5ded6-54ea-4c76-8a6c-61a1beb79c39"
+      },
+      "created_time": "2022-05-08T12:57:00.000Z",
+      "last_edited_time": "2022-06-01T06:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Describe coordination among a catholic world ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Describe coordination among a catholic world ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "cfdba3b4-a799-465e-b75d-411a50e1a1a2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "7fa5ded6-54ea-4c76-8a6c-61a1beb79c39"
+      },
+      "created_time": "2022-05-08T12:55:00.000Z",
+      "last_edited_time": "2022-06-01T06:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "What does this mean for AI risk? ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "What does this mean for AI risk? ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    }
+  ]
+}

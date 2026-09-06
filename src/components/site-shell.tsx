@@ -13,3 +13,4 @@ export function SiteHeader() {
 export function Placeholder({ className = "" }: { className?: string }) {
   return <div className={`photo-placeholder ${className}`} aria-label="Photo placeholder"><span>Lorem ipsum</span></div>;
 }
+export const lorem = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla cursus, sapien nec posuere bibendum, lacus augue interdum nunc, vitae luctus purus velit vitae ligula.";

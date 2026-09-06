@@ -1,0 +1,1921 @@
+{
+  "page": {
+    "id": "5d6dc8757abe4f14b3992252d4b49b56",
+    "title": "Why 501c3 grants might be bad",
+    "date": "2022-08-15",
+    "edited": "2022-08-17T20:26:00.000Z",
+    "url": "https://akrolsmir.notion.site/Why-501c3-grants-might-be-bad-5d6dc8757abe4f14b3992252d4b49b56",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "6f677fc1-065b-4224-910b-2ec4e2206d45",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5d6dc875-7abe-4f14-b399-2252d4b49b56"
+      },
+      "created_time": "2022-08-15T21:58:00.000Z",
+      "last_edited_time": "2022-08-15T22:00:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Manifold Markets lives in an interesting halfway point between the for-profit Silicon Valley and non-profit Effective Altruism spaces. We’ve received all kinds of funding: restricted grants, unrestricted grants, angel and VC checks.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Manifold Markets lives in an interesting halfway point between the for-profit Silicon Valley and non-profit Effective Altruism spaces. We’ve received all kinds of funding: restricted grants, unrestricted grants, angel and VC checks.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "458c825e-26a2-4041-8180-9f19372b6729",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5d6dc875-7abe-4f14-b399-2252d4b49b56"
+      },
+      "created_time": "2022-08-15T22:00:00.000Z",
+      "last_edited_time": "2022-08-15T22:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "At first, it might seem that grants are much better than investment — you get money for nothing! But in practice, I’ve felt that it’s not so clear-cut as that. Some reasons that the nonprofit grants feel less empowering than just investment money.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "At first, it might seem that grants are much better than investment — you get money for nothing! But in practice, I’ve felt that it’s not so clear-cut as that. Some reasons that the nonprofit grants feel less empowering than just investment money.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "a33863d7-24ad-4ecb-b68e-bdacfc22ba09",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5d6dc875-7abe-4f14-b399-2252d4b49b56"
+      },
+      "created_time": "2022-08-15T21:58:00.000Z",
+      "last_edited_time": "2022-08-15T21:58:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "d470092c-56eb-4fb8-b1f1-694d46f9fbf5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5d6dc875-7abe-4f14-b399-2252d4b49b56"
+      },
+      "created_time": "2022-08-15T21:58:00.000Z",
+      "last_edited_time": "2022-08-15T21:58:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Grant money feels restricted and thus meaningfully different/less valuable than investment money",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Grant money feels restricted and thus meaningfully different/less valuable than investment money",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "b490f081-2a41-4277-9854-3be335d4bfe4",
+          "parent": {
+            "type": "block_id",
+            "block_id": "d470092c-56eb-4fb8-b1f1-694d46f9fbf5"
+          },
+          "created_time": "2022-08-15T21:58:00.000Z",
+          "last_edited_time": "2022-08-15T21:58:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Think of the difference between “money for a scholarship” vs “cash in your wallet”",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Think of the difference between “money for a scholarship” vs “cash in your wallet”",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "ee269500-1704-4573-8e10-d0c5cfc9eaa1",
+          "parent": {
+            "type": "block_id",
+            "block_id": "d470092c-56eb-4fb8-b1f1-694d46f9fbf5"
+          },
+          "created_time": "2022-08-15T21:58:00.000Z",
+          "last_edited_time": "2022-08-15T21:58:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "One of EA’s favorite charities is GiveDirectly, premised on the idea that people can make pretty good decisions about spending if they just have the money",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "One of EA’s favorite charities is GiveDirectly, premised on the idea that people can make pretty good decisions about spending if they just have the money",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "64dbdf45-35d2-4bf8-a98d-d1db8de1cc50",
+          "parent": {
+            "type": "block_id",
+            "block_id": "d470092c-56eb-4fb8-b1f1-694d46f9fbf5"
+          },
+          "created_time": "2022-08-15T21:58:00.000Z",
+          "last_edited_time": "2022-08-15T21:58:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Example: When LTFF gave us $200k we… basically just sat on it. Vaguely thought “oh, maybe we’re supposed to set up a longtermist prediction tournament now like Metaculus’s?”",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Example: When LTFF gave us $200k we… basically just sat on it. Vaguely thought “oh, maybe we’re supposed to set up a longtermist prediction tournament now like Metaculus’s?”",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "27100e5a-efde-45e5-8094-bdb8f77be832",
+          "parent": {
+            "type": "block_id",
+            "block_id": "d470092c-56eb-4fb8-b1f1-694d46f9fbf5"
+          },
+          "created_time": "2022-08-15T21:58:00.000Z",
+          "last_edited_time": "2022-08-15T21:58:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Example: Accepting FTX FF’s $500k took a couple extra back and forths with lawyers to draft a contract on how we could spend it (and then a detour into a grants portal issue), vs just taking $1m investment via wire",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Example: Accepting FTX FF’s $500k took a couple extra back and forths with lawyers to draft a contract on how we could spend it (and then a detour into a grants portal issue), vs just taking $1m investment via wire",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "e533f00a-3f79-4667-a7e0-86501c482f1d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5d6dc875-7abe-4f14-b399-2252d4b49b56"
+      },
+      "created_time": "2022-08-15T21:58:00.000Z",
+      "last_edited_time": "2022-08-15T22:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Grant money leads to making guesses about how your funder wants you to spend your money, in a low-feedback, slow loop with unclear objectives",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Grant money leads to making guesses about how your funder wants you to spend your money, in a low-feedback, slow loop with unclear objectives",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "39c6aa92-5454-47ec-9c5f-4497855c8ca8",
+          "parent": {
+            "type": "block_id",
+            "block_id": "e533f00a-3f79-4667-a7e0-86501c482f1d"
+          },
+          "created_time": "2022-08-15T22:03:00.000Z",
+          "last_edited_time": "2022-08-15T22:03:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Especially bad the more levels of indirection/regranting are happening",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Especially bad the more levels of indirection/regranting are happening",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "58f9b5ad-5b7c-4e3b-a73e-38f1993be74e",
+          "parent": {
+            "type": "block_id",
+            "block_id": "e533f00a-3f79-4667-a7e0-86501c482f1d"
+          },
+          "created_time": "2022-08-15T21:58:00.000Z",
+          "last_edited_time": "2022-08-15T22:03:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Example: at Future Forum, we ran a pitch contest to see what projects to fund with $10k. I grabbed ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Example: at Future Forum, we ran a pitch contest to see what projects to fund with $10k. I grabbed ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "Ela Madej",
+                  "link": {
+                    "url": "https://fiftyyears.com/team/ela-madej"
+                  }
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Ela Madej",
+                "href": "https://fiftyyears.com/team/ela-madej"
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": " and ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": " and ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "Caleb Prikah",
+                  "link": {
+                    "url": "https://www.linkedin.com/in/caleb-parikh"
+                  }
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Caleb Prikah",
+                "href": "https://www.linkedin.com/in/caleb-parikh"
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": " (who are wonderful and amazingly talented people) to judge. This lead to:",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": " (who are wonderful and amazingly talented people) to judge. This lead to:",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "298faa16-e702-441e-8f9f-30ca9e24b396",
+              "parent": {
+                "type": "block_id",
+                "block_id": "58f9b5ad-5b7c-4e3b-a73e-38f1993be74e"
+              },
+              "created_time": "2022-08-15T21:58:00.000Z",
+              "last_edited_time": "2022-08-15T22:03:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Ela and Caleb (judges), guessing how…",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Ela and Caleb (judges), guessing how…",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "2822b5a1-6cea-499d-b0d6-a96eab97e4ed",
+              "parent": {
+                "type": "block_id",
+                "block_id": "58f9b5ad-5b7c-4e3b-a73e-38f1993be74e"
+              },
+              "created_time": "2022-08-15T21:58:00.000Z",
+              "last_edited_time": "2022-08-15T22:03:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Isaak Freeman (Future Forum president), guessing how…",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Isaak Freeman (Future Forum president), guessing how…",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "625aaab7-58fb-40c4-9e96-0ebedbd36f36",
+              "parent": {
+                "type": "block_id",
+                "block_id": "58f9b5ad-5b7c-4e3b-a73e-38f1993be74e"
+              },
+              "created_time": "2022-08-15T21:58:00.000Z",
+              "last_edited_time": "2022-08-15T22:03:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "FTX Future Fund, guessing how…",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "FTX Future Fund, guessing how…",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "6b1d16f2-4ca8-4dbb-8d93-c1214616fb62",
+              "parent": {
+                "type": "block_id",
+                "block_id": "58f9b5ad-5b7c-4e3b-a73e-38f1993be74e"
+              },
+              "created_time": "2022-08-15T21:58:00.000Z",
+              "last_edited_time": "2022-08-15T22:04:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Sam Bankman Fried would want his money to be allocated",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Sam Bankman Fried would want his money to be allocated",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "1c95ad4a-81ea-4957-a7a8-c7b5ed689353",
+          "parent": {
+            "type": "block_id",
+            "block_id": "e533f00a-3f79-4667-a7e0-86501c482f1d"
+          },
+          "created_time": "2022-08-15T21:58:00.000Z",
+          "last_edited_time": "2022-08-15T22:04:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "We spent 90+ minutes judging the 20 entries, in large part because we were unsure what exactly the funding criteria was.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "We spent 90+ minutes judging the 20 entries, in large part because we were unsure what exactly the funding criteria was.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "5924ad27-f294-4ba6-918c-79877e60853f",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c95ad4a-81ea-4957-a7a8-c7b5ed689353"
+              },
+              "created_time": "2022-08-15T21:58:00.000Z",
+              "last_edited_time": "2022-08-15T21:58:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Investors get to say “I think this will make money”",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Investors get to say “I think this will make money”",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "0a5306dc-6d4a-4fd5-945d-a8913fecae84",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c95ad4a-81ea-4957-a7a8-c7b5ed689353"
+              },
+              "created_time": "2022-08-15T21:58:00.000Z",
+              "last_edited_time": "2022-08-15T22:04:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Consumers get to say “I value this thing at more than the cost of money”",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Consumers get to say “I value this thing at more than the cost of money”",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "c94ba29e-9561-4935-b951-f1acc3a26f8f",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c95ad4a-81ea-4957-a7a8-c7b5ed689353"
+              },
+              "created_time": "2022-08-15T21:58:00.000Z",
+              "last_edited_time": "2022-08-15T22:05:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "But when you’re spending funding from other sources, you now have to invent a model of your funder’s preferences. “Does <my funder> think this would be a reasonable use of money? Could I defend that decision?”",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "But when you’re spending funding from other sources, you now have to invent a model of your funder’s preferences. “Does <my funder> think this would be a reasonable use of money? Could I defend that decision?”",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "64c3b9ad-aa3f-4400-b20c-e4c94a7392af",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5d6dc875-7abe-4f14-b399-2252d4b49b56"
+      },
+      "created_time": "2022-08-15T21:58:00.000Z",
+      "last_edited_time": "2022-08-15T21:58:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Having different colored dollars makes financing things and accounting a huge pain; beware (more than nontrivial) inconveniences",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Having different colored dollars makes financing things and accounting a huge pain; beware (more than nontrivial) inconveniences",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "8e3c7928-6772-406e-9945-16f02cec94dd",
+          "parent": {
+            "type": "block_id",
+            "block_id": "64c3b9ad-aa3f-4400-b20c-e4c94a7392af"
+          },
+          "created_time": "2022-08-15T21:58:00.000Z",
+          "last_edited_time": "2022-08-15T22:01:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "For starters: can’t use Stripe Atlas to get incorporated; which also means no access to Stripe Opal, which makes all kinds of getting things paid for much much better",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "For starters: can’t use Stripe Atlas to get incorporated; which also means no access to Stripe Opal, which makes all kinds of getting things paid for much much better",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "0a20887b-c22d-4723-b721-6dda5b72f5cd",
+              "parent": {
+                "type": "block_id",
+                "block_id": "8e3c7928-6772-406e-9945-16f02cec94dd"
+              },
+              "created_time": "2022-08-15T21:58:00.000Z",
+              "last_edited_time": "2022-08-15T22:00:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Sidenote: Stripe Opal is amazing! All your money sits in one place! Issue virtual credit cards to employees or just random with a couple clicks! 1.5% cash back on everything!",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Sidenote: Stripe Opal is amazing! All your money sits in one place! Issue virtual credit cards to employees or just random with a couple clicks! 1.5% cash back on everything!",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "ed1807c7-3402-466b-b1d1-1006fba40174",
+              "parent": {
+                "type": "block_id",
+                "block_id": "8e3c7928-6772-406e-9945-16f02cec94dd"
+              },
+              "created_time": "2022-08-15T21:58:00.000Z",
+              "last_edited_time": "2022-08-15T21:58:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Financial infrastructure (actually moving money around) in the nonprofit space is held together with duct tape and spit",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Financial infrastructure (actually moving money around) in the nonprofit space is held together with duct tape and spit",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "61f49b63-f1f5-4e1f-bef9-441c253abc6c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "64c3b9ad-aa3f-4400-b20c-e4c94a7392af"
+          },
+          "created_time": "2022-08-15T21:58:00.000Z",
+          "last_edited_time": "2022-08-15T21:58:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Then: Have to track how the money we’re spending is allocated, worry about whether it fits the bar",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Then: Have to track how the money we’re spending is allocated, worry about whether it fits the bar",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "9c61aa75-5ee5-4291-8461-9868a9e3280d",
+              "parent": {
+                "type": "block_id",
+                "block_id": "61f49b63-f1f5-4e1f-bef9-441c253abc6c"
+              },
+              "created_time": "2022-08-15T21:58:00.000Z",
+              "last_edited_time": "2022-08-15T22:00:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Especially in an early stage startup: plans change!",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Especially in an early stage startup: plans change!",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "35adf6fe-0387-448f-b733-20d9f95e89c8",
+              "parent": {
+                "type": "block_id",
+                "block_id": "61f49b63-f1f5-4e1f-bef9-441c253abc6c"
+              },
+              "created_time": "2022-08-15T21:58:00.000Z",
+              "last_edited_time": "2022-08-15T21:58:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": true,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Example: Manifold got $500k to fund ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Example: Manifold got $500k to fund ",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "charity prediction markets",
+                      "link": {
+                        "url": "/86fa1c83489d42bf96680682f99607c7"
+                      }
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "charity prediction markets",
+                    "href": "/86fa1c83489d42bf96680682f99607c7"
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": ". Our first experiment with that raised $8k; and if we match that with another $8k it’s $16k total, a drop in the bucket compared to what we raised. So…",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": ". Our first experiment with that raised $8k; and if we match that with another $8k it’s $16k total, a drop in the bucket compared to what we raised. So…",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "children": [
+                {
+                  "object": "block",
+                  "id": "b9882d9d-66c1-4aa9-bb87-3b5549b2e9e5",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "35adf6fe-0387-448f-b733-20d9f95e89c8"
+                  },
+                  "created_time": "2022-08-15T21:58:00.000Z",
+                  "last_edited_time": "2022-08-15T21:58:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "We could just keep running it, for a long time?",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "We could just keep running it, for a long time?",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                },
+                {
+                  "object": "block",
+                  "id": "d9737a2c-61ba-4f68-bec0-b98ff7b31290",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "35adf6fe-0387-448f-b733-20d9f95e89c8"
+                  },
+                  "created_time": "2022-08-15T21:58:00.000Z",
+                  "last_edited_time": "2022-08-15T21:58:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": true,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "We could run other kinds of experiments?",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "We could run other kinds of experiments?",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  },
+                  "children": [
+                    {
+                      "object": "block",
+                      "id": "16602567-be11-421d-8e67-5698d3d360e2",
+                      "parent": {
+                        "type": "block_id",
+                        "block_id": "d9737a2c-61ba-4f68-bec0-b98ff7b31290"
+                      },
+                      "created_time": "2022-08-15T21:58:00.000Z",
+                      "last_edited_time": "2022-08-15T21:58:00.000Z",
+                      "created_by": {
+                        "object": "user",
+                        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                      },
+                      "last_edited_by": {
+                        "object": "user",
+                        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                      },
+                      "has_children": false,
+                      "in_trash": false,
+                      "type": "bulleted_list_item",
+                      "bulleted_list_item": {
+                        "rich_text": [
+                          {
+                            "type": "text",
+                            "text": {
+                              "content": "E.g. donor lotteries, top charity giveaway, buy up impact certs?",
+                              "link": null
+                            },
+                            "annotations": {
+                              "bold": false,
+                              "italic": false,
+                              "strikethrough": false,
+                              "underline": false,
+                              "code": false,
+                              "color": "default"
+                            },
+                            "plain_text": "E.g. donor lotteries, top charity giveaway, buy up impact certs?",
+                            "href": null
+                          }
+                        ],
+                        "color": "default"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "id": "2f576239-2fb3-4033-a05b-2b812ca48aca",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "35adf6fe-0387-448f-b733-20d9f95e89c8"
+                  },
+                  "created_time": "2022-08-15T21:58:00.000Z",
+                  "last_edited_time": "2022-08-15T21:58:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                  },
+                  "has_children": true,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "We could return the money?",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "We could return the money?",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  },
+                  "children": [
+                    {
+                      "object": "block",
+                      "id": "69c259e4-e65b-44ab-ba4a-8bb10b2d464e",
+                      "parent": {
+                        "type": "block_id",
+                        "block_id": "2f576239-2fb3-4033-a05b-2b812ca48aca"
+                      },
+                      "created_time": "2022-08-15T21:58:00.000Z",
+                      "last_edited_time": "2022-08-15T21:58:00.000Z",
+                      "created_by": {
+                        "object": "user",
+                        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                      },
+                      "last_edited_by": {
+                        "object": "user",
+                        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+                      },
+                      "has_children": false,
+                      "in_trash": false,
+                      "type": "bulleted_list_item",
+                      "bulleted_list_item": {
+                        "rich_text": [
+                          {
+                            "type": "text",
+                            "text": {
+                              "content": "But feels like giving up agency/power/ability to shape the world, my hopefully-somewhat-accurate view is that on the margin Manifold could spend $500k more effectively than FTX Foundation",
+                              "link": null
+                            },
+                            "annotations": {
+                              "bold": false,
+                              "italic": false,
+                              "strikethrough": false,
+                              "underline": false,
+                              "code": false,
+                              "color": "default"
+                            },
+                            "plain_text": "But feels like giving up agency/power/ability to shape the world, my hopefully-somewhat-accurate view is that on the margin Manifold could spend $500k more effectively than FTX Foundation",
+                            "href": null
+                          }
+                        ],
+                        "color": "default"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "adc8c94d-3c12-4135-9bd6-46a1d7cffc19",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5d6dc875-7abe-4f14-b399-2252d4b49b56"
+      },
+      "created_time": "2022-08-15T21:58:00.000Z",
+      "last_edited_time": "2022-08-15T21:58:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "The US government subsidizes 501c3 grants in the tax code, but it comes out to something like a 70% match at most",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "The US government subsidizes 501c3 grants in the tax code, but it comes out to something like a 70% match at most",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "390464e7-e13f-4cef-9f02-04e08af7ff32",
+          "parent": {
+            "type": "block_id",
+            "block_id": "adc8c94d-3c12-4135-9bd6-46a1d7cffc19"
+          },
+          "created_time": "2022-08-15T21:58:00.000Z",
+          "last_edited_time": "2022-08-15T21:58:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "But my guess is that restricted grant money is less than half as useful as actual straight cash money, so 1.7x * 0.5x = 85% as good as actual cash",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "But my guess is that restricted grant money is less than half as useful as actual straight cash money, so 1.7x * 0.5x = 85% as good as actual cash",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "c0def1d6-2327-47c5-b551-883874ad71e6",
+          "parent": {
+            "type": "block_id",
+            "block_id": "adc8c94d-3c12-4135-9bd6-46a1d7cffc19"
+          },
+          "created_time": "2022-08-15T21:58:00.000Z",
+          "last_edited_time": "2022-08-15T21:58:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Where does 70% come from?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Where does 70% come from?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "5fcbdf3b-701b-4fe6-827d-1d0becf1de72",
+              "parent": {
+                "type": "block_id",
+                "block_id": "c0def1d6-2327-47c5-b551-883874ad71e6"
+              },
+              "created_time": "2022-08-15T21:58:00.000Z",
+              "last_edited_time": "2022-08-15T21:58:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "If you have a $0.01 stock that appreciates to $1000, and then donate it to a 501c3: You get a ~$1000 tax deduction; at a 37% marginal tax rate = $370 less to government. So you keep $370, charity gets $1000 = $1370 of benefits",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "If you have a $0.01 stock that appreciates to $1000, and then donate it to a 501c3: You get a ~$1000 tax deduction; at a 37% marginal tax rate = $370 less to government. So you keep $370, charity gets $1000 = $1370 of benefits",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "object": "block",
+              "id": "350dd037-908e-45ec-8f4b-44f9127d66e4",
+              "parent": {
+                "type": "block_id",
+                "block_id": "c0def1d6-2327-47c5-b551-883874ad71e6"
+              },
+              "created_time": "2022-08-15T21:58:00.000Z",
+              "last_edited_time": "2022-08-15T21:58:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "If you had sold it instead and then handed it to your friend as cash, you first pay long-term capital gains, e.g. 20%, and then your friend receives 80% = $800 of benefits.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "If you had sold it instead and then handed it to your friend as cash, you first pay long-term capital gains, e.g. 20%, and then your friend receives 80% = $800 of benefits.",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "a18b20f8-5df4-415e-8afc-59a7e69a318f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "adc8c94d-3c12-4135-9bd6-46a1d7cffc19"
+          },
+          "created_time": "2022-08-15T21:58:00.000Z",
+          "last_edited_time": "2022-08-15T21:58:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "EA talks about order of magnitude differences between how charities spend money - if so, then a 70% government match should be one of the less important factors into where you donate",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "EA talks about order of magnitude differences between how charities spend money - if so, then a 70% government match should be one of the less important factors into where you donate",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "65c0fcf3-9b49-4626-8138-a4512117bfd1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5d6dc875-7abe-4f14-b399-2252d4b49b56"
+      },
+      "created_time": "2022-08-15T21:58:00.000Z",
+      "last_edited_time": "2022-08-15T21:58:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Charity founders and employees sacrifice their earnings and their time for the charity",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Charity founders and employees sacrifice their earnings and their time for the charity",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "9317ae10-3d1a-420c-b536-0ed4b3b95511",
+          "parent": {
+            "type": "block_id",
+            "block_id": "65c0fcf3-9b49-4626-8138-a4512117bfd1"
+          },
+          "created_time": "2022-08-15T21:58:00.000Z",
+          "last_edited_time": "2022-08-15T21:58:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Leads to a misalignment between the charity’s mission and personal happiness; leads to burnout",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Leads to a misalignment between the charity’s mission and personal happiness; leads to burnout",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "2caf2b67-b538-4f09-a105-9f66eb6c2d79",
+          "parent": {
+            "type": "block_id",
+            "block_id": "65c0fcf3-9b49-4626-8138-a4512117bfd1"
+          },
+          "created_time": "2022-08-15T21:58:00.000Z",
+          "last_edited_time": "2022-08-15T21:58:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "And the fact that people have to make such sacrifices mean that talented people with a lot of options go work in Silicon Valley or Wall Street instead",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "And the fact that people have to make such sacrifices mean that talented people with a lot of options go work in Silicon Valley or Wall Street instead",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "da586f8e-e3d7-4e0d-b7d9-7804088f60ae",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5d6dc875-7abe-4f14-b399-2252d4b49b56"
+      },
+      "created_time": "2022-08-15T21:58:00.000Z",
+      "last_edited_time": "2022-08-15T21:58:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "So: If you’re rich like SBF, consider not worrying about whether a cause has nonprofit status, and just sending them a check",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "So: If you’re rich like SBF, consider not worrying about whether a cause has nonprofit status, and just sending them a check",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "125502cf-4aa1-43fb-badb-768414bc7339",
+      "parent": {
+        "type": "page_id",
+        "page_id": "5d6dc875-7abe-4f14-b399-2252d4b49b56"
+      },
+      "created_time": "2022-08-17T20:26:00.000Z",
+      "last_edited_time": "2022-08-17T20:26:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    }
+  ]
+}

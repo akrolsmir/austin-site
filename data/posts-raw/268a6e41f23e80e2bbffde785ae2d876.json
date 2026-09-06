@@ -1,0 +1,1555 @@
+{
+  "page": {
+    "id": "268a6e41f23e80e2bbffde785ae2d876",
+    "title": "Things that suck about building community",
+    "date": "2025-09-08T18:08:00.000+00:00",
+    "edited": "2025-09-09T04:10:00.000Z",
+    "url": "https://akrolsmir.notion.site/Things-that-suck-about-building-community-268a6e41f23e80e2bbffde785ae2d876",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "268a6e41-f23e-80dc-9109-c3c477992d3f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "268a6e41-f23e-80e2-bbff-de785ae2d876"
+      },
+      "created_time": "2025-09-08T18:09:00.000Z",
+      "last_edited_time": "2025-09-09T04:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "You capture so little of the value you create. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "You capture so little of the value you create. ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Some of the highest value things that come out of running community events are in introducing people to each other. Finding people their spouses, their cofounders, their employees. However, your ability to get paid is nowhere proportional to the value of the things you help produce.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Some of the highest value things that come out of running community events are in introducing people to each other. Finding people their spouses, their cofounders, their employees. However, your ability to get paid is nowhere proportional to the value of the things you help produce.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "268a6e41-f23e-801f-9687-ea8893929875",
+      "parent": {
+        "type": "page_id",
+        "page_id": "268a6e41-f23e-80e2-bbff-de785ae2d876"
+      },
+      "created_time": "2025-09-08T18:11:00.000Z",
+      "last_edited_time": "2025-09-09T04:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "As an example, Taco Tuesday, a weekly house dinner I’ve hosted for the last few years, is responsible for two different founders meeting their cofounders: one through YC, one funded by a16z, both valued at $20m+. As thanks, the startups have offered to cover the cost of some events, perhaps a few hundred dollars worth. This feels like pretty small potatoes with regards to contributing back.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "As an example, Taco Tuesday, a weekly house dinner I’ve hosted for the last few years, is responsible for two different founders meeting their cofounders: one through YC, one funded by a16z, both valued at $20m+. As thanks, the startups have offered to cover the cost of some events, perhaps a few hundred dollars worth. This feels like pretty small potatoes with regards to contributing back.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "268a6e41-f23e-8026-a8f4-cc51f968b944",
+      "parent": {
+        "type": "page_id",
+        "page_id": "268a6e41-f23e-80e2-bbff-de785ae2d876"
+      },
+      "created_time": "2025-09-08T18:13:00.000Z",
+      "last_edited_time": "2025-09-08T18:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Why does community building monetize so poorly? Some speculations:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Why does community building monetize so poorly? Some speculations:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "268a6e41-f23e-8015-8f64-fefbc80d128d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "268a6e41-f23e-80e2-bbff-de785ae2d876"
+      },
+      "created_time": "2025-09-08T18:14:00.000Z",
+      "last_edited_time": "2025-09-08T18:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Events are in high supply, cheap and plentiful. The norm is that events (parties, talks, workshops) are free. Events typically market to individuals, and “free” is too compelling of a price for individuals; this makes it harder to charge.\n\nEvents also benefit from network effects, so you want to make it cheaper for the first set of people who commit, but it’s harder to convince people to ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Events are in high supply, cheap and plentiful. The norm is that events (parties, talks, workshops) are free. Events typically market to individuals, and “free” is too compelling of a price for individuals; this makes it harder to charge.\n\nEvents also benefit from network effects, so you want to make it cheaper for the first set of people who commit, but it’s harder to convince people to ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "268a6e41-f23e-8013-ba1d-c9664e5d93f9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "268a6e41-f23e-80e2-bbff-de785ae2d876"
+      },
+      "created_time": "2025-09-08T18:21:00.000Z",
+      "last_edited_time": "2025-09-08T18:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Low counterfactuality: perhaps in fact, the people you’ve intro’d would have met in some other context. Or they would have met equally good people in some other context.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Low counterfactuality: perhaps in fact, the people you’ve intro’d would have met in some other context. Or they would have met equally good people in some other context.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "268a6e41-f23e-80ba-984f-fe719ef5cd7d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "268a6e41-f23e-80e2-bbff-de785ae2d876"
+      },
+      "created_time": "2025-09-08T18:21:00.000Z",
+      "last_edited_time": "2025-09-08T18:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Lack of pricing power: once you’ve made the intro, there’s not much gatekeeping left.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Lack of pricing power: once you’ve made the intro, there’s not much gatekeeping left.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "268a6e41-f23e-800a-bf28-d16b4965315b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "268a6e41-f23e-80e2-bbff-de785ae2d876"
+      },
+      "created_time": "2025-09-08T18:22:00.000Z",
+      "last_edited_time": "2025-09-08T18:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Anchoring to low apparent costs: Any particular connection made within your community doesn’t appear like it cost a lot to the organizer to create. Community building is super hits-based.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Anchoring to low apparent costs: Any particular connection made within your community doesn’t appear like it cost a lot to the organizer to create. Community building is super hits-based.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "268a6e41-f23e-806d-b4ed-c8e2a6084164",
+      "parent": {
+        "type": "page_id",
+        "page_id": "268a6e41-f23e-80e2-bbff-de785ae2d876"
+      },
+      "created_time": "2025-09-08T18:25:00.000Z",
+      "last_edited_time": "2025-09-09T04:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Asking to capture value is gauche; community building doesn’t work if it’s very transactional. Just the act of writing this all out makes me feel kind of petty and smallminded.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Asking to capture value is gauche; community building doesn’t work if it’s very transactional. Just the act of writing this all out makes me feel kind of petty and smallminded.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "268a6e41-f23e-8079-91a3-e3dd5a89fda3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "268a6e41-f23e-80e2-bbff-de785ae2d876"
+      },
+      "created_time": "2025-09-08T18:31:00.000Z",
+      "last_edited_time": "2025-09-09T04:00:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "If you meet someone, you remember the work you put in to make it happen, and discount the things going on in the background that made the connection possible.\n\n(There’s a scene I like from Modern People, where Connell’s mother reminds him to be grateful to his girlfriend Marianne for his job. He’s confused - “Marianne’s friend is the one who hooked me up” - but his mom reminds him that Marianne is the one who introduced them.)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "If you meet someone, you remember the work you put in to make it happen, and discount the things going on in the background that made the connection possible.\n\n(There’s a scene I like from Modern People, where Connell’s mother reminds him to be grateful to his girlfriend Marianne for his job. He’s confused - “Marianne’s friend is the one who hooked me up” - but his mom reminds him that Marianne is the one who introduced them.)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "268a6e41-f23e-8014-838e-c9c0dd924f19",
+      "parent": {
+        "type": "page_id",
+        "page_id": "268a6e41-f23e-80e2-bbff-de785ae2d876"
+      },
+      "created_time": "2025-09-08T18:16:00.000Z",
+      "last_edited_time": "2025-09-08T18:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "268a6e41-f23e-8071-b774-d23a6207d2a8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "268a6e41-f23e-80e2-bbff-de785ae2d876"
+      },
+      "created_time": "2025-09-08T18:16:00.000Z",
+      "last_edited_time": "2025-09-08T18:29:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Community building is not very “high-status”.",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Community building is not very “high-status”.",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " It’s a backstage role, where you’re deliberately putting the limelight on the others coming. It’s almost never the case that someone who builds community gets invited to talk about it on a podcast.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " It’s a backstage role, where you’re deliberately putting the limelight on the others coming. It’s almost never the case that someone who builds community gets invited to talk about it on a podcast.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "268a6e41-f23e-801e-ba34-f4d2654d4e93",
+      "parent": {
+        "type": "page_id",
+        "page_id": "268a6e41-f23e-80e2-bbff-de785ae2d876"
+      },
+      "created_time": "2025-09-08T18:17:00.000Z",
+      "last_edited_time": "2025-09-08T18:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "There’s also the problem of “those who can’t do, teach” — that is, the best researchers/engineers/technical folks are busy doing technical work, so the ones left building the community are those who are less good. (You would also expect that the best technical folks are not the the best community builders, just due to the ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "There’s also the problem of “those who can’t do, teach” — that is, the best researchers/engineers/technical folks are busy doing technical work, so the ones left building the community are those who are less good. (You would also expect that the best technical folks are not the the best community builders, just due to the ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "tails coming apart",
+              "link": {
+                "url": "https://slatestarcodex.com/2018/09/25/the-tails-coming-apart-as-metaphor-for-life/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "tails coming apart",
+            "href": "https://slatestarcodex.com/2018/09/25/the-tails-coming-apart-as-metaphor-for-life/"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ".)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ".)",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "268a6e41-f23e-804b-8224-d1a4a71e8a6a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "268a6e41-f23e-80e2-bbff-de785ae2d876"
+      },
+      "created_time": "2025-09-08T18:19:00.000Z",
+      "last_edited_time": "2025-09-08T18:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "This also leads to an evaporative cooling effect — I’m hesitant to call myself a community builder because I don’t think super highly of the typical example of the reference class.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "This also leads to an evaporative cooling effect — I’m hesitant to call myself a community builder because I don’t think super highly of the typical example of the reference class.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "268a6e41-f23e-8066-a58f-c02cac634683",
+      "parent": {
+        "type": "page_id",
+        "page_id": "268a6e41-f23e-80e2-bbff-de785ae2d876"
+      },
+      "created_time": "2025-09-08T18:18:00.000Z",
+      "last_edited_time": "2025-09-08T18:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Q: Why is this less true for a “CEO of a company” vs “builder of a community”?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Q: Why is this less true for a “CEO of a company” vs “builder of a community”?",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "268a6e41-f23e-805b-b2c0-e620233ae1ae",
+      "parent": {
+        "type": "page_id",
+        "page_id": "268a6e41-f23e-80e2-bbff-de785ae2d876"
+      },
+      "created_time": "2025-09-08T18:40:00.000Z",
+      "last_edited_time": "2025-09-08T18:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "268a6e41-f23e-808a-a374-c4af8b927c93",
+      "parent": {
+        "type": "page_id",
+        "page_id": "268a6e41-f23e-80e2-bbff-de785ae2d876"
+      },
+      "created_time": "2025-09-08T18:11:00.000Z",
+      "last_edited_time": "2025-09-08T18:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Community building warps your sense of normal human relationships",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Community building warps your sense of normal human relationships",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ".",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ".",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "268a6e41-f23e-8027-afdd-e1d5fe4f7f9a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "268a6e41-f23e-80e2-bbff-de785ae2d876"
+      },
+      "created_time": "2025-09-08T18:40:00.000Z",
+      "last_edited_time": "2025-09-08T18:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "If you have any amount of success at building community, you quickly run into the problem where you now know many more people than you can fit into your head. It overloads your natural ability to track a Dunbar’s number of ~150ish people.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "If you have any amount of success at building community, you quickly run into the problem where you now know many more people than you can fit into your head. It overloads your natural ability to track a Dunbar’s number of ~150ish people.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "268a6e41-f23e-80ec-b343-e587d7e3f7ed",
+      "parent": {
+        "type": "page_id",
+        "page_id": "268a6e41-f23e-80e2-bbff-de785ae2d876"
+      },
+      "created_time": "2025-09-08T18:43:00.000Z",
+      "last_edited_time": "2025-09-08T18:44:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Now when I see people, I’m often trying to keep up a facade of “normal egalitarian relationship dynamics”, with basic human decencies like “trying to remember people’s names and faces and relationships and circumstances”, and I fail a lot, and vaguely feel bad about it. I imagine these are similar problems to what creators and influencers face in parasocial relationships.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Now when I see people, I’m often trying to keep up a facade of “normal egalitarian relationship dynamics”, with basic human decencies like “trying to remember people’s names and faces and relationships and circumstances”, and I fail a lot, and vaguely feel bad about it. I imagine these are similar problems to what creators and influencers face in parasocial relationships.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "268a6e41-f23e-80ba-8ef3-df4321527d42",
+      "parent": {
+        "type": "page_id",
+        "page_id": "268a6e41-f23e-80e2-bbff-de785ae2d876"
+      },
+      "created_time": "2025-09-08T18:44:00.000Z",
+      "last_edited_time": "2025-09-08T18:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Also, I sometimes end up in a spot where I’m either consciously or unconsciously evaluating people in real time (for membership, admission, grants), which is unfun for me and possibly stressful for my counterparty.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Also, I sometimes end up in a spot where I’m either consciously or unconsciously evaluating people in real time (for membership, admission, grants), which is unfun for me and possibly stressful for my counterparty.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "268a6e41-f23e-8008-bc6c-d36d86324ec2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "268a6e41-f23e-80e2-bbff-de785ae2d876"
+      },
+      "created_time": "2025-09-08T18:46:00.000Z",
+      "last_edited_time": "2025-09-08T18:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "268a6e41-f23e-8097-ad12-c88dd99b9214",
+      "parent": {
+        "type": "page_id",
+        "page_id": "268a6e41-f23e-80e2-bbff-de785ae2d876"
+      },
+      "created_time": "2025-09-08T18:46:00.000Z",
+      "last_edited_time": "2025-09-09T04:04:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Diminishing returns on how much community I need.",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Diminishing returns on how much community I need.",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " Building a community is a pretty good way of having your own community. But I’ve realized that I just don’t need that many acquaintances, invites to parties, people I can ask for a favor.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " Building a community is a pretty good way of having your own community. But I’ve realized that I just don’t need that many acquaintances, invites to parties, people I can ask for a favor.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "268a6e41-f23e-808d-b8b8-fc511652959d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "268a6e41-f23e-80e2-bbff-de785ae2d876"
+      },
+      "created_time": "2025-09-08T18:56:00.000Z",
+      "last_edited_time": "2025-09-08T18:56:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "268a6e41-f23e-80b2-adb6-d5f315f883d6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "268a6e41-f23e-80e2-bbff-de785ae2d876"
+      },
+      "created_time": "2025-09-08T18:53:00.000Z",
+      "last_edited_time": "2025-09-09T04:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Having a large personal network seems good, but it imposes high upkeep costs.",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Having a large personal network seems good, but it imposes high upkeep costs.",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " These days, I find myself replying to a lot of different random one-of requests. I’m bad at saying no to folks, but this ends up leading to ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " These days, I find myself replying to a lot of different random one-of requests. I’m bad at saying no to folks, but this ends up leading to ",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "269a6e41-f23e-8093-93b6-d06534e93116",
+      "parent": {
+        "type": "page_id",
+        "page_id": "268a6e41-f23e-80e2-bbff-de785ae2d876"
+      },
+      "created_time": "2025-09-09T04:04:00.000Z",
+      "last_edited_time": "2025-09-09T04:04:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "268a6e41-f23e-8019-b124-c20140b1a91d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "268a6e41-f23e-80e2-bbff-de785ae2d876"
+      },
+      "created_time": "2025-09-08T18:27:00.000Z",
+      "last_edited_time": "2025-09-09T04:04:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Why I build community anyways",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Why I build community anyways",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "268a6e41-f23e-80fa-b739-d9bf65a52410",
+      "parent": {
+        "type": "page_id",
+        "page_id": "268a6e41-f23e-80e2-bbff-de785ae2d876"
+      },
+      "created_time": "2025-09-08T18:27:00.000Z",
+      "last_edited_time": "2025-09-09T04:10:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "This post has been unusually negative for me — but I do think community is important. Many community initiatives have been quite good for my own life. EA Bahamas (a two-week retreat to Bahamas, during peak FTX) was responsible for me becoming friends with a wide swathe of EA folks; Future Forum was responsible for me meeting my wife. I’m extremely grateful for these, and am always happy to hear that work I do also helps other people in similar ways.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "This post has been unusually negative for me — but I do think community is important. Many community initiatives have been quite good for my own life. EA Bahamas (a two-week retreat to Bahamas, during peak FTX) was responsible for me becoming friends with a wide swathe of EA folks; Future Forum was responsible for me meeting my wife. I’m extremely grateful for these, and am always happy to hear that work I do also helps other people in similar ways.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "269a6e41-f23e-807e-a511-d12598c7eb2f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "268a6e41-f23e-80e2-bbff-de785ae2d876"
+      },
+      "created_time": "2025-09-09T04:06:00.000Z",
+      "last_edited_time": "2025-09-09T04:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "268a6e41-f23e-809e-b247-d5bbb8129fd1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "268a6e41-f23e-80e2-bbff-de785ae2d876"
+      },
+      "created_time": "2025-09-08T18:10:00.000Z",
+      "last_edited_time": "2025-09-09T04:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Aside: YC as a case study",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Aside: YC as a case study",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "268a6e41-f23e-8056-a297-fca1b2d35d61",
+      "parent": {
+        "type": "page_id",
+        "page_id": "268a6e41-f23e-80e2-bbff-de785ae2d876"
+      },
+      "created_time": "2025-09-08T18:27:00.000Z",
+      "last_edited_time": "2025-09-09T04:04:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "My favorite example of successful community-building is YC. Some interesting bits I think about, based on what I’ve read:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "My favorite example of successful community-building is YC. Some interesting bits I think about, based on what I’ve read:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "268a6e41-f23e-80cd-87fe-d046e4baf30d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "268a6e41-f23e-80e2-bbff-de785ae2d876"
+      },
+      "created_time": "2025-09-08T18:51:00.000Z",
+      "last_edited_time": "2025-09-08T18:51:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "PG already had something of an audience due to blogging about Lisp, something of a nerdsnipe for smart hackers. (I sometimes think of this analogy for myself for prediction markets, or for Scott Alexander’s audience).",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "PG already had something of an audience due to blogging about Lisp, something of a nerdsnipe for smart hackers. (I sometimes think of this analogy for myself for prediction markets, or for Scott Alexander’s audience).",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "268a6e41-f23e-808f-9c5f-c51a81eac0cf",
+      "parent": {
+        "type": "page_id",
+        "page_id": "268a6e41-f23e-80e2-bbff-de785ae2d876"
+      },
+      "created_time": "2025-09-08T18:47:00.000Z",
+      "last_edited_time": "2025-09-08T18:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "In the early days, it was PG/Jessica treating their founders as family. They met weekly for homecooked chili by PG; during a hot spell in the first batch in New England Jessica hand-delivered air conditioning units to keep founders cool.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "In the early days, it was PG/Jessica treating their founders as family. They met weekly for homecooked chili by PG; during a hot spell in the first batch in New England Jessica hand-delivered air conditioning units to keep founders cool.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "268a6e41-f23e-807b-9d50-fed8f01250b3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "268a6e41-f23e-80e2-bbff-de785ae2d876"
+      },
+      "created_time": "2025-09-08T18:52:00.000Z",
+      "last_edited_time": "2025-09-08T18:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "While YC is often described as a community, and starting YC is what they’re most known for, PG/Jessica don’t identify themselves as “community builders”. Maybe once you’re successful enough, you stop being known as a “community” and start being known as an incubator, talent hub, company, religion.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "While YC is often described as a community, and starting YC is what they’re most known for, PG/Jessica don’t identify themselves as “community builders”. Maybe once you’re successful enough, you stop being known as a “community” and start being known as an incubator, talent hub, company, religion.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "268a6e41-f23e-8084-be8d-c05aa8e0f738",
+      "parent": {
+        "type": "page_id",
+        "page_id": "268a6e41-f23e-80e2-bbff-de785ae2d876"
+      },
+      "created_time": "2025-09-08T18:48:00.000Z",
+      "last_edited_time": "2025-09-08T18:51:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Under Sam Altman, YC scaled to be a giant community nexus, under the principle that a large network effects make YC great. In the process, though, I think the best companies of the modern era are less excited to participate; the “brand” has diluted somewhat.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Under Sam Altman, YC scaled to be a giant community nexus, under the principle that a large network effects make YC great. In the process, though, I think the best companies of the modern era are less excited to participate; the “brand” has diluted somewhat.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "268a6e41-f23e-8051-b753-ca2b48786de6",
+          "parent": {
+            "type": "block_id",
+            "block_id": "268a6e41-f23e-8084-be8d-c05aa8e0f738"
+          },
+          "created_time": "2025-09-08T18:49:00.000Z",
+          "last_edited_time": "2025-09-08T18:50:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Q: Is there a fundamental tradeoff between having a few high-quality people in a batch, and many lower ones? How do VC-style outlier returns change this equation, vs less tail-heavy distributions?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Q: Is there a fundamental tradeoff between having a few high-quality people in a batch, and many lower ones? How do VC-style outlier returns change this equation, vs less tail-heavy distributions?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "268a6e41-f23e-80d2-a825-f790a2b57575",
+      "parent": {
+        "type": "page_id",
+        "page_id": "268a6e41-f23e-80e2-bbff-de785ae2d876"
+      },
+      "created_time": "2025-09-08T18:46:00.000Z",
+      "last_edited_time": "2025-09-08T18:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "In the end, PG and Jessica moved off to London for a better family experience…?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "In the end, PG and Jessica moved off to London for a better family experience…?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    }
+  ]
+}

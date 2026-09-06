@@ -1,0 +1,2254 @@
+{
+  "page": {
+    "id": "9dc422ee2f8842afb99071c543bdd973",
+    "title": "Prediction Markets & Addictiveness",
+    "date": "2022-04-20",
+    "edited": "2023-11-01T17:06:00.000Z",
+    "url": "https://akrolsmir.notion.site/Prediction-Markets-Addictiveness-9dc422ee2f8842afb99071c543bdd973",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "a7d90bd1-27af-4bfb-9f87-10a7cab719eb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "9dc422ee-2f88-42af-b990-71c543bdd973"
+      },
+      "created_time": "2022-04-21T00:10:00.000Z",
+      "last_edited_time": "2022-04-21T00:12:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Are prediction markets too addictive?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Are prediction markets too addictive?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "b55c5a1b-3613-4d97-bd65-841a170f698d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "9dc422ee-2f88-42af-b990-71c543bdd973"
+      },
+      "created_time": "2022-04-21T00:14:00.000Z",
+      "last_edited_time": "2023-11-01T17:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "6feab30e-68e5-4642-b1d5-5b06f5c6d145"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "An adverserial collaboration between Misha Yagudin and Austin Chen.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "An adverserial collaboration between Misha Yagudin and Austin Chen.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "45b1949d-5813-47c2-b4e8-b003b0a6e24c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "9dc422ee-2f88-42af-b990-71c543bdd973"
+      },
+      "created_time": "2022-04-21T00:12:00.000Z",
+      "last_edited_time": "2022-04-21T00:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "From Misha Yagudin:  “Compared to a well-functioning prediction pool... I had an intuition that PM are costlier than prediction pool at the same level of accuracy.”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "From Misha Yagudin:  “Compared to a well-functioning prediction pool... I had an intuition that PM are costlier than prediction pool at the same level of accuracy.”",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "94e0db27-eb69-43f9-83db-f27bbb9595bd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "9dc422ee-2f88-42af-b990-71c543bdd973"
+      },
+      "created_time": "2022-04-21T00:10:00.000Z",
+      "last_edited_time": "2022-04-21T00:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Austin’s initial takes",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Austin’s initial takes",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "7bbee2ef-a2fc-4ca8-a3dd-e17efca01f4c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "9dc422ee-2f88-42af-b990-71c543bdd973"
+      },
+      "created_time": "2022-04-21T00:10:00.000Z",
+      "last_edited_time": "2022-04-21T00:10:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Real time markets can be very attention-grabbing, yeah. Possible workaround: narrow the trading window (as the stock market does; Matt Levine once suggested that the window should only be 30m each day), allow limit orders",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Real time markets can be very attention-grabbing, yeah. Possible workaround: narrow the trading window (as the stock market does; Matt Levine once suggested that the window should only be 30m each day), allow limit orders",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "6e1f51e1-7dc9-4924-965f-8374a54e7853",
+      "parent": {
+        "type": "page_id",
+        "page_id": "9dc422ee-2f88-42af-b990-71c543bdd973"
+      },
+      "created_time": "2022-04-21T00:10:00.000Z",
+      "last_edited_time": "2022-04-21T00:10:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "We're not seeing anyone who seems \"addicted\" to Manifold yet but we do recognize that attention is a precious resource and draining it constitutes a negative externality. That's one reason I like having a cost to create a question, incidentally, and why I'd advocate for making comments cost M$ (or be attached to a bet)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "We're not seeing anyone who seems \"addicted\" to Manifold yet but we do recognize that attention is a precious resource and draining it constitutes a negative externality. That's one reason I like having a cost to create a question, incidentally, and why I'd advocate for making comments cost M$ (or be attached to a bet)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "ee5bbe86-9f4e-4b49-a271-736f9c7a76a8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "9dc422ee-2f88-42af-b990-71c543bdd973"
+      },
+      "created_time": "2022-04-21T00:10:00.000Z",
+      "last_edited_time": "2022-04-21T00:10:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Partly it depends on what we're funging against - is it focused superforecaster time? time that would have been spent scrolling on Twitter? how much of each?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Partly it depends on what we're funging against - is it focused superforecaster time? time that would have been spent scrolling on Twitter? how much of each?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "895207d3-b1ff-42ba-a0b5-88e7bb8b6f99",
+      "parent": {
+        "type": "page_id",
+        "page_id": "9dc422ee-2f88-42af-b990-71c543bdd973"
+      },
+      "created_time": "2022-04-21T00:10:00.000Z",
+      "last_edited_time": "2022-04-21T00:10:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Addiction discourse sometimes runs the risk of being too dismissive of revealed preferences - eg around casino gambling, lottery tickets (James believes this quite strongly. also cf ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Addiction discourse sometimes runs the risk of being too dismissive of revealed preferences - eg around casino gambling, lottery tickets (James believes this quite strongly. also cf ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "https://blog.kongregate.com/dont-call-them-whales-f2p-spenders-and-virtual-value/",
+              "link": {
+                "url": "https://blog.kongregate.com/dont-call-them-whales-f2p-spenders-and-virtual-value/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://blog.kongregate.com/dont-call-them-whales-f2p-spenders-and-virtual-value/",
+            "href": "https://blog.kongregate.com/dont-call-them-whales-f2p-spenders-and-virtual-value/"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ")",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ")",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "4f03c59d-b701-4995-8642-937e84c85657",
+      "parent": {
+        "type": "page_id",
+        "page_id": "9dc422ee-2f88-42af-b990-71c543bdd973"
+      },
+      "created_time": "2022-04-21T00:13:00.000Z",
+      "last_edited_time": "2022-04-21T17:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "eb00adf7-2c77-4b45-bcc6-7f8aef91c4e0"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Misha’s brief take",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Misha’s brief take",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "9bff01e0-4796-46e6-8990-03a3c4d767c4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "9dc422ee-2f88-42af-b990-71c543bdd973"
+      },
+      "created_time": "2022-04-21T00:13:00.000Z",
+      "last_edited_time": "2022-04-21T17:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "eb00adf7-2c77-4b45-bcc6-7f8aef91c4e0"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Could my intuition be about real v. play money?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Could my intuition be about real v. play money?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "78b3a291-9019-411f-8c69-5df5a9397941",
+      "parent": {
+        "type": "page_id",
+        "page_id": "9dc422ee-2f88-42af-b990-71c543bdd973"
+      },
+      "created_time": "2022-04-21T17:06:00.000Z",
+      "last_edited_time": "2022-04-21T17:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "eb00adf7-2c77-4b45-bcc6-7f8aef91c4e0"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "eb00adf7-2c77-4b45-bcc6-7f8aef91c4e0"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "My experience:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "My experience:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "614360bb-6d85-4892-8d97-b37859bf8e22",
+          "parent": {
+            "type": "block_id",
+            "block_id": "78b3a291-9019-411f-8c69-5df5a9397941"
+          },
+          "created_time": "2022-04-21T17:07:00.000Z",
+          "last_edited_time": "2022-04-21T17:09:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "eb00adf7-2c77-4b45-bcc6-7f8aef91c4e0"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "eb00adf7-2c77-4b45-bcc6-7f8aef91c4e0"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Prediction pools (PP) I used to check semi-regularly. Being late for a day or even a week doesn’t cost you that many points.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Prediction pools (PP) I used to check semi-regularly. Being late for a day or even a week doesn’t cost you that many points.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "286a48a2-37cd-4974-9f13-8b739a8f783a",
+          "parent": {
+            "type": "block_id",
+            "block_id": "78b3a291-9019-411f-8c69-5df5a9397941"
+          },
+          "created_time": "2022-04-21T17:07:00.000Z",
+          "last_edited_time": "2022-04-21T17:09:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "eb00adf7-2c77-4b45-bcc6-7f8aef91c4e0"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "eb00adf7-2c77-4b45-bcc6-7f8aef91c4e0"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "With PM, I feel that obsessively monitoring is encouraged/pays off. Being late is really bad, but it’s very hard not to be late so maybe most people should ignore just-in-time types of trading.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "With PM, I feel that obsessively monitoring is encouraged/pays off. Being late is really bad, but it’s very hard not to be late so maybe most people should ignore just-in-time types of trading.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "1fc188ba-9fb7-4a7e-90eb-ec3d6b448bcc",
+          "parent": {
+            "type": "block_id",
+            "block_id": "78b3a291-9019-411f-8c69-5df5a9397941"
+          },
+          "created_time": "2022-04-21T17:09:00.000Z",
+          "last_edited_time": "2022-04-21T17:11:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "eb00adf7-2c77-4b45-bcc6-7f8aef91c4e0"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "eb00adf7-2c77-4b45-bcc6-7f8aef91c4e0"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Polymarket felt much more addictive/obsessive than bets with friends.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Polymarket felt much more addictive/obsessive than bets with friends.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "6be5eb3c-5008-42cb-aec3-c560ea6e7981",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1fc188ba-9fb7-4a7e-90eb-ec3d6b448bcc"
+              },
+              "created_time": "2022-04-21T17:10:00.000Z",
+              "last_edited_time": "2022-04-21T17:11:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "eb00adf7-2c77-4b45-bcc6-7f8aef91c4e0"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "eb00adf7-2c77-4b45-bcc6-7f8aef91c4e0"
+              },
+              "has_children": true,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Potential confounders:",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Potential confounders:",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "children": [
+                {
+                  "object": "block",
+                  "id": "0520ef9d-e2d5-4629-95b5-79adcb9fd099",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "6be5eb3c-5008-42cb-aec3-c560ea6e7981"
+                  },
+                  "created_time": "2022-04-21T17:10:00.000Z",
+                  "last_edited_time": "2022-04-21T17:10:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "eb00adf7-2c77-4b45-bcc6-7f8aef91c4e0"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "eb00adf7-2c77-4b45-bcc6-7f8aef91c4e0"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "x10..100 higher monetary stakes",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "x10..100 higher monetary stakes",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                },
+                {
+                  "object": "block",
+                  "id": "e7816dad-a767-4340-a09f-fcfbe3d44978",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "6be5eb3c-5008-42cb-aec3-c560ea6e7981"
+                  },
+                  "created_time": "2022-04-21T17:10:00.000Z",
+                  "last_edited_time": "2022-04-21T17:13:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "eb00adf7-2c77-4b45-bcc6-7f8aef91c4e0"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "eb00adf7-2c77-4b45-bcc6-7f8aef91c4e0"
+                  },
+                  "has_children": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "paying much higher fixed costs of getting a grasp on the situation due to adverse selection (playing against more committed people)",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "paying much higher fixed costs of getting a grasp on the situation due to adverse selection (playing against more committed people)",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "5f8669ce-b640-47ce-8b39-aabd24046514",
+          "parent": {
+            "type": "block_id",
+            "block_id": "78b3a291-9019-411f-8c69-5df5a9397941"
+          },
+          "created_time": "2022-04-21T17:11:00.000Z",
+          "last_edited_time": "2022-04-21T17:14:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "eb00adf7-2c77-4b45-bcc6-7f8aef91c4e0"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "eb00adf7-2c77-4b45-bcc6-7f8aef91c4e0"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Was betting quite a bit on Manifold after registering more than on PP, as at PP you need to commit to updating your predictions over time (otherwise losing relative points), and on MM I can just make money in expectation. But haven’t done any intermediate trading (maybe I wasn’t engaged enough, maybe once again fixed costs were lower).",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Was betting quite a bit on Manifold after registering more than on PP, as at PP you need to commit to updating your predictions over time (otherwise losing relative points), and on MM I can just make money in expectation. But haven’t done any intermediate trading (maybe I wasn’t engaged enough, maybe once again fixed costs were lower).",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "1ce37fe7-37a3-4c77-a3ec-a8cd2f2d367d",
+              "parent": {
+                "type": "block_id",
+                "block_id": "5f8669ce-b640-47ce-8b39-aabd24046514"
+              },
+              "created_time": "2022-04-21T17:13:00.000Z",
+              "last_edited_time": "2022-04-21T17:14:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "eb00adf7-2c77-4b45-bcc6-7f8aef91c4e0"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "eb00adf7-2c77-4b45-bcc6-7f8aef91c4e0"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Loaning money was evil 🙂",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Loaning money was evil 🙂",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "7ab41612-7f74-4cc2-9914-75d679758f12",
+      "parent": {
+        "type": "page_id",
+        "page_id": "9dc422ee-2f88-42af-b990-71c543bdd973"
+      },
+      "created_time": "2022-04-21T17:14:00.000Z",
+      "last_edited_time": "2022-04-22T09:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "eb00adf7-2c77-4b45-bcc6-7f8aef91c4e0"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "So in light of the above, I feel that it might be about the level of engagement in a real market, and the question is how much it pays off. Real money PMs force you to have a rather high engagement, because of stakes and adversaries. We want people who are really into the weeds (but also it gets us into unsafe “inside view” territory and further away from “base rates” territory).",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "So in light of the above, I feel that it might be about the level of engagement in a real market, and the question is how much it pays off. Real money PMs force you to have a rather high engagement, because of stakes and adversaries. We want people who are really into the weeds (but also it gets us into unsafe “inside view” territory and further away from “base rates” territory).",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "95a4a93d-a1b3-4e4f-91eb-33ea61427df2",
+          "parent": {
+            "type": "block_id",
+            "block_id": "7ab41612-7f74-4cc2-9914-75d679758f12"
+          },
+          "created_time": "2022-04-21T17:17:00.000Z",
+          "last_edited_time": "2022-04-21T17:17:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "eb00adf7-2c77-4b45-bcc6-7f8aef91c4e0"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "eb00adf7-2c77-4b45-bcc6-7f8aef91c4e0"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "So the question might be whether we want competition between deep-into-the-weeds people or do we want a mix of people at different levels of intensity?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "So the question might be whether we want competition between deep-into-the-weeds people or do we want a mix of people at different levels of intensity?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "6006b23a-e73c-4fb0-af16-552542c90d78",
+      "parent": {
+        "type": "page_id",
+        "page_id": "9dc422ee-2f88-42af-b990-71c543bdd973"
+      },
+      "created_time": "2022-04-22T09:35:00.000Z",
+      "last_edited_time": "2022-04-22T09:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "e127fa48-ce00-4ba0-a153-f2d9c9a3ce45",
+      "parent": {
+        "type": "page_id",
+        "page_id": "9dc422ee-2f88-42af-b990-71c543bdd973"
+      },
+      "created_time": "2022-04-22T09:35:00.000Z",
+      "last_edited_time": "2022-04-22T09:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Austin’s responses",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Austin’s responses",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "5cbc50f8-66f9-4d3f-87c5-fa860ff4aa5e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "9dc422ee-2f88-42af-b990-71c543bdd973"
+      },
+      "created_time": "2022-04-22T09:35:00.000Z",
+      "last_edited_time": "2022-04-22T09:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "So I’ve heard a bunch about “Prediction Pools” but... I’m still not sure exactly what this means.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "So I’ve heard a bunch about “Prediction Pools” but... I’m still not sure exactly what this means.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "5c488e02-56af-4e2a-9525-1394f430ecae",
+          "parent": {
+            "type": "block_id",
+            "block_id": "5cbc50f8-66f9-4d3f-87c5-fa860ff4aa5e"
+          },
+          "created_time": "2022-04-22T09:36:00.000Z",
+          "last_edited_time": "2022-04-22T09:36:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Is Metaculus a prediction pool?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Is Metaculus a prediction pool?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "8730e67f-d2b9-4766-8439-070e2e66ac6e",
+          "parent": {
+            "type": "block_id",
+            "block_id": "5cbc50f8-66f9-4d3f-87c5-fa860ff4aa5e"
+          },
+          "created_time": "2022-04-22T09:36:00.000Z",
+          "last_edited_time": "2022-04-22T09:37:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "What disqualifies prediction markets from being pools?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "What disqualifies prediction markets from being pools?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "b94fcbc4-6feb-4dde-9a90-457d68cf2bdc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "9dc422ee-2f88-42af-b990-71c543bdd973"
+      },
+      "created_time": "2022-04-22T09:37:00.000Z",
+      "last_edited_time": "2022-04-22T09:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Curious what the impact of “real stakes” were on psychology",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Curious what the impact of “real stakes” were on psychology",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "e5dd5795-2a33-4e01-a0ce-d935d7bc3e91",
+          "parent": {
+            "type": "block_id",
+            "block_id": "b94fcbc4-6feb-4dde-9a90-457d68cf2bdc"
+          },
+          "created_time": "2022-04-22T09:38:00.000Z",
+          "last_edited_time": "2022-04-22T09:38:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "If you don’t mind - how large were stakes? e.g. as a percent of net worth?",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "If you don’t mind - how large were stakes? e.g. as a percent of net worth?",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "8fcf3fde-5b7e-4dc0-b3e3-1c65c6d86f08",
+          "parent": {
+            "type": "block_id",
+            "block_id": "b94fcbc4-6feb-4dde-9a90-457d68cf2bdc"
+          },
+          "created_time": "2022-04-22T09:38:00.000Z",
+          "last_edited_time": "2022-04-22T09:49:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Austin’s real-money rule: don’t worry about investments that are <1% of net worth",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Austin’s real-money rule: don’t worry about investments that are <1% of net worth",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "8d9adca9-8870-4d58-b5d9-2559a49deda0",
+              "parent": {
+                "type": "block_id",
+                "block_id": "8fcf3fde-5b7e-4dc0-b3e3-1c65c6d86f08"
+              },
+              "created_time": "2022-04-22T09:48:00.000Z",
+              "last_edited_time": "2022-04-22T09:49:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "But M$ feels more like fake money/video game points",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "But M$ feels more like fake money/video game points",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "4c457e12-793b-4876-8c7c-c2cfe5caacf7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "9dc422ee-2f88-42af-b990-71c543bdd973"
+      },
+      "created_time": "2022-04-22T09:45:00.000Z",
+      "last_edited_time": "2022-04-22T09:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "quote",
+      "quote": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "So the question might be whether we want competition between deep-into-the-weeds people or do we want a mix of people at different levels of intensity?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "So the question might be whether we want competition between deep-into-the-weeds people or do we want a mix of people at different levels of intensity?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "9ffecd47-d24c-4ccf-954f-f9987dd0e774",
+      "parent": {
+        "type": "page_id",
+        "page_id": "9dc422ee-2f88-42af-b990-71c543bdd973"
+      },
+      "created_time": "2022-04-22T09:45:00.000Z",
+      "last_edited_time": "2022-04-22T09:50:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Who is “we”? You & I? Manifold Markets & Arb? Forecasting community? EA? The world?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Who is “we”? You & I? Manifold Markets & Arb? Forecasting community? EA? The world?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "a1519f24-09ec-4d51-b10f-7495e0d52aa6",
+          "parent": {
+            "type": "block_id",
+            "block_id": "9ffecd47-d24c-4ccf-954f-f9987dd0e774"
+          },
+          "created_time": "2022-04-22T09:46:00.000Z",
+          "last_edited_time": "2022-04-22T09:50:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "One view Manifold’s mission is “make predicting fun & easy for the entire world”",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "One view Manifold’s mission is “make predicting fun & easy for the entire world”",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "4ebdbd2c-01e0-41af-be6c-cdac9403233e",
+              "parent": {
+                "type": "block_id",
+                "block_id": "a1519f24-09ec-4d51-b10f-7495e0d52aa6"
+              },
+              "created_time": "2022-04-22T09:49:00.000Z",
+              "last_edited_time": "2022-04-22T09:50:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Controversial take: “forecasting is too important to leave to superforecasters”",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Controversial take: “forecasting is too important to leave to superforecasters”",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "98eea815-c98f-4a9b-a5bf-9d6373e2c9c9",
+          "parent": {
+            "type": "block_id",
+            "block_id": "9ffecd47-d24c-4ccf-954f-f9987dd0e774"
+          },
+          "created_time": "2022-04-22T09:46:00.000Z",
+          "last_edited_time": "2022-04-22T09:50:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Do want to avoid funging against “in-the-weeds careful forecasting time” though!",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Do want to avoid funging against “in-the-weeds careful forecasting time” though!",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "ae555ba3-9130-4b0d-a0b6-dc516cc8ecf9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "9dc422ee-2f88-42af-b990-71c543bdd973"
+      },
+      "created_time": "2022-04-22T09:54:00.000Z",
+      "last_edited_time": "2022-04-22T09:54:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "46a3dba1-e9b2-4a2f-b18e-442bcf9c2704",
+      "parent": {
+        "type": "page_id",
+        "page_id": "9dc422ee-2f88-42af-b990-71c543bdd973"
+      },
+      "created_time": "2022-04-22T09:45:00.000Z",
+      "last_edited_time": "2022-04-22T09:54:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Aside: attention and money",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Aside: attention and money",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "c4349bfc-8089-4ff4-a00a-62029a040880",
+      "parent": {
+        "type": "page_id",
+        "page_id": "9dc422ee-2f88-42af-b990-71c543bdd973"
+      },
+      "created_time": "2022-04-22T09:39:00.000Z",
+      "last_edited_time": "2022-04-22T09:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Speculative thought: attention and money are in fact interchangeable, and society will converge on this more and more",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Speculative thought: attention and money are in fact interchangeable, and society will converge on this more and more",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "8aedfe35-86ba-4da6-b02d-bc0923f41062",
+          "parent": {
+            "type": "block_id",
+            "block_id": "c4349bfc-8089-4ff4-a00a-62029a040880"
+          },
+          "created_time": "2022-04-22T09:42:00.000Z",
+          "last_edited_time": "2022-04-22T09:42:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Aka as other resources/goods become cheaper, the only remaining scarce currency is human attention",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Aka as other resources/goods become cheaper, the only remaining scarce currency is human attention",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "eaca995d-f4f9-4a8a-b693-9002291f540f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "c4349bfc-8089-4ff4-a00a-62029a040880"
+          },
+          "created_time": "2022-04-22T09:56:00.000Z",
+          "last_edited_time": "2022-04-22T09:57:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "When you hire knowledge workers (programmers, forecasters), you’re paying for their attention",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "When you hire knowledge workers (programmers, forecasters), you’re paying for their attention",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "2f1a9d00-f32d-4a51-8529-78e6dac95da3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "9dc422ee-2f88-42af-b990-71c543bdd973"
+      },
+      "created_time": "2022-04-22T09:39:00.000Z",
+      "last_edited_time": "2022-04-22T09:52:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Straw proposal: Directly pay for attention",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Straw proposal: Directly pay for attention",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "bfe13524-f311-4a49-ba75-1b0b9a42be39",
+          "parent": {
+            "type": "block_id",
+            "block_id": "2f1a9d00-f32d-4a51-8529-78e6dac95da3"
+          },
+          "created_time": "2022-04-22T09:42:00.000Z",
+          "last_edited_time": "2022-04-22T09:52:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Pay to rank your markets higher or show them to more people; very similar to buying Google ads",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Pay to rank your markets higher or show them to more people; very similar to buying Google ads",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "801a7153-eb55-4687-8d65-26bd1c950932",
+              "parent": {
+                "type": "block_id",
+                "block_id": "bfe13524-f311-4a49-ba75-1b0b9a42be39"
+              },
+              "created_time": "2022-04-22T09:52:00.000Z",
+              "last_edited_time": "2022-04-22T09:52:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "embed",
+              "embed": {
+                "caption": [],
+                "url": "https://manifold.markets/embed/hawkebia/will-manifold-auction-off-the-top-m"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "8d694299-9bc0-4533-bebf-a2cf3f32d6c9",
+          "parent": {
+            "type": "block_id",
+            "block_id": "2f1a9d00-f32d-4a51-8529-78e6dac95da3"
+          },
+          "created_time": "2022-04-22T09:43:00.000Z",
+          "last_edited_time": "2022-04-22T09:52:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Pay out traders for spending time on a particular question",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Pay out traders for spending time on a particular question",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "85004dae-9da8-49f0-a2da-cc61daa840a4",
+              "parent": {
+                "type": "block_id",
+                "block_id": "8d694299-9bc0-4533-bebf-a2cf3f32d6c9"
+              },
+              "created_time": "2022-04-22T09:52:00.000Z",
+              "last_edited_time": "2022-04-22T09:53:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "This is liquidity; also similar to Metaculus forecasting prizes",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "This is liquidity; also similar to Metaculus forecasting prizes",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "0dcf57e7-158f-4832-bf72-e87bd0a21145",
+      "parent": {
+        "type": "page_id",
+        "page_id": "9dc422ee-2f88-42af-b990-71c543bdd973"
+      },
+      "created_time": "2022-04-22T09:40:00.000Z",
+      "last_edited_time": "2022-04-22T09:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Straw proposal: Directly charge for attention??? e.g.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Straw proposal: Directly charge for attention??? e.g.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "335238b1-1abd-4cfb-9264-2bd4e5d0e344",
+          "parent": {
+            "type": "block_id",
+            "block_id": "0dcf57e7-158f-4832-bf72-e87bd0a21145"
+          },
+          "created_time": "2022-04-22T09:41:00.000Z",
+          "last_edited_time": "2022-04-22T09:41:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Each time you open Manifold, you lose M$ 10",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Each time you open Manifold, you lose M$ 10",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "fa355570-95b7-4f8d-96f8-5cc4eba334e1",
+          "parent": {
+            "type": "block_id",
+            "block_id": "0dcf57e7-158f-4832-bf72-e87bd0a21145"
+          },
+          "created_time": "2022-04-22T09:41:00.000Z",
+          "last_edited_time": "2022-04-22T09:41:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Each minute on Manifold, you lose M$ 1",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Each minute on Manifold, you lose M$ 1",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "4b43190a-59b1-40c6-b534-fa368d59ced5",
+          "parent": {
+            "type": "block_id",
+            "block_id": "0dcf57e7-158f-4832-bf72-e87bd0a21145"
+          },
+          "created_time": "2022-04-22T09:43:00.000Z",
+          "last_edited_time": "2022-04-22T09:53:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Tallying these costs and eg donating them to charity might make the implicit cost of attention explicit",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Tallying these costs and eg donating them to charity might make the implicit cost of attention explicit",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "cf1738d2-9573-4020-ae85-6352c3da2336",
+              "parent": {
+                "type": "block_id",
+                "block_id": "4b43190a-59b1-40c6-b534-fa368d59ced5"
+              },
+              "created_time": "2022-04-22T09:44:00.000Z",
+              "last_edited_time": "2022-04-22T09:51:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Turn the negative externality into something that is accounted for",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Turn the negative externality into something that is accounted for",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "8b8cbe20-cf50-4f82-b615-d5b0a88e5b29",
+          "parent": {
+            "type": "block_id",
+            "block_id": "0dcf57e7-158f-4832-bf72-e87bd0a21145"
+          },
+          "created_time": "2022-04-22T09:53:00.000Z",
+          "last_edited_time": "2022-04-22T09:54:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "If two forecasters have the same profit/Brier score, I’m more impressed by the one who spent less attention/time",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "If two forecasters have the same profit/Brier score, I’m more impressed by the one who spent less attention/time",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "98e1cd92-346f-40be-be06-d0b34e881cb2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "9dc422ee-2f88-42af-b990-71c543bdd973"
+      },
+      "created_time": "2022-04-21T17:14:00.000Z",
+      "last_edited_time": "2022-04-22T09:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "eb00adf7-2c77-4b45-bcc6-7f8aef91c4e0"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      }
+    }
+  ]
+}
