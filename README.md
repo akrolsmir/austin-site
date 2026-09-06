@@ -4,7 +4,9 @@ Next.js App Router, TypeScript, Tailwind CSS 4, deployed on Vercel. Source lives
 
 ## Run
 
-Use Node.js 24 LTS, `npm ci`, and `npm run dev`. Copy `.env.example` to `.env.local` and set the Notion token. Never commit environment files. Without a token, the app uses six real post titles with clearly placeholder Latin article bodies for local design work. With a token, configuration or API errors fail visibly; they never quietly switch to sample content.
+Use Bun 1.3.14 and Node.js 24 LTS (for Next.js), `bun install --frozen-lockfile`, and `bun run dev`. Copy `.env.example` to `.env.local` and set the Notion token. Never commit environment files. Without a token, the app uses six real post titles with clearly placeholder Latin article bodies for local design work. With a token, configuration or API errors fail visibly; they never quietly switch to sample content.
+
+Use `bun add <package>`, `bun add --dev <package>`, and `bun remove <package>` to manage dependencies. Commit `bun.lock` with dependency changes. Tests run directly with Bun; no TypeScript loader is needed.
 
 ## Designs
 
@@ -28,8 +30,10 @@ This is stale-while-revalidate, not a hard five-minute delivery guarantee: the f
 
 ## Verification
 
-`npm run lint`, `npm run typecheck`, `npm test`, `npm run build`.
+`bun run lint`, `bun run typecheck`, `bun test`, `bun run build`. To serve the production build locally, use `bun run start`.
 
 ## Deployment
+
+Vercel installs dependencies with `bun install --frozen-lockfile` and builds with `bun run build`, as configured in `vercel.json`.
 
 Linked to `austin-proj/austin-site`. Configure the `.env.example` keys in Vercel for production and preview. `SITE_URL` should be the final production URL. `vercel deploy` creates a preview; `vercel deploy --prod` activates production and the five-minute cron. Tokens stay server-side and out of Git.
