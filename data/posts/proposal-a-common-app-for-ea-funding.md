@@ -108,7 +108,7 @@ There were 656 applicants to the first round of ACX grants.
   - 2-4 weeks of 1 full-time engineer
 - A new common app might compete for funding mindshare
 
-  ![](https://imgs.xkcd.com/comics/standards.png)
+  ![](https://imgs.xkcd.com/comics/standards.png "500x283")
 - Maybe this is what EA Funds already is?
 - Unknown unknowns: maybe I don’t understand the funding space
   - Haven’t done much grantmaking myself; would love to chat with grantmaking orgs!

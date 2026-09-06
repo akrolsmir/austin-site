@@ -3660,7 +3660,9 @@
             "caption": [],
             "type": "external",
             "external": {
-              "url": "https://imgs.xkcd.com/comics/standards.png"
+              "url": "https://imgs.xkcd.com/comics/standards.png",
+              "width": 500,
+              "height": 283
             }
           }
         }

@@ -2027,7 +2027,9 @@
             "caption": [],
             "type": "file",
             "file": {
-              "url": "https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/5e10a306c6c249cbab3a65c7bd1b0a64/fdd4bc930bc34b76ad90c122f9fa7ce4-20240402195800.jpg"
+              "url": "https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/5e10a306c6c249cbab3a65c7bd1b0a64/fdd4bc930bc34b76ad90c122f9fa7ce4-20240402195800.jpg",
+              "width": 759,
+              "height": 497
             }
           }
         }

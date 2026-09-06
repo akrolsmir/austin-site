@@ -182,7 +182,9 @@
         ],
         "type": "file",
         "file": {
-          "url": "https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/90d4cf8ee88b4a94afd6537ad6fecf68/683574229e684371abb58eb856d013c5-20250314153100.png"
+          "url": "https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/90d4cf8ee88b4a94afd6537ad6fecf68/683574229e684371abb58eb856d013c5-20250314153100.png",
+          "width": 1480,
+          "height": 387
         }
       }
     },

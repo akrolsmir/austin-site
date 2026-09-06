@@ -58,4 +58,4 @@ This is really, really hard to say. When I work on a thing, I can’t help but i
 - **A baby!**
   - [46% Ada, as of this writing](https://manifold.markets/Austin/what-will-we-name-our-baby)
 
-  ![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/5e10a306c6c249cbab3a65c7bd1b0a64/fdd4bc930bc34b76ad90c122f9fa7ce4-20240402195800.jpg)
+  ![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/5e10a306c6c249cbab3a65c7bd1b0a64/fdd4bc930bc34b76ad90c122f9fa7ce4-20240402195800.jpg "759x497")

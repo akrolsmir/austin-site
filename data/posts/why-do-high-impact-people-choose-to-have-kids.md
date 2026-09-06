@@ -82,7 +82,7 @@ I notice that these don’t add up to enough to overcome the time/energy/focus c
 
 **Billionaires: Out of top 10, average age of \~32, per Claude:**
 
-![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/213a6e41f23e80c79f93c41aaad8c878/213a6e41f23e809e95bff06bb8d06e12-20250615231600.png)
+![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/213a6e41f23e80c79f93c41aaad8c878/213a6e41f23e809e95bff06bb8d06e12-20250615231600.png "1336x1564")
 
 #### Does what field you’re in matter for this?
 

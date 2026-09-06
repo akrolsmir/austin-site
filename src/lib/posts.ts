@@ -1,6 +1,5 @@
 import { readdirSync, readFileSync } from "node:fs";
 import { join } from "node:path";
-import { marked } from "marked";
 
 export const POSTS_DIR = join(process.cwd(), "data", "posts");
 export type PostMeta = { slug: string; title: string; date: string; notion: string; url: string; excerpt: string };
@@ -34,4 +33,3 @@ export function readPosts(dir = POSTS_DIR): PostFile[] {
 let cache: PostFile[] | undefined;
 export function getPosts() { return (cache ??= readPosts()); }
 export function getPost(slug: string) { return getPosts().find((post) => post.slug === slug) ?? null; }
-export function renderMarkdown(body: string) { return marked.parse(body, { gfm: true, breaks: true, async: false }); }

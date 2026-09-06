@@ -211,7 +211,9 @@
         "caption": [],
         "type": "external",
         "external": {
-          "url": "https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F65cf0dd1-760a-4fc4-bc51-fe540904252d_3754x1091.png"
+          "url": "https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F65cf0dd1-760a-4fc4-bc51-fe540904252d_3754x1091.png",
+          "width": 1456,
+          "height": 423
         }
       }
     },
@@ -1907,7 +1909,9 @@
             "caption": [],
             "type": "external",
             "external": {
-              "url": "https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F65cf0dd1-760a-4fc4-bc51-fe540904252d_3754x1091.png"
+              "url": "https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F65cf0dd1-760a-4fc4-bc51-fe540904252d_3754x1091.png",
+              "width": 1456,
+              "height": 423
             }
           }
         }

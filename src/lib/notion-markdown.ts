@@ -1,6 +1,6 @@
 import { plainText, safeUrl, type Block, type RichText } from "./types";
 
-type Payload = { rich_text?: RichText[]; caption?: RichText[]; language?: string; url?: string; file?: { url: string }; external?: { url: string }; expression?: string; checked?: boolean; icon?: { emoji?: string }; cells?: RichText[][]; has_column_header?: boolean; title?: string };
+type Payload = { rich_text?: RichText[]; caption?: RichText[]; language?: string; url?: string; file?: { url: string; width?: number; height?: number }; external?: { url: string; width?: number; height?: number }; expression?: string; checked?: boolean; icon?: { emoji?: string }; cells?: RichText[][]; has_column_header?: boolean; title?: string };
 export type MarkdownOptions = { sourceUrl: string };
 export const MEDIA = ["image", "video", "audio", "file", "pdf"];
 
@@ -83,7 +83,12 @@ function renderBlock(block: Block, options: MarkdownOptions): string[] {
     const url = safeUrl(data.file?.url ?? data.external?.url ?? data.url);
     if (!url) return [];
     const caption = richText(data.caption);
-    if (block.type === "image") return [`![${plainText(data.caption).replaceAll("]", "")}](${url})`, ...children];
+    if (block.type === "image") {
+      // Intrinsic size measured by the sync rides in the title slot so next/image can reserve layout.
+      const { width, height } = data.file ?? data.external ?? {};
+      const size = width && height ? ` "${width}x${height}"` : "";
+      return [`![${plainText(data.caption).replaceAll("]", "")}](${url}${size})`, ...children];
+    }
     return [`[${caption || url}](${url})`, ...children];
   }
   // Unsupported content stays reachable at its original block rather than disappearing.

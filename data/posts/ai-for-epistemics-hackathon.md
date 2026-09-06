@@ -10,7 +10,7 @@ excerpt: ""
 
 AI for Epistemics is about helping to leverage AI for better truthseeking mechanisms — at the level of individual users, the whole of society, or in transparent ways within the AI systems themselves. [Manifund](http://manifund.org/) & [Elicit](https://elicit.com/) recently hosted a hackathon to explore new projects in the space, with about 40 participants, 9 projects judged, and 3 winners splitting a \$10k prize pool. Read on to see what we built!
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F65cf0dd1-760a-4fc4-bc51-fe540904252d_3754x1091.png)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F65cf0dd1-760a-4fc4-bc51-fe540904252d_3754x1091.png "1456x423")
 
 ### Resources
 
@@ -67,7 +67,7 @@ Those are some of the reasons I'm excited about hackathons. I'm glad that Andrea
 
   our lovely faces, once more
 
-  ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F65cf0dd1-760a-4fc4-bc51-fe540904252d_3754x1091.png)
+  ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F65cf0dd1-760a-4fc4-bc51-fe540904252d_3754x1091.png "1456x423")
 - *From left to right: Rafe Kennedy, Oli Habryka, Evan Hadfield, Kirill Chesnov, Owain Evans, Charlie George, Panda Smith, Gustavo Lacerda, Andreas Stuhlmüller, Austin Chen, David Nachbach (virtual), Lukas Finnveden, Tamera Lanham, Noa Nabeshima, Campbell Hutcheson, Keri Warr, Xyra Sinclair, Tilman Bayer, Raymon Arnold, Chris Lakin, Ozzie Gooen*
 
   *Not pictured participants and viewers: William Saunders, Ben Goldhaber, Deger Turan, Vishal Maini, Ross Rheingans-Yoo, Ethan Alley, Dan Selsam, Stephen Grugett, David Chee, Saul Munn, Gavriel Kleinwaks and many others…*

@@ -146,7 +146,7 @@ Things are loosely categorized by:
   - Would guess that 2% of native English speakers have heard of “Mantic” prior to Scott, while 40% have heard of “Manifold”
   - So many great puns on Manifold:
 
-    ![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/5c080e21fecd4b61aa4e9a4b282497ef/d64882a56b8c441ca15cb6bfea6d4b79-20220710005000.png)
+    ![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/5c080e21fecd4b61aa4e9a4b282497ef/d64882a56b8c441ca15cb6bfea6d4b79-20220710005000.png "1050x842")
   - See Paul Graham on [Naming your Startup](http://www.paulgraham.com/name.html):
 
     > There's nothing intrinsically great about your current name. Nearly all your attachment to it comes from it being attached to you.

@@ -12,7 +12,7 @@ Imagine the issue that you hold most dear, the issue that you have made your for
 
 Now imagine it’s 2100. You’ve died, and your grandchildren are reading your will — and laughing. They’re laughing because they have tiled over the earth with one of six species chosen for maximum cuteness (puppies, kittens, pandas, polar bears, axolotls, and buns) plus any necessary organisms to provide food.
 
-![Why paperclip the world when you could bun it?](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/90d4cf8ee88b4a94afd6537ad6fecf68/683574229e684371abb58eb856d013c5-20250314153100.png)
+![Why paperclip the world when you could bun it?](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/90d4cf8ee88b4a94afd6537ad6fecf68/683574229e684371abb58eb856d013c5-20250314153100.png "1480x387")
 
 Cuteness optimization is the driving issue of their generation; biodiversity is wholly ignored. They’ve taken your trust fund set aside for saving rainforests, and spent it on the systematic extinction of 99.99% of the world’s species. **How would that make you, the ardent conservationist, feel?**
 

@@ -5931,7 +5931,9 @@
                 "caption": [],
                 "type": "file",
                 "file": {
-                  "url": "https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/5c080e21fecd4b61aa4e9a4b282497ef/d64882a56b8c441ca15cb6bfea6d4b79-20220710005000.png"
+                  "url": "https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/5c080e21fecd4b61aa4e9a4b282497ef/d64882a56b8c441ca15cb6bfea6d4b79-20220710005000.png",
+                  "width": 1050,
+                  "height": 842
                 }
               }
             }

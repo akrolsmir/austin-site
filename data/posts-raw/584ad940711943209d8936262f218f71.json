@@ -1983,7 +1983,9 @@
                 "caption": [],
                 "type": "file",
                 "file": {
-                  "url": "https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/584ad940711943209d8936262f218f71/477b9471325f4488962cb9cad0e5a723-20220606053500.png"
+                  "url": "https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/584ad940711943209d8936262f218f71/477b9471325f4488962cb9cad0e5a723-20220606053500.png",
+                  "width": 896,
+                  "height": 601
                 }
               }
             }
@@ -2056,7 +2058,9 @@
                 "caption": [],
                 "type": "external",
                 "external": {
-                  "url": "https://i.imgur.com/ZH5qGgD.png"
+                  "url": "https://i.imgur.com/ZH5qGgD.png",
+                  "width": 653,
+                  "height": 515
                 }
               }
             }
@@ -2290,7 +2294,9 @@
         "caption": [],
         "type": "file",
         "file": {
-          "url": "https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/584ad940711943209d8936262f218f71/edb100144e2a4223999bcd8742eb7e81-20220606054900.png"
+          "url": "https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/584ad940711943209d8936262f218f71/edb100144e2a4223999bcd8742eb7e81-20220606054900.png",
+          "width": 870,
+          "height": 813
         }
       }
     },

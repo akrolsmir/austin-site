@@ -77,13 +77,13 @@ Blogs without comments: Alexey, Gwern, AppliedDivinityStudies, patio11
 - Seen on:
   - Notion
 
-  ![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/31178e76a7574911a785749f0cfda423/3547aaae7c4b4a3285d8156d52bc62f0-20240901191000.png)
+  ![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/31178e76a7574911a785749f0cfda423/3547aaae7c4b4a3285d8156d52bc62f0-20240901191000.png "251x204")
 - Substack
 
-  ![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/31178e76a7574911a785749f0cfda423/0c617749ef6148c6bdfbe2eac70ca3f3-20240901191100.png)
+  ![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/31178e76a7574911a785749f0cfda423/0c617749ef6148c6bdfbe2eac70ca3f3-20240901191100.png "642x502")
 - Lesswrong
 
-![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/31178e76a7574911a785749f0cfda423/0ef839dbac2b4bf69397db9053077d61-20240901192100.png)
+![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/31178e76a7574911a785749f0cfda423/0ef839dbac2b4bf69397db9053077d61-20240901192100.png "616x1480")
 
 #### Aside: Peak EA Forum
 

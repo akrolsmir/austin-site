@@ -4,6 +4,7 @@
 import { mkdirSync, readdirSync, readFileSync, unlinkSync, writeFileSync } from "node:fs";
 import { extname, join } from "node:path";
 import { BlobNotFoundError, head, put } from "@vercel/blob";
+import { imageSize } from "image-size";
 import { createNotionClient } from "../src/lib/notion-client";
 import { MEDIA, blocksToMarkdown } from "../src/lib/notion-markdown";
 import { POSTS_DIR, serializePost, slugify } from "../src/lib/posts";
@@ -12,6 +13,7 @@ import type { Block, Post } from "../src/lib/types";
 const RAW_DIR = join(process.cwd(), "data", "posts-raw");
 type Raw = { page: Post; blocks: Block[] };
 type FileBlock = { file?: { url: string; expiry_time?: string } };
+type ImageSource = { url: string; width?: number; height?: number };
 
 function* mediaBlocks(blocks: Block[]): Generator<Block> {
   for (const block of blocks) {
@@ -31,6 +33,27 @@ async function mirror(postId: string, block: Block): Promise<string> {
   const blob = await put(key, await response.arrayBuffer(), { access: "public", addRandomSuffix: false, contentType: response.headers.get("content-type") ?? undefined });
   console.log(`  uploaded ${key}`);
   return blob.url;
+}
+// Records intrinsic width/height on image sources that lack them so the site can render them with next/image.
+// A source that cannot be fetched or decoded is left unmeasured (it renders as a plain <img>) rather than failing the sync.
+async function measureImages(blocks: Block[]): Promise<boolean> {
+  let changed = false;
+  for (const block of blocks) {
+    if (block.children) changed = (await measureImages(block.children)) || changed;
+    if (block.type !== "image") continue;
+    const data = block.image as { file?: ImageSource; external?: ImageSource } | undefined;
+    const source = data?.file ?? data?.external;
+    if (!source?.url || (source.width && source.height)) continue;
+    try {
+      const response = await fetch(source.url, { signal: AbortSignal.timeout(30000) });
+      if (!response.ok) throw new Error(`status ${response.status}`);
+      const { width, height } = imageSize(new Uint8Array(await response.arrayBuffer()));
+      if (!width || !height) throw new Error("no dimensions");
+      Object.assign(source, { width, height });
+      changed = true;
+    } catch (error) { console.warn(`  could not measure ${source.url} for block ${block.id}: ${error instanceof Error ? error.message : error}`); }
+  }
+  return changed;
 }
 function readRaw(id: string): Raw | undefined {
   try { return JSON.parse(readFileSync(join(RAW_DIR, `${id}.json`), "utf8")); } catch { return undefined; }
@@ -59,6 +82,7 @@ async function main() {
   let changed = 0;
   if (offline) {
     raws = readdirSync(RAW_DIR).filter((name) => name.endsWith(".json")).map((name) => readRaw(name.slice(0, -5))!);
+    for (const raw of raws) if (await measureImages(raw.blocks) && write(join(RAW_DIR, `${raw.page.id}.json`), JSON.stringify(raw, null, 2) + "\n")) changed++;
   } else {
     const client = createNotionClient();
     const posts = await client.posts();
@@ -66,17 +90,20 @@ async function main() {
     raws = [];
     for (const page of posts) {
       const cached = readRaw(page.id);
-      if (cached?.page.edited === page.edited) { raws.push(cached); continue; }
-      const blocks = await client.blocks(page.id);
-      for (const block of mediaBlocks(blocks)) {
-        // Signed Notion URLs expire within an hour; the committed cache keeps only the Blob mirror.
-        const file = (block[block.type] as Required<FileBlock>).file;
-        file.url = await mirror(page.id, block);
-        delete file.expiry_time;
+      let raw = cached;
+      if (raw?.page.edited !== page.edited) {
+        const blocks = await client.blocks(page.id);
+        for (const block of mediaBlocks(blocks)) {
+          // Signed Notion URLs expire within an hour; the committed cache keeps only the Blob mirror.
+          const file = (block[block.type] as Required<FileBlock>).file;
+          file.url = await mirror(page.id, block);
+          delete file.expiry_time;
+        }
+        raw = { page, blocks };
       }
-      const raw = { page, blocks };
+      const measured = await measureImages(raw.blocks);
       raws.push(raw);
-      if (write(join(RAW_DIR, `${page.id}.json`), JSON.stringify(raw, null, 2) + "\n")) changed++;
+      if ((raw !== cached || measured) && write(join(RAW_DIR, `${page.id}.json`), JSON.stringify(raw, null, 2) + "\n")) changed++;
     }
     changed += prune(RAW_DIR, ".json", new Set(posts.map((post) => post.id)));
   }

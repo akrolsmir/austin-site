@@ -13,7 +13,7 @@ excerpt: ""
   - We invited about 150 people, of whom 100 came
   - For the schedule of events, see [Rachel & Austin’s Wedding](https://app.notion.com/p/b3f57e0f54a74d118ed06e6ab824b49c)
 
-    ![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/176a6e41f23e8090b2c0d06da2f847ba/1c6a6e41f23e8015acccf9f5265c6a7f-20250330214600.png)
+    ![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/176a6e41f23e8090b2c0d06da2f847ba/1c6a6e41f23e8015acccf9f5265c6a7f-20250330214600.png "1566x1212")
 
 #### Planning
 
@@ -42,9 +42,9 @@ excerpt: ""
   - Some pieces of this seemed antiquated, eg checking on whether we were cousins, or defining roles for our bridal party
   - But it was also nice to see from a design standpoint, how the church shepharded its couples throughout history. And nice to have a template for the ceremony, rituals to follow which we didn’t have to invent from whole cloth
 
-![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/176a6e41f23e8090b2c0d06da2f847ba/1c6a6e41f23e80a1b420e6e5652b7399-20250330211400.png)
+![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/176a6e41f23e8090b2c0d06da2f847ba/1c6a6e41f23e80a1b420e6e5652b7399-20250330211400.png "2272x1512")
 
-![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/176a6e41f23e8090b2c0d06da2f847ba/1c6a6e41f23e80ccaf4bfa473b6e4748-20250330211400.png)
+![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/176a6e41f23e8090b2c0d06da2f847ba/1c6a6e41f23e80ccaf4bfa473b6e4748-20250330211400.png "2272x1512")
 
 - Rachel liked the vibe of “picnic & hang out in the park”, so we reserved a spot in Golden Gate Park for the reception, rather than some private reception venue
   - This did make her anxious during the last couple weeks, when a chance of rain had been forecast. (But it all turned out fine in the end)
@@ -55,16 +55,16 @@ excerpt: ""
     - First dance, then more dancing and games like spikeball in the park
     - Resolved [a prediction market](https://manifold.markets/Austin/will-rachelweinberg-marry-me)
 
-![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/176a6e41f23e8090b2c0d06da2f847ba/1c6a6e41f23e809e9e4bc2b23bd600f7-20250330211600.png)
+![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/176a6e41f23e8090b2c0d06da2f847ba/1c6a6e41f23e809e9e4bc2b23bd600f7-20250330211600.png "2272x1514")
 
-![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/176a6e41f23e8090b2c0d06da2f847ba/1c6a6e41f23e807594a0d582895818d0-20250330211600.png)
+![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/176a6e41f23e8090b2c0d06da2f847ba/1c6a6e41f23e807594a0d582895818d0-20250330211600.png "2272x1514")
 
 - We closed out with a bonfire and singing songs and making smores at Ocean Beach
   - This was fun in theory; in practice it ended up being windy & cold and so not that enjoyable. I’d do this part differently if we were getting married again
 
-![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/176a6e41f23e8090b2c0d06da2f847ba/1c6a6e41f23e8027a2bacd097931b8b1-20250330211800.png)
+![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/176a6e41f23e8090b2c0d06da2f847ba/1c6a6e41f23e8027a2bacd097931b8b1-20250330211800.png "2272x1512")
 
-![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/176a6e41f23e8090b2c0d06da2f847ba/1c6a6e41f23e806ab27fff5a65889904-20250330211800.png)
+![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/176a6e41f23e8090b2c0d06da2f847ba/1c6a6e41f23e806ab27fff5a65889904-20250330211800.png "2272x1512")
 
 - Rachel’s mom felt strongly that there should be more events, as a large chunk of her family would be flying in from out of town. So we ended up doing a pre-wedding get-together in Dolores Park, and a post-wedding brunch & pickleball at Presidio Wall Playground Park
   - Essentially, we got to go park-hopping, making use of one of SF’s abundant natural resources
@@ -88,7 +88,7 @@ excerpt: ""
 
 - The pamphlet — our relationship in graphs
 
-![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/176a6e41f23e8090b2c0d06da2f847ba/1c6a6e41f23e80bf91d5fd7a67f7f953-20250330214500.png)
+![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/176a6e41f23e8090b2c0d06da2f847ba/1c6a6e41f23e80bf91d5fd7a67f7f953-20250330214500.png "1394x1144")
 
 - The intrusive questions list
 - The food

@@ -2502,7 +2502,9 @@
             "caption": [],
             "type": "file",
             "file": {
-              "url": "https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/213a6e41f23e80c79f93c41aaad8c878/213a6e41f23e809e95bff06bb8d06e12-20250615231600.png"
+              "url": "https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/213a6e41f23e80c79f93c41aaad8c878/213a6e41f23e809e95bff06bb8d06e12-20250615231600.png",
+              "width": 1336,
+              "height": 1564
             }
           }
         }

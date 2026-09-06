@@ -21,7 +21,8 @@ test("blocks become readable markdown with shifted headings and tight nested lis
     b("to_do", [t("done")], { checked: true }), b("quote", [t("wise")]), b("callout", [t("note")], { icon: { emoji: "💡" } }),
     b("code", [t("x = 1")], { language: "python" }), b("divider", []),
     { id: "tbl", type: "table", table: { has_column_header: true }, children: [{ id: "r1", type: "table_row", table_row: { cells: [[t("a|b")], [t("c")]] } }, { id: "r2", type: "table_row", table_row: { cells: [[t("1")], [t("2")]] } }] },
-    { id: "img", type: "image", image: { file: { url: "https://blob.example/img.png" }, caption: [t("pic")] } },
+    { id: "img", type: "image", image: { file: { url: "https://blob.example/img.png", width: 1200, height: 800 }, caption: [t("pic")] } },
+    { id: "ext", type: "image", image: { external: { url: "https://pics.example/x.png" } } },
     { id: "weird", type: "child_database", child_database: { title: "DB" } },
   ];
   const md = blocksToMarkdown(blocks, options);
@@ -52,7 +53,9 @@ x = 1
 | --- | --- |
 | 1 | 2 |
 
-![pic](https://blob.example/img.png)
+![pic](https://blob.example/img.png "1200x800")
+
+![](https://pics.example/x.png)
 
 [DB](https://notion.example/page#weird)
 `);

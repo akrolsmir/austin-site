@@ -24,7 +24,7 @@ Here’s my model of what happened: SBF was busy. Things were confusing. He made
 
 Why do I believe this “bad judgement” thesis? Well, it’s what Sam claims. Publicly on Twitter, his explanation comes out to: “I genuinely believed customers were not leveraged, and that we could pay out all deposits”.
 
-![](https://i.imgur.com/ebVRwbk.png)
+![](https://i.imgur.com/ebVRwbk.png "592x510")
 
 I’m biased towards trusting people at their word; and furthermore, SBF was a personal hero of mine. So you might not extend him the same trust that I do. But: Sam doesn’t have a history of lying on the record. Even at this point in time, when the muckrakers of the world are busy scrutinizing every deed he’s done, I don’t see any allegations of the form “he lied about this thing”. “Truthful, but mistaken” seems like a better model for SBF than “masterful schemer”. I choose to believe this. Maybe I’ll be wrong; feel free to [bet on whether I’ll change my mind](https://manifold.markets/Austin/if-i-post-a-rant-defending-sbf-will). ([This comment does lead me to some level of doubt](https://forum.effectivealtruism.org/posts/xafpj3on76uRDoBja/the-ftx-future-fund-team-has-resigned-1?commentId=NbevNWixq3bJMEW7b).)
 

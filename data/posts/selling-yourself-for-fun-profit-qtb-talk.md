@@ -69,7 +69,7 @@ Austin’s history of making money
 - one of the most important ticket prices is negative (paying for great speaker's flights and housing)
 - then: sponsorship tiers, 10k/20k/50k
 
-![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/19ca6e41f23e8021b7f9e749b3a2c21c/19ca6e41f23e80009d03e4eb255a1038-20250216203800.png)
+![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/19ca6e41f23e8021b7f9e749b3a2c21c/19ca6e41f23e80009d03e4eb255a1038-20250216203800.png "720x1236")
 
 #### How to price things in life, the universe, everything
 

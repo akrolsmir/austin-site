@@ -12,11 +12,11 @@ excerpt: ""
 
 **Numbers:** 27M, 5’10”, 2320 SAT, \~\$1m net worth
 
-![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/5402268a35bd47c4b4a2c1a7e3c4c1dc/66b6aaa8c6af433ca74c0b8afcb8b47d-20230120175700.jpeg)
+![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/5402268a35bd47c4b4a2c1a7e3c4c1dc/66b6aaa8c6af433ca74c0b8afcb8b47d-20230120175700.jpeg "1159x1739")
 
-![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/5402268a35bd47c4b4a2c1a7e3c4c1dc/9a5950a9bce347899d2bab2ec91451a6-20230120180400.jpg)
+![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/5402268a35bd47c4b4a2c1a7e3c4c1dc/9a5950a9bce347899d2bab2ec91451a6-20230120180400.jpg "3265x3265")
 
-![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/5402268a35bd47c4b4a2c1a7e3c4c1dc/6bc09fcc757745888e422276176fab0d-20230120180400.jpg)
+![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/5402268a35bd47c4b4a2c1a7e3c4c1dc/6bc09fcc757745888e422276176fab0d-20230120180400.jpg "2242x2112")
 
 **Creative.** Both in the sense of “easily generates outside-the-box ideas”, and in the sense of “actually creates lots of things” — the eras of my life are marked by whatever project I’m working on at the moment.
 

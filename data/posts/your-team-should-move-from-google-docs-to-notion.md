@@ -66,11 +66,11 @@ Example: Seed Round Memo
 
   **Calendar view lets you browse meetings chronologically **
 
-  ![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/584ad940711943209d8936262f218f71/477b9471325f4488962cb9cad0e5a723-20220606053500.png)
+  ![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/584ad940711943209d8936262f218f71/477b9471325f4488962cb9cad0e5a723-20220606053500.png "896x601")
 
   **Templates prepopulates the meeting with a bunch of requisite information, eg for Daily Standup**
 
-  ![](https://i.imgur.com/ZH5qGgD.png)
+  ![](https://i.imgur.com/ZH5qGgD.png "653x515")
 
 Example: Manifold Meeting Notes
 
@@ -80,7 +80,7 @@ Caveat: If you actually want to do anything more complicated than sums/averages 
 
 ### Notion for tasks (vs Asana, Trello)
 
-![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/584ad940711943209d8936262f218f71/edb100144e2a4223999bcd8742eb7e81-20220606054900.png)
+![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/584ad940711943209d8936262f218f71/edb100144e2a4223999bcd8742eb7e81-20220606054900.png "870x813")
 
 #### Example
 

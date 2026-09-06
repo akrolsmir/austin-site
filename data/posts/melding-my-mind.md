@@ -17,7 +17,7 @@ I’m interested in a particular phenomenon; loosely, when I meld my mind with s
     - Really good sex feels like both a body and a mind meld
     - While I’m spending time with my daughter Aad, I feel like I’m playacting some character that would be embarrassing/inane in other contexts:
 
-      ![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/259a6e41f23e805c9c61c3c185bd66a2/259a6e41f23e802da604ee5f3fcd605f-20250824191500.png)
+      ![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/259a6e41f23e805c9c61c3c185bd66a2/259a6e41f23e802da604ee5f3fcd605f-20250824191500.png "900x920")
 - With a group of humans
   - Especially when I’m eg moderating lightning talks amidst a group of 30 people, it feels like I’m directing the group, that I’m a conduit for a shared enjoyable activity
     - Rather than focusing on the details of each talk, I’m scanning the room, looking at people’s faces to see whether they’re interested, trying to gauge how people feel about the topic, the questions being asked, how much their

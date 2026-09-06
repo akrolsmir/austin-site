@@ -48,7 +48,7 @@ See the video with me and Quan
 
 [https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/a574322a9de24a58ab35127e1880182c/1b920ab9e6a34d72ab929221f6f0eeba-20211119212000.mp4](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/a574322a9de24a58ab35127e1880182c/1b920ab9e6a34d72ab929221f6f0eeba-20211119212000.mp4)
 
-![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/a574322a9de24a58ab35127e1880182c/8560e09d3c4042cc86ca3b200e211944-20211119212100.jpg)
+![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/a574322a9de24a58ab35127e1880182c/8560e09d3c4042cc86ca3b200e211944-20211119212100.jpg "4032x3024")
 
 Time stamping now anyways. 0100 pretty cool
 Feeling now grateful to have Quan next to me experiencing these together - tho earlier, wanted to be experiencing things on my own
@@ -190,7 +190,7 @@ But trying to keep it live
 
 Hm
 
-![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/a574322a9de24a58ab35127e1880182c/dd8aea9b8fc245c5887c636225e2d4c8-20211119212800.jpg)
+![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/a574322a9de24a58ab35127e1880182c/dd8aea9b8fc245c5887c636225e2d4c8-20211119212800.jpg "4032x3024")
 
 What a trip 123
 Looking at it from outside I'd be crazy
@@ -296,7 +296,7 @@ Trippy
 Fk Autocomplete
 Helojng me forget things
 
-![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/a574322a9de24a58ab35127e1880182c/dc459d741ee04813bfa9d90472d64e7e-20211119212600.jpg)
+![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/a574322a9de24a58ab35127e1880182c/dc459d741ee04813bfa9d90472d64e7e-20211119212600.jpg "4032x3024")
 
 Found my way back
 Y

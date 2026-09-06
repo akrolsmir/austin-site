@@ -500,7 +500,9 @@
         "caption": [],
         "type": "external",
         "external": {
-          "url": "https://i.imgur.com/ebVRwbk.png"
+          "url": "https://i.imgur.com/ebVRwbk.png",
+          "width": 592,
+          "height": 510
         }
       }
     },

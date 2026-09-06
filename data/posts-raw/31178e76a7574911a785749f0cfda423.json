@@ -2765,7 +2765,9 @@
                 "caption": [],
                 "type": "file",
                 "file": {
-                  "url": "https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/31178e76a7574911a785749f0cfda423/3547aaae7c4b4a3285d8156d52bc62f0-20240901191000.png"
+                  "url": "https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/31178e76a7574911a785749f0cfda423/3547aaae7c4b4a3285d8156d52bc62f0-20240901191000.png",
+                  "width": 251,
+                  "height": 204
                 }
               }
             }
@@ -2838,7 +2840,9 @@
                 "caption": [],
                 "type": "file",
                 "file": {
-                  "url": "https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/31178e76a7574911a785749f0cfda423/0c617749ef6148c6bdfbe2eac70ca3f3-20240901191100.png"
+                  "url": "https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/31178e76a7574911a785749f0cfda423/0c617749ef6148c6bdfbe2eac70ca3f3-20240901191100.png",
+                  "width": 642,
+                  "height": 502
                 }
               }
             }
@@ -2911,7 +2915,9 @@
             "caption": [],
             "type": "file",
             "file": {
-              "url": "https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/31178e76a7574911a785749f0cfda423/0ef839dbac2b4bf69397db9053077d61-20240901192100.png"
+              "url": "https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/31178e76a7574911a785749f0cfda423/0ef839dbac2b4bf69397db9053077d61-20240901192100.png",
+              "width": 616,
+              "height": 1480
             }
           }
         },

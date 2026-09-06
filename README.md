@@ -22,6 +22,8 @@ The sync is incremental: a page is refetched only when its `last_edited_time` di
 
 Notion-hosted files (images, video, audio, PDFs) are copied to the Vercel Blob store `austin-site-images` under `posts/<page id>/<block id>-<edit time>.<ext>` and the raw cache stores only the Blob URL, so committed files carry no expiring signed URLs. Existing keys are skipped; a replaced image gets a new key. External image URLs are left as they are.
 
+Every image block also gets its intrinsic width and height recorded in the raw cache (fetched once with `image-size`, in both online and offline mode) and written into the markdown as the image title, e.g. `![caption](url "1200x800")`. The site renders images with `next/image` using those dimensions, so pages reserve layout before images load; Blob-hosted images go through the Next image optimizer and other hosts are served unoptimized so the optimizer never proxies arbitrary URLs. An image that cannot be fetched or decoded is logged and rendered as a plain `<img>` rather than failing the sync.
+
 Slugs derive from titles (`src/lib/posts.ts`), so retitling a post moves its URL; `/writing/<notion id>` links from the earlier design permanently redirect to the current slug, and `/writing` redirects to `/posts`. Duplicate titles get a short id suffix.
 
 ## Notion publication rules

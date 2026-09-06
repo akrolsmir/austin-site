@@ -28,7 +28,7 @@ When you start a lot of things (projects, websites, companies), one of the probl
     - think about trochees (2 syllables, accent on first), they’re catchy
       - Google, Facebook, Apple, Twitter, Cursor, Notion
 
-      ![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/1aea6e41f23e80a9afa0dabcb55b933a/1aea6e41f23e8021ad70d1c102a8b796-20250306165300.png)
+      ![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/1aea6e41f23e80a9afa0dabcb55b933a/1aea6e41f23e8021ad70d1c102a8b796-20250306165300.png "740x546")
   - And ideally spellable
     - For when you’re telling someone to google your thing
   - Real words are great for this
