@@ -90,7 +90,8 @@ excerpt: ""
 
 ![](https://5ofjt7aarfryw5br.public.blob.vercel-storage.com/posts/176a6e41f23e8090b2c0d06da2f847ba/1c6a6e41f23e80bf91d5fd7a67f7f953-20250330214500.png "1394x1144")
 
-- The intrusive questions list
+- The intrusive questions list:
+  - [https://docs.google.com/document/d/165hmsPbSm3pH0fFkVDe18KArwECUJyRR1c5h4tyjdqI/edit?tab=t.0](https://docs.google.com/document/d/165hmsPbSm3pH0fFkVDe18KArwECUJyRR1c5h4tyjdqI/edit?tab=t.0)
 - The food
   - We did a mix of catering local restaurants
     - (which?)
