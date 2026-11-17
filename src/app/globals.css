@@ -53,9 +53,9 @@ h3 { font-size: 20px; line-height: 1.3; margin: 0 0 7px; font-weight: 400; }
 .article-meta { display: flex; flex-wrap: wrap; gap: 20px; font-size: 14px; color: var(--muted); }
 .prose { overflow-wrap: anywhere; }
 .prose p { margin: 0 0 1.2em; }
-.prose h2 { font-size: 28px; margin: 1.5em 0 .65em; }
-.prose h3 { font-size: 23px; margin: 1.4em 0 .65em; }
-.prose h4 { font-size: 20px; margin: 1.3em 0 .5em; }
+.prose h2 { font-size: 28px; font-weight: 500; margin: 1.5em 0 .65em; }
+.prose h3 { font-size: 23px; font-weight: 500; margin: 1.4em 0 .65em; }
+.prose h4 { font-size: 20px; font-weight: 500; margin: 1.3em 0 .5em; }
 .prose ul, .prose ol { padding-left: 1.6em; margin: 0 0 1.2em; }
 .prose ul { list-style: disc; }.prose ol { list-style: decimal; }.prose li { padding-left: .15em; margin-bottom: .45em; }
 .prose blockquote { border-left: 3px solid var(--link); margin: 1.4em 0; padding-left: 1.2em; }
