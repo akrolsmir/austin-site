@@ -1,0 +1,571 @@
+{
+  "page": {
+    "id": "41ea6e41f23e80c1a339e41259403c74",
+    "title": "Half-speed might be correct when \"you\" can fork",
+    "date": "2026-11-20T17:45:00.000+00:00",
+    "edited": "2026-11-20T17:45:00.000Z",
+    "url": "https://akrolsmir.notion.site/Half-speed-might-be-correct-when-you-can-fork-41ea6e41f23e80c1a339e41259403c74",
+    "excerpt": ""
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "41ea6e41-f23e-80c7-982e-d7376e094e2f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "41ea6e41-f23e-80c1-a339-e41259403c74"
+      },
+      "created_time": "2026-11-20T17:45:00.000Z",
+      "last_edited_time": "2026-11-20T17:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I was just thinking about Anna Salamon's classic \"",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I was just thinking about Anna Salamon's classic \"",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "the correct response to uncertainty is not half-speed",
+              "link": {
+                "url": "https://www.lesswrong.com/posts/FMkQtPvzsriQAow5q/the-correct-response-to-uncertainty-is-not-half-speed"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "the correct response to uncertainty is not half-speed",
+            "href": "https://www.lesswrong.com/posts/FMkQtPvzsriQAow5q/the-correct-response-to-uncertainty-is-not-half-speed"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "\". Anna points out that if you're not sure if your destination is either ahead or behind you, the correct thing to do is not to keep trudging along slowly, but to figure it out where your destination is.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\". Anna points out that if you're not sure if your destination is either ahead or behind you, the correct thing to do is not to keep trudging along slowly, but to figure it out where your destination is.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "41ea6e41-f23e-80a0-9a82-d1030e6b880c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "41ea6e41-f23e-80c1-a339-e41259403c74"
+      },
+      "created_time": "2026-11-20T17:45:00.000Z",
+      "last_edited_time": "2026-11-20T17:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "As someone who is often split between multiple projects, and thus feel like I'm moving at half-speed (if not third- or quarter-speed), I thought I might try to defend this mode of operating. But first, it might be easier to understand my thesis in the context of a movement.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "As someone who is often split between multiple projects, and thus feel like I'm moving at half-speed (if not third- or quarter-speed), I thought I might try to defend this mode of operating. But first, it might be easier to understand my thesis in the context of a movement.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "41ea6e41-f23e-8015-94a4-e4b70e64fae0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "41ea6e41-f23e-80c1-a339-e41259403c74"
+      },
+      "created_time": "2026-11-20T17:45:00.000Z",
+      "last_edited_time": "2026-11-20T17:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "For example, should AI safety support or oppose Anthropic? Right now, the AIS movement seems to be split, bipolar almost in its orientation. I just attended ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "For example, should AI safety support or oppose Anthropic? Right now, the AIS movement seems to be split, bipolar almost in its orientation. I just attended ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "https://banrsi.ai/",
+              "link": {
+                "url": "https://banrsi.ai/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://banrsi.ai/",
+            "href": "https://banrsi.ai/"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " , where 200 people showed up to protest Anthropic's IPO. At the same time, I'm quite sure that many of the folks there are also trying to cozy up to A\\ influence and A\\ employee funding. Rivers of digital ink have been spilled about whether it's ethical to work in any frontier lab. It sure does seem like AIS is moving half-speed here. Does it need to stop and make a single decision?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " , where 200 people showed up to protest Anthropic's IPO. At the same time, I'm quite sure that many of the folks there are also trying to cozy up to A\\ influence and A\\ employee funding. Rivers of digital ink have been spilled about whether it's ethical to work in any frontier lab. It sure does seem like AIS is moving half-speed here. Does it need to stop and make a single decision?",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "41ea6e41-f23e-8023-9480-d2a16018b9c3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "41ea6e41-f23e-80c1-a339-e41259403c74"
+      },
+      "created_time": "2026-11-20T17:45:00.000Z",
+      "last_edited_time": "2026-11-20T17:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I argue no. A movement is made up of individual people & orgs, and so gets to fork, gets to explore many possibilities in parallel. Some of its members can take extremist anti-lab positions, and some can work with (or within) the labs. Maybe this looks like half-speed from the outside, but this might also be the correct way to rapidly understand the shape of the world we inhabit.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I argue no. A movement is made up of individual people & orgs, and so gets to fork, gets to explore many possibilities in parallel. Some of its members can take extremist anti-lab positions, and some can work with (or within) the labs. Maybe this looks like half-speed from the outside, but this might also be the correct way to rapidly understand the shape of the world we inhabit.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "41ea6e41-f23e-80ae-8885-f8270163b8d2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "41ea6e41-f23e-80c1-a339-e41259403c74"
+      },
+      "created_time": "2026-11-20T17:45:00.000Z",
+      "last_edited_time": "2026-11-20T17:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Certainly, I find much more beautiful the idea of AI safety being filled with people of dissenting opinions, but still unified by some greater orientation towards moral seriousness on the subject of AI, and love and caring for all persons (past and future, real and hypothetical.) And more than just beauty, a unity in some meta-principles helps us conduct positive trade between members. The external protester's actions lends support to the insider's push for more resources for safety -- even if the two never meet. A more direct trade might include swapping information at a conference. Each can also see the fruits of the other's actions, and use that to improve their own plans -- including, switching sides should the evidence supports it. And having these actions stay within the banner of a single movement expands the reach and power of the movement overall.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Certainly, I find much more beautiful the idea of AI safety being filled with people of dissenting opinions, but still unified by some greater orientation towards moral seriousness on the subject of AI, and love and caring for all persons (past and future, real and hypothetical.) And more than just beauty, a unity in some meta-principles helps us conduct positive trade between members. The external protester's actions lends support to the insider's push for more resources for safety -- even if the two never meet. A more direct trade might include swapping information at a conference. Each can also see the fruits of the other's actions, and use that to improve their own plans -- including, switching sides should the evidence supports it. And having these actions stay within the banner of a single movement expands the reach and power of the movement overall.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "41ea6e41-f23e-80cd-ae5c-c533e846e9c1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "41ea6e41-f23e-80c1-a339-e41259403c74"
+      },
+      "created_time": "2026-11-20T17:45:00.000Z",
+      "last_edited_time": "2026-11-20T17:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "How this apply within individuals? I think that personhood and identity is best understood as ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "How this apply within individuals? I think that personhood and identity is best understood as ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "coordination across time-slices",
+              "link": {
+                "url": "https://www.cold-takes.com/what-counts-as-death/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "coordination across time-slices",
+            "href": "https://www.cold-takes.com/what-counts-as-death/"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " of an individual. When \"I\" work on multiple things, I'm sharding out my timeslices to pursue different paths, in a portfolio, hits-based way. These forks of myself draw on many of the same resources (money, reputation, network, skillset); should any succeed, they add back to that resource pool.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " of an individual. When \"I\" work on multiple things, I'm sharding out my timeslices to pursue different paths, in a portfolio, hits-based way. These forks of myself draw on many of the same resources (money, reputation, network, skillset); should any succeed, they add back to that resource pool.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "41ea6e41-f23e-8061-ac21-eb43762e4acb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "41ea6e41-f23e-80c1-a339-e41259403c74"
+      },
+      "created_time": "2026-11-20T17:45:00.000Z",
+      "last_edited_time": "2026-11-20T17:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "How to reconcile this with Paul Graham's notion of ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "How to reconcile this with Paul Graham's notion of ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "keeping one top idea in your mind",
+              "link": {
+                "url": "https://paulgraham.com/top.html"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "keeping one top idea in your mind",
+            "href": "https://paulgraham.com/top.html"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "? Well, even when I was working on a single startup, my day-to-day experience of it was one of being constantly juggling various next steps (implement that feature, onboard that user, hire that employee). Perhaps now, my \"top idea\" is less any one individual project or org, and more spread across the AI safety movement, or the world overall.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "? Well, even when I was working on a single startup, my day-to-day experience of it was one of being constantly juggling various next steps (implement that feature, onboard that user, hire that employee). Perhaps now, my \"top idea\" is less any one individual project or org, and more spread across the AI safety movement, or the world overall.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "41ea6e41-f23e-804e-b4d8-db0e6e038da5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "41ea6e41-f23e-80c1-a339-e41259403c74"
+      },
+      "created_time": "2026-11-20T17:45:00.000Z",
+      "last_edited_time": "2026-11-20T17:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Admittedly, I'm still confused about many subquestions here. When should you explore, vs exploit? How do you discover what \"your\" values are? When is internal reallocation (eg movement infighting) positive-sum vs negative-sum? I look forward to my forks (future timeslices) and my intellectual siblings (you, dear reader) to help with making progress on these.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Admittedly, I'm still confused about many subquestions here. When should you explore, vs exploit? How do you discover what \"your\" values are? When is internal reallocation (eg movement infighting) positive-sum vs negative-sum? I look forward to my forks (future timeslices) and my intellectual siblings (you, dear reader) to help with making progress on these.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "41ea6e41-f23e-800d-a5fd-cca5982c6010",
+      "parent": {
+        "type": "page_id",
+        "page_id": "41ea6e41-f23e-80c1-a339-e41259403c74"
+      },
+      "created_time": "2026-11-20T17:45:00.000Z",
+      "last_edited_time": "2026-11-20T17:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "See also: Toby Ord on ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "See also: Toby Ord on ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "acting under \"broad timelines\"",
+              "link": {
+                "url": "https://www.lesswrong.com/posts/6pDMLYr7my2QMTz3s/broad-timelines"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "acting under \"broad timelines\"",
+            "href": "https://www.lesswrong.com/posts/6pDMLYr7my2QMTz3s/broad-timelines"
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    }
+  ]
+}
