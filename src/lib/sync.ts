@@ -178,8 +178,8 @@ export function fsStore(rawDir = RAW_DIR, postsDir = POSTS_DIR): Store {
   };
 }
 
-export type BlobApi = { get: BlobGet; put: typeof put; list: typeof list; del: typeof del };
-const blobApi: BlobApi = { get, put, list, del };
+export type BlobApi = { get: BlobGet; head: (pathname: string) => Promise<{ etag: string }>; put: typeof put; list: typeof list; del: typeof del };
+const blobApi: BlobApi = { get, head, put, list, del };
 // The live store. Raw and markdown files are content-addressed (site/raw/<id>-<hash>.json, site/posts/<slug>-<hash>.md),
 // so uploading them changes nothing visible; site/index.json is written last, conditional on the ETag read at load, so a
 // concurrent sync fails instead of overwriting. Every successful sync rewrites the index, even with no post changes, to
@@ -188,9 +188,11 @@ export function blobStore(api: BlobApi = blobApi, now = Date.now): Store {
   const staged = new Map<string, string>();
   let etag: string | undefined;
   return {
+    // The ETag comes from head(), not get(): content reads may be compressed and carry a weak ETag (W/"…"), which never
+    // satisfies ifMatch. Reading head first means a change in between makes the commit fail rather than overwrite.
     async load() {
-      const found = await readBlob(api.get, INDEX_PATH, false);
-      etag = found?.etag;
+      try { etag = (await api.head(INDEX_PATH)).etag; } catch (error) { if (!(error instanceof BlobNotFoundError)) throw error; etag = undefined; }
+      const found = etag ? await readBlob(api.get, INDEX_PATH, false) : null;
       return found ? parseIndex(found.text) : undefined;
     },
     async readRaw(entry) {
