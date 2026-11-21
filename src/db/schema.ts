@@ -1,4 +1,10 @@
-import { boolean, index, integer, jsonb, pgTable, serial, text, timestamp } from "drizzle-orm/pg-core";
+import { boolean, index, integer, jsonb, pgSchema, pgTable as publicTable, serial, text, timestamp } from "drizzle-orm/pg-core";
+import { previewData } from "../lib/types";
+
+// Previews and local dev keep their rows in a `preview` Postgres schema of the same database, so nothing done there shows
+// up on (or is picked up by) production. Create it once with `SITE_DATA=preview bun run db:push`.
+export const previewSchema = previewData() ? pgSchema("preview") : undefined;
+const pgTable = (previewSchema ? previewSchema.table : publicTable) as typeof publicTable;
 
 // Every table. Contract: docs/editable-site.md, "Auth and database". Tests create these in PGlite; production is Neon (`bun run db:push`).
 const at = (name: string) => timestamp(name, { withTimezone: true });

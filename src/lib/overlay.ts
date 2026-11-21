@@ -1,15 +1,18 @@
 import { createHash } from "node:crypto";
 import { del, put } from "@vercel/blob";
 import { defaults, slots, validateValue, type Overlay } from "../site/schema";
+import { previewData } from "./types";
 import { PointerConflict, blobEnabled, blobReads, readBlob, readPointer, writePointer, type BlobGet, type BlobReads } from "./posts";
 
 // The published slot values (docs/editable-site.md, "Overlay"). Each version is an immutable, content-addressed file
 // (site/overlay/<hash>.json). The head (which version is live, plus the history) is the single commit point: a pointer
 // under site/overlay/heads/ (readPointer in posts.ts), written as number n+1 only if n is still the newest, so two
 // publishes can never silently overwrite each other and a read right after a publish sees it.
-export const HEAD_PREFIX = "site/overlay/heads/";
+// Previews and local dev publish to their own folder, so trying the editor there never changes the live site.
+const ROOT = previewData() ? "site/overlay-preview/" : "site/overlay/";
+export const HEAD_PREFIX = `${ROOT}heads/`;
 export const HISTORY_CAP = 200;
-export const versionPath = (hash: string) => `site/overlay/${hash}.json`;
+export const versionPath = (hash: string) => `${ROOT}${hash}.json`;
 export type HeadEntry = { hash: string; at: string; summary: string; by: string };
 export type Head = { current: string | null; history: HeadEntry[] };
 export class OverlayError extends Error {

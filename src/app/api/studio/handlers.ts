@@ -71,7 +71,8 @@ export function studioHandlers(deps: StudioDeps = {}) {
   // comes from configuration only: any visitor's request can trigger a tick, so the host it arrived on is not to be
   // trusted with that. Without BETTER_AUTH_URL or Vercel's production URL there is none, and both features say so.
   const originOf = (request: Request): string | undefined => {
-    for (const candidate of [env.BETTER_AUTH_URL, env.VERCEL_PROJECT_PRODUCTION_URL && `https://${env.VERCEL_PROJECT_PRODUCTION_URL}`, env.NODE_ENV !== "production" && request.url]) {
+    const own = env.VERCEL_ENV === "preview" && (env.VERCEL_BRANCH_URL || env.VERCEL_URL); // a preview reads its own pages
+    for (const candidate of [own && `https://${own}`, env.BETTER_AUTH_URL, env.VERCEL_PROJECT_PRODUCTION_URL && `https://${env.VERCEL_PROJECT_PRODUCTION_URL}`, env.NODE_ENV !== "production" && request.url]) {
       try { if (candidate) return new URL(candidate).origin; } catch { /* try the next one */ }
     }
     return undefined;

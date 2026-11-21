@@ -48,8 +48,19 @@ Runs move forward on studio page views and on a cron (`/api/studio/tick`, every 
 | `GITHUB_TOKEN` | code lane | Fine-grained token the server uses for branches, pull requests, and merges. |
 | `GITHUB_REPO` | code lane | `owner/name` (default `akrolsmir/austin-site`). |
 | `EDITOR_DEV_OWNER` | local dev | `1` makes you the owner without signing in. Ignored when `NODE_ENV=production`. |
+| `EDITOR_PREVIEW_OWNER` | Preview only | `1` makes everyone who can open a Vercel preview the owner there. Keep Deployment Protection on. Ignored on production and on `studio/*` branches. |
+| `SITE_DATA` | scripts | `preview` or `production`: which data a script touches (default production; previews and `next dev` default to preview). |
 
-Vercel sets `VERCEL_ENV`, `VERCEL_PROJECT_PRODUCTION_URL`, `VERCEL_GIT_COMMIT_SHA`, and `VERCEL_DEPLOYMENT_ID` itself, and the Sandbox SDK authenticates with the deployment's own OIDC token. **Scope every secret above to the Production environment only** and keep Deployment Protection on for previews: preview deployments are built from branches Claude wrote, and they should hold no secrets. As a second guard, the code turns sign-in, the studio, and the database off on any non-production Vercel deployment.
+### Trying it locally and on previews
+
+Previews and `bun run dev` are a sandbox: they keep studio threads in a `preview` Postgres schema and publish overlays under `site/overlay-preview/`, so nothing done there changes austin.site. Posts and photos are still read from the live store.
+
+- **Local:** `vercel env pull .env.local`, then `EDITOR_DEV_OWNER=1 bun run dev`. The editor bar, Publish, History, and `/studio` quick edits all work.
+- **Vercel previews:** with `EDITOR_PREVIEW_OWNER=1` in the Preview environment, opening a preview makes you the owner (GitHub sign-in is production only, because the OAuth app has one callback URL). Vercel's Deployment Protection is what keeps strangers out, so leave it on.
+- **One-time:** `SITE_DATA=preview bun run db:push` creates the preview tables; run it again after a schema change.
+- The code lane is production only (it commits to the repo and merges to main). Previews of the studio's own `studio/*` branches keep the database and owner mode off, since they build code nobody has approved. They still receive the Preview environment's secrets at build time, so treat a code-lane prompt as trusted input.
+
+Vercel sets `VERCEL_ENV`, `VERCEL_PROJECT_PRODUCTION_URL`, `VERCEL_GIT_COMMIT_SHA`, and `VERCEL_DEPLOYMENT_ID` itself, and the Sandbox SDK authenticates with the deployment's own OIDC token. Keep Deployment Protection on for previews. Scope to Production only the secrets previews never need (`GITHUB_TOKEN`, `CRON_SECRET`, `NOTION_*`, `GITHUB_CLIENT_SECRET`, `BETTER_AUTH_SECRET`); the database, Blob, and model keys are shared with Preview so previews work. The trade-off: a preview of a `studio/*` branch is built from code Claude wrote, and that build can read the Preview environment. The code keeps the database and owner mode off on those branches, but that is a guard against accidents, not against hostile code.
 
 ### First-time setup
 

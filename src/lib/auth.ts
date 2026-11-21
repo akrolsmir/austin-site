@@ -1,7 +1,8 @@
 import { betterAuth } from "better-auth";
 import { drizzleAdapter } from "better-auth/adapters/drizzle";
 import { and, eq } from "drizzle-orm";
-import { dbEnabled, getDb, schema, type Db } from "@/db";
+import { dbEnabled, getDb, previewDeployment, schema, type Db } from "@/db";
+import { unreviewedPreview } from "./types";
 
 // Contract: docs/editable-site.md, "Auth and database". Better Auth with GitHub as the only way in; the owner is the one session
 // whose linked GitHub account id equals OWNER_GITHUB_ID. getOwner and requireOwner are the only auth API the rest of the code
@@ -16,11 +17,16 @@ export type Lookups = { user(headers: Headers): Promise<SessionUser | null>; git
 const MONTH = 60 * 60 * 24 * 30;
 /** The hint cookie outlives the session's 30 days (an active session keeps renewing; a 401 from the editor's boot clears the hint). */
 export const HINT_MAX_AGE = MONTH * 13;
-/** Sign-in needs the database, the signing secret, and the GitHub OAuth app; it is always off on a Vercel preview deployment (see dbEnabled). */
-export const authEnabled = (env: Env = process.env) => Boolean(dbEnabled(env) && env.BETTER_AUTH_SECRET && env.GITHUB_CLIENT_ID && env.GITHUB_CLIENT_SECRET);
+/** Sign-in needs the database, the signing secret, and the GitHub OAuth app; it is always off on a Vercel preview deployment, whose URL the OAuth app would refuse. */
+export const authEnabled = (env: Env = process.env) => Boolean(dbEnabled(env) && !previewDeployment(env) && env.BETTER_AUTH_SECRET && env.GITHUB_CLIENT_ID && env.GITHUB_CLIENT_SECRET);
 export const ownerGithubId = (env: Env = process.env) => env.OWNER_GITHUB_ID?.trim() || "856034";
-/** A fixed owner for building the UI without OAuth: only outside production, and only when EDITOR_DEV_OWNER=1. */
-export const devOwner = (env: Env = process.env): Owner | null => env.NODE_ENV !== "production" && env.EDITOR_DEV_OWNER === "1" ? { id: "dev-owner", name: "Dev owner" } : null;
+/** A fixed owner without OAuth: locally with EDITOR_DEV_OWNER=1 (never when NODE_ENV=production), and on a Vercel preview with
+ *  EDITOR_PREVIEW_OWNER=1, where everyone who can open the preview is the owner. That is only as private as the project's
+ *  Deployment Protection, and it works on preview data only (previewData). Never on production or on a studio branch's preview. */
+export const devOwner = (env: Env = process.env): Owner | null => {
+  if (env.VERCEL_ENV === "preview" && env.EDITOR_PREVIEW_OWNER === "1" && !unreviewedPreview(env)) return { id: "preview-owner", name: "Preview owner" };
+  return env.NODE_ENV !== "production" && env.EDITOR_DEV_OWNER === "1" ? { id: "dev-owner", name: "Dev owner" } : null;
+};
 
 /** The Better Auth instance over a given database. Email sign-in stays off (the default) and accounts are never linked together. */
 export const createAuth = (db: Db, env: Env = process.env) => betterAuth({

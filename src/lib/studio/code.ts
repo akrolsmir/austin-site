@@ -7,6 +7,7 @@ import { resolveSite } from "../../site/schema";
 import { GitHubError, github, repoOf, type FileChange } from "./github";
 import { SANDBOX_ROOT, TooBig, vercelSandbox, type Box, type SandboxClient } from "./sandbox";
 import { CODE_RUNS_PER_DAY, DAY_MS, addLog, addStep, finishRun, getMessage, getRun, history, markReverted, noteResult, postMessage, touchRun, type RunRow } from "./store";
+import { previewData } from "../types";
 import { MAX_MESSAGE_CHARS, OPENROUTER_URL, modelAccess, threadTitle } from "./types";
 
 // The code lane (docs/editable-site.md, "Code lane"). A code change takes minutes and a Vercel function gets 300 s, so no
@@ -32,6 +33,7 @@ import { MAX_MESSAGE_CHARS, OPENROUTER_URL, modelAccess, threadTitle } from "./t
 // Nothing the sandbox says is trusted: the token only works for its own run while it is running, paths and sizes are
 // checked here, file modes are read from the sandbox's git index rather than the report, and GitHub decides what merges.
 export const CODE_LANE_UNAVAILABLE = "The code lane isn't set up yet.";
+export const CODE_LANE_PRODUCTION_ONLY = "Code changes can only be made from the live site, not from a preview or a local copy.";
 export const CODE_MODEL = "claude-opus-5-5";
 /**
  * The only paths a run may change and still merge by itself once its preview builds (`**` crosses directories, `*` does
@@ -130,6 +132,8 @@ export async function startCodeRun(deps: CodeDeps, run: CodeRun, brief?: string)
   const { db, env, now, sandbox, gh, log, fail } = context(deps);
   let callback: URL | undefined;
   try { callback = new URL("/api/studio/runner", deps.origin); } catch { /* no origin */ }
+  // The code lane commits to the real repository and merges to main, so it runs from production only.
+  if (previewData(env)) return fail(run.id, CODE_LANE_PRODUCTION_ONLY, "A preview or local deployment asked for a code change.");
   const access = modelAccess(env);
   if (!access || !gh || !callback || !/^https?:$/.test(callback.protocol)) return fail(run.id, CODE_LANE_UNAVAILABLE, `Missing: ${[!access && "OPENROUTER_API_KEY or ANTHROPIC_API_KEY", !gh && "GITHUB_TOKEN", !callback && "the site's origin"].filter(Boolean).join(", ")}`);
   let box: Box | undefined;

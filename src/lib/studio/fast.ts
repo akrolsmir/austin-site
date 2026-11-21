@@ -126,7 +126,7 @@ export async function runFast(deps: FastDeps, run: CodeRun): Promise<void> {
       if (!deps.origin) return bad("Pages cannot be read right now.");
       const base = new URL(deps.origin), url = new URL(path, base);
       if (url.origin !== base.origin) return bad("Only pages of this site can be read.");
-      const response = await fetchPage(url, { redirect: "manual", headers: { accept: "text/html" }, signal: AbortSignal.timeout(10000) });
+      const response = await fetchPage(url, { redirect: "manual", headers: { accept: "text/html", ...(env.VERCEL_AUTOMATION_BYPASS_SECRET && env.VERCEL_ENV === "preview" ? { "x-vercel-protection-bypass": env.VERCEL_AUTOMATION_BYPASS_SECRET } : {}) }, signal: AbortSignal.timeout(10000) });
       if (response.status >= 300 && response.status < 400) {
         const target = new URL(response.headers.get("location") ?? "/", url);
         return bad(target.origin === base.origin ? `That page redirects to ${target.pathname}.` : "That page redirects to another site.");

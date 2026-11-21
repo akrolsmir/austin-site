@@ -637,3 +637,12 @@ test("with an OpenRouter key the sandbox gets a bearer token, the OpenRouter end
   const given = sandbox.state.commands[1].env!;
   assert.deepEqual([given.ANTHROPIC_AUTH_TOKEN, given.ANTHROPIC_BASE_URL, given.ANTHROPIC_API_KEY, given.STUDIO_CODE_MODEL], [key, "https://openrouter.ai/api", undefined, "anthropic/claude-opus-5.5"]);
 });
+
+test("the code lane refuses to start from a preview or a local copy", async () => {
+  const { CODE_LANE_PRODUCTION_ONLY } = await import("../src/lib/studio/code");
+  for (const extra of [{ VERCEL_ENV: "preview" }, { NODE_ENV: "development" }]) {
+    const { deps, sandbox, begin } = await world({ ...ENV, ...extra });
+    assert.deepEqual(await startCodeRun(deps, await begin("x", { start: false })), { ok: false, error: CODE_LANE_PRODUCTION_ONLY });
+    assert.equal(sandbox.state.created.length, 0);
+  }
+});

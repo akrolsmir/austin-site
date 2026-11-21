@@ -13,9 +13,9 @@ const none = new Headers();
 test("authEnabled needs all four of DATABASE_URL, BETTER_AUTH_SECRET, GITHUB_CLIENT_ID, GITHUB_CLIENT_SECRET", () => {
   assert.equal(authEnabled(FULL), true);
   assert.equal(authEnabled({}), false);
-  // A Vercel preview builds code nobody has approved yet: the database, sign-in, and the dev owner are all off there.
+  // Sign-in is production only (the OAuth callback). The database is on for previews except those of the studio's own branches, which build unapproved code.
   assert.deepEqual([authEnabled({ ...FULL, VERCEL_ENV: "production" }), authEnabled({ ...FULL, VERCEL_ENV: "preview" }), authEnabled({ ...FULL, VERCEL_ENV: "development" })], [true, false, false]);
-  assert.deepEqual([dbEnabled({ DATABASE_URL: "x" }), dbEnabled({ DATABASE_URL: "x", VERCEL_ENV: "preview" }), dbEnabled({})], [true, false, false]);
+  assert.deepEqual([dbEnabled({ DATABASE_URL: "x" }), dbEnabled({ DATABASE_URL: "x", VERCEL_ENV: "preview" }), dbEnabled({ DATABASE_URL: "x", VERCEL_ENV: "preview", VERCEL_GIT_COMMIT_REF: "studio/abc" }), dbEnabled({})], [true, true, false, false]);
   for (const key of Object.keys(FULL)) {
     assert.equal(authEnabled({ ...FULL, [key]: undefined }), false, `without ${key}`);
     assert.equal(authEnabled({ ...FULL, [key]: "" }), false, `empty ${key}`);
@@ -134,4 +134,16 @@ test("integration: GitHub sign-in through Better Auth makes an owner only of the
     assert.equal(out.status, 200);
     assert.deepEqual(await viewerFrom(lookups, owner, env), { owner: null, user: null });
   } finally { globalThis.fetch = realFetch; }
+});
+
+test("the preview owner exists only on a Vercel preview with EDITOR_PREVIEW_OWNER=1, never on production or a studio branch", async () => {
+  const preview = { NODE_ENV: "production", VERCEL_ENV: "preview", EDITOR_PREVIEW_OWNER: "1" };
+  assert.deepEqual(await getOwner(none, preview), { id: "preview-owner", name: "Preview owner" });
+  for (const env of [{ ...preview, VERCEL_ENV: "production" }, { ...preview, VERCEL_ENV: undefined }, { ...preview, EDITOR_PREVIEW_OWNER: "true" }, { ...preview, VERCEL_GIT_COMMIT_REF: "studio/abc" }, { ...preview, VERCEL_ENV: "production", EDITOR_DEV_OWNER: "1" }]) assert.equal(await getOwner(none, env), null);
+});
+
+test("preview data: Vercel previews and next dev, never production or plain scripts", async () => {
+  const { previewData } = await import("../src/lib/types");
+  assert.deepEqual([{}, { NODE_ENV: "test" }, { NODE_ENV: "production" }, { VERCEL_ENV: "production", NODE_ENV: "production" }, { SITE_DATA: "production", NODE_ENV: "development" }].map(previewData), [false, false, false, false, false]);
+  assert.deepEqual([{ NODE_ENV: "development" }, { VERCEL_ENV: "preview", NODE_ENV: "production" }, { VERCEL_ENV: "development" }, { SITE_DATA: "preview" }].map(previewData), [true, true, true, true]);
 });
