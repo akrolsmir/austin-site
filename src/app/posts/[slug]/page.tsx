@@ -14,5 +14,5 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
 export default async function Article({ params }: { params: Promise<{ slug: string }> }) {
   const post = await getPost((await params).slug);
   if (!post) notFound();
-  return <main id="content" className="article-wrap"><Link href="/posts">posts</Link><article><header className="article-header"><h1>{post.title}</h1><div className="article-meta"><time dateTime={post.date}>{formatDate(post.date)}</time><a href={post.url}>Notion</a></div></header><Prose body={post.body} /></article></main>;
+  return <main id="content" className="article-wrap"><Link href="/posts">posts</Link><article data-notion-url={post.url}><header className="article-header"><h1>{post.title}</h1><div className="article-meta"><time dateTime={post.date}>{formatDate(post.date)}</time><a href={post.url}>Notion</a></div></header><Prose body={post.body} /></article></main>;
 }

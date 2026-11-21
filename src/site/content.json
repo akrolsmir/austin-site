@@ -1,0 +1,30 @@
+{
+  "site.title": "Austin",
+  "site.description": "Austin's Notes",
+  "site.wordmark": "Austin",
+  "site.footer": "Austin",
+  "nav.writing": "writing",
+  "nav.projects": "projects",
+  "nav.work": "work",
+  "nav.links": "links",
+  "nav.photos": "photos",
+  "home.intro": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla cursus, sapien nec posuere bibendum, lacus augue interdum nunc, vitae luctus purus velit vitae ligula.",
+  "home.order": ["writing", "photos", "projects", "work", "links"],
+  "home.writing.heading": "Austin's Notes",
+  "home.writing.more": "all posts",
+  "home.photos.heading": "photos",
+  "home.photos.more": "all photos",
+  "home.projects.heading": "projects",
+  "home.projects.items": [
+    { "id": "pianosu", "name": "pianosu", "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.", "url": "" },
+    { "id": "scanlate-io", "name": "scanlate.io", "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.", "url": "" },
+    { "id": "one-word", "name": "One Word", "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.", "url": "" },
+    { "id": "glowflow", "name": "Glowflow", "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.", "url": "" }
+  ],
+  "home.work.heading": "work",
+  "home.work.body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "home.links.heading": "links",
+  "home.links.items": [{ "id": "notes", "label": "Austin's Notes", "url": "https://akrolsmir.notion.site/" }],
+  "posts.heading": "posts",
+  "photos.heading": "photos"
+}

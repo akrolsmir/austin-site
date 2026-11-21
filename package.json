@@ -11,10 +11,18 @@
     "typecheck": "tsc --noEmit",
     "test": "bun test",
     "sync": "bun scripts/sync.ts",
-    "photo": "bun scripts/photo.ts"
+    "photo": "bun scripts/photo.ts",
+    "db:push": "drizzle-kit push",
+    "db:generate": "drizzle-kit generate"
   },
   "dependencies": {
+    "@anthropic-ai/claude-agent-sdk": "^0.3.330",
+    "@anthropic-ai/sdk": "^1.12.0",
+    "@neondatabase/serverless": "^1.2.1",
     "@vercel/blob": "^2.8.0",
+    "@vercel/sandbox": "^4.1.0",
+    "better-auth": "^1.7.27",
+    "drizzle-orm": "^0.45.4",
     "html-react-parser": "^6.1.7",
     "image-size": "^2.0.2",
     "marked": "^18.0.11",
@@ -24,10 +32,12 @@
     "server-only": "^0.0.1"
   },
   "devDependencies": {
+    "@electric-sql/pglite": "^0.5.17",
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "drizzle-kit": "^0.31.11",
     "eslint": "^9",
     "eslint-config-next": "16.3.4",
     "tailwindcss": "^4",
