@@ -88,6 +88,8 @@ export function postSource(env: Record<string, string | undefined> = process.env
     },
   };
 }
+// "Nov 20, 2026"; dates are calendar days, so format in UTC to avoid shifting a day.
+export function formatDate(date: string) { return new Intl.DateTimeFormat("en-US", { month: "short", day: "numeric", year: "numeric", timeZone: "UTC" }).format(new Date(date)); }
 let source: ReturnType<typeof postSource> | undefined;
 export const getPosts = cache(() => (source ??= postSource()).posts());
 export const getPost = cache((slug: string) => (source ??= postSource()).post(slug));
