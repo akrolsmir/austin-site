@@ -10,7 +10,7 @@ export type PostFile = PostMeta & { body: string };
 // The Blob index lists every live post with content-addressed keys for its raw cache (site/raw/<raw>.json) and markdown
 // (site/posts/<markdown>.md). Those files are immutable, so writing the index is the single commit point of a sync.
 export type IndexEntry = PostMeta & { edited: string; raw: string; markdown: string };
-export type PostIndex = { build?: string; posts: IndexEntry[] };
+export type PostIndex = { build?: string; syncedAt?: string; posts: IndexEntry[] };
 type BlobRead = { statusCode: number; stream: ReadableStream<Uint8Array> | null; blob: { etag: string } } | null;
 export type BlobGet = (pathname: string, options: { access: "public"; useCache?: boolean }) => Promise<BlobRead>;
 const FIELDS = ["title", "date", "notion", "url", "excerpt"] as const;

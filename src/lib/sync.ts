@@ -15,7 +15,7 @@ import type { Block, Post } from "./types";
 export const RAW_DIR = join(process.cwd(), "data", "posts-raw");
 export type Raw = { page: Post; blocks: Block[] };
 export type Source = { posts(): Promise<Post[]>; blocks(id: string): Promise<Block[]> };
-// Stores stage writes by content key and persist them only in commit, which returns whether anything was written.
+// Stores stage writes by content key and persist them only in commit, which returns whether any post changed.
 export type Store = {
   load(): Promise<PostIndex | undefined>;
   readRaw(entry: IndexEntry): Promise<Raw>;
@@ -121,7 +121,7 @@ export async function syncPosts({ store, source, build, deadline = Infinity, mir
     store.writeMarkdown(entry.markdown, slug, markdown);
     posts.push(entry);
   }
-  const next: PostIndex = { ...(build ? { build } : {}), posts };
+  const next: PostIndex = { ...(build ? { build } : {}), syncedAt: new Date().toISOString(), posts };
   const prior = new Map(previous?.posts.map((entry) => [entry.slug, entry.markdown]));
   const changed = posts.filter((entry) => prior.get(entry.slug) !== entry.markdown).map((entry) => entry.slug);
   const removed = [...prior.keys()].filter((slug) => !slugs.has(slug));
@@ -179,7 +179,8 @@ export type BlobApi = { get: BlobGet; put: typeof put; list: typeof list; del: t
 const blobApi: BlobApi = { get, put, list, del };
 // The live store. Raw and markdown files are content-addressed (site/raw/<id>-<hash>.json, site/posts/<slug>-<hash>.md),
 // so uploading them changes nothing visible; site/index.json is written last, conditional on the ETag read at load, so a
-// concurrent sync fails instead of overwriting. Files no index references are deleted a day later, best effort.
+// concurrent sync fails instead of overwriting. Every successful sync rewrites the index, even with no post changes, to
+// record syncedAt for the /api/sync cooldown. Files no index references are deleted a day later, best effort.
 export function blobStore(api: BlobApi = blobApi, now = Date.now): Store {
   const staged = new Map<string, string>();
   let etag: string | undefined;
@@ -199,12 +200,14 @@ export function blobStore(api: BlobApi = blobApi, now = Date.now): Store {
     async commit(next, previous) {
       const known = new Set(previous?.posts.flatMap((post) => [`site/raw/${post.raw}.json`, `site/posts/${post.markdown}.md`]));
       const uploads = [...staged].filter(([pathname]) => !known.has(pathname));
-      if (!uploads.length && JSON.stringify(next) === JSON.stringify(previous)) return false;
+      const content = (index?: PostIndex) => JSON.stringify({ ...index, syncedAt: undefined });
+      const changed = uploads.length > 0 || content(next) !== content(previous);
       for (let i = 0; i < uploads.length; i += 8) {
         await Promise.all(uploads.slice(i, i + 8).map(([pathname, text]) => api.put(pathname, text, { access: "public", addRandomSuffix: false, allowOverwrite: true, contentType: pathname.endsWith(".md") ? "text/markdown; charset=utf-8" : "application/json" })));
       }
       await api.put(INDEX_PATH, JSON.stringify(next), { access: "public", addRandomSuffix: false, allowOverwrite: Boolean(etag), ifMatch: etag, contentType: "application/json", cacheControlMaxAge: 60 });
       log(`  uploaded ${uploads.length} file(s) and ${INDEX_PATH}`);
+      if (!changed) return false;
       try {
         const live = new Set([INDEX_PATH, ...next.posts.flatMap((post) => [`site/raw/${post.raw}.json`, `site/posts/${post.markdown}.md`])]);
         const stale: string[] = [];
@@ -221,25 +224,33 @@ export function blobStore(api: BlobApi = blobApi, now = Date.now): Store {
   };
 }
 
-// /api/sync: Vercel Cron sends `Authorization: Bearer $CRON_SECRET`; a Notion "Send webhook" button can send the
-// SYNC_SECRET as `x-sync-secret` (or `?secret=`). Secrets shorter than 16 characters are ignored, and with none
-// configured the route refuses every request. Comparison hashes both sides so it is constant-time and length-independent.
+// /api/sync is open: anyone (including a plain Notion "Send webhook" button) can trigger a sync, since a sync can only
+// publish what Notion already marks published. To keep a request loop from exhausting the Notion rate limit, a call
+// without `Authorization: Bearer $CRON_SECRET` (which Vercel Cron sends) is skipped while the index's syncedAt is under
+// COOLDOWN old. A CRON_SECRET shorter than 16 characters never matches; comparison hashes both sides (constant-time).
+export const COOLDOWN = 60000;
 const digest = (value: string) => createHash("sha256").update(value).digest();
-export function authorize(request: Request, env: Record<string, string | undefined>): 200 | 401 | 503 {
-  const secrets = [env.CRON_SECRET, env.SYNC_SECRET].filter((secret): secret is string => (secret?.length ?? 0) >= 16);
-  if (!secrets.length) return 503;
-  const presented = [request.headers.get("authorization")?.match(/^Bearer (.+)$/)?.[1], request.headers.get("x-sync-secret"), new URL(request.url).searchParams.get("secret")];
-  let ok = false;
-  for (const value of presented) for (const secret of secrets) if (value && timingSafeEqual(digest(value), digest(secret))) ok = true;
-  return ok ? 200 : 401;
+export function authorized(request: Request, env: Record<string, string | undefined>) {
+  const bearer = request.headers.get("authorization")?.match(/^Bearer (.+)$/)?.[1];
+  return Boolean(bearer && env.CRON_SECRET && env.CRON_SECRET.length >= 16 && timingSafeEqual(digest(bearer), digest(env.CRON_SECRET)));
 }
-export function syncHandler({ env = process.env, run, revalidate }: { env?: Record<string, string | undefined>; run: (deadline: number) => Promise<SyncResult>; revalidate: (path: string) => void }) {
+export async function lastSynced(api: Pick<BlobApi, "get"> = blobApi) {
+  const found = await readBlob(api.get, INDEX_PATH, false);
+  const at = found ? Date.parse(parseIndex(found.text).syncedAt ?? "") : NaN;
+  return Number.isFinite(at) ? at : undefined;
+}
+type HandlerDeps = { env?: Record<string, string | undefined>; run: (deadline: number) => Promise<SyncResult>; lastSync: () => Promise<number | undefined>; revalidate: (path: string) => void; now?: () => number };
+export function syncHandler({ env = process.env, run, lastSync, revalidate, now = Date.now }: HandlerDeps) {
   return async function handle(request: Request) {
-    const status = authorize(request, env);
     const headers = { "Cache-Control": "no-store" };
-    if (status !== 200) return Response.json({ error: status === 401 ? "Unauthorized." : "Sync is not configured." }, { status, headers });
     let result: SyncResult;
-    try { result = await run(Date.now() + 180000); } catch (error) {
+    try {
+      if (!authorized(request, env)) {
+        const last = await lastSync();
+        if (last !== undefined && now() - last < COOLDOWN) return Response.json({ skipped: "cooldown", retryAfter: Math.ceil((COOLDOWN - (now() - last)) / 1000) }, { headers });
+      }
+      result = await run(now() + 180000);
+    } catch (error) {
       // Sync errors are written without response bodies or tokens; the client only learns that it failed.
       console.error(`sync failed: ${error instanceof Error ? error.message : "unknown error"}`);
       return Response.json({ error: "Sync failed; nothing was published." }, { status: 500, headers });

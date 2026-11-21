@@ -4,11 +4,11 @@ import { mkdtempSync, writeFileSync } from "node:fs";
 import { tmpdir } from "node:os";
 import { join } from "node:path";
 import { INDEX_PATH, postSource, serializePost } from "../src/lib/posts";
-import { authorize, blobStore, syncHandler, syncPosts, type BlobApi, type Source, type SyncResult } from "../src/lib/sync";
+import { authorized, blobStore, lastSynced, syncHandler, syncPosts, type BlobApi, type Source, type SyncResult } from "../src/lib/sync";
 import type { Post } from "../src/lib/types";
 
-const CRON = "cron-secret-0123456789", SYNC = "sync-secret-0123456789";
-const request = (headers: Record<string, string> = {}, query = "") => new Request(`https://austin.site/api/sync${query}`, { headers });
+const CRON = "cron-secret-0123456789";
+const request = (headers: Record<string, string> = {}) => new Request("https://austin.site/api/sync", { method: "POST", headers });
 
 // In-memory stand-in for @vercel/blob that enforces allowOverwrite and ifMatch like the real service.
 function fakeBlob() {
@@ -39,34 +39,54 @@ function source(pages: Post[], fail?: string): Source & { fetched: string[] } {
 const stubs = { mirror: async () => "https://store.public.blob.vercel-storage.com/x.png", measure: async () => false };
 const run = (blob: ReturnType<typeof fakeBlob>, src: Source, extra: { build?: string; deadline?: number } = {}) => syncPosts({ store: blobStore(blob.api), source: src, build: "b1", ...stubs, ...extra });
 
-test("auth refuses everything until a long-enough secret is configured", () => {
-  assert.equal(authorize(request({ authorization: `Bearer ${CRON}` }), {}), 503);
-  assert.equal(authorize(request({ authorization: "Bearer short" }), { CRON_SECRET: "short" }), 503);
-  const env = { CRON_SECRET: CRON, SYNC_SECRET: SYNC };
-  assert.equal(authorize(request({ authorization: `Bearer ${CRON}` }), env), 200);
-  assert.equal(authorize(request({ "x-sync-secret": SYNC }), env), 200);
-  assert.equal(authorize(request({}, `?secret=${SYNC}`), env), 200);
-  for (const bad of [request(), request({ authorization: `Bearer ${CRON}x` }), request({ authorization: CRON }), request({ "x-sync-secret": SYNC.slice(0, -1) }), request({}, "?secret=")]) assert.equal(authorize(bad, env), 401);
+test("only a long-enough CRON_SECRET bearer counts as authorized", () => {
+  assert.equal(authorized(request({ authorization: `Bearer ${CRON}` }), { CRON_SECRET: CRON }), true);
+  assert.equal(authorized(request({ authorization: "Bearer short" }), { CRON_SECRET: "short" }), false);
+  assert.equal(authorized(request({ authorization: `Bearer ${CRON}` }), {}), false);
+  for (const bad of [request(), request({ authorization: `Bearer ${CRON}x` }), request({ authorization: CRON }), request({ "x-sync-secret": CRON })]) assert.equal(authorized(bad, { CRON_SECRET: CRON }), false);
 });
 
-test("handler runs only when authorized, hides failure details, and revalidates changed and removed slugs", async () => {
-  const env = { CRON_SECRET: CRON };
+test("handler: open calls respect the cooldown, cron always runs, failures hide details", async () => {
   const revalidated: string[] = [];
-  let calls = 0;
-  const ok = syncHandler({ env, run: async () => { calls++; return { posts: 2, changed: ["new-post"], removed: ["old-post"], pending: 0, committed: true } satisfies SyncResult; }, revalidate: (path) => revalidated.push(path) });
-  assert.equal((await ok(request({ authorization: "Bearer wrong" }))).status, 401);
+  let calls = 0, last: number | undefined = 1_000_000;
+  const result: SyncResult = { posts: 2, changed: ["new-post"], removed: ["old-post"], pending: 0, committed: true };
+  const deps = { run: async () => { calls++; return result; }, lastSync: async () => last, revalidate: (path: string) => { revalidated.push(path); } };
+  const handle = syncHandler({ ...deps, env: { CRON_SECRET: CRON }, now: () => 1_000_000 + 30_000 });
+  const skipped = await handle(request());
+  assert.deepEqual([skipped.status, await skipped.json(), calls], [200, { skipped: "cooldown", retryAfter: 30 }, 0]);
+  assert.equal((await handle(request({ authorization: "Bearer wrong" }))).status, 200);
   assert.equal(calls, 0);
-  const response = await ok(request({ authorization: `Bearer ${CRON}` }));
-  assert.equal(response.status, 200);
+  assert.equal((await handle(request({ authorization: `Bearer ${CRON}` }))).status, 200);
+  assert.equal(calls, 1);
   assert.deepEqual(revalidated, ["/", "/posts", "/posts/new-post", "/posts/old-post"]);
-  const failing = syncHandler({ env, run: async () => { throw new Error(`Notion request failed (401) ${CRON}`); }, revalidate: (path) => revalidated.push(path) });
+  // No CRON_SECRET configured: open calls still run once the cooldown has passed (or before any sync).
+  const open = syncHandler({ ...deps, env: {}, now: () => 1_000_000 + 61_000 });
+  assert.equal((await open(request())).status, 200);
+  last = undefined;
+  assert.equal((await open(request())).status, 200);
+  assert.equal(calls, 3);
+
   const error = console.error;
   console.error = () => {};
+  const failing = syncHandler({ ...deps, env: { CRON_SECRET: CRON }, run: async () => { throw new Error(`Notion request failed (401) ${CRON}`); } });
   const failed = await failing(request({ authorization: `Bearer ${CRON}` }));
+  const unreadable = await syncHandler({ ...deps, env: {}, lastSync: async () => { throw new Error("blob down"); } })(request());
   console.error = error;
   assert.equal(failed.status, 500);
   assert.doesNotMatch(await failed.text(), new RegExp(`${CRON}|Notion|401`));
-  assert.equal(revalidated.length, 4);
+  assert.deepEqual([unreadable.status, calls], [500, 3]);
+  assert.equal(revalidated.length, 12);
+});
+
+test("each successful blob sync records syncedAt for the cooldown", async () => {
+  const blob = fakeBlob();
+  assert.equal(await lastSynced(blob.api), undefined);
+  await run(blob, source([page("a", "Alpha")]));
+  const first = await lastSynced(blob.api);
+  assert.ok(first && Date.now() - first < 5000);
+  await new Promise((resolve) => setTimeout(resolve, 5));
+  assert.equal((await run(blob, source([page("a", "Alpha")]))).committed, false);
+  assert.ok((await lastSynced(blob.api))! > first);
 });
 
 test("blob sync is incremental and commits only through the index", async () => {
@@ -81,7 +101,8 @@ test("blob sync is incremental and commits only through the index", async () => 
   blob.puts.length = 0;
   const unchanged = source([page("a", "Alpha"), page("b", "Beta")]);
   assert.deepEqual(await run(blob, unchanged), { posts: 2, changed: [], removed: [], pending: 0, committed: false });
-  assert.deepEqual([unchanged.fetched, blob.puts], [[], []]);
+  assert.deepEqual([unchanged.fetched, blob.puts], [[], [INDEX_PATH]]); // only syncedAt is rewritten
+  blob.puts.length = 0;
 
   const edited = source([{ ...page("a", "Alpha", "2026-02-01T00:00:00.000Z"), excerpt: "now with an excerpt" }]);
   const next = await run(blob, edited);
