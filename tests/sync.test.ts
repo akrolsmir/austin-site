@@ -180,3 +180,10 @@ test("the local snapshot store writes only changed files and prunes unpublished 
   const again = await syncPosts({ store: fsStore(raw, posts), source: source([page("a", "Alpha")]), ...stubs });
   assert.deepEqual([again.changed, again.removed, readdirSync(posts)], [[], ["beta"], ["alpha.md"]]);
 });
+
+test("the route refuses a cold sync so it never publishes part of the archive", async () => {
+  const blob = fakeBlob();
+  const cold = source([page("a", "Alpha")]);
+  await assert.rejects(syncPosts({ store: blobStore(blob.api), source: cold, build: "b1", requireIndex: true, ...stubs }), /not seeded/);
+  assert.deepEqual([cold.fetched, blob.puts], [[], []]);
+});
