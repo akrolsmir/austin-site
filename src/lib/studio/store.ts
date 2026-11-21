@@ -11,7 +11,7 @@ export type Viewer = "owner" | "public";
 export type ThreadRow = typeof threads.$inferSelect;
 export type MessageRow = typeof messages.$inferSelect;
 export type RunRow = typeof runs.$inferSelect;
-export const STALE_MS = 15 * 60 * 1000, DAY_MS = 24 * 60 * 60 * 1000, CODE_RUNS_PER_DAY = 30, MAX_QUEUED = 10, LOG_LINES = 100;
+export const STALE_MS = 15 * 60 * 1000, FAST_STALE_MS = 6 * 60 * 1000, DAY_MS = 24 * 60 * 60 * 1000, CODE_RUNS_PER_DAY = 30, MAX_QUEUED = 10, LOG_LINES = 100;
 export const STALE_ERROR = "This run stopped responding and was ended.";
 /** A cap was hit; `message` is safe to show. */
 export class StudioLimit extends Error { constructor(message: string) { super(message); this.name = "StudioLimit"; } }
@@ -177,14 +177,24 @@ export async function markReverted(db: Db, runId: string, { result, now = new Da
   const [row] = await db.update(runs).set({ status: "reverted", heartbeatAt: now, ...(result ? { result: merged(result) } : {}) }).where(and(eq(runs.id, runId), inArray(runs.status, ["done", "failed", "stopped"]))).returning();
   return row ?? null;
 }
-/** Fails every running run whose heartbeat is older than 15 minutes (its function or sandbox died). Returns their ids. */
+/** A code-lane run whose runner has finished and whose pull request is waiting on its preview: it has no heartbeat of its own and ends through the code lane's sweep. */
+export const awaitingPreview = sql`(${runs.lane} = 'code' and ${runs.tokenHash} is null and (${runs.result} ->> 'prNumber') is not null)`;
+/**
+ * Fails every running run that has gone silent (its function or sandbox died): a fast-lane run after 6 minutes (it lives
+ * inside one 300 s function), a code-lane run after 15. A run waiting on its preview is left alone. Returns their ids.
+ */
 export async function reapStaleRuns(db: Db, now = new Date()): Promise<string[]> {
+  const silentFor = (ms: number) => lt(runs.heartbeatAt, new Date(now.getTime() - ms));
   const reaped = await db.update(runs).set({ status: "failed", endedAt: now, heartbeatAt: now, result: merged({ error: STALE_ERROR }) })
-    .where(and(eq(runs.status, "running"), or(lt(runs.heartbeatAt, new Date(now.getTime() - STALE_MS)), sql`${runs.heartbeatAt} is null`))).returning({ id: runs.id });
+    .where(and(eq(runs.status, "running"), sql`not ${awaitingPreview}`, or(silentFor(STALE_MS), and(eq(runs.lane, "fast"), silentFor(FAST_STALE_MS)), sql`${runs.heartbeatAt} is null`))).returning({ id: runs.id });
   const ids = reaped.map((row) => row.id);
   if (ids.length) await endSteps(db, ids, "failed");
   return ids;
 }
+/** The queued and running runs (id, status, lane): what a scheduler tick needs to decide whether there is anything to do. */
+export const activeRuns = (db: Db) => db.select({ id: runs.id, status: runs.status, lane: runs.lane }).from(runs).where(inArray(runs.status, ["queued", "running"]));
+/** The thread's code-lane runs whose pull request is open and waiting for the owner's Publish, oldest first. */
+export const waitingRuns = (db: Db, threadId: string) => db.select({ id: runs.id, summary: runs.summary, result: runs.result }).from(runs).where(and(eq(runs.threadId, threadId), eq(runs.status, "needs_publish"))).orderBy(asc(runs.createdAt));
 /** True when runs are waiting and nothing is running: someone should claim the next one. */
 export async function queueIdle(db: Db): Promise<boolean> {
   const active = await db.select({ status: runs.status }).from(runs).where(inArray(runs.status, ["queued", "running"]));

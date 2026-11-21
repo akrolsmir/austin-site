@@ -9,7 +9,7 @@ import { BlobNotFoundError, del, get, head, list, put } from "@vercel/blob";
 import { imageSize } from "image-size";
 import { createNotionClient } from "./notion-client";
 import { MEDIA, blocksToMarkdown } from "./notion-markdown";
-import { INDEX_PATH, POSTS_DIR, parseIndex, parsePost, readBlob, serializePost, slugify, type BlobGet, type IndexEntry, type PostIndex } from "./posts";
+import { INDEX_PREFIX, POSTS_DIR, parsePost, readBlob, readIndex, serializePost, slugify, writePointer, type BlobGet, type BlobList, type IndexEntry, type PostIndex } from "./posts";
 import type { Block, Post } from "./types";
 
 export const RAW_DIR = join(process.cwd(), "data", "posts-raw");
@@ -175,20 +175,23 @@ export function fsStore(rawDir = RAW_DIR, postsDir = POSTS_DIR): Store {
   };
 }
 
-export type BlobApi = { get: BlobGet; put: typeof put; list: typeof list; del: typeof del };
-const blobApi: BlobApi = { get, put, list, del };
+export type BlobApi = { get: BlobGet; put: typeof put; list: BlobList; del: typeof del };
+const blobApi: BlobApi = { get, put, list: (options) => list(options), del };
+const CONTENT = ["site/raw/", "site/posts/"];
 // The live store. Raw and markdown files are content-addressed (site/raw/<id>-<hash>.json, site/posts/<slug>-<hash>.md),
-// so uploading them changes nothing visible; site/index.json is written last, conditional on the ETag read at load, so a
-// concurrent sync fails instead of overwriting. Every successful sync rewrites the index, even with no post changes, to
-// record syncedAt for the /api/sync cooldown. Files no index references are deleted a day later, best effort.
-export function blobStore(api: BlobApi = blobApi, now = Date.now): Store {
+// so uploading them changes nothing visible; the index is committed last as a new pointer under site/index/ (see
+// readPointer in posts.ts), numbered one past the one read at load, so a concurrent sync fails instead of overwriting.
+// Every successful sync commits an index, even with no post changes, to record syncedAt for the /api/sync cooldown.
+// Raw and markdown files no index references are deleted a day later, and old pointers once 20 newer ones exist, best
+// effort. Nothing else under site/ (the overlay, uploaded images) is this store's to delete.
+export function blobStore(api: BlobApi = blobApi, now = Date.now, secret = process.env.BLOB_READ_WRITE_TOKEN ?? ""): Store {
   const staged = new Map<string, string>();
-  let etag: string | undefined;
+  let seq = 0, older: string[] = [];
   return {
     async load() {
-      const found = await readBlob(api.get, INDEX_PATH, false);
-      etag = found?.etag;
-      return found ? parseIndex(found.text) : undefined;
+      const found = await readIndex(api);
+      seq = found?.seq ?? 0; older = found?.older ?? [];
+      return found?.index;
     },
     async readRaw(entry) {
       const found = await readBlob(api.get, `site/raw/${entry.raw}.json`);
@@ -205,21 +208,21 @@ export function blobStore(api: BlobApi = blobApi, now = Date.now): Store {
       for (let i = 0; i < uploads.length; i += 8) {
         await Promise.all(uploads.slice(i, i + 8).map(([pathname, text]) => api.put(pathname, text, { access: "public", addRandomSuffix: false, allowOverwrite: true, contentType: pathname.endsWith(".md") ? "text/markdown; charset=utf-8" : "application/json" })));
       }
-      await api.put(INDEX_PATH, JSON.stringify(next), { access: "public", addRandomSuffix: false, allowOverwrite: Boolean(etag), ifMatch: etag, contentType: "application/json", cacheControlMaxAge: 60 });
-      log(`  uploaded ${uploads.length} file(s) and ${INDEX_PATH}`);
-      if (!changed) return false;
+      await writePointer(api, INDEX_PREFIX, seq + 1, JSON.stringify(next), secret);
+      log(`  uploaded ${uploads.length} file(s) and index ${seq + 1}`);
       try {
-        const live = new Set([INDEX_PATH, ...next.posts.flatMap((post) => [`site/raw/${post.raw}.json`, `site/posts/${post.markdown}.md`])]);
-        const stale: string[] = [];
-        let cursor: string | undefined;
-        do {
-          const page = await api.list({ prefix: "site/", cursor });
-          for (const blob of page.blobs) if (!live.has(blob.pathname) && now() - new Date(blob.uploadedAt).getTime() > 86400000) stale.push(blob.url);
-          cursor = page.hasMore ? page.cursor : undefined;
-        } while (cursor);
+        const live = new Set(next.posts.flatMap((post) => [`site/raw/${post.raw}.json`, `site/posts/${post.markdown}.md`])), stale = [...older];
+        if (changed) for (const prefix of CONTENT) {
+          let cursor: string | undefined;
+          do {
+            const page = await api.list({ prefix, cursor });
+            for (const blob of page.blobs) if (!live.has(blob.pathname) && now() - new Date(blob.uploadedAt).getTime() > 86400000) stale.push(blob.url);
+            cursor = page.hasMore ? page.cursor : undefined;
+          } while (cursor);
+        }
         if (stale.length) { await api.del(stale); log(`  deleted ${stale.length} unreferenced file(s)`); }
       } catch (error) { console.warn(`  cleanup skipped: ${error instanceof Error ? error.message : error}`); }
-      return true;
+      return changed;
     },
   };
 }
@@ -227,29 +230,36 @@ export function blobStore(api: BlobApi = blobApi, now = Date.now): Store {
 // /api/sync is open: anyone (including a plain Notion "Send webhook" button) can trigger a sync, since a sync can only
 // publish what Notion already marks published. To keep a request loop from exhausting the Notion rate limit, a call
 // without `Authorization: Bearer $CRON_SECRET` (which Vercel Cron sends) is skipped while the index's syncedAt is under
-// COOLDOWN old. A CRON_SECRET shorter than 16 characters never matches; comparison hashes both sides (constant-time).
+// COOLDOWN old, and also while this instance is already syncing or tried (even unsuccessfully) less than COOLDOWN ago,
+// so neither parallel calls nor a failing sync can be used to hammer Notion. That second guard is per instance: calls
+// that land on different instances at the same moment can still each start a sync, and the pointer lets one of them commit.
+// A CRON_SECRET shorter than 16 characters never matches; comparison hashes both sides (constant-time).
 export const COOLDOWN = 60000;
 const digest = (value: string) => createHash("sha256").update(value).digest();
 export function authorized(request: Request, env: Record<string, string | undefined>) {
   const bearer = request.headers.get("authorization")?.match(/^Bearer (.+)$/)?.[1];
   return Boolean(bearer && env.CRON_SECRET && env.CRON_SECRET.length >= 16 && timingSafeEqual(digest(bearer), digest(env.CRON_SECRET)));
 }
-export async function lastSynced(api: Pick<BlobApi, "get"> = blobApi) {
-  const found = await readBlob(api.get, INDEX_PATH, false);
-  const at = found ? Date.parse(parseIndex(found.text).syncedAt ?? "") : NaN;
+export async function lastSynced(api: Pick<BlobApi, "get" | "list"> = blobApi) {
+  const at = Date.parse((await readIndex(api))?.index.syncedAt ?? "");
   return Number.isFinite(at) ? at : undefined;
 }
 type HandlerDeps = { env?: Record<string, string | undefined>; run: (deadline: number) => Promise<SyncResult>; lastSync: () => Promise<number | undefined>; revalidate: (path: string) => void; now?: () => number };
 export function syncHandler({ env = process.env, run, lastSync, revalidate, now = Date.now }: HandlerDeps) {
+  let running = 0, attempted = -Infinity;
   return async function handle(request: Request) {
     const headers = { "Cache-Control": "no-store" };
+    const skipped = (since: number) => Response.json({ skipped: "cooldown", retryAfter: Math.max(1, Math.ceil((COOLDOWN - (now() - since)) / 1000)) }, { headers });
     let result: SyncResult;
     try {
       if (!authorized(request, env)) {
+        if (running > 0) return skipped(now());
+        if (now() - attempted < COOLDOWN) return skipped(attempted);
         const last = await lastSync();
-        if (last !== undefined && now() - last < COOLDOWN) return Response.json({ skipped: "cooldown", retryAfter: Math.ceil((COOLDOWN - (now() - last)) / 1000) }, { headers });
+        if (last !== undefined && now() - last < COOLDOWN) return skipped(last);
       }
-      result = await run(now() + 180000);
+      running++; attempted = now();
+      try { result = await run(now() + 180000); } finally { running--; }
     } catch (error) {
       // Sync errors are written without response bodies or tokens; the client only learns that it failed.
       console.error(`sync failed: ${error instanceof Error ? error.message : "unknown error"}`);

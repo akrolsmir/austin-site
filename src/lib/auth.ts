@@ -1,7 +1,7 @@
 import { betterAuth } from "better-auth";
 import { drizzleAdapter } from "better-auth/adapters/drizzle";
 import { and, eq } from "drizzle-orm";
-import { getDb, schema, type Db } from "@/db";
+import { dbEnabled, getDb, schema, type Db } from "@/db";
 
 // Contract: docs/editable-site.md, "Auth and database". Better Auth with GitHub as the only way in; the owner is the one session
 // whose linked GitHub account id equals OWNER_GITHUB_ID. getOwner and requireOwner are the only auth API the rest of the code
@@ -14,7 +14,10 @@ type SessionUser = { id: string; name: string; image?: string | null };
 export type Lookups = { user(headers: Headers): Promise<SessionUser | null>; githubIds(userId: string): Promise<string[]> };
 
 const MONTH = 60 * 60 * 24 * 30;
-export const authEnabled = (env: Env = process.env) => Boolean(env.DATABASE_URL && env.BETTER_AUTH_SECRET && env.GITHUB_CLIENT_ID && env.GITHUB_CLIENT_SECRET);
+/** The hint cookie outlives the session's 30 days (an active session keeps renewing; a 401 from the editor's boot clears the hint). */
+export const HINT_MAX_AGE = MONTH * 13;
+/** Sign-in needs the database, the signing secret, and the GitHub OAuth app; it is always off on a Vercel preview deployment (see dbEnabled). */
+export const authEnabled = (env: Env = process.env) => Boolean(dbEnabled(env) && env.BETTER_AUTH_SECRET && env.GITHUB_CLIENT_ID && env.GITHUB_CLIENT_SECRET);
 export const ownerGithubId = (env: Env = process.env) => env.OWNER_GITHUB_ID?.trim() || "856034";
 /** A fixed owner for building the UI without OAuth: only outside production, and only when EDITOR_DEV_OWNER=1. */
 export const devOwner = (env: Env = process.env): Owner | null => env.NODE_ENV !== "production" && env.EDITOR_DEV_OWNER === "1" ? { id: "dev-owner", name: "Dev owner" } : null;
@@ -57,7 +60,7 @@ export async function requireOwner(request: Request, env: Env = process.env): Pr
 }
 /** The GET /api/me response: the owner (or null), never cached, setting or clearing the `editor=1` hint cookie. The hint grants nothing. */
 export function meResponse(owner: Owner | null, secure = false): Response {
-  const cookie = `editor=${owner ? "1" : ""}; Path=/; Max-Age=${owner ? MONTH : 0}; SameSite=Lax${secure ? "; Secure" : ""}`;
+  const cookie = `editor=${owner ? "1" : ""}; Path=/; Max-Age=${owner ? HINT_MAX_AGE : 0}; SameSite=Lax${secure ? "; Secure" : ""}`;
   return Response.json({ owner }, { headers: { "Cache-Control": "private, no-store", "Set-Cookie": cookie } });
 }
 /** Where to go after sign-in: `next` when it is a path on this site, else "/". */

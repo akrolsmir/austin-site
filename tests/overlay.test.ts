@@ -1,40 +1,15 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
-import { BlobPreconditionFailedError } from "@vercel/blob";
 import { overlayHandlers } from "../src/app/api/overlay/handlers";
-import { HEAD_PATH, HISTORY_CAP, OverlayConflict, OverlayError, OverlayNotFound, OverlayUnavailable, overlayHash, overlayStore, readPublishedOverlay, versionPath, type Head, type OverlayBlob } from "../src/lib/overlay";
+import { HEAD_PREFIX, HISTORY_CAP, OverlayConflict, OverlayDamaged, OverlayError, OverlayNotFound, OverlayUnavailable, overlayHash, overlayReader, overlayStore, versionPath } from "../src/lib/overlay";
+import { POINTERS_KEPT } from "../src/lib/posts";
+import { fakeBlob } from "./fake-blob";
 import { defaults } from "../src/site/schema";
 
 const ENV = { BLOB_READ_WRITE_TOKEN: "token" };
 const OWNER = { ...ENV, NODE_ENV: "test", EDITOR_DEV_OWNER: "1" };
 const META = { summary: "Edit", by: "editor" };
 
-// In-memory stand-in for @vercel/blob that enforces allowOverwrite and ifMatch like the real service.
-function fakeBlob() {
-  const files = new Map<string, { text: string; etag: string }>();
-  const puts: string[] = [];
-  const hooks: { beforePut?: (pathname: string) => Promise<void>; failGet?: boolean; status?: number } = {};
-  let version = 0;
-  const api = {
-    async get(pathname: string) {
-      if (hooks.failGet) throw new Error("network down");
-      const file = files.get(pathname);
-      return file ? { statusCode: hooks.status ?? 200, stream: new Response(file.text).body, blob: { etag: file.etag } } : null;
-    },
-    async put(pathname: string, body: string | Buffer, options: { allowOverwrite?: boolean; ifMatch?: string }) {
-      const hook = hooks.beforePut; hooks.beforePut = undefined;
-      await hook?.(pathname);
-      const existing = files.get(pathname);
-      if (existing && !options.allowOverwrite) throw new Error("This blob already exists");
-      if (options.ifMatch && existing?.etag !== options.ifMatch) throw new BlobPreconditionFailedError();
-      files.set(pathname, { text: typeof body === "string" ? body : `<${body.length} bytes>`, etag: `e${++version}` });
-      puts.push(pathname);
-      return { url: `https://store.public.blob.vercel-storage.com/${pathname}`, pathname };
-    },
-  };
-  const head = (): Head => JSON.parse(files.get(HEAD_PATH)!.text);
-  return { api: api as unknown as OverlayBlob, files, puts, hooks, head };
-}
 const setup = (env: Record<string, string | undefined> = ENV) => { const blob = fakeBlob(); return { blob, store: overlayStore(env, blob.api) }; };
 
 test("publish merges patches, normalizes values, and null removes an entry", async () => {
@@ -59,7 +34,7 @@ test("publish merges patches, normalizes values, and null removes an entry", asy
 test("a publish with any invalid entry is rejected whole and leaves the head untouched", async () => {
   const { blob, store } = setup();
   const { hash } = await store.publish({ "site.wordmark": "Hello" }, META);
-  const before = blob.files.get(HEAD_PATH), puts = blob.puts.length;
+  const before = blob.pointer(HEAD_PREFIX), puts = blob.puts.length;
   const bad = { "site.footer": "fine", "theme.ink": "red", "nope.slot": "x", "theme.font-size": 999, "home.intro": "<b>ok as text</b>", __proto__: "x" };
   await assert.rejects(store.publish(bad, META), (error: OverlayError) => {
     assert.ok(error instanceof OverlayError);
@@ -69,7 +44,7 @@ test("a publish with any invalid entry is rejected whole and leaves the head unt
   });
   await assert.rejects(store.publish([] as never, META), OverlayError);
   await assert.rejects(store.publish(JSON.parse('{"__proto__":{"x":1},"constructor":"y"}'), META), OverlayError);
-  assert.equal(blob.files.get(HEAD_PATH), before);
+  assert.equal(blob.pointer(HEAD_PREFIX), before);
   assert.equal(blob.puts.length, puts);
   assert.equal((await store.read()).head.current, hash);
 });
@@ -77,12 +52,12 @@ test("a publish with any invalid entry is rejected whole and leaves the head unt
 test("a concurrent publish loses with OverlayConflict, including the very first one", async () => {
   const { blob, store } = setup();
   const other = overlayStore(ENV, blob.api);
-  const race = (patch: Record<string, unknown>) => { blob.hooks.beforePut = async (pathname) => { if (pathname === HEAD_PATH) await other.publish(patch, { summary: "Winner", by: "editor" }); else blob.hooks.beforePut = undefined; }; };
+  const race = (patch: Record<string, unknown>) => { blob.hooks.beforePut = async (pathname) => { if (pathname.startsWith(HEAD_PREFIX)) await other.publish(patch, { summary: "Winner", by: "editor" }); else blob.hooks.beforePut = undefined; }; };
   // No head yet: both sides read "no head", the other one commits first.
   blob.hooks.beforePut = async () => { blob.hooks.beforePut = async () => { await other.publish({ "site.footer": "First" }, { summary: "Winner", by: "editor" }); }; };
   await assert.rejects(store.publish({ "site.wordmark": "Loser" }, META), OverlayConflict);
   assert.deepEqual((await store.read()).overlay, { "site.footer": "First" });
-  // With a head: the ETag read at the start no longer matches.
+  // With a head: the pointer number after the one read at the start is taken.
   blob.hooks.beforePut = async () => { race({ "site.footer": "Second" }); };
   await assert.rejects(store.publish({ "site.wordmark": "Loser" }, META), OverlayConflict);
   const { overlay, head } = await store.read();
@@ -102,7 +77,7 @@ test("revert points the head at an existing version and refuses anything else", 
   assert.deepEqual(head.history.map(({ hash, by }) => [hash, by]), [[a.hash, "revert"], [b.hash, "editor"], [a.hash, "editor"]]);
   await assert.rejects(store.revert("0123456789abcdef"), OverlayNotFound); // never published
   await assert.rejects(store.revert("../../index"), OverlayNotFound);
-  blob.files.set(versionPath("0123456789abcdef"), { text: "{}", etag: "x" });
+  blob.files.set(versionPath("0123456789abcdef"), { text: "{}", etag: "x", uploadedAt: new Date() });
   await assert.rejects(store.revert("0123456789abcdef"), OverlayNotFound); // a file that is not in the history
   blob.files.delete(versionPath(b.hash));
   await assert.rejects(store.revert(b.hash), OverlayNotFound); // in the history, but the file is gone
@@ -156,23 +131,55 @@ test("without Blob the store reads empty and refuses writes", async () => {
   }
 });
 
-test("readPublishedOverlay: no token and missing head are empty; read errors throw", async () => {
+test("the head is never read back from an overwritten file, and old heads are cleaned up", async () => {
+  const { blob, store } = setup(), read = overlayReader(ENV, blob.api);
+  // The fake serves an overwritten path stale, like the CDN: a publish followed at once by reads must still see itself.
+  for (let i = 0; i < POINTERS_KEPT + 4; i++) {
+    const { hash } = await store.publish({ "site.wordmark": `v${i}` }, META);
+    assert.equal((await store.read()).head.current, hash);
+    assert.deepEqual(await read(), { "site.wordmark": `v${i}` });
+  }
+  assert.equal(new Set(blob.puts).size, blob.puts.length); // no path was ever written twice
+  assert.ok(blob.pointers(HEAD_PREFIX).length <= POINTERS_KEPT + 1);
+  assert.match(blob.pointers(HEAD_PREFIX)[0], /^site\/overlay\/heads\/\d{12}-[0-9a-f]{16}\.json$/);
+});
+
+test("overlayReader: no token and missing head are empty; a read error throws only when there is no last good overlay", async () => {
   const { blob, store } = setup();
   blob.hooks.failGet = true;
-  assert.deepEqual(await readPublishedOverlay({}, blob.api.get), {}); // no token: Blob is never touched
-  await assert.rejects(readPublishedOverlay(ENV, blob.api.get), /network down/);
+  assert.deepEqual(await overlayReader({}, blob.api)(), {}); // no token: Blob is never touched
+  await assert.rejects(overlayReader(ENV, blob.api)(), /network down/);
   blob.hooks.failGet = false;
-  assert.deepEqual(await readPublishedOverlay(ENV, blob.api.get), {}); // nothing published yet
-  const { hash } = await store.publish({ "site.wordmark": "Live" }, META);
-  assert.deepEqual(await readPublishedOverlay(ENV, blob.api.get), { "site.wordmark": "Live" });
+  const read = overlayReader(ENV, blob.api);
+  assert.deepEqual(await read(), {}); // nothing published yet
+  await store.publish({ "site.wordmark": "Live" }, META);
+  assert.deepEqual(await read(), { "site.wordmark": "Live" });
   blob.hooks.status = 500;
-  await assert.rejects(readPublishedOverlay(ENV, blob.api.get), /Blob read failed/);
+  await assert.rejects(overlayReader(ENV, blob.api)(), /Blob read failed/);
+  assert.deepEqual(await read(), { "site.wordmark": "Live" }); // this process has a last good overlay: keep rendering it
   blob.hooks.status = undefined;
-  blob.files.set(HEAD_PATH, { text: "{\"current\":\"../x\",\"history\":[]}", etag: "bad" });
-  await assert.rejects(readPublishedOverlay(ENV, blob.api.get), /malformed/);
-  blob.files.set(HEAD_PATH, { text: JSON.stringify({ current: "0123456789abcdef", history: [] }), etag: "gone" });
-  await assert.rejects(readPublishedOverlay(ENV, blob.api.get), /missing/);
-  assert.ok(hash);
+  blob.plant(HEAD_PREFIX, "{\"current\":\"../x\",\"history\":[]}");
+  await assert.rejects(overlayReader(ENV, blob.api)(), /malformed/);
+  blob.plant(HEAD_PREFIX, JSON.stringify({ current: "0123456789abcdef", history: [] }));
+  await assert.rejects(overlayReader(ENV, blob.api)(), /missing/);
+  assert.deepEqual(await read(), { "site.wordmark": "Live" });
+});
+
+test("a damaged head or version refuses writes, except going back to the defaults", async () => {
+  for (const damage of ["not json", JSON.stringify({ current: "0123456789abcdef", history: [{ hash: "0123456789abcdef", at: "2026-01-01T00:00:00.000Z", summary: "Lost", by: "editor" }] })]) {
+    const { blob, store } = setup();
+    await store.publish({ "site.wordmark": "A" }, META);
+    blob.plant(HEAD_PREFIX, damage);
+    await assert.rejects(store.read(), OverlayDamaged);
+    await assert.rejects(store.publish({ "site.wordmark": "B" }, META), OverlayDamaged);
+    await assert.rejects(store.prune(), OverlayDamaged);
+    const reset = await store.revert(null);
+    assert.equal(reset.hash, overlayHash({}));
+    const { overlay, head } = await store.read();
+    assert.deepEqual(overlay, {});
+    assert.equal(head.history.length, damage === "not json" ? 1 : 2); // a readable history is kept
+    assert.equal((await store.publish({ "site.wordmark": "B" }, META)).previous, reset.hash);
+  }
 });
 
 // Route handlers.
@@ -250,6 +257,27 @@ test("GET boots the editor; POST publishes and revalidates; errors map to JSON s
   const broken = await handlers.get(new Request(URL_BASE));
   assert.equal(broken.status, 500);
   assert.deepEqual(await broken.json(), { error: "Something went wrong." });
+});
+
+test("the owner's first boot on a process prunes baked values and revalidates; a damaged head still boots, marked", async () => {
+  const { blob, handlers, revalidated } = routes();
+  await overlayStore(ENV, blob.api).publish({ "site.wordmark": defaults["site.wordmark"], "site.footer": "Custom" }, META);
+  const boot = await (await handlers.get(new Request(URL_BASE))).json();
+  assert.deepEqual([boot.overlay, boot.history[0].by, revalidated()], [{ "site.footer": "Custom" }, "bake", 1]);
+  await overlayStore(ENV, blob.api).publish({ "site.wordmark": defaults["site.wordmark"] }, META);
+  assert.deepEqual(Object.keys((await (await handlers.get(new Request(URL_BASE))).json()).overlay).sort(), ["site.footer", "site.wordmark"]); // once per process
+  assert.equal(revalidated(), 1);
+
+  blob.plant(HEAD_PREFIX, "not json");
+  const error = console.error;
+  console.error = () => {};
+  const damaged = await handlers.get(new Request(URL_BASE)), publish = await handlers.publish(post({ patch: { "site.wordmark": "X" } }));
+  console.error = error;
+  assert.deepEqual([damaged.status, publish.status], [200, 500]);
+  assert.deepEqual(await damaged.json().then((body) => [body.damaged, body.overlay, body.current]), [true, {}, null]);
+  assert.match((await publish.json()).error, /Back to defaults/);
+  assert.equal((await handlers.revert(post({ hash: null }))).status, 200);
+  assert.equal((await (await handlers.get(new Request(URL_BASE))).json()).damaged, undefined);
 });
 
 test("writes answer 503 when Blob is not configured, while GET still boots with an empty overlay", async () => {

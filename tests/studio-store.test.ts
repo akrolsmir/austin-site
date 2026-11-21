@@ -6,8 +6,8 @@ import { pushSchema } from "drizzle-kit/api";
 import { eq } from "drizzle-orm";
 import * as schema from "../src/db/schema";
 import type { Db } from "../src/db";
-import { CODE_RUNS_PER_DAY, MAX_QUEUED, STALE_ERROR, StudioLimit, addLog, addStep, claimNextRun, createThread, escalateRun, failStep, finishRun, getRun, getThread, history, listThreads, markReverted, noteResult, postMessage, queueIdle, reapStaleRuns, requestStop, startRun, stopRequested } from "../src/lib/studio/store";
-import { decodeAsk, encodeAsk, isActive, parseContext, runActions, threadTitle } from "../src/lib/studio/types";
+import { CODE_RUNS_PER_DAY, MAX_QUEUED, STALE_ERROR, StudioLimit, activeRuns, addLog, addStep, claimNextRun, createThread, escalateRun, failStep, finishRun, getRun, getThread, history, listThreads, markReverted, noteResult, postMessage, queueIdle, reapStaleRuns, requestStop, startRun, stopRequested } from "../src/lib/studio/store";
+import { askAllowed, decodeAsk, encodeAsk, isActive, parseContext, runActions, storable, threadTitle } from "../src/lib/studio/types";
 
 // The studio's data functions against PGlite with the real schema (the same tables `bun run db:push` creates in Neon).
 let shared: Db | undefined;
@@ -111,26 +111,35 @@ test("caps: a bounded queue, and 30 code-lane runs per rolling 24 hours", async 
   assert.equal(await escalateRun(db, fast.id, at(24 * hour + 2)), null); // only a fast-lane run escalates
 });
 
-test("the reaper fails running runs whose heartbeat is older than 15 minutes, and nothing else", async () => {
+test("the reaper fails runs that went silent (fast lane 6 minutes, code lane 15), never one waiting on its preview", async () => {
   const db = await fresh();
   const dead = await ask(db, "dead"), waiting = await ask(db, "waiting", { when: 1 });
   await claimNextRun(db, at(2));
   await addStep(db, dead.run.id, "Reading the homepage", { now: at(3) });
   await noteResult(db, dead.run.id, { overlayHash: "0123456789abcdef" }, at(4));
-  assert.deepEqual(await reapStaleRuns(db, at(4 + 15 * 60)), []); // exactly 15 minutes is not yet stale
-  assert.deepEqual(await reapStaleRuns(db, at(5 + 15 * 60)), [dead.run.id]);
+  assert.deepEqual(await reapStaleRuns(db, at(4 + 6 * 60)), []); // exactly 6 minutes is not yet stale
+  assert.deepEqual(await reapStaleRuns(db, at(5 + 6 * 60)), [dead.run.id]);
   const reaped = (await getThread(db, "owner", dead.threadId))!.runs[0];
   assert.equal(reaped.status, "failed");
   assert.deepEqual(reaped.result, { overlayHash: "0123456789abcdef", error: STALE_ERROR });
-  assert.equal(reaped.endedAt, at(5 + 15 * 60).toISOString());
+  assert.equal(reaped.endedAt, at(5 + 6 * 60).toISOString());
   assert.deepEqual(reaped.steps.map((step) => step.state), ["failed"]);
-  assert.deepEqual(reaped.can, { stop: false, revert: true, publish: false }); // what it published can still be reverted
+  assert.deepEqual(reaped.can, { stop: false, revert: true, publish: false, discard: false }); // what it published can still be reverted
   assert.equal((await getRun(db, waiting.run.id))!.status, "queued"); // queued runs do not go stale
   assert.equal(await queueIdle(db), true);
   assert.equal((await claimNextRun(db, at(1000)))!.id, waiting.run.id);
-  await addStep(db, waiting.run.id, "Still going", { now: at(1000 + 14 * 60) }); // any step is a heartbeat
-  assert.deepEqual(await reapStaleRuns(db, at(1000 + 20 * 60)), []);
+  await addStep(db, waiting.run.id, "Still going", { now: at(1000 + 5 * 60) }); // any step is a heartbeat
+  assert.deepEqual(await reapStaleRuns(db, at(1000 + 10 * 60)), []);
   assert.equal(await finishRun(db, dead.run.id, { status: "done", now: at(2000) }), null); // a late finish cannot undo the reap
+  // In the code lane a runner may be silent for minutes (the checks block it), so it gets 15.
+  assert.ok(await escalateRun(db, waiting.run.id, at(3000)));
+  assert.deepEqual(await reapStaleRuns(db, at(3000 + 15 * 60)), []);
+  // Once its pull request is open and the runner is gone, only the code lane's sweep ends it: the reaper never does.
+  await noteResult(db, waiting.run.id, { prNumber: 7 }, at(3000));
+  assert.deepEqual(await reapStaleRuns(db, at(3000 + 60 * 60)), []);
+  assert.deepEqual((await activeRuns(db)).map((run) => [run.status, run.lane]), [["running", "code"]]);
+  await db.update(schema.runs).set({ result: null }).where(eq(schema.runs.id, waiting.run.id));
+  assert.deepEqual(await reapStaleRuns(db, at(3000 + 60 * 60)), [waiting.run.id]);
 });
 
 test("steps, results, stop, finish, and revert move a run through its states", async () => {
@@ -154,7 +163,7 @@ test("steps, results, stop, finish, and revert move a run through its states", a
   const view = (await getThread(db, "public", threadId))!.runs[0];
   assert.deepEqual(view.steps.map((step) => [step.seq, step.text, step.state]), [[1, "Reading the site's editable values", "done"], [2, "Publishing 2 changes", "failed"], [3, "Publishing 2 changes", "done"]]);
   assert.deepEqual([view.status, view.summary, view.stopRequested, view.endedAt], ["done", "Renamed two headings", false, at(11).toISOString()]);
-  assert.deepEqual(view.can, { stop: false, revert: true, publish: false });
+  assert.deepEqual(view.can, { stop: false, revert: true, publish: false, discard: false });
   assert.equal((await markReverted(db, run.id, { now: at(13) }))!.status, "reverted");
   assert.equal(await markReverted(db, run.id), null);
   const active = await ask(db, "again", { when: 14 });
@@ -195,6 +204,16 @@ test("history is the conversation up to the run's message, without private turns
   assert.equal(await getRun(db, third.run.id), undefined); // rows cascade with their thread
 });
 
+test("?ask= is taken only from a same-origin navigation; text must be storable", () => {
+  const from = (headers: Record<string, string>) => askAllowed(new Headers(headers));
+  assert.deepEqual([from({ "sec-fetch-site": "same-origin" }), from({ "sec-fetch-site": "cross-site" }), from({ "sec-fetch-site": "same-site" }), from({ "sec-fetch-site": "none" })], [true, false, false, false]);
+  assert.equal(from({ "sec-fetch-site": "cross-site", referer: "https://austin.site/", host: "austin.site" }), false); // the browser's word beats the Referer
+  assert.deepEqual([from({ referer: "https://austin.site/posts", host: "austin.site" }), from({ referer: "https://evil.example/", host: "austin.site" }), from({ host: "austin.site" }), from({})], [true, false, false, false]);
+  assert.equal(from({ referer: "https://austin.site/", host: "internal:3000", "x-forwarded-host": "austin.site" }), true);
+  assert.deepEqual([storable("fine 😀"), storable("half \ud83d"), storable("\udc00 half"), storable("nul\u0000")], [true, false, false, false]);
+  assert.equal(parseContext({ route: "/", text: "half \ud83d" }), null);
+});
+
 test("pure helpers: titles, run actions, and the strict ?ask= decoder", () => {
   assert.equal(threadTitle("  Rename the\n writing   heading "), "Rename the writing heading");
   assert.equal(threadTitle(""), "Untitled");
@@ -202,11 +221,11 @@ test("pure helpers: titles, run actions, and the strict ?ask= decoder", () => {
   assert.ok(long.length <= 61 && long.endsWith("…") && !/\s…$/.test(long), long);
   assert.equal(threadTitle("x".repeat(200)).length, 61);
   assert.deepEqual([isActive("queued"), isActive("running"), isActive("needs_publish"), isActive("done")], [true, true, false, false]);
-  assert.deepEqual(runActions({ lane: "fast", status: "done", result: null }), { stop: false, revert: false, publish: false });
-  assert.deepEqual(runActions({ lane: "fast", status: "running", result: { overlayHash: "a" } }), { stop: true, revert: false, publish: false });
-  assert.deepEqual(runActions({ lane: "fast", status: "reverted", result: { overlayHash: "a" } }), { stop: false, revert: false, publish: false });
-  assert.deepEqual(runActions({ lane: "code", status: "needs_publish", result: {} }), { stop: false, revert: false, publish: true });
-  assert.deepEqual(runActions({ lane: "code", status: "done", result: { mergeSha: "abc" } }), { stop: false, revert: true, publish: false });
+  assert.deepEqual(runActions({ lane: "fast", status: "done", result: null }), { stop: false, revert: false, publish: false, discard: false });
+  assert.deepEqual(runActions({ lane: "fast", status: "running", result: { overlayHash: "a" } }), { stop: true, revert: false, publish: false, discard: false });
+  assert.deepEqual(runActions({ lane: "fast", status: "reverted", result: { overlayHash: "a" } }), { stop: false, revert: false, publish: false, discard: false });
+  assert.deepEqual(runActions({ lane: "code", status: "needs_publish", result: {} }), { stop: false, revert: false, publish: true, discard: true });
+  assert.deepEqual(runActions({ lane: "code", status: "done", result: { mergeSha: "abc" } }), { stop: false, revert: true, publish: false, discard: false });
 
   const context = { route: "/posts/a-guide?x=1", slot: "home.intro", text: "Héllo “world”\nsecond line" };
   assert.deepEqual(decodeAsk(encodeAsk(context)), context);

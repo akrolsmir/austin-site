@@ -20,26 +20,29 @@ import { MAX_MESSAGE_CHARS, threadTitle } from "./types";
 //     tells it whether the owner pressed Stop.
 //  3. Its last POST, "finish", retires the token and does the GitHub work in that request (maxDuration 300): reads the
 //     changed files out of the sandbox, commits them to studio/<short id> through the Git Data API, opens a PR, then
-//     waits for the preview deployment and squash-merges. Guarded paths stop at "needs_publish"; publishCodeRun merges
-//     on the owner's approval.
-//  4. If the preview outlives that request, the run stays "running" with its PR recorded and no token. Every studio read
-//     is a scheduler tick: codeSweepDue/sweepCodeRuns (wired into the handlers' tick) checks the preview once per
-//     20 s lease and merges or fails the run. The PR itself is the state, so any request can resume it.
-//  5. Stop flags the run; the runner hears it on its next POST and finishes as "stopped". A runner that does not answer
-//     within STOP_GRACE_MS is ended by the sweep, and the stale-run reaper (15 min of silence) covers everything else.
+//     waits for the preview deployment and squash-merges. That automatic merge is only for changes confined to
+//     AUTO_MERGE_PATHS (copy and theme defaults, stylesheets); anything else stops at "needs_publish", and
+//     publishCodeRun merges on the owner's approval (discardCodeRun closes the pull request instead).
+//  4. If the preview outlives that request, the run stays "running" with its PR recorded and no token. A scheduler tick
+//     (any studio read, and the /api/studio/tick cron) calls codeSweepDue/sweepCodeRuns, which checks the preview once
+//     per 20 s lease and merges or fails the run. The PR itself is the state, so any request can resume it.
+//  5. Stop flags the run; the runner hears it on its next POST and finishes as "stopped". A run (of either lane) that
+//     does not answer within STOP_GRACE_MS is ended by the sweep, and the stale-run reaper covers everything else.
 //
 // Nothing the sandbox says is trusted: the token only works for its own run while it is running, paths and sizes are
 // checked here, file modes are read from the sandbox's git index rather than the report, and GitHub decides what merges.
 export const CODE_LANE_UNAVAILABLE = "The code lane isn't set up yet.";
 export const CODE_MODEL = "claude-opus-5-5";
-/** Changing any of these waits for the owner's Publish (`**` crosses directories, `*` does not). */
-export const GUARDED_PATHS = [
-  "src/lib/auth.ts", "src/app/sign-in/**", "src/app/api/**", "src/lib/studio/**", "scripts/studio-runner.ts", "scripts/studio-runner/**", "src/db/**", "drizzle.config.ts",
-  "src/lib/sync.ts", "src/lib/notion-client.ts", "src/lib/notion-markdown.ts", "scripts/sync.ts", "vercel.json", "next.config.ts", "package.json", "bun.lock",
-  "src/proxy.ts", "src/middleware.ts", "docs/editable-site.md", "CLAUDE.md", "AGENTS.md", ".claude/**", ".github/**",
-];
+/**
+ * The only paths a run may change and still merge by itself once its preview builds (`**` crosses directories, `*` does
+ * not): data and presentation that cannot run code. Everything else executes somewhere that matters (on the server next
+ * to the site's secrets, at build time, or in the owner's signed-in browser), so it waits for the owner's Publish. This
+ * is an allow-list on purpose: a file nobody thought of is guarded.
+ */
+export const AUTO_MERGE_PATHS = ["src/site/content.json", "src/site/theme.json", "src/app/**.css", "src/editor/**.css"];
 export const MAX_FILES = 200, MAX_FILE_BYTES = 1024 * 1024, MAX_TOTAL_BYTES = 8 * 1024 * 1024;
-export const STOP_GRACE_MS = 2 * 60 * 1000, PREVIEW_MAX_MS = 12 * 60 * 1000, LEASE_MS = 20 * 1000;
+export const STOP_GRACE_MS = 2 * 60 * 1000, PREVIEW_MAX_MS = 12 * 60 * 1000, NO_BUILD_MS = 3 * 60 * 1000, LEASE_MS = 20 * 1000;
+export const NO_BUILD = "Vercel is not building this repository's pull requests, so there is no preview to check. Connect the GitHub repository in the Vercel project's Git settings.";
 const SANDBOX_MS = 40 * 60 * 1000, WAIT_MS = 200 * 1000, POLL_MS = 5000, MAX_STEPS = 300, MAX_LOGS = 3000, MAX_BODY = 256 * 1024;
 const RUNNER_DIR = "/tmp/studio-runner", RUNNER_FILE = "scripts/studio-runner.ts", BRIEF_PATH = "/tmp/studio-brief.json";
 type Env = Record<string, string | undefined>;
@@ -49,6 +52,8 @@ export type CodeDeps = {
   sandbox?: SandboxClient; overlay?: OverlayStore; sleep?: (ms: number) => Promise<void>; token?: () => string;
   /** How long one request waits for the preview before leaving it to the sweep. */
   waitMs?: number;
+  /** Called when a runner's finish has been handled (the run ended, or waits on its preview), so the queue can move on. */
+  onFinish?: () => void;
 };
 export type CodeRun = Pick<RunRow, "id" | "threadId" | "messageId">;
 /** `error` is a sentence that is safe to show to anyone. */
@@ -75,7 +80,8 @@ export function globMatch(glob: string, path: string): boolean {
   const pattern = glob.split("**").map((part) => part.split("*").map((text) => text.replace(/[.+?^${}()|[\]\\]/g, "\\$&")).join("[^/]*")).join(".*");
   return new RegExp(`^${pattern}$`).test(path);
 }
-export const guardedPaths = (paths: string[]) => paths.filter((path) => GUARDED_PATHS.some((glob) => globMatch(glob, path)));
+/** The changed paths that keep a run from merging by itself: all those outside AUTO_MERGE_PATHS. */
+export const guardedPaths = (paths: string[]) => paths.filter((path) => !AUTO_MERGE_PATHS.some((glob) => globMatch(glob, path)));
 /** A repo-relative path the lane will commit: inside the repo, not under .git, not an env file, no odd characters. */
 export function safePath(path: unknown): path is string {
   if (typeof path !== "string" || !path || path.length > 300 || path.startsWith("/") || /[\u0000-\u001f\u007f\\]/.test(path)) return false;
@@ -117,9 +123,8 @@ function context(deps: CodeDeps) {
 }
 
 /**
- * Takes over a run that is "running" with lane "code" (the fast lane escalated it with `brief`, or a queued code-lane run
- * was claimed, in which case there is no brief and the thread is the brief). Returns once the runner is started; the run
- * stays "running" (heartbeats and steps come in through /api/studio/runner) until the lane finishes it.
+ * Takes over a run that is "running" with lane "code" (the fast lane escalated it with `brief`). Returns once the runner
+ * is started; the run stays "running" (heartbeats and steps come in through /api/studio/runner) until the lane finishes it.
  */
 export async function startCodeRun(deps: CodeDeps, run: CodeRun, brief?: string): Promise<CodeOutcome> {
   const { db, env, now, sandbox, gh, log, fail } = context(deps);
@@ -193,6 +198,7 @@ export async function runnerEvent(deps: CodeDeps, request: Request): Promise<Res
       const [claimed] = await db.update(runs).set({ tokenHash: null, heartbeatAt: now() }).where(and(eq(runs.id, run.id), eq(runs.status, "running"), eq(runs.tokenHash, run.tokenHash!))).returning();
       if (!claimed) return denied();
       await finishCode(deps, claimed, body.result);
+      deps.onFinish?.();
       return json({ ok: true, stop: false });
     }
     // After Stop nothing more is recorded, and the heartbeat is left alone so the grace period runs from the press.
@@ -260,7 +266,7 @@ async function finishCode(deps: CodeDeps, run: RunRow, raw: unknown): Promise<vo
     const guarded = guardedPaths(paths);
     const pr = await gh.openPr({ branch, title, body: [
       hidden ? "Requested privately in the site's studio." : `Requested in the site's studio${where ? ` ([thread](${where}))` : ""}:\n\n> ${inert(request).replace(/\n/g, "\n> ")}`,
-      `Checks run in the sandbox (typecheck, lint, tests, build), as it reports them: ${result.checksPassed ? "pass" : "**failed**"}.${guarded.length ? `\n\nWaits for the owner's Publish because it changes: ${guarded.map((path) => `\`${path}\``).join(", ")}.` : ""}`,
+      `Checks run in the sandbox (typecheck, lint, tests, build), as it reports them: ${result.checksPassed ? "pass" : "**failed**"}.${guarded.length ? `\n\nWaits for the owner's Publish because it changes more than copy, theme, and styles: ${guarded.slice(0, 50).map((path) => `\`${path}\``).join(", ")}${guarded.length > 50 ? `, and ${guarded.length - 50} more` : ""}.` : ""}`,
       `Opened by Claude from the studio. What it says about the change:\n\n---\n\n${inert([result.summary, result.details].filter(Boolean).join("\n\n")) || "(nothing)"}`,
     ].join("\n\n") });
     prUrl = pr.url || undefined;
@@ -270,7 +276,7 @@ async function finishCode(deps: CodeDeps, run: RunRow, raw: unknown): Promise<vo
     if (result.summary) await say(result.summary);
     if (guarded.length) {
       await addStep(db, run.id, "Waiting for your approval", { now: now() });
-      await finishRun(db, run.id, { status: "needs_publish", summary: title, result: { guarded }, now: now() });
+      await finishRun(db, run.id, { status: "needs_publish", summary: title, result: { guarded: guarded.slice(0, 50) }, now: now() });
       return;
     }
     await addStep(db, run.id, "Waiting for the preview to build", { now: now() });
@@ -288,7 +294,7 @@ async function finishCode(deps: CodeDeps, run: RunRow, raw: unknown): Promise<vo
  * PR stays open), otherwise "pending". "wait" polls for up to `waitMs` with the heartbeat kept fresh; "once" (the sweep)
  * and "publish" (the owner's approval, which has no deadline) check a single time.
  */
-async function advance(deps: CodeDeps, runId: string, mode: "wait" | "once" | "publish"): Promise<"merged" | "failed" | "stopped" | "pending"> {
+async function advance(deps: CodeDeps, runId: string, mode: "wait" | "once" | "publish"): Promise<"merged" | "failed" | "stopped" | "pending" | "unbuilt"> {
   const { db, now, gh, sleep, log, fail } = context(deps);
   const run = await getRun(db, runId), number = run?.result?.prNumber, started = now().getTime();
   if (!run || !number || !gh) return "pending";
@@ -304,6 +310,8 @@ async function advance(deps: CodeDeps, runId: string, mode: "wait" | "once" | "p
     if (preview.state === "success") break;
     if (previewUrl) await noteResult(db, runId, { previewUrl }, now()); else await touchRun(db, runId, now());
     if (preview.state === "failure") { await fail(runId, "The preview build failed, so this was not merged. The pull request is open for a look."); return "failed"; }
+    // GitHub hears of a Vercel build within seconds of a push. Minutes without one means the repository is not connected.
+    if (preview.none && now().getTime() - pr.createdAt.getTime() > NO_BUILD_MS) { if (mode === "publish") return "unbuilt"; await fail(runId, NO_BUILD); return "failed"; }
     if (mode !== "publish" && now().getTime() - pr.createdAt.getTime() > PREVIEW_MAX_MS) { await fail(runId, "The preview did not finish building in time, so this was not merged. The pull request is open."); return "failed"; }
     if (mode !== "wait" || now().getTime() - started > (deps.waitMs ?? WAIT_MS)) return "pending";
     await sleep(POLL_MS);
@@ -323,27 +331,27 @@ async function advance(deps: CodeDeps, runId: string, mode: "wait" | "once" | "p
   }
 }
 
-const sweepable = and(eq(runs.lane, "code"), eq(runs.status, "running"));
-/** Whether sweepCodeRuns has anything to do: one cheap query, so every studio read can ask. */
+const sweepable = eq(runs.status, "running");
+/** Whether sweepCodeRuns has anything to do: one cheap query, so every scheduler tick can ask. */
 export async function codeSweepDue(db: Db, now = new Date()): Promise<boolean> {
-  const rows = await db.select({ token: runs.tokenHash, stop: runs.stopRequested, result: runs.result }).from(runs).where(and(sweepable, lt(runs.heartbeatAt, new Date(now.getTime() - LEASE_MS))));
-  return rows.some((row) => row.stop || (!row.token && Boolean(row.result?.prNumber)));
+  const rows = await db.select({ lane: runs.lane, token: runs.tokenHash, stop: runs.stopRequested, result: runs.result }).from(runs).where(and(sweepable, lt(runs.heartbeatAt, new Date(now.getTime() - LEASE_MS))));
+  return rows.some((row) => row.stop || (row.lane === "code" && !row.token && Boolean(row.result?.prNumber)));
 }
 /**
- * The code lane's part of the scheduler tick. A run waiting on its preview (PR open, token retired) is checked once and
- * merged or failed; a run whose Stop was not answered within the grace period is ended and its sandbox stopped. Each run is
- * leased by its heartbeat, so concurrent ticks do not repeat the work.
+ * The scheduler tick's sweep. A code-lane run waiting on its preview (PR open, token retired) is checked once and merged
+ * or failed; a run of either lane whose Stop was not answered within the grace period (its function or sandbox is gone)
+ * is ended, and its sandbox stopped. Each run is leased by its heartbeat, so concurrent ticks do not repeat the work.
  */
 export async function sweepCodeRuns(deps: CodeDeps): Promise<void> {
   const { db, now, stopBox } = context(deps);
   for (const row of await db.select().from(runs).where(sweepable)) {
     try {
-      const waiting = !row.tokenHash && Boolean(row.result?.prNumber);
+      const waiting = row.lane === "code" && !row.tokenHash && Boolean(row.result?.prNumber);
       if (!waiting && !(row.stopRequested && row.heartbeatAt && now().getTime() - row.heartbeatAt.getTime() > STOP_GRACE_MS)) continue;
       const [leased] = await db.update(runs).set({ heartbeatAt: now() }).where(and(eq(runs.id, row.id), sweepable, lt(runs.heartbeatAt, new Date(now().getTime() - LEASE_MS)))).returning({ id: runs.id });
       if (!leased) continue;
       if (waiting) await advance(deps, row.id, "once");
-      else { await finishRun(db, row.id, { status: "stopped", now: now() }); await stopBox(row.id); }
+      else { await finishRun(db, row.id, { status: "stopped", now: now() }); if (row.lane === "code") await stopBox(row.id); }
     } catch (error) { console.error(`Studio code lane: the sweep failed for a run (${describe(error)}).`); }
   }
 }
@@ -356,10 +364,28 @@ export async function publishCodeRun(deps: CodeDeps, run: CodeRun): Promise<Code
   try {
     const outcome = await advance(deps, run.id, "publish");
     if (outcome === "merged") return { ok: true };
-    return { ok: false, error: outcome === "pending" ? "The preview is still building. Try again in a minute." : (await getRun(db, run.id))?.result?.error ?? "This could not be published." };
+    return { ok: false, error: outcome === "pending" ? "The preview is still building. Try again in a minute." : outcome === "unbuilt" ? NO_BUILD : (await getRun(db, run.id))?.result?.error ?? "This could not be published." };
   } catch (error) {
     console.error(`Studio code lane: publishing failed (${describe(error)}).`);
     await addLog(db, run.id, `Publish failed: ${describe(error)}`).catch(() => {});
+    return { ok: false, error: "GitHub could not be reached. Try again in a minute." };
+  }
+}
+/** The owner turned down a run waiting at "needs_publish": close its pull request, delete the branch, and end the run. */
+export async function discardCodeRun(deps: CodeDeps, run: CodeRun): Promise<CodeOutcome> {
+  const { db, now, gh, log } = context(deps), row = await getRun(db, run.id);
+  if (!gh) return { ok: false, error: CODE_LANE_UNAVAILABLE };
+  if (row?.status !== "needs_publish" || !row.result?.prNumber) return { ok: false, error: "This run is not waiting to be published." };
+  try {
+    const pr = await gh.pr(row.result.prNumber);
+    if (pr.merged) return { ok: false, error: "The pull request was already merged on GitHub." };
+    if (pr.open) await gh.closePr(pr.number);
+    await gh.deleteBranch(pr.branch).catch(() => {});
+    await finishRun(db, run.id, { status: "stopped", result: { discarded: true }, now: now() });
+    return { ok: true };
+  } catch (error) {
+    console.error(`Studio code lane: discarding failed (${describe(error)}).`);
+    await log(run.id, `Discard failed: ${describe(error)}`);
     return { ok: false, error: "GitHub could not be reached. Try again in a minute." };
   }
 }

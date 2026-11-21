@@ -4,7 +4,7 @@ import { PGlite } from "@electric-sql/pglite";
 import { drizzle } from "drizzle-orm/pglite";
 import { pushSchema } from "drizzle-kit/api";
 import * as schema from "../src/db/schema";
-import type { Db } from "../src/db";
+import { dbEnabled, type Db } from "../src/db";
 import { authEnabled, authLookups, createAuth, devOwner, getAuth, getOwner, getViewer, meResponse, ownerGithubId, requireOwner, safeNext, viewerFrom, type Lookups } from "../src/lib/auth";
 
 const FULL = { DATABASE_URL: "postgres://user:pw@db.invalid/site", BETTER_AUTH_SECRET: "s".repeat(40), GITHUB_CLIENT_ID: "client-id", GITHUB_CLIENT_SECRET: "client-secret" };
@@ -13,6 +13,9 @@ const none = new Headers();
 test("authEnabled needs all four of DATABASE_URL, BETTER_AUTH_SECRET, GITHUB_CLIENT_ID, GITHUB_CLIENT_SECRET", () => {
   assert.equal(authEnabled(FULL), true);
   assert.equal(authEnabled({}), false);
+  // A Vercel preview builds code nobody has approved yet: the database, sign-in, and the dev owner are all off there.
+  assert.deepEqual([authEnabled({ ...FULL, VERCEL_ENV: "production" }), authEnabled({ ...FULL, VERCEL_ENV: "preview" }), authEnabled({ ...FULL, VERCEL_ENV: "development" })], [true, false, false]);
+  assert.deepEqual([dbEnabled({ DATABASE_URL: "x" }), dbEnabled({ DATABASE_URL: "x", VERCEL_ENV: "preview" }), dbEnabled({})], [true, false, false]);
   for (const key of Object.keys(FULL)) {
     assert.equal(authEnabled({ ...FULL, [key]: undefined }), false, `without ${key}`);
     assert.equal(authEnabled({ ...FULL, [key]: "" }), false, `empty ${key}`);
@@ -69,10 +72,10 @@ test("a failing lookup reads as signed out rather than throwing", async () => {
 test("/api/me sets the editor hint cookie for the owner and clears it otherwise, uncached", async () => {
   const owner = { id: "u1", name: "Ada" }, set = meResponse(owner), cleared = meResponse(null), secure = meResponse(owner, true);
   assert.deepEqual(await set.json(), { owner });
-  assert.equal(set.headers.get("set-cookie"), "editor=1; Path=/; Max-Age=2592000; SameSite=Lax");
+  assert.equal(set.headers.get("set-cookie"), "editor=1; Path=/; Max-Age=33696000; SameSite=Lax");
   assert.deepEqual(await cleared.json(), { owner: null });
   assert.equal(cleared.headers.get("set-cookie"), "editor=; Path=/; Max-Age=0; SameSite=Lax");
-  assert.equal(secure.headers.get("set-cookie"), "editor=1; Path=/; Max-Age=2592000; SameSite=Lax; Secure");
+  assert.equal(secure.headers.get("set-cookie"), "editor=1; Path=/; Max-Age=33696000; SameSite=Lax; Secure");
   for (const response of [set, cleared]) { assert.match(response.headers.get("cache-control") ?? "", /no-store/); assert.doesNotMatch(response.headers.get("set-cookie") ?? "", /httponly/i); }
 });
 

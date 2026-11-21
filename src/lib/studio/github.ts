@@ -7,7 +7,8 @@ type Env = Record<string, string | undefined>;
 export class GitHubError extends Error { constructor(public status: number, what: string) { super(`GitHub ${what} answered ${status}`); this.name = "GitHubError"; } }
 export type FileChange = { path: string; mode: "100644" | "100755"; content: Buffer } | { path: string; deleted: true };
 export type PullRequest = { number: number; url: string; title: string; head: string; branch: string; open: boolean; merged: boolean; mergeSha: string | null; createdAt: Date; nodeId: string };
-export type Preview = { state: "success" | "failure" | "pending"; url?: string };
+/** `none`: GitHub knows of no deployment for the commit at all (Vercel has not picked it up, or is not connected). */
+export type Preview = { state: "success" | "failure" | "pending"; url?: string; none?: boolean };
 export type GitHub = NonNullable<ReturnType<typeof github>>;
 export const repoOf = (env: Env) => /^[\w.-]+\/[\w.-]+$/.test(env.GITHUB_REPO ?? "") ? env.GITHUB_REPO! : DEFAULT_REPO;
 export const httpsUrl = (value: unknown) => { try { const url = new URL(String(value)); return url.protocol === "https:" ? url.href : undefined; } catch { return undefined; } };
@@ -35,7 +36,11 @@ export function github(env: Env = process.env, fetchImpl: typeof fetch = fetch) 
       try { return ["ahead", "identical"].includes((await call<{ status: string }>("GET", `${r}/compare/${sha}...${BASE_BRANCH}`)).status); }
       catch (error) { if (error instanceof GitHubError && error.status === 404) return false; throw error; }
     },
-    /** One commit on top of `parent` with `files` changed, on a new branch (never a force push: an existing branch is an error). */
+    /**
+     * One commit on top of `parent` with `files` changed, on a new branch (never a force push: an existing branch is an
+     * error). No author is named, so GitHub records the token's own user: Vercel can refuse to build a commit whose
+     * author is not a member of the team, and the message's Co-Authored-By line says who wrote it.
+     */
     async commit({ branch, parent, message, files }: { branch: string; parent: string; message: string; files: FileChange[] }): Promise<string> {
       const base = await call<{ tree: { sha: string } }>("GET", `${r}/git/commits/${parent}`);
       const tree: Array<{ path: string; mode: string; type: "blob"; sha: string | null }> = [];
@@ -43,7 +48,7 @@ export function github(env: Env = process.env, fetchImpl: typeof fetch = fetch) 
         ? { path: file.path, mode: "100644", type: "blob" as const, sha: null }
         : { path: file.path, mode: file.mode, type: "blob" as const, sha: (await call<{ sha: string }>("POST", `${r}/git/blobs`, { content: file.content.toString("base64"), encoding: "base64" })).sha })));
       const made = await call<{ sha: string }>("POST", `${r}/git/trees`, { base_tree: base.tree.sha, tree });
-      const commit = await call<{ sha: string }>("POST", `${r}/git/commits`, { message, tree: made.sha, parents: [parent], author: { name: "Claude", email: "noreply@anthropic.com" } });
+      const commit = await call<{ sha: string }>("POST", `${r}/git/commits`, { message, tree: made.sha, parents: [parent] });
       await call("POST", `${r}/git/refs`, { ref: `refs/heads/${branch}`, sha: commit.sha });
       return commit.sha;
     },
@@ -55,10 +60,11 @@ export function github(env: Env = process.env, fetchImpl: typeof fetch = fetch) 
       const latest = (await Promise.all(deployments.map(async ({ id }) => (await call<Array<{ state: string; environment_url?: string }>>("GET", `${r}/deployments/${id}/statuses?per_page=1`))[0]))).filter((status) => status && status.state !== "inactive");
       const url = latest.map((status) => httpsUrl(status.environment_url)).find(Boolean);
       if (latest.some((status) => status.state === "failure" || status.state === "error")) return { state: "failure", url };
-      return latest.length && latest.every((status) => status.state === "success") ? { state: "success", url } : { state: "pending", url };
+      return latest.length && latest.every((status) => status.state === "success") ? { state: "success", url } : { state: "pending", url, ...(deployments.length ? {} : { none: true }) };
     },
     /** Squash-merges only if the PR's head is still `head`. Returns the merge commit. */
     merge: async (number: number, head: string, title: string) => (await call<{ sha: string }>("PUT", `${r}/pulls/${number}/merge`, { merge_method: "squash", sha: head, commit_title: title })).sha,
+    closePr: async (number: number) => { await call("PATCH", `${r}/pulls/${number}`, { state: "closed" }); },
     deleteBranch: async (branch: string) => { await call("DELETE", `${r}/git/refs/heads/${branch}`); },
     /** Opens the pull request that reverts a merged one (GitHub's own Revert button). */
     async revertPr(nodeId: string): Promise<{ number: number; url: string; head: string; branch: string }> {

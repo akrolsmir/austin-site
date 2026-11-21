@@ -4,14 +4,14 @@ import type Anthropic from "@anthropic-ai/sdk";
 import { PGlite } from "@electric-sql/pglite";
 import { drizzle } from "drizzle-orm/pglite";
 import { pushSchema } from "drizzle-kit/api";
-import { BlobPreconditionFailedError } from "@vercel/blob";
 import * as schema from "../src/db/schema";
 import type { Db } from "../src/db";
 import { studioHandlers, type StudioDeps } from "../src/app/api/studio/handlers";
-import { HEAD_PATH, overlayStore, type OverlayBlob } from "../src/lib/overlay";
+import { HEAD_PREFIX, overlayStore } from "../src/lib/overlay";
+import { fakeBlob } from "./fake-blob";
 import { CODE_LANE_UNAVAILABLE } from "../src/lib/studio/code";
 import type { FastClient } from "../src/lib/studio/fast";
-import { MAX_QUEUED, claimNextRun, finishRun, getRun } from "../src/lib/studio/store";
+import { MAX_QUEUED, claimNextRun, createThread, finishRun, getRun } from "../src/lib/studio/store";
 import { encodeAsk, decodeAsk, type CreatedThreadResponse, type PostedMessageResponse, type RunResponse, type ThreadResponse, type ThreadsResponse } from "../src/lib/studio/types";
 
 // The studio routes' handlers: auth on every write, viewer filtering on reads, the not-configured paths, and the whole
@@ -21,20 +21,6 @@ async function fresh(): Promise<Db> {
   if (!shared) { shared = drizzle(new PGlite(), { schema }) as unknown as Db; await (await pushSchema(schema, shared as never)).apply(); }
   await shared.delete(schema.threads);
   return shared;
-}
-function fakeBlob() {
-  const files = new Map<string, { text: string; etag: string }>();
-  let version = 0;
-  return { files, api: {
-    async get(pathname: string) { const file = files.get(pathname); return file ? { statusCode: 200, stream: new Response(file.text).body, blob: { etag: file.etag } } : null; },
-    async put(pathname: string, body: string | Buffer, options: { allowOverwrite?: boolean; ifMatch?: string }) {
-      const existing = files.get(pathname);
-      if (existing && !options.allowOverwrite) throw new Error("This blob already exists");
-      if (options.ifMatch && existing?.etag !== options.ifMatch) throw new BlobPreconditionFailedError();
-      files.set(pathname, { text: String(body), etag: `e${++version}` });
-      return { url: `https://store.public.blob.vercel-storage.com/${pathname}`, pathname };
-    },
-  } as unknown as OverlayBlob };
 }
 const OWNER = { NODE_ENV: "test", EDITOR_DEV_OWNER: "1" };
 const BASE = "https://austin.site/api/studio";
@@ -48,7 +34,7 @@ function site(turns: Anthropic.Message[] = [], extra: StudioDeps = {}) {
   const blob = fakeBlob(), overlay = overlayStore({ BLOB_READ_WRITE_TOKEN: "token" }, blob.api), tasks: Array<() => Promise<void>> = [], asked: Anthropic.MessageCreateParamsNonStreaming[] = [];
   let revalidated = 0;
   const client: FastClient = { messages: { async create(params) { asked.push(structuredClone(params)); const next = turns.shift(); if (!next) throw new Error("The script ran out of turns."); return next; } } };
-  const deps: StudioDeps = { db: () => shared!, overlay: () => overlay, client, after: (task) => { tasks.push(task); }, revalidate: () => { revalidated++; }, ...extra };
+  const deps: StudioDeps = { db: () => shared!, overlay: () => overlay, client, after: (task) => { tasks.push(task); }, revalidate: () => { revalidated++; }, tickMs: 0, ...extra };
   const settle = async () => { while (tasks.length) await tasks.shift()!(); };
   return { owner: studioHandlers({ ...deps, env: OWNER }), visitor: studioHandlers({ ...deps, env: {} }), overlay, blob, tasks, asked, settle, revalidated: () => revalidated };
 }
@@ -114,7 +100,7 @@ test("post → queue → run → poll: the owner asks, the fast lane publishes, 
   const made = await read<CreatedThreadResponse>(owner.createThread(post("/threads", { body: "  Rename the wordmark to Austin C.  ", context })), 201);
   assert.deepEqual([made.thread.title, made.thread.private, made.thread.status], ["Rename the wordmark to Austin C.", false, "queued"]);
   assert.deepEqual([made.message.body, made.message.role, made.message.runId, made.message.context], ["Rename the wordmark to Austin C.", "owner", made.run.id, context]);
-  assert.deepEqual([made.run.status, made.run.lane, made.run.steps, made.run.can], ["queued", "fast", [], { stop: true, revert: false, publish: false }]);
+  assert.deepEqual([made.run.status, made.run.lane, made.run.steps, made.run.can], ["queued", "fast", [], { stop: true, revert: false, publish: false, discard: false }]);
   const follow = await read<PostedMessageResponse>(owner.postMessage(post(`/threads/${made.thread.id}/messages`, { body: "Does it fit?" }), made.thread.id), 201);
   assert.equal(follow.run.status, "queued"); // behind the first
   assert.equal(tasks.length, 2);
@@ -141,7 +127,7 @@ test("post → queue → run → poll: the owner asks, the fast lane publishes, 
 
   // Revert: the site goes back to what was live before the run, once.
   const published = done.runs[0];
-  assert.deepEqual(published.can, { stop: false, revert: true, publish: false });
+  assert.deepEqual(published.can, { stop: false, revert: true, publish: false, discard: false });
   assert.equal((await owner.revert(post(`/runs/${follow.run.id}/revert`), follow.run.id)).status, 409); // it published nothing
   const reverted = await read<RunResponse>(owner.revert(post(`/runs/${made.run.id}/revert`), made.run.id));
   assert.deepEqual([reverted.run.status, reverted.run.can.revert, reverted.run.result!.overlayHash], ["reverted", false, published.result!.overlayHash]);
@@ -257,5 +243,66 @@ test("stop, publish, and the scheduler tick on reads", async () => {
     await crash.settle();
     assert.deepEqual((await getRun(db, broken.run.id))!.result, { error: "Something went wrong on the site's side." });
   } finally { console.error = error; }
-  assert.equal(HEAD_PATH, "site/overlay/head.json");
+  assert.equal(HEAD_PREFIX, "site/overlay/heads/");
+});
+
+test("reads are cheap for strangers: ticks are throttled, idle ticks do nothing, and public reads may be served from memory", async () => {
+  const db = await fresh();
+  const executed: string[] = [];
+  const { owner, visitor, tasks, settle } = site([], { tickMs: 60_000, cacheMs: 60_000, execute: async (run) => { executed.push(run.id); await finishRun(db, run.id, { status: "done" }); } });
+  await read(visitor.threads(get("/threads"))); // the one tick this instance gets for a minute: nothing is queued, nothing happens
+  const made = await read<CreatedThreadResponse>(owner.createThread(post("/threads", { body: "one" })), 201);
+  tasks.length = 0;
+  await read(visitor.threads(get("/threads")));
+  await read(visitor.thread(get(`/threads/${made.thread.id}`), made.thread.id));
+  assert.equal(tasks.length, 0); // throttled: a loop of reads cannot make the scheduler work
+  // The cron's tick (its bearer is the CRON_SECRET) is not throttled, and an idle one touches nothing.
+  const cron = studioHandlers({ db: () => db, env: { CRON_SECRET: "cron-secret-0123456789" }, after: (task) => { tasks.push(task); }, tickMs: 60_000, execute: async (run) => { executed.push(run.id); await finishRun(db, run.id, { status: "done" }); } });
+  const beat = () => cron.tick(new Request(`${BASE}/tick`, { headers: { authorization: "Bearer cron-secret-0123456789" } }));
+  assert.deepEqual(await read(beat()), { ok: true });
+  assert.equal(tasks.length, 1);
+  await settle();
+  assert.deepEqual(executed, [made.run.id]);
+  await read(beat());
+  assert.equal(tasks.length, 0);
+
+  // A visitor's read is remembered for cacheMs; the owner's (it carries a cookie) never is, and nothing private is ever stored.
+  const fresher = site([], { cacheMs: 60_000 });
+  const before = await read<ThreadsResponse>(fresher.visitor.threads(get("/threads")));
+  await createThread(db, { body: "made behind the handlers' back" });
+  assert.deepEqual(await read<ThreadsResponse>(fresher.visitor.threads(get("/threads"))), before);
+  const cookie = new Request(`${BASE}/threads`, { headers: { cookie: "session=x" } });
+  assert.equal((await read<ThreadsResponse>(fresher.visitor.threads(cookie))).threads.length, before.threads.length + 1);
+  assert.equal((await read<ThreadsResponse>(fresher.owner.threads(get("/threads")))).threads.length, before.threads.length + 1);
+});
+
+test("the site's origin for read_page and the runner callback comes from configuration in production, never from the request", async () => {
+  const db = await fresh();
+  const origins: Array<string | undefined> = [];
+  const make = (env: Record<string, string | undefined>) => studioHandlers({ db: () => db, env: { ...env, EDITOR_DEV_OWNER: "1" }, owner: async () => ({}), after: (task) => { void task(); }, execute: async (run, origin) => { origins.push(origin); await finishRun(db, run.id, { status: "done" }); } });
+  const from = (host: string) => new Request(`https://${host}/api/studio/threads`, { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify({ body: "hi" }) });
+  for (const env of [{ NODE_ENV: "production", BETTER_AUTH_URL: "https://austin.site/" }, { NODE_ENV: "production", VERCEL_PROJECT_PRODUCTION_URL: "austin.site" }, { NODE_ENV: "production" }, { NODE_ENV: "development" }]) {
+    assert.equal((await make(env).createThread(from("preview-abc.vercel.app"))).status, 201);
+    await new Promise((resolve) => setTimeout(resolve, 20));
+  }
+  assert.deepEqual(origins, ["https://austin.site", "https://austin.site", undefined, "https://preview-abc.vercel.app"]);
+});
+
+test("discard turns down a run waiting for Publish; the runner route needs a database and a run token", async () => {
+  const db = await fresh();
+  const calls: string[] = [];
+  const { owner } = site([], { code: { discard: async (_deps, run) => { calls.push(run.id); await finishRun(db, run.id, { status: "stopped", result: { discarded: true } }); return { ok: true }; } } });
+  const made = await read<CreatedThreadResponse>(owner.createThread(post("/threads", { body: "one" })), 201);
+  assert.equal((await owner.discard(post(`/runs/${made.run.id}/discard`), made.run.id)).status, 409); // not waiting for approval
+  await claimNextRun(db);
+  await finishRun(db, made.run.id, { status: "needs_publish" });
+  const gone = await read<RunResponse>(owner.discard(post(`/runs/${made.run.id}/discard`), made.run.id));
+  assert.deepEqual([gone.run.status, gone.run.result, gone.run.can, calls], ["stopped", { discarded: true }, { stop: false, revert: false, publish: false, discard: false }, [made.run.id]]);
+  assert.equal((await studioHandlers({ db: () => db, env: {} }).discard(post(`/runs/${made.run.id}/discard`), made.run.id)).status, 401);
+  const event = () => new Request(`${BASE}/runner`, { method: "POST", headers: { authorization: `Bearer ${"x".repeat(40)}`, "content-type": "application/json" }, body: JSON.stringify({ run: made.run.id, type: "heartbeat" }) });
+  assert.equal((await owner.runner(event())).status, 401);
+  assert.equal((await studioHandlers({ env: {} }).runner(event())).status, 401);
+  assert.deepEqual(await read(studioHandlers({ env: {} }).tick(get("/tick"))), { ok: true }); // no database: nothing to do, no error
+  // A message that Postgres could not store (half an emoji) is refused up front rather than failing with a 500.
+  assert.equal((await owner.createThread(post("/threads", { body: "broken \ud83d emoji" }))).status, 400);
 });

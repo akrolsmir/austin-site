@@ -25,14 +25,20 @@
 //                                           run points the site back at the version published before it (later publishes
 //                                           are undone with it); a code-lane run gets a revert commit.
 // POST /api/studio/runs/[id]/publish        body {} → RunResponse. Approves a run waiting at "needs_publish" (`can.publish`).
+// POST /api/studio/runs/[id]/discard        body {} → RunResponse with status "stopped" and `result.discarded`. Turns down a
+//                                           run waiting at "needs_publish" (`can.discard`): its pull request is closed.
+// GET  /api/studio/tick                     → { ok: true }. The scheduler tick (also run, throttled, by the two GETs above);
+//                                           Vercel Cron calls it so runs move on when nobody has the studio open.
 //
 // When the database is not configured, the two GETs answer 200 with `configured: false` and an empty payload (show a quiet
 // empty state) and every write answers 503. A thread that does not exist, or is private and the viewer is not the owner, is 404.
 //
-// How a run moves: queued → running → done | failed | stopped | needs_publish, and done → reverted. Only one run is running
-// at a time across the whole studio; later ones wait as "queued" and start by themselves, oldest first. A run starts in the
-// fast lane (lane "fast": answers, or publishes slot values within a few seconds) and may hand itself to the code lane
-// (lane becomes "code": a branch, a preview, a merge). A run that ends "done" usually has a "claude" message whose `runId`
+// How a run moves: queued → running → done | failed | stopped | needs_publish, needs_publish → done | failed | stopped, and
+// done → reverted. Only one run is running at a time across the whole studio; later ones wait as "queued" and start by
+// themselves, oldest first (a run waiting at "needs_publish" does not hold the queue). A run starts in the fast lane (lane
+// "fast": answers, or publishes slot values within a few seconds) and may hand itself to the code lane (lane becomes
+// "code": a branch, a preview, and a merge, automatic only for copy, theme, and style changes; anything else waits at
+// "needs_publish" for the owner). Every message starts in the fast lane, also in a thread with an open code-lane run. A run that ends "done" usually has a "claude" message whose `runId`
 // is the run; a run that ends "failed" has `result.error` instead, a sentence to show on its card.
 
 export const MAX_MESSAGE_CHARS = 8000;
@@ -68,8 +74,8 @@ export type LogView = { seq: number; text: string; at: Iso };
 export type RunResultView = {
   /** Fast lane: the overlay version this run published, and the one before it (absent when the site was on its defaults). */
   overlayHash?: string; previousOverlayHash?: string;
-  /** Code lane. `guarded` lists the changed paths that made the run wait at "needs_publish". */
-  branch?: string; prNumber?: number; prUrl?: string; mergeSha?: string; revertSha?: string; previewUrl?: string; guarded?: string[];
+  /** Code lane. `guarded` lists the changed paths (at most 50) that made the run wait at "needs_publish"; `discarded` marks a run the owner turned down there. */
+  branch?: string; prNumber?: number; prUrl?: string; mergeSha?: string; revertSha?: string; previewUrl?: string; guarded?: string[]; discarded?: boolean;
   /** Why the run failed, as one sentence for the run card. */
   error?: string;
 };
@@ -90,7 +96,7 @@ export type RunView = {
   /** Owner only: the private log, newest 100 lines in order. Absent for other viewers. */
   logs?: LogView[];
 };
-export type RunActions = { stop: boolean; revert: boolean; publish: boolean };
+export type RunActions = { stop: boolean; revert: boolean; publish: boolean; discard: boolean };
 
 /** `owner` says whether the viewer is the signed-in owner (show the composer and run buttons). */
 export type ThreadsResponse = { configured: boolean; owner: boolean; threads: ThreadSummary[] };
@@ -119,7 +125,7 @@ export const isActive = (status: RunStatus) => status === "queued" || status ===
 /** The buttons a run allows. Revert needs something to undo: a published overlay (fast lane) or a merge (code lane). */
 export function runActions(run: { lane: Lane; status: RunStatus; result: RunResultView | null }): RunActions {
   const undoable = run.lane === "fast" ? Boolean(run.result?.overlayHash) && ["done", "failed", "stopped"].includes(run.status) : Boolean(run.result?.mergeSha) && run.status === "done";
-  return { stop: isActive(run.status), revert: undoable, publish: run.status === "needs_publish" };
+  return { stop: isActive(run.status), revert: undoable, publish: run.status === "needs_publish", discard: run.status === "needs_publish" };
 }
 /** A thread's title: the first line or so of its first message. */
 export function threadTitle(body: string): string {
@@ -130,6 +136,9 @@ export function threadTitle(body: string): string {
 }
 
 const SLOT = /^[a-z0-9]+(?:[.-][a-z0-9]+)*$/;
+const LONE_SURROGATE = /[\ud800-\udbff](?![\udc00-\udfff])|(?<![\ud800-\udbff])[\udc00-\udfff]/;
+/** Text Postgres can store: no NUL and no half of a surrogate pair (what cutting a string in the middle of an emoji leaves). */
+export const storable = (text: string) => !text.includes("\u0000") && !LONE_SURROGATE.test(text);
 const CONTROL = /[\u0000-\u0008\u000b-\u001f\u007f\u2028\u2029]/;
 const LIMITS = { route: 300, slot: 80, selector: 300, text: 500 } as const;
 const plain = (value: unknown): value is Record<string, unknown> => typeof value === "object" && value !== null && !Array.isArray(value);
@@ -147,7 +156,7 @@ export function parseContext(value: unknown, keys: ReadonlyArray<keyof MessageCo
   for (const key of keys) {
     const field = value[key];
     if (field === undefined) continue;
-    if (typeof field !== "string" || !field || field.length > LIMITS[key] || CONTROL.test(field)) return null;
+    if (typeof field !== "string" || !field || field.length > LIMITS[key] || CONTROL.test(field) || !storable(field)) return null;
     if (key === "route" && !sitePath(field)) return null;
     if (key === "slot" && !SLOT.test(field)) return null;
     if ((key === "selector" || key === "slot") && /[\n\t]/.test(field)) return null;
@@ -168,8 +177,24 @@ export function decodeAsk(param: unknown): AskContext | null {
     return context?.route ? { route: context.route, ...(context.slot ? { slot: context.slot } : {}), ...(context.text ? { text: context.text } : {}) } : null;
   } catch { return null; }
 }
-/** The inverse of decodeAsk, for the editor's "Ask Claude about this" link: `/studio?ask=${encodeAsk(context)}`. */
+/**
+ * The inverse of decodeAsk, for the editor's "Ask Claude about this" link: `/studio?ask=${encodeAsk(context)}`. The text is
+ * made to fit what decodeAsk accepts: control characters become spaces, and it is cut to 500 characters by code point, so
+ * an emoji is never cut in half.
+ */
 export function encodeAsk(context: AskContext): string {
-  const bytes = new TextEncoder().encode(JSON.stringify(context));
+  let text = "";
+  for (const char of (context.text ?? "").replace(/[\u0000-\u0008\u000b-\u001f\u007f\u2028\u2029]/g, " ").trim()) { if (!storable(char)) continue; if (text.length + char.length > LIMITS.text) break; text += char; }
+  const bytes = new TextEncoder().encode(JSON.stringify({ route: context.route, ...(context.slot ? { slot: context.slot } : {}), ...(text ? { text } : {}) }));
   return btoa(Array.from(bytes, (byte) => String.fromCharCode(byte)).join("")).replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, "");
+}
+/**
+ * Whether a page request may carry `?ask=`: only a navigation from this site itself (the editor's own link). A link from
+ * anywhere else could otherwise plant text in the owner's next message. Browsers say where a navigation came from in
+ * Sec-Fetch-Site; one that does not send it is judged by its Referer.
+ */
+export function askAllowed(headers: Headers): boolean {
+  const site = headers.get("sec-fetch-site");
+  if (site !== null) return site === "same-origin";
+  try { return new URL(headers.get("referer") ?? "").host === (headers.get("x-forwarded-host") ?? headers.get("host")); } catch { return false; }
 }

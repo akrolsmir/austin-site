@@ -2,7 +2,7 @@ import { createHash } from "node:crypto";
 import { imageSize } from "image-size";
 import { requireOwner } from "../../../lib/auth";
 import { stripJpeg } from "../../../lib/jpeg";
-import { OverlayConflict, OverlayError, OverlayNotFound, OverlayUnavailable, defaultBlobClient, overlayStore, type OverlayBlob } from "../../../lib/overlay";
+import { OverlayConflict, OverlayDamaged, OverlayError, OverlayNotFound, OverlayUnavailable, defaultBlobClient, overlayStore, type OverlayBlob } from "../../../lib/overlay";
 import { blobEnabled } from "../../../lib/posts";
 import { defaults, slots, validateValue, type ImageValue } from "../../../site/schema";
 
@@ -29,6 +29,15 @@ const sameSite = (request: Request) => ["same-origin", "none", null].includes(re
 
 export function overlayHandlers({ env = process.env, blob = defaultBlobClient, owner = (request) => requireOwner(request, env), revalidate = () => {} }: Deps = {}) {
   const store = () => overlayStore(env, blob);
+  // After a bake (a code change that wrote published values into content.json or theme.json) the overlay still holds those
+  // values. The first owner boot on each server process drops the entries that now equal the code defaults, so later
+  // changes to those defaults show. It cannot run at merge time: the defaults compared against must be the deployed ones.
+  let pruned = false;
+  async function prune() {
+    if (pruned || !blobEnabled(env)) return;
+    try { const dropped = await store().prune(); pruned = true; if (dropped.length) revalidate(); }
+    catch (error) { console.error(`Overlay prune skipped (${error instanceof Error ? error.name : "unknown error"}).`); }
+  }
   const guard = (write: boolean, run: (request: Request) => Promise<Response>) => async (request: Request) => {
     try {
       await owner(request);
@@ -41,14 +50,17 @@ export function overlayHandlers({ env = process.env, blob = defaultBlobClient, o
       if (error instanceof OverlayConflict) return fail(409, "The site changed while publishing. Reload and try again.");
       if (error instanceof OverlayNotFound) return fail(404, error.message);
       if (error instanceof OverlayUnavailable) return fail(503, error.message);
+      if (error instanceof OverlayDamaged) { console.error(`Overlay request failed: ${error.message}`); return fail(500, "The published version can't be read. Open History and choose Back to defaults."); }
       console.error(`Overlay request failed: ${error instanceof Error ? `${error.name}: ${error.message}` : "unknown error"}`);
       return fail(500, "Something went wrong.");
     }
   };
   return {
     get: guard(false, async () => {
-      const { overlay, head } = await store().read();
-      return json({ overlay, current: head.current, history: head.history, defaults, slots });
+      await prune();
+      // A head or version that cannot be parsed still boots the editor, so the owner can reset it from History.
+      const { overlay, head, damaged } = await store().read().catch((error) => { if (!(error instanceof OverlayDamaged)) throw error; console.error(`Overlay is damaged: ${error.message}`); return { overlay: {}, head: { current: null, history: [] }, damaged: true }; }) as Awaited<ReturnType<ReturnType<typeof store>["read"]>> & { damaged?: boolean };
+      return json({ overlay, current: head.current, history: head.history, defaults, slots, ...(damaged ? { damaged: true } : {}) });
     }),
     publish: guard(true, async (request) => {
       const { patch, summary } = await body(request);

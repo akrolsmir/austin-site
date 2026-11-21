@@ -7,6 +7,10 @@
     {
       "path": "/api/sync",
       "schedule": "*/15 * * * *"
+    },
+    {
+      "path": "/api/studio/tick",
+      "schedule": "*/10 * * * *"
     }
   ]
 }

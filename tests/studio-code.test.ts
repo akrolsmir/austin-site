@@ -8,7 +8,7 @@ import * as schema from "../src/db/schema";
 import type { Db } from "../src/db";
 import { studioHandlers } from "../src/app/api/studio/handlers";
 import type { OverlayStore } from "../src/lib/overlay";
-import { CODE_LANE_UNAVAILABLE, GUARDED_PATHS, LEASE_MS, MAX_FILES, MAX_FILE_BYTES, PREVIEW_MAX_MS, STOP_GRACE_MS, branchName, codeSweepDue, globMatch, guardedPaths, hashToken, parseResult, publishCodeRun, revertCodeRun, runnerEvent, safePath, sandboxName, startCodeRun, sweepCodeRuns, type CodeDeps } from "../src/lib/studio/code";
+import { AUTO_MERGE_PATHS, CODE_LANE_UNAVAILABLE, LEASE_MS, NO_BUILD, NO_BUILD_MS, discardCodeRun, MAX_FILES, MAX_FILE_BYTES, PREVIEW_MAX_MS, STOP_GRACE_MS, branchName, codeSweepDue, globMatch, guardedPaths, hashToken, parseResult, publishCodeRun, revertCodeRun, runnerEvent, safePath, sandboxName, startCodeRun, sweepCodeRuns, type CodeDeps } from "../src/lib/studio/code";
 import { github } from "../src/lib/studio/github";
 import { TooBig, type Box, type SandboxClient } from "../src/lib/studio/sandbox";
 import { CODE_RUNS_PER_DAY, StudioLimit, claimNextRun, createThread, getRun, getThread, postMessage, requestStop, startRun } from "../src/lib/studio/store";
@@ -70,6 +70,7 @@ function fakeGitHub(clock: () => number) {
       return reply(pr, 201);
     }
     if (method === "GET" && pull && !pull[2]) { const pr = state.prs.get(Number(pull[1])); return pr ? reply(pr) : reply({ message: "Not Found" }, 404); }
+    if (method === "PATCH" && pull && !pull[2]) { const pr = state.prs.get(Number(pull[1]))!; pr.state = String(body!.state); return reply(pr); }
     if (method === "PUT" && pull?.[2]) {
       const pr = state.prs.get(Number(pull[1]))!;
       if (state.mergeFailures-- > 0) return reply({ message: "SECRET-RESPONSE-BODY not mergeable" }, 405);
@@ -108,8 +109,8 @@ async function world(env: Record<string, string | undefined> = ENV) {
   return { db, deps, sandbox, gh, time, begin, event, row, view };
 }
 const changes = (files: Array<{ path: string; mode: string | null }>, extra: Record<string, unknown> = {}) => ({ outcome: "changes", base: BASE, files, title: "Add a guestbook page", summary: "There is now a guestbook at /guestbook.", details: "Used a slot for the heading. <!-- hidden --> cc @someone", checksPassed: true, ...extra });
-const PAGE = [{ path: "src/app/guestbook/page.tsx", mode: "100644" }, { path: "src/site/content.json", mode: "100644" }, { path: "old.txt", mode: null }];
-const stage = (sandbox: ReturnType<typeof fakeSandbox>) => { sandbox.put("src/app/guestbook/page.tsx", "export default function Page() {}\n"); sandbox.put("src/site/content.json", "{}\n"); };
+const PAGE = [{ path: "src/app/guestbook/guestbook.css", mode: "100644" }, { path: "src/site/content.json", mode: "100644" }, { path: "src/app/old.css", mode: null }];
+const stage = (sandbox: ReturnType<typeof fakeSandbox>) => { sandbox.put("src/app/guestbook/guestbook.css", ".guestbook { color: var(--ink); }\n"); sandbox.put("src/site/content.json", "{}\n"); };
 
 test("globs, guarded paths, and path safety", () => {
   assert.ok(globMatch("src/app/api/**", "src/app/api/studio/runner/route.ts"));
@@ -118,10 +119,17 @@ test("globs, guarded paths, and path safety", () => {
   assert.ok(!globMatch("package.json", "packageXjson")); // dots are literal
   assert.ok(!globMatch("package.json", "docs/package.json")); // anchored at the repo root
   assert.ok(!globMatch("src/db/**", "src/dbx/schema.ts"));
-  const guarded = ["src/lib/auth.ts", "src/app/sign-in/page.tsx", "src/lib/studio/code.ts", "scripts/studio-runner.ts", "src/app/api/overlay/route.ts", "src/lib/sync.ts", "src/lib/notion-client.ts", "vercel.json", "next.config.ts", "package.json", "bun.lock", "src/db/schema.ts", "docs/editable-site.md", "CLAUDE.md", ".claude/settings.json"];
+  // Only data and stylesheets merge by themselves. Everything else waits for Publish, including every file nobody listed:
+  // anything that runs on the server, at build time, or in the owner's browser.
+  assert.deepEqual(guardedPaths(["src/site/content.json", "src/site/theme.json", "src/app/globals.css", "src/app/studio/studio.css", "src/editor/editor.css"]), []);
+  const guarded = [
+    "src/lib/auth.ts", "src/app/sign-in/page.tsx", "src/lib/studio/code.ts", "scripts/studio-runner.ts", "src/app/api/overlay/route.ts", "src/lib/sync.ts", "src/lib/notion-client.ts", "vercel.json", "next.config.ts", "package.json", "bun.lock", "src/db/schema.ts", "docs/editable-site.md", "CLAUDE.md", ".claude/settings.json", ".github/workflows/ci.yml",
+    "next.config.js", "next.config.mjs", "src/instrumentation.ts", "src/instrumentation-client.ts", "instrumentation.ts", "src/proxy.js", "src/middleware.js", "middleware.ts", "src/app/x/route.ts", "src/app/x/route.js", "tsconfig.json", "postcss.config.mjs", "eslint.config.mjs", "bunfig.toml", ".npmrc", ".nvmrc", ".vercelignore", ".gitignore",
+    "src/lib/overlay.ts", "src/lib/types.ts", "src/lib/posts.ts", "src/lib/jpeg.ts", "src/site/schema.ts", "src/site/index.ts", "src/site/e.tsx", "src/editor/index.ts", "src/editor/app.tsx", "src/components/editor-loader.tsx", "src/app/layout.tsx", "src/app/page.tsx", "src/app/studio/studio.tsx", "src/components/prose.tsx", "scripts/sync.ts", "tests/site.test.ts",
+    "public/x.html", "data/posts/a.md", "src/lib/photos.json", "src/site/content.json.ts", "src/app/globals.css.ts", "src/site/theme.jsonx", "xsrc/site/content.json", "src/lib/x.css", "some-new-file-nobody-thought-of",
+  ];
   assert.deepEqual(guardedPaths(guarded), guarded);
-  assert.deepEqual(guardedPaths(["src/app/page.tsx", "src/site/content.json", "src/site/schema.ts", "src/app/globals.css", "src/components/prose.tsx", "tests/site.test.ts", "src/lib/authx.ts"]), []);
-  assert.ok(GUARDED_PATHS.includes("src/lib/studio/**"));
+  assert.equal(AUTO_MERGE_PATHS.length, 4);
   for (const path of ["src/app/page.tsx", "a/b.c/d", ".gitignore", "public/.well-known/x"]) assert.ok(safePath(path), path);
   for (const path of ["", "/etc/passwd", "../outside", "src/../../outside", "src/./x", "src//x", ".git/config", ".env", ".env.local", "apps/.env.production", ".ENV", "a\\b", "a\u0000b", "a\nb", "x".repeat(301), 7, null]) assert.ok(!safePath(path), String(path));
 });
@@ -242,10 +250,10 @@ test("the runner route accepts only its run's token, only while the run is runni
 
   time.t += 30000;
   assert.deepEqual(await (await event(run.id, TOKEN, "step", { text: "  Adding the\nguestbook page  " })).json(), { ok: true, stop: false });
-  assert.deepEqual(await (await event(run.id, TOKEN, "log", { text: "[Edit] src/app/guestbook/page.tsx" })).json(), { ok: true, stop: false });
+  assert.deepEqual(await (await event(run.id, TOKEN, "log", { text: "[Edit] src/app/guestbook/guestbook.css" })).json(), { ok: true, stop: false });
   const shown = (await view(run.id, run.threadId)).run;
   assert.deepEqual(shown.steps.at(-1), { seq: 3, text: "Adding the guestbook page", state: "doing", at: new Date(time.t).toISOString() });
-  assert.deepEqual(shown.logs!.map((log) => log.text), ["[Edit] src/app/guestbook/page.tsx"]);
+  assert.deepEqual(shown.logs!.map((log) => log.text), ["[Edit] src/app/guestbook/guestbook.css"]);
   time.t += 30000;
   assert.equal((await event(run.id, TOKEN, "heartbeat")).status, 200);
   assert.equal((await row(run.id)).heartbeatAt!.getTime(), time.t);
@@ -276,9 +284,10 @@ test("the happy path: files are read out of the sandbox, committed, opened as a 
   assert.deepEqual(await (await event(run.id, TOKEN, "finish", { result: changes(PAGE) })).json(), { ok: true, stop: false });
 
   for (const call of gh.state.calls) assert.equal(call.auth, `Bearer ${SECRETS.GITHUB_TOKEN}`);
-  assert.deepEqual(gh.state.blobs, ["export default function Page() {}\n", "{}\n"]);
-  assert.deepEqual(gh.state.trees, [{ base_tree: "tree-of-base", tree: [{ path: "src/app/guestbook/page.tsx", mode: "100644", type: "blob", sha: "blob1" }, { path: "src/site/content.json", mode: "100644", type: "blob", sha: "blob2" }, { path: "old.txt", mode: "100644", type: "blob", sha: null }] }]);
+  assert.deepEqual(gh.state.blobs, [".guestbook { color: var(--ink); }\n", "{}\n"]);
+  assert.deepEqual(gh.state.trees, [{ base_tree: "tree-of-base", tree: [{ path: "src/app/guestbook/guestbook.css", mode: "100644", type: "blob", sha: "blob1" }, { path: "src/site/content.json", mode: "100644", type: "blob", sha: "blob2" }, { path: "src/app/old.css", mode: "100644", type: "blob", sha: null }] }]);
   assert.deepEqual(gh.state.commits.map((commit) => [commit.parents, commit.tree, String(commit.message).split("\n")[0]]), [[[BASE], "tree-new", "Add a guestbook page"]]);
+  assert.deepEqual([gh.state.commits[0].author, /Co-Authored-By: Claude </.test(String(gh.state.commits[0].message))], [undefined, true]); // committed as the token's own user
   assert.match(String(gh.state.commits[0].message), new RegExp(`Requested in the site's studio: https://austin.site/studio/${run.threadId}`));
   assert.deepEqual(gh.state.refs, [`refs/heads/${branchName(run.id)}`]);
   assert.equal(branchName(run.id), `studio/${run.id.slice(0, 8)}`);
@@ -295,7 +304,7 @@ test("the happy path: files are read out of the sandbox, committed, opened as a 
   assert.deepEqual([done.status, done.summary, done.tokenHash], ["done", "Add a guestbook page", null]);
   assert.deepEqual(done.result, { branch: branchName(run.id), prNumber: 7, prUrl: "https://github.com/akrolsmir/austin-site/pull/7", previewUrl: "https://austin-site-git-studio.vercel.app/", mergeSha: MERGED });
   assert.deepEqual(shown.run.steps.map((step) => [step.text, step.state]), [["Starting a sandbox", "done"], ["Setting up the workspace", "done"], ["Saving 3 changed files", "done"], ["Opening a pull request", "done"], ["Waiting for the preview to build", "done"], ["Merging", "done"]]);
-  assert.deepEqual(shown.run.can, { stop: false, revert: true, publish: false });
+  assert.deepEqual(shown.run.can, { stop: false, revert: true, publish: false, discard: false });
   assert.deepEqual(shown.messages.at(-1), { id: shown.messages.at(-1)!.id, threadId: run.threadId, role: "claude", body: "There is now a guestbook at /guestbook.", private: false, createdAt: shown.messages.at(-1)!.createdAt, runId: run.id });
   assert.ok(sandbox.state.stopped >= 1);
   assert.ok(done.heartbeatAt!.getTime() >= waited + 10000); // kept fresh while waiting
@@ -324,12 +333,12 @@ test("guarded paths stop at needs_publish, and the owner's Publish merges", asyn
   gh.state.preview = () => "in_progress";
   await event(run.id, TOKEN, "finish", { result: changes([{ path: "src/app/api/hello/route.ts", mode: "100644" }, { path: "src/app/page.tsx", mode: "100644" }, { path: "package.json", mode: "100644" }]) });
   let stored = await row(run.id);
-  assert.deepEqual([stored.status, stored.endedAt, stored.result], ["needs_publish", null, { branch: branchName(run.id), prNumber: 7, prUrl: "https://github.com/akrolsmir/austin-site/pull/7", guarded: ["src/app/api/hello/route.ts", "package.json"] }]);
-  assert.match(gh.state.prs.get(7)!.body, /Waits for the owner's Publish because it changes: `src\/app\/api\/hello\/route\.ts`, `package\.json`\./);
+  assert.deepEqual([stored.status, stored.endedAt, stored.result], ["needs_publish", null, { branch: branchName(run.id), prNumber: 7, prUrl: "https://github.com/akrolsmir/austin-site/pull/7", guarded: ["src/app/api/hello/route.ts", "src/app/page.tsx", "package.json"] }]);
+  assert.match(gh.state.prs.get(7)!.body, /Waits for the owner's Publish because it changes more than copy, theme, and styles: `src\/app\/api\/hello\/route\.ts`, `src\/app\/page\.tsx`, `package\.json`\./);
   assert.ok(!gh.state.calls.some((call) => call.method === "PUT")); // nothing merged
   assert.ok(!gh.state.calls.some((call) => call.path.startsWith("/deployments"))); // and it did not wait for anything
   const shown = await view(run.id, run.threadId);
-  assert.deepEqual([shown.run.can, shown.run.steps.at(-1)!.text, shown.messages.at(-1)!.body], [{ stop: false, revert: false, publish: true }, "Waiting for your approval", "There is now a guestbook at /guestbook."]);
+  assert.deepEqual([shown.run.can, shown.run.steps.at(-1)!.text, shown.messages.at(-1)!.body], [{ stop: false, revert: false, publish: true, discard: true }, "Waiting for your approval", "There is now a guestbook at /guestbook."]);
   assert.ok(sandbox.state.stopped >= 1);
   assert.equal((await event(run.id, TOKEN, "heartbeat")).status, 401); // the runner's part is over
 
@@ -339,7 +348,7 @@ test("guarded paths stop at needs_publish, and the owner's Publish merges", asyn
   gh.state.preview = () => "success";
   assert.deepEqual(await publishCodeRun(deps, run), { ok: true });
   stored = await row(run.id);
-  assert.deepEqual([stored.status, stored.result!.mergeSha, stored.result!.guarded, stored.result!.previewUrl], ["done", MERGED, ["src/app/api/hello/route.ts", "package.json"], "https://austin-site-git-studio.vercel.app/"]);
+  assert.deepEqual([stored.status, stored.result!.mergeSha, stored.result!.guarded, stored.result!.previewUrl], ["done", MERGED, ["src/app/api/hello/route.ts", "src/app/page.tsx", "package.json"], "https://austin-site-git-studio.vercel.app/"]);
   assert.deepEqual(await publishCodeRun(deps, run), { ok: false, error: "This run is not waiting to be published." });
   assert.equal(gh.state.calls.filter((call) => call.method === "PUT").length, 1);
 });
@@ -374,7 +383,7 @@ test("failed checks leave the PR open and the run failed", async () => {
   assert.ok(!gh.state.calls.some((call) => call.method === "PUT" || call.method === "DELETE"));
   const shown = await view(run.id, run.threadId);
   assert.equal(shown.messages.filter((message) => message.role === "claude" && message.runId === run.id).length, 0); // a failed run says so on its card, not in a reply
-  assert.deepEqual(shown.run.can, { stop: false, revert: false, publish: false });
+  assert.deepEqual(shown.run.can, { stop: false, revert: false, publish: false, discard: false });
   assert.ok(sandbox.state.stopped >= 1);
 });
 
@@ -482,7 +491,7 @@ test("files that may not ship are refused before anything reaches GitHub", async
   // The report says "plain file" but the sandbox's own git index says symlink: the index wins.
   await refused((site) => { site.sandbox.put("public/photo.jpg", "/proc/self/environ", "120000"); return changes([{ path: "public/photo.jpg", mode: "100644" }]); }, /public\/photo\.jpg is a symlink/);
   await refused(() => changes([{ path: "never-added.ts", mode: "100644" }]), /never-added\.ts is a symlink or another special file/);
-  await refused((site) => { site.sandbox.put("old.txt", "still here"); return changes(PAGE); }, /old\.txt was reported as deleted but is still there/);
+  await refused((site) => { site.sandbox.put("src/app/old.css", "still here"); return changes(PAGE); }, /old\.css was reported as deleted but is still there/);
   await refused((site) => { site.sandbox.put("public/big.bin", Buffer.alloc(MAX_FILE_BYTES + 1)); return changes([{ path: "public/big.bin", mode: "100644" }]); }, /public\/big\.bin is too large/);
   await refused((site) => { site.sandbox.put("src/app/leak.ts", `const key = "${ENV.ANTHROPIC_API_KEY}";`); return changes([{ path: "src/app/leak.ts", mode: "100644" }]); }, /src\/app\/leak\.ts contains a secret/);
   await refused((site) => { site.gh.state.onMain = false; return changes(PAGE); }, /not based on the site's main branch/);
@@ -551,7 +560,7 @@ test("revert opens GitHub's revert PR for the merge and merges it at once", asyn
   assert.deepEqual(made[2].body, { merge_method: "squash", sha: "9".repeat(40), commit_title: "Revert \"Add a guestbook page\" (#8)" });
   const stored = await row(run.id);
   assert.deepEqual([stored.status, stored.result!.revertSha, stored.result!.mergeSha], ["reverted", REVERTED, MERGED]);
-  assert.deepEqual((await view(run.id, run.threadId)).run.can, { stop: false, revert: false, publish: false });
+  assert.deepEqual((await view(run.id, run.threadId)).run.can, { stop: false, revert: false, publish: false, discard: false });
   assert.deepEqual(await revertCodeRun(deps, run), { ok: false, error: "This run has nothing to revert." }); // once
 
   // A revert that conflicts is left as an open PR, and the run stays as it was.
@@ -578,4 +587,44 @@ test("an answer without changes is posted as Claude's reply, and the GitHub clie
   await assert.rejects(client.pr(7), (error: Error) => error.message === "GitHub GET /repos/akrolsmir/austin-site/pulls/7 answered 500");
   const odd = github({ GITHUB_TOKEN: "t" }, (async (input: RequestInfo | URL) => String(input).includes("/statuses") ? Response.json([{ state: "success", environment_url: "javascript:alert(1)" }]) : Response.json([{ id: 1 }, { id: 2 }])) as unknown as typeof fetch)!;
   assert.deepEqual(await odd.preview(HEAD), { state: "success", url: undefined }); // only an https preview link is kept
+});
+
+test("no build at all is reported early; discard closes the pull request; the sweep ends a fast-lane Stop nobody answered", async () => {
+  // GitHub knows of no deployment minutes after the push: Vercel is not building this repository. Say so instead of timing out.
+  const { deps, db, sandbox, gh, begin, event, row, time } = await world();
+  const run = await begin();
+  stage(sandbox);
+  gh.state.preview = () => "none";
+  let finished = 0;
+  await event(run.id, TOKEN, "finish", { result: changes(PAGE) }, {}, { ...deps, waitMs: 0, onFinish: () => { finished++; } });
+  assert.deepEqual([(await row(run.id)).status, finished], ["running", 1]);
+  time.t += NO_BUILD_MS + 1000;
+  assert.ok(NO_BUILD_MS < PREVIEW_MAX_MS);
+  await sweepCodeRuns(deps);
+  assert.deepEqual([(await row(run.id)).status, (await row(run.id)).result!.error, gh.state.prs.get(7)!.state], ["failed", NO_BUILD, "open"]);
+
+  // Waiting for Publish with no build: Publish explains, the run keeps waiting, and Discard closes the PR and ends it.
+  const held = await world(), second = await held.begin();
+  held.sandbox.put("src/app/page.tsx", "export default function Home() {}\n");
+  held.gh.state.preview = () => "none";
+  await held.event(second.id, TOKEN, "finish", { result: changes([{ path: "src/app/page.tsx", mode: "100644" }]) });
+  assert.deepEqual(await discardCodeRun(held.deps, { ...second, id: run.id }), { ok: false, error: "This run is not waiting to be published." });
+  held.time.t += NO_BUILD_MS + 1000;
+  assert.deepEqual(await publishCodeRun(held.deps, second), { ok: false, error: NO_BUILD });
+  assert.equal((await held.row(second.id)).status, "needs_publish");
+  assert.deepEqual(await discardCodeRun(held.deps, second), { ok: true });
+  const gone = await held.row(second.id);
+  assert.deepEqual([gone.status, gone.result!.discarded, held.gh.state.prs.get(7)!.state, held.gh.state.deleted, held.gh.state.calls.some((call) => call.method === "PUT")], ["stopped", true, "closed", [branchName(second.id)], false]);
+  assert.deepEqual(await publishCodeRun(held.deps, second), { ok: false, error: "This run is not waiting to be published." });
+
+  // A fast-lane run whose function died cannot hear Stop. After the grace period the sweep ends it, so the queue moves.
+  const thread = await createThread(db, { body: "quick", now: new Date(time.t) }), message = (await postMessage(db, { threadId: thread.id, role: "owner", body: "quick", now: new Date(time.t) }))!;
+  const fast = await startRun(db, { threadId: thread.id, messageId: message.id, now: new Date(time.t) });
+  assert.equal((await claimNextRun(db, new Date(time.t)))?.id, fast.id);
+  await requestStop(db, fast.id, new Date(time.t));
+  time.t += STOP_GRACE_MS + 1000;
+  assert.equal(await codeSweepDue(db, new Date(time.t)), true);
+  const stops = sandbox.state.stopped;
+  await sweepCodeRuns(deps);
+  assert.deepEqual([(await row(fast.id)).status, sandbox.state.stopped], ["stopped", stops]);
 });

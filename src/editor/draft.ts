@@ -114,13 +114,7 @@ export function relativeTime(iso: string, now = Date.now()): string {
   return `${count} ${unit}${count === 1 ? "" : "s"} ago`;
 }
 
-/** `/studio?ask=`: base64url of the UTF-8 JSON context. */
-export function encodeAsk(context: { route: string; slot?: string; text?: string }): string {
-  const clean = { route: context.route, ...(context.slot ? { slot: context.slot } : {}), ...(context.text ? { text: context.text.slice(0, 500) } : {}) };
-  let binary = "";
-  for (const byte of new TextEncoder().encode(JSON.stringify(clean))) binary += String.fromCharCode(byte);
-  return btoa(binary).replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, "");
-}
+export { encodeAsk } from "../lib/studio/types";
 /** Scales a size down (never up) so its longer edge is at most `max`. */
 export function fitWithin(width: number, height: number, max: number): { width: number; height: number } {
   const scale = Math.min(1, max / Math.max(width, height, 1));

@@ -25,7 +25,7 @@ export const verification = pgTable("verification", {
 
 // Studio. Ids are crypto.randomUUID() set by the data functions. Private rows, `context`, and run_logs never reach a non-owner.
 export type MessageContext = { route?: string; slot?: string; selector?: string; text?: string };
-export type RunResult = { overlayHash?: string; previousOverlayHash?: string; branch?: string; prNumber?: number; prUrl?: string; mergeSha?: string; revertSha?: string; previewUrl?: string; guarded?: string[]; error?: string };
+export type RunResult = { overlayHash?: string; previousOverlayHash?: string; branch?: string; prNumber?: number; prUrl?: string; mergeSha?: string; revertSha?: string; previewUrl?: string; guarded?: string[]; discarded?: boolean; error?: string };
 export const RUN_STATUSES = ["queued", "running", "done", "failed", "stopped", "needs_publish", "reverted"] as const;
 export const threads = pgTable("threads", { id: text("id").primaryKey(), title: text("title").notNull(), private: boolean("private").notNull().default(false), createdAt: now("created_at"), updatedAt: now("updated_at") });
 export const messages = pgTable("messages", {

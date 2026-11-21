@@ -1,4 +1,5 @@
 import { test } from "node:test";
+import { decodeAsk } from "../src/lib/studio/types";
 import assert from "node:assert/strict";
 import { arrange, baseValues, blankItem, cleanText, encodeAsk, fitWithin, hex6, itemId, layer, listAdd, listRemove, listSet, move, parseDraft, pruneDraft, publishOverlay, relativeTime, same, setDraft, slug, summarise, toggleOrder, type Check, type Def, type Item } from "../src/editor/draft";
 import { defaults, slots, validateValue } from "../src/site/schema";
@@ -142,6 +143,11 @@ test("the Ask Claude context is base64url JSON that survives non-ASCII text", ()
   assert.deepEqual(decode(encoded), { route: "/posts/héllo", slot: "home.intro", text: "naïve — “quotes” ✳" });
   assert.deepEqual(decode(encodeAsk({ route: "/", slot: "", text: "" })), { route: "/" });
   assert.equal(decode(encodeAsk({ route: "/", text: "x".repeat(900) })).text.length, 500);
+  // A cut never leaves half an emoji (Postgres refuses a lone surrogate), and control characters become spaces.
+  const emoji = decode(encodeAsk({ route: "/", text: `${"x".repeat(499)}😀 tail` })).text;
+  assert.deepEqual([emoji.length, emoji.isWellFormed()], [499, true]);
+  assert.equal(decode(encodeAsk({ route: "/", text: "a\u0007b \ud83d c" })).text, "a b  c");
+  assert.deepEqual(decodeAsk(encodeAsk({ route: "/", text: `tab\there\u0000 ${"😀".repeat(300)}` }))!.text!.length, 500);
 });
 
 test("image sizes fit within a bound without upscaling, and short hex colours expand", () => {

@@ -4,7 +4,7 @@ import { cache } from "react";
 import { dbEnabled, getDb } from "@/db";
 import { getOwner } from "@/lib/auth";
 import { getThread, listThreads } from "@/lib/studio/store";
-import { decodeAsk, type ThreadSummary } from "@/lib/studio/types";
+import { askAllowed, decodeAsk, type ThreadSummary } from "@/lib/studio/types";
 import { routeOf, type Held } from "../logic";
 import { Studio, type Initial } from "../studio";
 import "../studio.css";
@@ -39,6 +39,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return { title: open && !open.private ? `${open.title} | Studio` : "Studio", description: "Austin talking with his site: requests for changes, and what Claude did about them.", ...(open?.private || initial.missing ? { robots: { index: false, follow: false } } : {}) };
 }
 export default async function StudioPage({ params, searchParams }: Props) {
-  const ask = (await searchParams).ask, initial = await load(await pathOf(params));
-  return <Studio initial={initial} ask={initial.owner ? decodeAsk(Array.isArray(ask) ? ask[0] : ask) : null} />;
+  const ask = (await searchParams).ask, initial = await load(await pathOf(params)), param = Array.isArray(ask) ? ask[0] : ask;
+  // "Ask Claude about this" context is taken only from the editor's own link (a same-origin navigation), never from a link
+  // on another site. The key remounts the studio when a new one arrives while it is already open.
+  const context = initial.owner && param && askAllowed(await headers()) ? decodeAsk(param) : null;
+  return <Studio key={context ? param : "studio"} initial={initial} ask={context} />;
 }

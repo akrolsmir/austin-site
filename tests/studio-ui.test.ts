@@ -6,7 +6,7 @@ import type { MessageView, RunView, ThreadResponse, ThreadSummary } from "../src
 const ID = "3f2b8c1e-0d4a-4b6f-9a7e-5c1d2e3f4a5b", OTHER = "9a7e5c1d-2e3f-4a5b-8c1e-0d4a4b6f3f2b";
 const thread = (patch: Partial<ThreadSummary> = {}): ThreadSummary => ({ id: ID, title: "A thread", private: false, createdAt: "2026-11-21T10:00:00.000Z", updatedAt: "2026-11-21T10:00:00.000Z", status: null, ...patch });
 const message = (id: string, createdAt: string, patch: Partial<MessageView> = {}): MessageView => ({ id, threadId: ID, role: "owner", body: id, private: false, createdAt, runId: null, ...patch });
-const run = (id: string, patch: Partial<RunView> = {}): RunView => ({ id, threadId: ID, lane: "fast", status: "running", messageId: "m1", summary: null, result: null, stopRequested: false, createdAt: "2026-11-21T10:00:01.000Z", startedAt: null, endedAt: null, steps: [], can: { stop: true, revert: false, publish: false }, ...patch });
+const run = (id: string, patch: Partial<RunView> = {}): RunView => ({ id, threadId: ID, lane: "fast", status: "running", messageId: "m1", summary: null, result: null, stopRequested: false, createdAt: "2026-11-21T10:00:01.000Z", startedAt: null, endedAt: null, steps: [], can: { stop: true, revert: false, publish: false, discard: false }, ...patch });
 const response = (patch: Partial<ThreadResponse> = {}): ThreadResponse => ({ configured: true, owner: false, thread: thread(), messages: [], runs: [], at: "2026-11-21T10:00:05.000Z", ...patch });
 
 test("studio routes: the index, the composer, one thread, and everything else is missing", () => {

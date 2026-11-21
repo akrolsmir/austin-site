@@ -1,12 +1,13 @@
 import { createHash } from "node:crypto";
-import { BlobPreconditionFailedError, get, put } from "@vercel/blob";
+import { del, put } from "@vercel/blob";
 import { defaults, slots, validateValue, type Overlay } from "../site/schema";
-import { blobEnabled, readBlob, type BlobGet } from "./posts";
+import { PointerConflict, blobEnabled, blobReads, readBlob, readPointer, writePointer, type BlobGet, type BlobReads } from "./posts";
 
 // The published slot values (docs/editable-site.md, "Overlay"). Each version is an immutable, content-addressed file
-// (site/overlay/<hash>.json); site/overlay/head.json names the live one and is the single commit point, written only if
-// it is unchanged since it was read (ifMatch), so two publishes can never silently overwrite each other.
-export const HEAD_PATH = "site/overlay/head.json";
+// (site/overlay/<hash>.json). The head (which version is live, plus the history) is the single commit point: a pointer
+// under site/overlay/heads/ (readPointer in posts.ts), written as number n+1 only if n is still the newest, so two
+// publishes can never silently overwrite each other and a read right after a publish sees it.
+export const HEAD_PREFIX = "site/overlay/heads/";
 export const HISTORY_CAP = 200;
 export const versionPath = (hash: string) => `site/overlay/${hash}.json`;
 export type HeadEntry = { hash: string; at: string; summary: string; by: string };
@@ -21,6 +22,10 @@ export class OverlayConflict extends Error {
 export class OverlayNotFound extends Error {
   constructor() { super("That version does not exist."); this.name = "OverlayNotFound"; }
 }
+/** The head or the live version cannot be parsed or is missing. Only `revert(null)` (back to the defaults) gets past it. */
+export class OverlayDamaged extends Error {
+  constructor(message: string) { super(message); this.name = "OverlayDamaged"; }
+}
 /** A write was attempted without Blob configured (reads just see an empty overlay). */
 export class OverlayUnavailable extends Error {
   constructor() { super("Blob storage is not configured."); this.name = "OverlayUnavailable"; }
@@ -33,8 +38,8 @@ export type OverlayStore = {
   revert(hash: string | null, meta?: Partial<PublishMeta>): Promise<{ hash: string; previous: string | null }>;
   prune(): Promise<string[]>;
 };
-export type OverlayBlob = { get: BlobGet; put: typeof put };
-export const defaultBlobClient: OverlayBlob = { get, put };
+export type OverlayBlob = BlobReads & { put: typeof put; del: typeof del };
+export const defaultBlobClient: OverlayBlob = { ...blobReads, put, del };
 type Env = Record<string, string | undefined>;
 
 const HASH = /^[0-9a-f]{16}$/;
@@ -53,36 +58,34 @@ export function parseHead(text: string): Head {
 async function readVersion(blobGet: BlobGet, hash: string): Promise<Overlay | null> {
   const found = await readBlob(blobGet, versionPath(hash));
   if (!found) return null;
-  const overlay = JSON.parse(found.text);
-  if (!plain(overlay)) throw new Error(`Overlay version ${hash} is malformed.`);
+  let overlay: unknown;
+  try { overlay = JSON.parse(found.text); } catch { /* handled below */ }
+  if (!plain(overlay)) throw new OverlayDamaged(`Overlay version ${hash} is malformed.`);
   return overlay;
 }
-// The head is read from origin (bypassing the CDN) so a read right after a publish sees it; versions are immutable.
-async function load(blobGet: BlobGet) {
-  const found = await readBlob(blobGet, HEAD_PATH, false);
-  const head: Head = found ? parseHead(found.text) : { current: null, history: [] };
-  const overlay = head.current ? await readVersion(blobGet, head.current) : {};
-  if (!overlay) throw new Error(`Overlay version ${head.current} is missing.`);
-  return { head, etag: found?.etag, overlay };
+async function loadHead(blob: BlobReads) {
+  const found = await readPointer(blob, HEAD_PREFIX);
+  let head: Head = { current: null, history: [] };
+  if (found) try { head = parseHead(found.text); } catch { throw new OverlayDamaged("Overlay head is malformed."); }
+  return { head, seq: found?.seq ?? 0, older: found?.older ?? [] };
+}
+async function load(blob: BlobReads) {
+  const from = await loadHead(blob), overlay = from.head.current ? await readVersion(blob.get, from.head.current) : {};
+  if (!overlay) throw new OverlayDamaged(`Overlay version ${from.head.current} is missing.`);
+  return { ...from, overlay };
 }
 
 export function overlayStore(env: Env = process.env, blob: OverlayBlob = defaultBlobClient, now: () => Date = () => new Date()): OverlayStore {
-  const state = async () => { if (!blobEnabled(env)) throw new OverlayUnavailable(); return load(blob.get); };
+  const state = async () => { if (!blobEnabled(env)) throw new OverlayUnavailable(); return load(blob); };
   type State = Awaited<ReturnType<typeof state>>;
-  // Moves the head to `current`, only if the head is still the one read at the start. With no head yet the write refuses
-  // to overwrite, so the very first publish is conditional too. Any failure after which the head is no longer the one we
-  // read is reported as a conflict (Blob has no distinct error for "already exists").
+  // Moves the head to `current` as pointer number seq + 1, which only succeeds while the head read at the start is still
+  // the newest (the very first publish included). Losing that race is a conflict; nothing is live until this write lands.
   async function commit(from: State, current: string, meta: PublishMeta) {
     const entry: HeadEntry = { hash: current, at: now().toISOString(), summary: clean(meta.summary, 200, "Edited"), by: clean(meta.by, 80, "editor") };
     const next: Head = { current, history: [entry, ...from.head.history].slice(0, HISTORY_CAP) };
-    try {
-      await blob.put(HEAD_PATH, JSON.stringify(next), { access: "public", addRandomSuffix: false, allowOverwrite: Boolean(from.etag), ifMatch: from.etag, contentType: "application/json", cacheControlMaxAge: 60 });
-    } catch (error) {
-      if (error instanceof BlobPreconditionFailedError) throw new OverlayConflict();
-      const after = await readBlob(blob.get, HEAD_PATH, false).catch(() => undefined);
-      if (after !== undefined && after?.etag !== from.etag) throw new OverlayConflict();
-      throw error;
-    }
+    try { await writePointer(blob, HEAD_PREFIX, from.seq + 1, JSON.stringify(next), env.BLOB_READ_WRITE_TOKEN ?? ""); }
+    catch (error) { throw error instanceof PointerConflict ? new OverlayConflict() : error; }
+    if (from.older.length) await blob.del(from.older).catch(() => {}); // old heads, once 20 newer ones exist
   }
   async function save(from: State, overlay: Overlay, meta: PublishMeta) {
     const hash = overlayHash(overlay), previous = from.head.current;
@@ -94,7 +97,7 @@ export function overlayStore(env: Env = process.env, blob: OverlayBlob = default
   return {
     async read() {
       if (!blobEnabled(env)) return { overlay: {}, head: { current: null, history: [] } };
-      const { overlay, head } = await load(blob.get);
+      const { overlay, head } = await load(blob);
       return { overlay, head };
     },
     async publish(patch, meta) {
@@ -109,7 +112,12 @@ export function overlayStore(env: Env = process.env, blob: OverlayBlob = default
       return save(from, overlay, meta);
     },
     async revert(hash, meta = {}) {
-      const from = await state(), previous = from.head.current;
+      // Going back to the defaults also works when the head or its version cannot be read: it is the way out of that state.
+      const from = await state().catch(async (error) => {
+        if (hash !== null || !(error instanceof OverlayDamaged)) throw error;
+        const head = await loadHead(blob).catch(async () => ({ head: { current: null, history: [] } as Head, seq: (await readPointer(blob, HEAD_PREFIX))?.seq ?? 0, older: [] as string[] }));
+        return { ...head, overlay: {} as Overlay };
+      }), previous = from.head.current;
       if (hash === null) return (({ hash, previous }) => ({ hash, previous }))(await save(from, {}, { summary: meta.summary ?? "Reverted to the defaults", by: meta.by ?? "revert" }));
       if (typeof hash !== "string" || !HASH.test(hash) || !from.head.history.some((entry) => entry.hash === hash) || !(await readVersion(blob.get, hash))) throw new OverlayNotFound();
       if (hash !== previous) await commit(from, hash, { summary: meta.summary ?? `Reverted to ${hash}`, by: meta.by ?? "revert" });
@@ -129,16 +137,27 @@ export function overlayStore(env: Env = process.env, blob: OverlayBlob = default
 }
 
 // Versions are immutable, so the last one read is kept for the process lifetime; only the small head is read per render.
-let last: { hash: string; overlay: Overlay } | undefined;
-/** The published overlay for rendering. No Blob token or no head yet: `{}`. A Blob read error throws (the build fails or ISR keeps the previous page). */
-export async function readPublishedOverlay(env: Env = process.env, blobGet: BlobGet = get): Promise<Overlay> {
-  if (!blobEnabled(env)) return {};
-  const found = await readBlob(blobGet, HEAD_PATH, false);
-  const hash = found ? parseHead(found.text).current : null;
-  if (!hash) return {};
-  if (last?.hash === hash) return last.overlay;
-  const overlay = await readVersion(blobGet, hash);
-  if (!overlay) throw new Error(`Overlay version ${hash} is missing.`);
-  last = { hash, overlay };
-  return overlay;
+/**
+ * A reader of the published overlay for rendering. No Blob token or no head yet: `{}`. When a read fails, the last overlay
+ * this process read is used (and the failure logged); with none to fall back on it throws, so the build fails or ISR keeps
+ * the previous page. It never falls back to the defaults for a site that has published values.
+ */
+export function overlayReader(env: Env = process.env, blob: BlobReads = defaultBlobClient) {
+  let last: { hash: string | null; overlay: Overlay } | undefined;
+  return async function read(): Promise<Overlay> {
+    if (!blobEnabled(env)) return {};
+    try {
+      const found = await readPointer(blob, HEAD_PREFIX), hash = found ? parseHead(found.text).current : null;
+      if (last?.hash === hash) return last.overlay;
+      const overlay = hash ? await readVersion(blob.get, hash) : {};
+      if (!overlay) throw new OverlayDamaged(`Overlay version ${hash} is missing.`);
+      last = { hash, overlay };
+      return overlay;
+    } catch (error) {
+      if (!last) throw error;
+      console.error(`Overlay read failed (${error instanceof Error ? error.name : "unknown error"}); rendering the last version read.`);
+      return last.overlay;
+    }
+  };
 }
+export const readPublishedOverlay = overlayReader();
