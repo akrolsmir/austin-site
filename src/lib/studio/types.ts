@@ -42,6 +42,15 @@
 // is the run; a run that ends "failed" has `result.error` instead, a sentence to show on its card.
 
 export const MAX_MESSAGE_CHARS = 8000;
+/** How both lanes reach the model: OpenRouter's Anthropic-compatible endpoint when OPENROUTER_API_KEY is set, else Anthropic directly. */
+export const OPENROUTER_URL = "https://openrouter.ai/api";
+export type ModelAccess = { key: string; openrouter: boolean; model: (id: string) => string };
+/** OpenRouter names Anthropic models `anthropic/claude-sonnet-5.5`; ids that already carry a vendor pass through. */
+export const openrouterModel = (id: string) => id.includes("/") ? id : `anthropic/${id.replace(/-(\d)-(\d)$/, "-$1.$2")}`;
+export function modelAccess(env: Record<string, string | undefined>): ModelAccess | null {
+  if (env.OPENROUTER_API_KEY) return { key: env.OPENROUTER_API_KEY, openrouter: true, model: openrouterModel };
+  return env.ANTHROPIC_API_KEY ? { key: env.ANTHROPIC_API_KEY, openrouter: false, model: (id) => id } : null;
+}
 export const RUN_LANES = ["fast", "code"] as const;
 export type Lane = (typeof RUN_LANES)[number];
 export type RunStatus = "queued" | "running" | "done" | "failed" | "stopped" | "needs_publish" | "reverted";

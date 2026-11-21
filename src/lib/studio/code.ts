@@ -7,7 +7,7 @@ import { resolveSite } from "../../site/schema";
 import { GitHubError, github, repoOf, type FileChange } from "./github";
 import { SANDBOX_ROOT, TooBig, vercelSandbox, type Box, type SandboxClient } from "./sandbox";
 import { CODE_RUNS_PER_DAY, DAY_MS, addLog, addStep, finishRun, getMessage, getRun, history, markReverted, noteResult, postMessage, touchRun, type RunRow } from "./store";
-import { MAX_MESSAGE_CHARS, threadTitle } from "./types";
+import { MAX_MESSAGE_CHARS, OPENROUTER_URL, modelAccess, threadTitle } from "./types";
 
 // The code lane (docs/editable-site.md, "Code lane"). A code change takes minutes and a Vercel function gets 300 s, so no
 // single request carries a run. It moves forward in short hops, each one a request with its own time budget:
@@ -15,7 +15,7 @@ import { MAX_MESSAGE_CHARS, threadTitle } from "./types";
 //  1. startCodeRun (inside the posting request's after(), or a poll's): mints a per-run token and stores its hash, creates
 //     a Vercel Sandbox with the repo cloned, copies scripts/studio-runner.ts out of the deployed commit, writes the brief,
 //     and starts the runner detached. It returns as soon as the runner is going; the run stays "running".
-//  2. The runner (in the sandbox, with only ANTHROPIC_API_KEY and the token) drives the Agent SDK and the checks. Each of
+//  2. The runner (in the sandbox, with only the model key and the token) drives the Agent SDK and the checks. Each of
 //     its POSTs to /api/studio/runner (step, log, heartbeat) is a tiny request that keeps the run's heartbeat fresh and
 //     tells it whether the owner pressed Stop.
 //  3. Its last POST, "finish", retires the token and does the GitHub work in that request (maxDuration 300): reads the
@@ -130,7 +130,8 @@ export async function startCodeRun(deps: CodeDeps, run: CodeRun, brief?: string)
   const { db, env, now, sandbox, gh, log, fail } = context(deps);
   let callback: URL | undefined;
   try { callback = new URL("/api/studio/runner", deps.origin); } catch { /* no origin */ }
-  if (!env.ANTHROPIC_API_KEY || !gh || !callback || !/^https?:$/.test(callback.protocol)) return fail(run.id, CODE_LANE_UNAVAILABLE, `Missing: ${[!env.ANTHROPIC_API_KEY && "ANTHROPIC_API_KEY", !gh && "GITHUB_TOKEN", !callback && "the site's origin"].filter(Boolean).join(", ")}`);
+  const access = modelAccess(env);
+  if (!access || !gh || !callback || !/^https?:$/.test(callback.protocol)) return fail(run.id, CODE_LANE_UNAVAILABLE, `Missing: ${[!access && "OPENROUTER_API_KEY or ANTHROPIC_API_KEY", !gh && "GITHUB_TOKEN", !callback && "the site's origin"].filter(Boolean).join(", ")}`);
   let box: Box | undefined;
   try {
     // The cap is enforced where a run enters the lane (startRun, escalateRun); this run is already counted, hence ">".
@@ -155,7 +156,7 @@ export async function startCodeRun(deps: CodeDeps, run: CodeRun, brief?: string)
     await box.write([{ path: BRIEF_PATH, content: JSON.stringify({ runId: run.id, request: trigger.body.slice(0, MAX_MESSAGE_CHARS), brief: brief ?? "", private: trigger.private, context: trigger.context ?? null, thread, overlay: published }) }]);
     // Everything the sandbox is given: the model key (the agent's own) and this run's token. No GitHub, database, Blob, or auth secret.
     await box.run("bash", ["-c", `export PATH="$HOME/.bun/bin:$PATH"; exec bun ${RUNNER_DIR}/${RUNNER_FILE} > /tmp/studio-runner.log 2>&1`], {
-      detached: true, env: { ANTHROPIC_API_KEY: env.ANTHROPIC_API_KEY, STUDIO_RUN_ID: run.id, STUDIO_RUN_TOKEN: token, STUDIO_CALLBACK_URL: callback.href, STUDIO_CODE_MODEL: env.STUDIO_CODE_MODEL || CODE_MODEL },
+      detached: true, env: { ...(access.openrouter ? { ANTHROPIC_AUTH_TOKEN: access.key, ANTHROPIC_BASE_URL: OPENROUTER_URL } : { ANTHROPIC_API_KEY: access.key }), STUDIO_RUN_ID: run.id, STUDIO_RUN_TOKEN: token, STUDIO_CALLBACK_URL: callback.href, STUDIO_CODE_MODEL: access.model(env.STUDIO_CODE_MODEL || CODE_MODEL) },
     });
     await touchRun(db, run.id, now());
     return { ok: true };
@@ -253,7 +254,7 @@ async function finishCode(deps: CodeDeps, run: RunRow, raw: unknown): Promise<vo
     await addStep(db, run.id, `Saving ${result.files.length} changed file${result.files.length === 1 ? "" : "s"}`, { now: now() });
     const box = await sandbox.get(sandboxName(run.id));
     if (!box) { await fail(run.id, "The sandbox was gone before its work could be saved."); return; }
-    const files = await readChanges(box, result.files, [env.ANTHROPIC_API_KEY ?? ""]);
+    const files = await readChanges(box, result.files, [env.ANTHROPIC_API_KEY ?? "", env.OPENROUTER_API_KEY ?? ""]);
     await box.stop().catch(() => {});
     if (!(await gh.onMain(result.base))) throw new Refused("The change was not based on the site's main branch, so nothing was saved.");
     // A private request stays out of the (public) repository: the PR says only that it was asked for privately.

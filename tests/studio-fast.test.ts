@@ -341,3 +341,12 @@ test("a follow-up is told about a code change of the thread that is still waitin
   const last = seen[0].messages.at(-1)!.content as Anthropic.TextBlockParam[];
   assert.match(last[1].text, /^<studio_state>[\s\S]*pull request #12[\s\S]*not on the site yet/);
 });
+
+test("model access prefers OpenRouter and renames models for it", async () => {
+  const { modelAccess, openrouterModel } = await import("../src/lib/studio/types");
+  assert.equal(modelAccess({}), null);
+  assert.deepEqual([modelAccess({ ANTHROPIC_API_KEY: "a" })!.openrouter, modelAccess({ ANTHROPIC_API_KEY: "a" })!.model("claude-sonnet-5-5")], [false, "claude-sonnet-5-5"]);
+  const both = modelAccess({ ANTHROPIC_API_KEY: "a", OPENROUTER_API_KEY: "o" })!;
+  assert.deepEqual([both.key, both.openrouter, both.model("claude-sonnet-5-5")], ["o", true, "anthropic/claude-sonnet-5.5"]);
+  assert.deepEqual(["claude-opus-5-5", "claude-haiku-5", "openai/gpt-x", "claude-opus-4-20250514"].map(openrouterModel), ["anthropic/claude-opus-5.5", "anthropic/claude-haiku-5", "openai/gpt-x", "anthropic/claude-opus-4-20250514"]);
+});

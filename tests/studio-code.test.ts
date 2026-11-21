@@ -628,3 +628,12 @@ test("no build at all is reported early; discard closes the pull request; the sw
   await sweepCodeRuns(deps);
   assert.deepEqual([(await row(fast.id)).status, sandbox.state.stopped], ["stopped", stops]);
 });
+
+test("with an OpenRouter key the sandbox gets a bearer token, the OpenRouter endpoint, and OpenRouter model names", async () => {
+  const key = "sk-or-v1-OPENROUTER-KEY-0123456789";
+  const { deps, sandbox, begin } = await world({ ...ENV, OPENROUTER_API_KEY: key, STUDIO_CODE_MODEL: undefined });
+  const run = await begin("x", { start: false });
+  assert.deepEqual(await startCodeRun(deps, run), { ok: true });
+  const given = sandbox.state.commands[1].env!;
+  assert.deepEqual([given.ANTHROPIC_AUTH_TOKEN, given.ANTHROPIC_BASE_URL, given.ANTHROPIC_API_KEY, given.STUDIO_CODE_MODEL], [key, "https://openrouter.ai/api", undefined, "anthropic/claude-opus-5.5"]);
+});

@@ -2,7 +2,7 @@
 // lane"). It installs dependencies, drives the Claude Agent SDK on the request, runs the checks (two fix attempts), and
 // sends the list of changed files to /api/studio/runner, which reads them out of the sandbox and does the GitHub work.
 //
-// The sandbox holds two secrets: ANTHROPIC_API_KEY (the agent's own key) and STUDIO_RUN_TOKEN, which only works for this
+// The sandbox holds two secrets: the model key (the agent's own: ANTHROPIC_API_KEY, or ANTHROPIC_AUTH_TOKEN for OpenRouter) and STUDIO_RUN_TOKEN, which only works for this
 // run while it is running. No GitHub token, database URL, Blob token, or auth secret ever comes here; keep it that way.
 //
 // This file is copied alone out of the deployed commit to /tmp/studio-runner and run with the clone as the working
@@ -19,11 +19,11 @@ type Result = { outcome: "answered"; summary: string } | { outcome: "failed"; er
   | { outcome: "changes"; base: string; files: Array<{ path: string; mode: string | null }>; title: string; summary: string; details: string; checksPassed: boolean };
 
 const ROOT = process.cwd(), BUDGET_MS = 30 * 60 * 1000, BEAT_MS = 5000, started = Date.now();
-const { ANTHROPIC_API_KEY = "", STUDIO_RUN_ID = "", STUDIO_RUN_TOKEN = "", STUDIO_CALLBACK_URL = "", STUDIO_CODE_MODEL = "claude-opus-5-5" } = process.env;
+const { ANTHROPIC_API_KEY = "", ANTHROPIC_AUTH_TOKEN = "", STUDIO_RUN_ID = "", STUDIO_RUN_TOKEN = "", STUDIO_CALLBACK_URL = "", STUDIO_CODE_MODEL = "claude-opus-5-5" } = process.env;
 const CHECKS = ["bun run typecheck", "bun run lint", "bun test", "bun run build"];
 // What commands and the agent's tools inherit: never the run token.
 const childEnv: NodeJS.ProcessEnv = { ...process.env, STUDIO_RUN_TOKEN: "", PATH: `${process.env.HOME}/.bun/bin:${process.env.PATH}` };
-const redact = (text: string) => [ANTHROPIC_API_KEY, STUDIO_RUN_TOKEN].filter((secret) => secret.length >= 8).reduce((out, secret) => out.split(secret).join("[redacted]"), text);
+const redact = (text: string) => [ANTHROPIC_API_KEY, ANTHROPIC_AUTH_TOKEN, STUDIO_RUN_TOKEN].filter((secret) => secret.length >= 8).reduce((out, secret) => out.split(secret).join("[redacted]"), text);
 const tail = (text: string, max = 3000) => text.length > max ? `…${text.slice(-max)}` : text;
 
 // --- Reporting: steps for the public checklist, a private log, and a heartbeat that doubles as the Stop poll ---
@@ -52,7 +52,7 @@ async function beat() {
 }
 
 function sh(command: string, quiet = false) {
-  const done = spawnSync("bash", ["-c", command], { cwd: ROOT, encoding: "utf8", maxBuffer: 64 * 1024 * 1024, env: { ...childEnv, ANTHROPIC_API_KEY: "" } });
+  const done = spawnSync("bash", ["-c", command], { cwd: ROOT, encoding: "utf8", maxBuffer: 64 * 1024 * 1024, env: { ...childEnv, ANTHROPIC_API_KEY: "", ANTHROPIC_AUTH_TOKEN: "" } });
   const output = `${done.stdout ?? ""}${done.stderr ?? ""}`;
   if (!quiet) log(`$ ${command}${done.status === 0 ? "" : ` (exit ${done.status})`}\n${tail(output.trim(), 2000)}`);
   return { ok: done.status === 0, output };
@@ -120,7 +120,8 @@ async function runAgent(input: string, resume?: string): Promise<{ final: Final;
     const session = query({ prompt: input, options: {
       cwd: ROOT, model: STUDIO_CODE_MODEL, resume, maxTurns: 150, abortController, permissionMode: "bypassPermissions", allowDangerouslySkipPermissions: true,
       settingSources: ["project"], outputFormat: { type: "json_schema", schema: SCHEMA }, systemPrompt: { type: "preset", preset: "claude_code", append: RULES },
-      env: { ...childEnv, CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC: "1" },
+      // Through OpenRouter the SDK's own model aliases have to be OpenRouter names too.
+      env: { ...childEnv, CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC: "1", ...(ANTHROPIC_AUTH_TOKEN ? { ANTHROPIC_API_KEY: "", ANTHROPIC_DEFAULT_OPUS_MODEL: STUDIO_CODE_MODEL, ANTHROPIC_DEFAULT_SONNET_MODEL: "anthropic/claude-sonnet-5.5", ANTHROPIC_DEFAULT_HAIKU_MODEL: "anthropic/claude-haiku-5.5" } : {}) },
     } });
     for await (const message of session) {
       if (message.type === "system" && message.subtype === "init") sessionId = message.session_id;

@@ -5,7 +5,7 @@ import { OverlayConflict, OverlayError, OverlayUnavailable, type OverlayStore } 
 import { defaults, fonts, resolveSite, slots } from "../../site/schema";
 import { startCodeRun, type CodeDeps, type CodeOutcome, type CodeRun } from "./code";
 import { CODE_RUNS_PER_DAY, addLog, addStep, escalateRun, failStep, finishRun, getMessage, history, noteResult, postMessage, stopRequested, touchRun, waitingRuns, type MessageRow } from "./store";
-import { MAX_MESSAGE_CHARS, sitePath } from "./types";
+import { MAX_MESSAGE_CHARS, OPENROUTER_URL, modelAccess, sitePath } from "./types";
 
 // The fast lane (docs/editable-site.md, "Fast lane"): one Messages API tool loop that answers the owner or publishes slot
 // values through the overlay. Everything it touches is injected (the model client, the overlay store, fetch, revalidation,
@@ -22,7 +22,7 @@ export const NO_KEY = "Claude isn't connected on this site yet (no API key is se
 export type FastClient = { messages: { create(params: Anthropic.MessageCreateParamsNonStreaming, options?: { timeout?: number; maxRetries?: number }): Promise<Anthropic.Message> } };
 export type FastDeps = {
   db: Db; overlay: OverlayStore; env?: Record<string, string | undefined>;
-  /** Omit to build one from ANTHROPIC_API_KEY; without a key the run fails with NO_KEY. */
+  /** Omit to build one from OPENROUTER_API_KEY or ANTHROPIC_API_KEY; without a key the run fails with NO_KEY. */
   client?: FastClient | null;
   /** The site's own origin, for read_page. */
   origin?: string; fetch?: typeof fetch; revalidate?: () => void; now?: () => Date; maxTurns?: number;
@@ -170,7 +170,8 @@ export async function runFast(deps: FastDeps, run: CodeRun): Promise<void> {
   try {
     const trigger = await getMessage(db, run.messageId);
     if (!trigger) return await fail("The message for this run is missing.");
-    const client: FastClient | null = deps.client !== undefined ? deps.client : env.ANTHROPIC_API_KEY ? new Anthropic({ apiKey: env.ANTHROPIC_API_KEY, timeout: CALL_MS, maxRetries: 1 }) : null;
+    const access = modelAccess(env);
+    const client: FastClient | null = deps.client !== undefined ? deps.client : !access ? null : access.openrouter ? new Anthropic({ apiKey: null, authToken: access.key, baseURL: OPENROUTER_URL, timeout: CALL_MS, maxRetries: 1 }) : new Anthropic({ apiKey: access.key, timeout: CALL_MS, maxRetries: 1 });
     if (!client) return await fail(NO_KEY);
     // A follow-up in a thread with an unpublished code change: the model has to know that change is not on the site.
     const waiting = (await waitingRuns(db, run.threadId)).map((row) => `pull request #${row.result?.prNumber ?? "?"}`).join(", ");
@@ -188,7 +189,7 @@ export async function runFast(deps: FastDeps, run: CodeRun): Promise<void> {
       await touchRun(db, run.id, now());
       let response: Anthropic.Message;
       try {
-        response = await client.messages.create({ model: env.STUDIO_FAST_MODEL || FAST_MODEL, max_tokens: 8000, system: SYSTEM, tools: TOOLS, output_config: { effort: "medium" }, messages }, { timeout: Math.min(CALL_MS, left), maxRetries: left > 2 * CALL_MS + MIN_TURN_MS ? 1 : 0 });
+        response = await client.messages.create({ model: (access?.model ?? String)(env.STUDIO_FAST_MODEL || FAST_MODEL), max_tokens: 8000, system: SYSTEM, tools: TOOLS, output_config: { effort: "medium" }, messages }, { timeout: Math.min(CALL_MS, left), maxRetries: left > 2 * CALL_MS + MIN_TURN_MS ? 1 : 0 });
       } catch (error) {
         console.error(`Studio fast lane: the model call failed (${describe(error)}).`);
         return await fail(modelError(error), `Model call failed: ${describe(error)}`);

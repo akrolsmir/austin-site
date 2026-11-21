@@ -43,7 +43,7 @@ Runs move forward on studio page views and on a cron (`/api/studio/tick`, every 
 | `BETTER_AUTH_URL` | sign-in, studio | The site's public origin, e.g. `https://austin.site`. Also the origin the studio fetches pages from and the sandbox calls back to. |
 | `GITHUB_CLIENT_ID`, `GITHUB_CLIENT_SECRET` | sign-in | The GitHub OAuth app. |
 | `OWNER_GITHUB_ID` | sign-in | Numeric GitHub user id of the owner (default `856034`). |
-| `ANTHROPIC_API_KEY` | studio | Both lanes; the only secret passed into the sandbox. |
+| `OPENROUTER_API_KEY` or `ANTHROPIC_API_KEY` | studio | Both lanes; the only secret passed into the sandbox. OpenRouter wins if both are set, and model ids are sent as `anthropic/claude-sonnet-5.5`. |
 | `STUDIO_FAST_MODEL`, `STUDIO_CODE_MODEL` | studio | Model overrides (defaults `claude-sonnet-5-5`, `claude-opus-5-5`). |
 | `GITHUB_TOKEN` | code lane | Fine-grained token the server uses for branches, pull requests, and merges. |
 | `GITHUB_REPO` | code lane | `owner/name` (default `akrolsmir/austin-site`). |
@@ -55,7 +55,7 @@ Vercel sets `VERCEL_ENV`, `VERCEL_PROJECT_PRODUCTION_URL`, `VERCEL_GIT_COMMIT_SH
 
 1. **Database.** Add Neon from the Vercel Marketplace to the project (Production only); it sets `DATABASE_URL`. Put the same value in `.env.local` and run `bun run db:push` to create the tables. Run it again after any change to `src/db/schema.ts`.
 2. **GitHub OAuth app** (GitHub → Settings → Developer settings → OAuth Apps): homepage `<BETTER_AUTH_URL>`, callback `<BETTER_AUTH_URL>/api/auth/callback/github`. Set `GITHUB_CLIENT_ID`, `GITHUB_CLIENT_SECRET`, `BETTER_AUTH_URL`, `BETTER_AUTH_SECRET`, and `OWNER_GITHUB_ID` if the owner is not the default.
-3. **Anthropic key.** Create a key in a workspace with a monthly spend limit and set `ANTHROPIC_API_KEY`. The key enters the sandbox, where an agent runs code, so the limit is the backstop.
+3. **Model key.** Create an OpenRouter key with a credit limit and set `OPENROUTER_API_KEY` (or an Anthropic key in a workspace with a monthly spend limit, as `ANTHROPIC_API_KEY`). The key enters the sandbox, where an agent runs code, so the limit is the backstop.
 4. **GitHub token** for the code lane: a fine-grained personal access token limited to this one repository with Contents (read and write), Pull requests (read and write), and Deployments (read); Metadata (read) comes with it. Set `GITHUB_TOKEN` and `GITHUB_REPO`. The repository must be public (the sandbox clones it without credentials) and connected to the Vercel project's Git integration with preview deployments on, because the code lane merges only after Vercel reports a successful preview for the pull request. If `main` is protected, the token's owner must be allowed to merge.
 5. **Vercel Sandbox.** Nothing to configure on a Vercel deployment beyond the plan allowing Sandbox; it authenticates with the deployment's OIDC token. The code lane does not run from a laptop unless `vercel env pull` has provided one.
 6. **Firewall.** `/api/studio/*` reads are public and each touches the database at most once per few seconds per instance. Add a Vercel WAF rate limit on `/api/studio/` and `/api/sync` (for example 60 requests a minute per IP) so a loop cannot keep Neon awake or the functions busy.
