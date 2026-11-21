@@ -38,4 +38,4 @@ Next.js 16 App Router, React 19, Tailwind 4, TypeScript. All pages are server co
 
 - Code is deliberately dense: single-line JSX, compact functions, few files. Match that rather than expanding into many small components.
 - `README.md` is the authoritative operational doc (Notion rules, sync pipeline, deployment). Update it when behavior changes. `DEVLOG.md` holds Austin's roadmap notes.
-- Editorial copy comes only from Austin's public Notion content or lorem ipsum. Intro, projects, work, and photos on the homepage are placeholders.
+- Editorial copy comes only from Austin's public Notion content or lorem ipsum. Intro, projects, and work on the homepage are placeholders. Album photos are in Vercel Blob, listed in `src/lib/photos.json`, added with `bun run photo` (strips EXIF/GPS); see README.

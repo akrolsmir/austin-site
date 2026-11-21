@@ -10,7 +10,8 @@
     "lint": "eslint",
     "typecheck": "tsc --noEmit",
     "test": "bun test",
-    "sync": "bun scripts/sync.ts"
+    "sync": "bun scripts/sync.ts",
+    "photo": "bun scripts/photo.ts"
   },
   "dependencies": {
     "@vercel/blob": "^2.8.0",
