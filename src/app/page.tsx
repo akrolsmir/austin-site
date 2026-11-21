@@ -4,8 +4,8 @@ import { formatDate, getPosts } from "@/lib/posts";
 import { lorem, Placeholder } from "@/components/site-shell";
 import { photos } from "@/lib/photos";
 
-export default function Home() {
-  const posts = getPosts();
+export default async function Home() {
+  const posts = await getPosts();
   const guide = posts.find((p) => p.title === "A guide to working with Austin");
   return <main id="content">
     <div className="intro-layout"><div className="intro"><p>{lorem}</p>{guide && <Link className="guide-link" prefetch={false} href={`/posts/${guide.slug}`}>{guide.title}</Link>}</div><Placeholder className="intro-photo" /></div>
