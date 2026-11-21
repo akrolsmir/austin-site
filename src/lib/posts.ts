@@ -30,6 +30,8 @@ export function readPosts(dir = POSTS_DIR): PostFile[] {
   try { files = readdirSync(dir).filter((name) => name.endsWith(".md")); } catch { return []; }
   return files.map((name) => parsePost(name.slice(0, -3), readFileSync(join(dir, name), "utf8"))).sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 }
+// "Nov 20, 2026"; dates are calendar days, so format in UTC to avoid shifting a day.
+export function formatDate(date: string) { return new Intl.DateTimeFormat("en-US", { month: "short", day: "numeric", year: "numeric", timeZone: "UTC" }).format(new Date(date)); }
 let cache: PostFile[] | undefined;
 export function getPosts() { return (cache ??= readPosts()); }
 export function getPost(slug: string) { return getPosts().find((post) => post.slug === slug) ?? null; }
