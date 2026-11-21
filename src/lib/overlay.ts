@@ -11,3 +11,12 @@ export class OverlayConflict extends Error {
 }
 /** The published overlay for rendering. Stub: always empty, so pages render the code defaults. */
 export const readPublishedOverlay = async (): Promise<Overlay> => ({});
+export type PublishMeta = { summary: string; by: string };
+export type OverlayStore = {
+  read(): Promise<{ overlay: Overlay; head: Head }>;
+  publish(patch: Record<string, unknown | null>, meta: PublishMeta): Promise<{ hash: string; overlay: Overlay; previous: string | null }>;
+  revert(hash: string, meta?: Partial<PublishMeta>): Promise<{ hash: string; previous: string | null }>;
+  prune(): Promise<string[]>;
+};
+/** Stub: the overlay agent implements this (env and blob client injected, as in the contract). */
+export function overlayStore(env: Record<string, string | undefined> = process.env): OverlayStore { void env; throw new Error("overlayStore is not implemented yet."); }
