@@ -3,7 +3,7 @@
     "id": "41ea6e41f23e80c1a339e41259403c74",
     "title": "Half-speed might be correct when \"you\" can fork",
     "date": "2026-11-20T17:45:00.000+00:00",
-    "edited": "2026-11-20T17:45:00.000Z",
+    "edited": "2026-11-21T06:09:00.000Z",
     "url": "https://akrolsmir.notion.site/Half-speed-might-be-correct-when-you-can-fork-41ea6e41f23e80c1a339e41259403c74",
     "excerpt": ""
   },
@@ -16,7 +16,7 @@
         "page_id": "41ea6e41-f23e-80c1-a339-e41259403c74"
       },
       "created_time": "2026-11-20T17:45:00.000Z",
-      "last_edited_time": "2026-11-20T17:45:00.000Z",
+      "last_edited_time": "2026-11-21T05:59:00.000Z",
       "created_by": {
         "object": "user",
         "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
@@ -33,7 +33,7 @@
           {
             "type": "text",
             "text": {
-              "content": "I was just thinking about Anna Salamon's classic \"",
+              "content": "Anna Salamon's classic essay \"",
               "link": null
             },
             "annotations": {
@@ -44,7 +44,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "I was just thinking about Anna Salamon's classic \"",
+            "plain_text": "Anna Salamon's classic essay \"",
             "href": null
           },
           {
@@ -69,7 +69,7 @@
           {
             "type": "text",
             "text": {
-              "content": "\". Anna points out that if you're not sure if your destination is either ahead or behind you, the correct thing to do is not to keep trudging along slowly, but to figure it out where your destination is.",
+              "content": "\" points out that if you're not sure if your destination is either ahead or behind you, the correct thing to do is not to keep trudging along slowly, but to figure it out where your destination is.",
               "link": null
             },
             "annotations": {
@@ -80,7 +80,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "\". Anna points out that if you're not sure if your destination is either ahead or behind you, the correct thing to do is not to keep trudging along slowly, but to figure it out where your destination is.",
+            "plain_text": "\" points out that if you're not sure if your destination is either ahead or behind you, the correct thing to do is not to keep trudging along slowly, but to figure it out where your destination is.",
             "href": null
           }
         ],
@@ -96,7 +96,7 @@
         "page_id": "41ea6e41-f23e-80c1-a339-e41259403c74"
       },
       "created_time": "2026-11-20T17:45:00.000Z",
-      "last_edited_time": "2026-11-20T17:45:00.000Z",
+      "last_edited_time": "2026-11-21T06:09:00.000Z",
       "created_by": {
         "object": "user",
         "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
@@ -113,7 +113,7 @@
           {
             "type": "text",
             "text": {
-              "content": "As someone who is often split between multiple projects, and thus feel like I'm moving at half-speed (if not third- or quarter-speed), I thought I might try to defend this mode of operating. But first, it might be easier to understand my thesis in the context of a movement.",
+              "content": "As someone often split between multiple projects, perhaps I do move at half-speed (if not third- or quarter-speed). I thought I might try to defend this mode of operating. But let’s begin with an analogy: deciding for a movement, rather than an individual.",
               "link": null
             },
             "annotations": {
@@ -124,7 +124,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "As someone who is often split between multiple projects, and thus feel like I'm moving at half-speed (if not third- or quarter-speed), I thought I might try to defend this mode of operating. But first, it might be easier to understand my thesis in the context of a movement.",
+            "plain_text": "As someone often split between multiple projects, perhaps I do move at half-speed (if not third- or quarter-speed). I thought I might try to defend this mode of operating. But let’s begin with an analogy: deciding for a movement, rather than an individual.",
             "href": null
           }
         ],
@@ -140,7 +140,7 @@
         "page_id": "41ea6e41-f23e-80c1-a339-e41259403c74"
       },
       "created_time": "2026-11-20T17:45:00.000Z",
-      "last_edited_time": "2026-11-20T17:45:00.000Z",
+      "last_edited_time": "2026-11-21T06:00:00.000Z",
       "created_by": {
         "object": "user",
         "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
@@ -157,7 +157,7 @@
           {
             "type": "text",
             "text": {
-              "content": "For example, should AI safety support or oppose Anthropic? Right now, the AIS movement seems to be split, bipolar almost in its orientation. I just attended ",
+              "content": "Should AI safety support or oppose Anthropic? Right now, the movement seems to be split, almost bipolar. I just attended ",
               "link": null
             },
             "annotations": {
@@ -168,7 +168,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "For example, should AI safety support or oppose Anthropic? Right now, the AIS movement seems to be split, bipolar almost in its orientation. I just attended ",
+            "plain_text": "Should AI safety support or oppose Anthropic? Right now, the movement seems to be split, almost bipolar. I just attended ",
             "href": null
           },
           {
@@ -193,7 +193,7 @@
           {
             "type": "text",
             "text": {
-              "content": " , where 200 people showed up to protest Anthropic's IPO. At the same time, I'm quite sure that many of the folks there are also trying to cozy up to A\\ influence and A\\ employee funding. Rivers of digital ink have been spilled about whether it's ethical to work in any frontier lab. It sure does seem like AIS is moving half-speed here. Does it need to stop and make a single decision?",
+              "content": " , where 200 people showed up to protest Anthropic's IPO. At the same time, I'm quite sure that many of the folks there are also trying to cozy up to A\\, to win influence and funding. Rivers of digital ink have been spilled about whether it's ethical to work in any frontier lab. It sure does seem like AIS is moving half-speed here. Should the movement stop and make a single decision?",
               "link": null
             },
             "annotations": {
@@ -204,7 +204,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": " , where 200 people showed up to protest Anthropic's IPO. At the same time, I'm quite sure that many of the folks there are also trying to cozy up to A\\ influence and A\\ employee funding. Rivers of digital ink have been spilled about whether it's ethical to work in any frontier lab. It sure does seem like AIS is moving half-speed here. Does it need to stop and make a single decision?",
+            "plain_text": " , where 200 people showed up to protest Anthropic's IPO. At the same time, I'm quite sure that many of the folks there are also trying to cozy up to A\\, to win influence and funding. Rivers of digital ink have been spilled about whether it's ethical to work in any frontier lab. It sure does seem like AIS is moving half-speed here. Should the movement stop and make a single decision?",
             "href": null
           }
         ],
@@ -220,7 +220,7 @@
         "page_id": "41ea6e41-f23e-80c1-a339-e41259403c74"
       },
       "created_time": "2026-11-20T17:45:00.000Z",
-      "last_edited_time": "2026-11-20T17:45:00.000Z",
+      "last_edited_time": "2026-11-21T05:51:00.000Z",
       "created_by": {
         "object": "user",
         "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
@@ -237,7 +237,7 @@
           {
             "type": "text",
             "text": {
-              "content": "I argue no. A movement is made up of individual people & orgs, and so gets to fork, gets to explore many possibilities in parallel. Some of its members can take extremist anti-lab positions, and some can work with (or within) the labs. Maybe this looks like half-speed from the outside, but this might also be the correct way to rapidly understand the shape of the world we inhabit.",
+              "content": "I argue no. A movement is made up of individual people & orgs, and so gets to “fork”: simultaneously explore branches in parallel. Some of its members can take extremist anti-lab positions, and some can work with (or within) the labs. Maybe this looks like half-speed from the outside, but this might also be the correct way to quickly understand what world we are in.",
               "link": null
             },
             "annotations": {
@@ -248,7 +248,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "I argue no. A movement is made up of individual people & orgs, and so gets to fork, gets to explore many possibilities in parallel. Some of its members can take extremist anti-lab positions, and some can work with (or within) the labs. Maybe this looks like half-speed from the outside, but this might also be the correct way to rapidly understand the shape of the world we inhabit.",
+            "plain_text": "I argue no. A movement is made up of individual people & orgs, and so gets to “fork”: simultaneously explore branches in parallel. Some of its members can take extremist anti-lab positions, and some can work with (or within) the labs. Maybe this looks like half-speed from the outside, but this might also be the correct way to quickly understand what world we are in.",
             "href": null
           }
         ],
@@ -264,7 +264,7 @@
         "page_id": "41ea6e41-f23e-80c1-a339-e41259403c74"
       },
       "created_time": "2026-11-20T17:45:00.000Z",
-      "last_edited_time": "2026-11-20T17:45:00.000Z",
+      "last_edited_time": "2026-11-21T06:09:00.000Z",
       "created_by": {
         "object": "user",
         "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
@@ -281,7 +281,7 @@
           {
             "type": "text",
             "text": {
-              "content": "Certainly, I find much more beautiful the idea of AI safety being filled with people of dissenting opinions, but still unified by some greater orientation towards moral seriousness on the subject of AI, and love and caring for all persons (past and future, real and hypothetical.) And more than just beauty, a unity in some meta-principles helps us conduct positive trade between members. The external protester's actions lends support to the insider's push for more resources for safety -- even if the two never meet. A more direct trade might include swapping information at a conference. Each can also see the fruits of the other's actions, and use that to improve their own plans -- including, switching sides should the evidence supports it. And having these actions stay within the banner of a single movement expands the reach and power of the movement overall.",
+              "content": "Certainly, I want to see an AI safety filled with people of dissenting opinions, but still unified by some greater orientation towards moral seriousness on the subject of AI, and love and caring for all persons: past and future, real and hypothetical.",
               "link": null
             },
             "annotations": {
@@ -292,7 +292,51 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "Certainly, I find much more beautiful the idea of AI safety being filled with people of dissenting opinions, but still unified by some greater orientation towards moral seriousness on the subject of AI, and love and caring for all persons (past and future, real and hypothetical.) And more than just beauty, a unity in some meta-principles helps us conduct positive trade between members. The external protester's actions lends support to the insider's push for more resources for safety -- even if the two never meet. A more direct trade might include swapping information at a conference. Each can also see the fruits of the other's actions, and use that to improve their own plans -- including, switching sides should the evidence supports it. And having these actions stay within the banner of a single movement expands the reach and power of the movement overall.",
+            "plain_text": "Certainly, I want to see an AI safety filled with people of dissenting opinions, but still unified by some greater orientation towards moral seriousness on the subject of AI, and love and caring for all persons: past and future, real and hypothetical.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "41fa6e41-f23e-80df-b9bf-e22fc014fbde",
+      "parent": {
+        "type": "page_id",
+        "page_id": "41ea6e41-f23e-80c1-a339-e41259403c74"
+      },
+      "created_time": "2026-11-21T05:54:00.000Z",
+      "last_edited_time": "2026-11-21T05:58:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Moreover, a unity and shared framework helps us to conduct positive trade between members. The external protester's actions lends support to the insider's push for more resources for safety, even if the two never meet. A more direct trade might include swapping information at a conference. Each can also see the fruits of the other's actions, and use that to improve their own plans — including, switching sides should the evidence support it. And having these actions stay within the banner of a single movement expands the reach and power of the movement overall.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Moreover, a unity and shared framework helps us to conduct positive trade between members. The external protester's actions lends support to the insider's push for more resources for safety, even if the two never meet. A more direct trade might include swapping information at a conference. Each can also see the fruits of the other's actions, and use that to improve their own plans — including, switching sides should the evidence support it. And having these actions stay within the banner of a single movement expands the reach and power of the movement overall.",
             "href": null
           }
         ],
@@ -308,7 +352,7 @@
         "page_id": "41ea6e41-f23e-80c1-a339-e41259403c74"
       },
       "created_time": "2026-11-20T17:45:00.000Z",
-      "last_edited_time": "2026-11-20T17:45:00.000Z",
+      "last_edited_time": "2026-11-21T05:55:00.000Z",
       "created_by": {
         "object": "user",
         "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
@@ -325,7 +369,7 @@
           {
             "type": "text",
             "text": {
-              "content": "How this apply within individuals? I think that personhood and identity is best understood as ",
+              "content": "Okay, grant that this is true for a movement — what about for an individual? Well, I think that personhood and identity is best understood as ",
               "link": null
             },
             "annotations": {
@@ -336,7 +380,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "How this apply within individuals? I think that personhood and identity is best understood as ",
+            "plain_text": "Okay, grant that this is true for a movement — what about for an individual? Well, I think that personhood and identity is best understood as ",
             "href": null
           },
           {
@@ -388,7 +432,7 @@
         "page_id": "41ea6e41-f23e-80c1-a339-e41259403c74"
       },
       "created_time": "2026-11-20T17:45:00.000Z",
-      "last_edited_time": "2026-11-20T17:45:00.000Z",
+      "last_edited_time": "2026-11-21T06:08:00.000Z",
       "created_by": {
         "object": "user",
         "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
@@ -441,7 +485,7 @@
           {
             "type": "text",
             "text": {
-              "content": "? Well, even when I was working on a single startup, my day-to-day experience of it was one of being constantly juggling various next steps (implement that feature, onboard that user, hire that employee). Perhaps now, my \"top idea\" is less any one individual project or org, and more spread across the AI safety movement, or the world overall.",
+              "content": "? Well, even when I was working on a single startup, my day-to-day experience of it was one of being constantly juggling various next steps (implement that feature, onboard that user, hire that employee). The process of skilling up might be: successfully holding on to bigger and bigger ideas in your head. Perhaps now, my \"top idea\" is less any one specific project or org, and more “the AI safety movement”. Someday, “the world”.",
               "link": null
             },
             "annotations": {
@@ -452,7 +496,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "? Well, even when I was working on a single startup, my day-to-day experience of it was one of being constantly juggling various next steps (implement that feature, onboard that user, hire that employee). Perhaps now, my \"top idea\" is less any one individual project or org, and more spread across the AI safety movement, or the world overall.",
+            "plain_text": "? Well, even when I was working on a single startup, my day-to-day experience of it was one of being constantly juggling various next steps (implement that feature, onboard that user, hire that employee). The process of skilling up might be: successfully holding on to bigger and bigger ideas in your head. Perhaps now, my \"top idea\" is less any one specific project or org, and more “the AI safety movement”. Someday, “the world”.",
             "href": null
           }
         ],
@@ -468,7 +512,7 @@
         "page_id": "41ea6e41-f23e-80c1-a339-e41259403c74"
       },
       "created_time": "2026-11-20T17:45:00.000Z",
-      "last_edited_time": "2026-11-20T17:45:00.000Z",
+      "last_edited_time": "2026-11-21T06:09:00.000Z",
       "created_by": {
         "object": "user",
         "id": "00c350d3-9f7b-4bc1-b27d-24e15ac5139f"
@@ -485,7 +529,7 @@
           {
             "type": "text",
             "text": {
-              "content": "Admittedly, I'm still confused about many subquestions here. When should you explore, vs exploit? How do you discover what \"your\" values are? When is internal reallocation (eg movement infighting) positive-sum vs negative-sum? I look forward to my forks (future timeslices) and my intellectual siblings (you, dear reader) to help with making progress on these.",
+              "content": "Admittedly, I'm still confused about many subquestions here. When should any member or timeslice choose to explore, vs exploit? How do “you” discover what \"your\" values are? When is internal reallocation (eg movement infighting) positive-sum vs negative-sum? I look forward to my forks (future timeslices) and my intellectual siblings (you, dear reader) for help with reaching our destination(s).",
               "link": null
             },
             "annotations": {
@@ -496,7 +540,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "Admittedly, I'm still confused about many subquestions here. When should you explore, vs exploit? How do you discover what \"your\" values are? When is internal reallocation (eg movement infighting) positive-sum vs negative-sum? I look forward to my forks (future timeslices) and my intellectual siblings (you, dear reader) to help with making progress on these.",
+            "plain_text": "Admittedly, I'm still confused about many subquestions here. When should any member or timeslice choose to explore, vs exploit? How do “you” discover what \"your\" values are? When is internal reallocation (eg movement infighting) positive-sum vs negative-sum? I look forward to my forks (future timeslices) and my intellectual siblings (you, dear reader) for help with reaching our destination(s).",
             "href": null
           }
         ],
