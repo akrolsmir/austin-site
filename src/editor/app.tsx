@@ -34,9 +34,9 @@ function Customize() {
   </>;
 }
 
-const SOURCES: Record<string, string> = { editor: "Editor", revert: "Revert", bake: "Saved to code" };
+const SOURCES: Record<string, string> = { editor: "Editor", revert: "History", bake: "Code" };
 function History() {
-  const history = useEd((s) => s.history), current = useEd((s) => s.current), busy = useEd((s) => s.busy), [now, setNow] = useState(() => Date.now()), [confirm, setConfirm] = useState(false);
+  const history = useEd((s) => s.history), current = useEd((s) => s.current), damaged = useEd((s) => s.damaged), busy = useEd((s) => s.busy), [now, setNow] = useState(() => Date.now()), [confirm, setConfirm] = useState(false);
   useEffect(() => { const timer = setInterval(() => setNow(Date.now()), 30000); return () => clearInterval(timer); }, []);
   const live = history.findIndex((version) => version.hash === current);
   return <div className="ed-scroll">
@@ -45,7 +45,7 @@ function History() {
         <div><p className="ed-version">{version.summary || "Edited"}</p><p className="ed-meta"><time dateTime={version.at} title={new Date(version.at).toLocaleString()}>{relativeTime(version.at, now)}</time><span>{SOURCES[version.by] ?? (version.by.startsWith("studio") ? "Studio" : version.by)}</span></p></div>
         {index === live ? <span className="ed-live">Live</span> : <button type="button" className="ed-button" disabled={!!busy} aria-label={`Revert to "${version.summary || "Edited"}" from ${relativeTime(version.at, now)}`} onClick={() => void revert(version.hash)}>Revert</button>}
       </li>)}</ol>}
-    {current !== null && <div className="ed-defaults">{confirm
+    {(current !== null || damaged) && <div className="ed-defaults">{confirm
       ? <><p>Take every published change off the site? This version stays in the history.</p><div><button type="button" className="ed-button ed-primary" disabled={!!busy} onClick={() => { setConfirm(false); void revert(null); }}>Back to defaults</button><button type="button" className="ed-button" onClick={() => setConfirm(false)}>Cancel</button></div></>
       : <button type="button" className="ed-button" disabled={!!busy} onClick={() => setConfirm(true)}>Back to defaults</button>}</div>}
   </div>;
@@ -90,7 +90,7 @@ function Menu({ notionUrl }: { notionUrl: string | null }) {
 }
 
 function Bar() {
-  const n = useEd(count), view = useEd((s) => s.view), busy = useEd((s) => s.busy), notionUrl = useEd((s) => s.notionUrl);
+  const n = useEd(count), view = useEd((s) => s.view), busy = useEd((s) => s.busy), notionUrl = useEd((s) => s.notionUrl), inStudio = /^\/studio(\/|$)/.test(useEd((s) => s.path));
   const toggle = (name: NonNullable<State["view"]>) => setView(view === name ? null : name, name === "customize" ? "all" : undefined);
   return <div className="ed-bar" role="toolbar" aria-label="Site editor">
     <button type="button" className="ed-tool ed-mark" aria-label="Hide editor" title="Hide editor" onClick={() => setCollapsed(true)}>{Icon.mark}</button>
@@ -98,7 +98,7 @@ function Bar() {
     <span className="ed-sep" aria-hidden="true" />
     <button type="button" className="ed-tool" aria-label="Customize" aria-pressed={view === "customize"} onClick={() => toggle("customize")}>{Icon.sliders}<span>Customize</span></button>
     <button type="button" className="ed-tool" aria-label="History" aria-pressed={view === "history"} onClick={() => toggle("history")}>{Icon.clock}<span>History</span></button>
-    <button type="button" className="ed-tool" aria-label="Ask Claude about this page" onClick={() => ask()}>{Icon.ask}<span>Ask Claude</span></button>
+    {!inStudio && <button type="button" className="ed-tool" aria-label="Ask Claude about this page" onClick={() => ask()}>{Icon.ask}<span>Ask Claude</span></button>}
     {notionUrl && <a className="ed-tool ed-wide" href={notionUrl} target="_blank" rel="noopener noreferrer"><span>Edit in Notion</span>{Icon.out}</a>}
     <span className="ed-sep" aria-hidden="true" />
     {n > 0 && <button type="button" className="ed-button ed-quiet" disabled={!!busy} onClick={(event) => { const next = event.currentTarget.parentElement?.querySelector<HTMLElement>('[aria-label="Customize"]'); discard(); next?.focus(); }}>Discard</button>}

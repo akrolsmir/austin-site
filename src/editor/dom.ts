@@ -165,7 +165,8 @@ export function startEdit(target: Target, point?: { x: number; y: number }) {
 /** Wires the page: re-applies values whenever React or a navigation changes the DOM, and turns clicks on slots into edits. Returns the teardown. */
 export function attach(): () => void {
   let frame = 0, leave: ReturnType<typeof setTimeout> | undefined;
-  const notion = () => { const href = /^\/posts\/[^/]+\/?$/.test(location.pathname) ? document.querySelector<HTMLAnchorElement>("main .article-meta a[href]")?.href : undefined; return href && /^https?:\/\//.test(href) ? href : null; };
+  // The post page names its Notion page in data-notion-url; the meta link is the fallback for markup that predates it.
+  const notion = () => { const href = document.querySelector<HTMLElement>("main [data-notion-url]")?.dataset.notionUrl || (/^\/posts\/[^/]+\/?$/.test(location.pathname) ? document.querySelector<HTMLAnchorElement>("main .article-meta a[href]")?.href : undefined); return href && /^https?:\/\//.test(href) ? href : null; };
   const pass = () => { frame = 0; try { applyDom(); patch({ path: location.pathname, notionUrl: notion(), tick: getState().tick + 1 }); if (getState().hover && !getState().hover?.el.isConnected) patch({ hover: null }); } catch (error) { console.error("Editor could not update the page.", error); patch({ phase: "failed" }); } };
   const schedule = () => { if (!frame) frame = requestAnimationFrame(pass); };
   const observer = new MutationObserver((records) => { if (records.some((record) => !inEditor(record.target) && !(editingEl && editingEl.contains(record.target)))) schedule(); });

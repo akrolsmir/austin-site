@@ -62,6 +62,9 @@
 .studio-chip-where { flex: 0 0 auto; max-width: 72%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; color: var(--ink); }
 .studio-chip-quote { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .studio-chip-x { flex: none; display: grid; place-items: center; width: 20px; height: 20px; margin-right: -6px; padding: 0; border: 0; border-radius: 50%; background: none; color: var(--muted); transition: background-color 140ms ease-out, color 140ms ease-out; }
+.studio-chip[data-full] { align-items: flex-start; border-radius: 10px; padding: 5px 10px; }
+.studio-chip[data-full] .studio-chip-quote { white-space: pre-wrap; overflow-wrap: anywhere; max-height: 7em; overflow-y: auto; }
+.studio-turn-owner > .studio-meta .studio-chip { max-width: min(100%, 420px); }
 .studio-chip-x:hover { background: var(--surface); color: var(--ink); }
 
 /* Run card */
@@ -105,14 +108,16 @@
 .studio-note:empty { display: none; }
 
 /* Composer */
-.studio-dock { position: sticky; bottom: 0; z-index: 1; margin-top: 28px; padding: 12px 0 14px; background: var(--bg); }
+/* --ed-clear is set by the owner's editor chrome (src/editor/editor.css) so the bar never sits on the composer. */
+.studio-dock { position: sticky; bottom: var(--ed-clear, 0px); z-index: 1; margin-top: 28px; padding: 12px 0 14px; background: var(--bg); }
+.studio-dock::after { content: ""; position: absolute; left: 0; right: 0; top: 100%; height: var(--ed-clear, 0px); background: var(--bg); }
 .studio-pane > .studio-composer { margin-top: 20px; }
 .studio-composer-context { margin-bottom: 8px; }
 .studio-field { border: 1px solid var(--line); border-radius: 10px; background: var(--bg); transition: border-color 140ms ease-out; }
 .studio-field:focus-within { border-color: var(--link); outline: 2px solid color-mix(in srgb, var(--link) 22%, transparent); outline-offset: 1px; }
 .studio-field[data-off] { background: color-mix(in srgb, var(--surface) 50%, var(--bg)); }
 .studio-field textarea { display: block; width: 100%; min-height: 44px; max-height: 220px; padding: 12px 14px 4px; border: 0; background: none; color: var(--ink); font: inherit; line-height: 1.55; resize: none; outline: none; }
-.studio-field textarea::placeholder { color: var(--muted); opacity: .8; }
+.studio-field textarea::placeholder { color: var(--muted); opacity: 1; }
 .studio-field textarea:disabled { cursor: not-allowed; }
 .studio-composer-row { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 6px 8px 8px 14px; }
 .studio-switch { display: inline-flex; align-items: center; gap: 9px; min-width: 0; min-height: 34px; cursor: pointer; color: var(--ink); }

@@ -98,8 +98,9 @@ export function took(run: Pick<RunView, "startedAt" | "endedAt">, now: number): 
 }
 
 export const laneLabel = (lane: Lane) => lane === "fast" ? "Quick edit" : "Code change";
-export function statusLabel(run: Pick<RunView, "status" | "stopRequested">): string {
+export function statusLabel(run: Pick<RunView, "status" | "stopRequested"> & { result?: RunView["result"] }): string {
   if (run.stopRequested && run.status === "running") return "Stopping";
+  if (run.status === "stopped" && run.result?.discarded) return "Discarded";
   return ({ queued: "Queued", running: "Working", done: "Done", failed: "Failed", stopped: "Stopped", needs_publish: "Ready to publish", reverted: "Reverted" } satisfies Record<RunStatus, string>)[run.status];
 }
 /** The few words a thread row adds after its time, or "" when the thread is at rest. */
@@ -108,12 +109,18 @@ export const threadNote = (status: RunStatus | null) => status === null ? "" : (
 export function resultLine(run: Pick<RunView, "status" | "summary" | "result" | "lane">): string {
   if (run.status === "failed") return run.result?.error || "This run failed.";
   if (run.status === "reverted") return run.lane === "fast" ? "Reverted. The site is back to how it was before this change." : "Reverted. The change was undone with a new commit.";
+  if (run.status === "stopped" && run.result?.discarded) return "Discarded. The pull request was closed without merging.";
   if (run.status === "stopped") return run.summary ? `${run.summary} Stopped before finishing.` : "Stopped before finishing.";
   if (run.status === "needs_publish") return run.summary || "The change is ready and has not been published.";
   return run.status === "done" ? run.summary ?? "" : "";
 }
-/** Where a message was asked from, for the chip above the composer and under an owner message. */
-export function contextLabel(context: MessageContext): { where: string; quote: string } {
+/**
+ * Where a message was asked from, for the chip above the composer and under an owner message. `full` keeps the whole
+ * quoted text: what is about to be sent with a message is shown to the owner in full, never a shortened version of it.
+ */
+export function contextLabel(context: MessageContext, full = false): { where: string; quote: string } {
   const where = context.slot ?? context.selector ?? context.route ?? "this page", quote = (context.text ?? "").replace(/\s+/g, " ").trim();
-  return { where: context.slot && context.route ? `${context.slot} on ${context.route}` : where, quote: quote.length > 80 ? `${quote.slice(0, 79).trimEnd()}…` : quote };
+  return { where: context.slot && context.route ? `${context.slot} on ${context.route}` : where, quote: !full && quote.length > 80 ? `${quote.slice(0, 79).trimEnd()}…` : quote };
 }
+/** Whether a run's time belongs in its header ("Done in 4 s"): only while it works and for how it ended on its own. */
+export const showsTime = (status: RunStatus) => status === "running" || status === "done" || status === "failed";

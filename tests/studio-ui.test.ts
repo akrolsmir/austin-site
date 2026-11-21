@@ -1,6 +1,6 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
-import { ago, bumpThread, contextLabel, mergeById, mergeThread, pollDelay, resultLine, routeOf, segments, shouldPoll, statusLabel, threadNote, took, type Held } from "../src/app/studio/logic";
+import { ago, bumpThread, contextLabel, mergeById, mergeThread, pollDelay, resultLine, routeOf, segments, shouldPoll, showsTime, statusLabel, threadNote, took, type Held } from "../src/app/studio/logic";
 import type { MessageView, RunView, ThreadResponse, ThreadSummary } from "../src/lib/studio/types";
 
 const ID = "3f2b8c1e-0d4a-4b6f-9a7e-5c1d2e3f4a5b", OTHER = "9a7e5c1d-2e3f-4a5b-8c1e-0d4a4b6f3f2b";
@@ -101,4 +101,9 @@ test("run and thread wording covers every state", () => {
   assert.deepEqual(contextLabel({ route: "/", slot: "home.intro", text: "  Hello\n there " }), { where: "home.intro on /", quote: "Hello there" });
   assert.deepEqual(contextLabel({ route: "/posts/a" }), { where: "/posts/a", quote: "" });
   assert.equal(contextLabel({ text: "x".repeat(200) }).quote.length, 80);
+  assert.equal(contextLabel({ text: "x".repeat(200) }, true).quote.length, 200);
+  assert.equal(statusLabel({ status: "stopped", stopRequested: false, result: { discarded: true } }), "Discarded");
+  assert.match(resultLine({ status: "stopped", lane: "code", summary: null, result: { discarded: true } }), /iscarded/);
+  assert.equal(showsTime("running"), true);
+  assert.equal(showsTime("needs_publish"), false);
 });

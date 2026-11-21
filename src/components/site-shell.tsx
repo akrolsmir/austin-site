@@ -12,4 +12,4 @@ export async function SiteHeader() {
     <nav aria-label="Main navigation" className="main-nav">{NAV.map(([item, href]) => <E key={item} id={`nav.${item}`} as={Link} href={href} data-nav-for={item} hidden={href.startsWith("/#") && !shown.includes(item)} />)}</nav>
   </header>;
 }
-export function SiteFooter() { return <footer className="site-footer"><E id="site.footer" as={Link} href="/" /></footer>; }
+export function SiteFooter() { return <footer className="site-footer"><E id="site.footer" as={Link} href="/" /><Link href="/studio" className="site-footer-studio">Studio</Link></footer>; }

@@ -11,6 +11,8 @@ export type State = {
   phase: "loading" | "ready" | "failed" | "gone";
   slots: Record<string, SlotDef>; defaults: Values; overlay: Values; base: Values; draft: Draft; values: Values;
   history: Version[]; current: string | null;
+  /** The published version could not be read: the site shows its defaults until the owner goes back to them (or to an older version). */
+  damaged: boolean;
   /** Bumped when values change from outside the panel's own inputs, so its controls remount with fresh local state. */
   epoch: number;
   errors: Record<string, string>; busy: "" | "publish" | "revert" | "signout"; notice: Notice | null;
@@ -23,7 +25,7 @@ const check = validateValue as unknown as Check, asDefs = (slots: Record<string,
 const storage = { get: (key: string) => { try { return localStorage.getItem(key); } catch { return null; } }, set: (key: string, value: string) => { try { localStorage.setItem(key, value); } catch { /* private mode: the draft lives for this page only */ } } };
 const plain = (value: unknown): value is Record<string, unknown> => typeof value === "object" && value !== null && !Array.isArray(value);
 
-let state: State = { phase: "loading", slots: codeSlots, defaults: codeDefaults, overlay: {}, base: codeDefaults, draft: {}, values: codeDefaults, history: [], current: null, epoch: 0, errors: {}, busy: "", notice: null, view: null, filter: "all", collapsed: false, path: "/", notionUrl: null, hover: null, editing: null, tick: 0 };
+let state: State = { phase: "loading", slots: codeSlots, defaults: codeDefaults, overlay: {}, base: codeDefaults, draft: {}, values: codeDefaults, history: [], current: null, damaged: false, epoch: 0, errors: {}, busy: "", notice: null, view: null, filter: "all", collapsed: false, path: "/", notionUrl: null, hover: null, editing: null, tick: 0 };
 const listeners = new Set<() => void>();
 export const getState = () => state;
 export const subscribe = (listener: () => void) => { listeners.add(listener); return () => { listeners.delete(listener); }; };
@@ -83,20 +85,24 @@ export async function load(first = false): Promise<boolean> {
   const draft = pruneDraft(first ? parseDraft(storage.get(DRAFT_KEY)) : state.draft, asDefs(slots), base, defaults, check);
   let ui: unknown = null;
   try { ui = JSON.parse(storage.get(UI_KEY) ?? "null"); } catch { /* defaults */ }
-  withDraft(draft, { phase: "ready", slots, defaults, overlay: data.overlay, base, history, current: typeof data.current === "string" ? data.current : null, epoch: state.epoch + 1, ...(first ? { collapsed: plain(ui) && ui.collapsed === true } : {}) });
+  withDraft(draft, { phase: "ready", slots, defaults, overlay: data.overlay, base, history, current: typeof data.current === "string" ? data.current : null, damaged: data.damaged === true, epoch: state.epoch + 1, ...(first ? { collapsed: plain(ui) && ui.collapsed === true } : {}) });
+  if (data.damaged === true) notify("The published version can't be read, so the site is showing its defaults. Open History and choose Back to defaults, or revert to an older version.", "error");
+  // Each visit renews the owner hint cookie, so the bar outlives the cookie's first Max-Age.
+  if (first) void call("/api/me");
   return true;
 }
 export async function publish() {
   if (state.busy || !count()) return;
   const draft = state.draft, defs = asDefs(state.slots);
   patch({ busy: "publish" });
-  const { status, data } = await post("/api/overlay", { patch: draft, summary: summarise(draft, defs) });
+  const summary = summarise(draft, defs), { status, data } = await post("/api/overlay", { patch: draft, summary });
   if (status === 200) {
     // Edits made while the request was in flight stay in the draft.
     const overlay = publishOverlay(state.overlay, draft), base = baseValues(defs, state.defaults, overlay, check);
-    withDraft(pruneDraft(state.draft, defs, base, state.defaults, check), { overlay, base, busy: "", errors: {}, epoch: state.epoch + 1 });
+    // The response is the truth about what was just written; a re-read could be served an older copy, so nothing is fetched here.
+    const hash = typeof data.hash === "string" ? data.hash : state.current, history = hash && hash !== state.current ? [{ hash, at: new Date().toISOString(), summary, by: "editor" }, ...state.history] : state.history;
+    withDraft(pruneDraft(state.draft, defs, base, state.defaults, check), { overlay, base, history, current: hash, damaged: false, busy: "", errors: {}, epoch: state.epoch + 1 });
     notify("Published");
-    await load();
     refreshPage();
   } else if (status === 401) gone();
   else if (status === 409) {

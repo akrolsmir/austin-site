@@ -5,7 +5,7 @@ import { usePathname } from "next/navigation";
 import { useCallback, useEffect, useRef, useState, type FormEvent, type KeyboardEvent, type MouseEvent, type ReactNode } from "react";
 import { safeUrl } from "@/lib/types";
 import { MAX_MESSAGE_CHARS, isActive, type AskContext, type CreatedThreadResponse, type MessageContext, type MessageView, type PostedMessageResponse, type RunResponse, type RunView, type ThreadResponse, type ThreadSummary, type ThreadsResponse } from "@/lib/studio/types";
-import { ago, bumpThread, contextLabel, laneLabel, mergeById, mergeThread, pollDelay, resultLine, routeOf, segments, shouldPoll, statusLabel, threadNote, took, type Held } from "./logic";
+import { ago, bumpThread, contextLabel, laneLabel, mergeById, mergeThread, pollDelay, resultLine, routeOf, segments, shouldPoll, showsTime, statusLabel, threadNote, took, type Held } from "./logic";
 
 // The whole /studio UI: thread list, conversation, run cards, composer. Contract: docs/editable-site.md, "Studio"; API shapes in
 // src/lib/studio/types.ts. The server page hands over what the viewer may see; this refreshes it from /api/studio, polls every
@@ -14,7 +14,8 @@ import { ago, bumpThread, contextLabel, laneLabel, mergeById, mergeThread, pollD
 export type Initial = { configured: boolean; owner: boolean; now: number; threads: ThreadSummary[]; held: Held | null; missing: boolean; failed: boolean };
 type Problem = { id: string; kind: "missing" } | null;
 type Pending = { body: string; private: boolean; context?: MessageContext; threadId: string | null };
-type Action = "stop" | "revert" | "publish";
+type Action = "stop" | "revert" | "publish" | "discard";
+const GUARDED_SHOWN = 8;
 
 class Failure extends Error { constructor(public status: number, message: string) { super(message); } }
 async function call<T>(path: string, body?: unknown): Promise<T> {
@@ -36,9 +37,10 @@ const Asterisk = ({ size = 14, turning = false }: { size?: number; turning?: boo
 
 /** Message text: line breaks kept by CSS, URLs linked through safeUrl, `code` set in the code face. Never HTML. */
 const Rich = ({ text }: { text: string }) => <>{segments(text).map((part, index) => part.kind === "link" ? <a key={index} href={part.href} rel="noopener noreferrer nofollow" target="_blank">{part.text}</a> : part.kind === "code" ? <code key={index}>{part.text}</code> : part.text)}</>;
+// Above the composer (removable) the quoted text is shown whole: it goes to Claude with the next message.
 const ContextChip = ({ context, onRemove }: { context: MessageContext; onRemove?: () => void }) => {
-  const { where, quote } = contextLabel(context);
-  return <span className="studio-chip"><span className="studio-chip-where">About {where}</span>{quote && <span className="studio-chip-quote">“{quote}”</span>}{onRemove && <button type="button" className="studio-chip-x" onClick={onRemove} aria-label="Remove the attached context"><Icon d={PATHS.cross} size={12} /></button>}</span>;
+  const { where, quote } = contextLabel(context, Boolean(onRemove));
+  return <span className="studio-chip" data-full={onRemove ? true : undefined}><span className="studio-chip-where">About {where}</span>{quote && <span className="studio-chip-quote">“{quote}”</span>}{onRemove && <button type="button" className="studio-chip-x" onClick={onRemove} aria-label="Remove the attached context"><Icon d={PATHS.cross} size={12} /></button>}</span>;
 };
 
 function RunCard({ run, owner, now, busy, error, onAct }: { run: RunView; owner: boolean; now: number; busy: Action | undefined; error: string | undefined; onAct: (run: RunView, action: Action) => void }) {
@@ -46,24 +48,25 @@ function RunCard({ run, owner, now, busy, error, onAct }: { run: RunView; owner:
   const active = isActive(run.status), line = resultLine(run), time = took(run, now), result = run.result ?? {}, guarded = result.guarded ?? [];
   const mark = run.status === "running" ? <Asterisk turning /> : run.status === "queued" ? <Icon d={PATHS.clock} /> : run.status === "done" ? <Icon d={PATHS.check} /> : run.status === "reverted" ? <Icon d={PATHS.undo} /> : run.status === "needs_publish" ? <Icon d={PATHS.clock} /> : <Icon d={PATHS.cross} />;
   const links = ([[safeUrl(result.prUrl), result.prNumber ? `Pull request #${result.prNumber}` : "Pull request"], [safeUrl(result.previewUrl), "Preview"]] as const).filter((entry): entry is [string, string] => Boolean(entry[0]));
-  const can = owner ? run.can : { stop: false, revert: false, publish: false };
+  const can = owner ? run.can : { stop: false, revert: false, publish: false, discard: false };
   // A question answered without a step, a change or a button needs no card: Claude's reply says it all.
   if (run.status === "done" && !run.steps.length && !line && !links.length && !can.revert && !(owner && run.logs?.length)) return null;
   return <article className="studio-run" data-status={run.status} aria-label={`${laneLabel(run.lane)}: ${statusLabel(run)}`}>
     <header className="studio-run-head">
-      <span className="studio-run-status" role="status">{mark}<span>{statusLabel(run)}</span>{time && run.status !== "queued" && run.status !== "needs_publish" && <span className="studio-run-time">{active ? time : `in ${time}`}</span>}</span>
+      <span className="studio-run-status" role="status">{mark}<span>{statusLabel(run)}</span>{time && showsTime(run.status) && <span className="studio-run-time">{active ? time : `in ${time}`}</span>}</span>
       <span className="studio-badge">{laneLabel(run.lane)}</span>
     </header>
     {run.steps.length > 0 && <ol className="studio-steps">{run.steps.map((step) => <li key={step.seq} data-state={step.state}>{step.state === "doing" ? active ? <Asterisk size={12} turning /> : <Icon d={PATHS.cross} size={12} /> : <Icon d={step.state === "done" ? PATHS.check : PATHS.cross} size={12} />}<span>{step.text}</span></li>)}</ol>}
     {run.status === "queued" && <p className="studio-run-line">Waiting for the run ahead of it to finish.</p>}
     {line && <p className="studio-run-line studio-run-result">{line}</p>}
     {run.status === "needs_publish" && <div className="studio-guard">
-      <p>{guarded.length ? "It touches files that guard the site, so it waits for Austin to publish it:" : "It waits for Austin to publish it."}</p>
-      {guarded.length > 0 && <ul>{guarded.map((path) => <li key={path}><code>{path}</code></li>)}</ul>}
+      <p>{guarded.length ? "It changes more than copy, colours and styles, so it waits for Austin to publish it:" : "It waits for Austin to publish it."}</p>
+      {guarded.length > 0 && <ul>{guarded.slice(0, GUARDED_SHOWN).map((path) => <li key={path}><code>{path}</code></li>)}{guarded.length > GUARDED_SHOWN && <li>and {guarded.length - GUARDED_SHOWN} more</li>}</ul>}
     </div>}
     {links.length > 0 && <p className="studio-run-links">{links.map(([href, label]) => <a key={label} href={href} target="_blank" rel="noopener noreferrer">{label}<Icon d={PATHS.out} size={12} /></a>)}</p>}
-    {(can.stop || can.revert || can.publish) && <div className="studio-run-actions">
+    {(can.stop || can.revert || can.publish || can.discard) && <div className="studio-run-actions">
       {can.publish && <button type="button" className="studio-button" disabled={Boolean(busy)} aria-busy={busy === "publish"} onClick={() => onAct(run, "publish")}>{busy === "publish" ? "Publishing…" : "Publish"}</button>}
+      {can.discard && <button type="button" className="studio-button studio-quiet" disabled={Boolean(busy)} aria-busy={busy === "discard"} onClick={() => onAct(run, "discard")}>{busy === "discard" ? "Discarding…" : "Discard"}</button>}
       {can.stop && <button type="button" className="studio-button studio-quiet" disabled={Boolean(busy) || run.stopRequested} aria-busy={busy === "stop"} onClick={() => onAct(run, "stop")}>{busy === "stop" || run.stopRequested ? "Stopping…" : "Stop"}</button>}
       {can.revert && !confirming && <button type="button" className="studio-button studio-quiet" disabled={Boolean(busy)} aria-busy={busy === "revert"} onClick={() => setConfirming(true)}>{busy === "revert" ? "Reverting…" : "Revert"}</button>}
       {can.revert && confirming && <><span className="studio-confirm">{run.lane === "fast" ? "Put the site back to before this change? Later quick edits are undone too." : "Undo this change with a new commit?"}</span><button type="button" className="studio-button" autoFocus onClick={() => { setConfirming(false); onAct(run, "revert"); }}>Revert</button><button type="button" className="studio-button studio-quiet" onClick={() => setConfirming(false)}>Keep it</button></>}
@@ -101,7 +104,7 @@ export function Studio({ initial, ask }: { initial: Initial; ask: AskContext | n
   const [failures, setFailures] = useState(initial.failed ? 1 : 0), [loaded, setLoaded] = useState(!initial.failed), [beat, setBeat] = useState(0), [now, setNow] = useState(initial.now);
   const [draft, setDraft] = useState(""), [context, setContext] = useState<MessageContext | null>(ask), [pending, setPending] = useState<Pending | null>(null), [sendError, setSendError] = useState("");
   const [acting, setActing] = useState<Record<string, Action>>({}), [actErrors, setActErrors] = useState<Record<string, string>>({});
-  const wanted = useRef<string | null>(null), latest = useRef({ id: null as string | null, at: undefined as string | undefined, last: 0 }), end = useRef<HTMLDivElement>(null), nearEnd = useRef(true), follow = useRef(false);
+  const wanted = useRef<string | null>(null), latest = useRef({ id: null as string | null, at: undefined as string | undefined, last: 0 }), end = useRef<HTMLDivElement>(null), nearEnd = useRef(true), follow = useRef(false), opened = useRef(false);
 
   // What the pane shows. A visitor at /studio (or /studio/new, which is the owner's) reads the newest thread.
   const composing = owner && (route.view === "new" || route.view === "index");
@@ -152,6 +155,11 @@ export function Studio({ initial, ask }: { initial: Initial; ask: AskContext | n
   useEffect(() => { if (owner && shownId) follow.current = true; }, [owner, shownId]);
   useEffect(() => {
     if (!shown && !pending) return;
+    // A page that has just loaded stays where it is (a visitor lands at the top of the newest thread); only the owner
+    // opening or writing in a thread, and growth after that, moves it.
+    const first = !opened.current;
+    opened.current = true;
+    if (first && !follow.current) return;
     if (follow.current || nearEnd.current) end.current?.scrollIntoView({ block: "end", behavior: follow.current || window.matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth" });
     if (shown) follow.current = false;
   }, [shown?.thread.id, shown?.messages.length, stepCount, lastStatus, pending]); // eslint-disable-line react-hooks/exhaustive-deps -- scroll when the conversation grows, not on every poll

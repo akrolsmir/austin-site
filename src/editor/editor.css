@@ -5,6 +5,10 @@
 
 /* The page makes room: the bar never covers the footer, and the panel docks beside the page instead of over it. */
 html[data-ed="bar"] body, html[data-ed="panel"] body { padding-bottom: 84px; }
+/* How much of the viewport's bottom edge the chrome covers, for anything else that sticks there (the /studio composer). */
+html[data-ed="bar"], html[data-ed="panel"] { --ed-clear: 72px; }
+html[data-ed="pill"] { --ed-clear: 60px; }
+@media (max-width: 760px) { html[data-ed="bar"], html[data-ed="panel"] { --ed-clear: 64px; } html[data-ed="pill"] { --ed-clear: 54px; } }
 html[data-ed] body { transition: margin-right 160ms ease-out; }
 html[data-ed="bar"] :is([data-e], [data-e-list] [data-e-field]), html[data-ed="panel"] :is([data-e], [data-e-list] [data-e-field]) { cursor: text; }
 @media (min-width: 1000px) { html[data-ed="panel"] body { margin-right: 384px; } }
