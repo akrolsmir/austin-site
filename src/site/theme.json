@@ -1,0 +1,21 @@
+{
+  "theme.ink": "#302723",
+  "theme.link": "#67415f",
+  "theme.muted": "#74686f",
+  "theme.line": "#e9e2e7",
+  "theme.surface": "#f2edf2",
+  "theme.bg": "#ffffff",
+  "theme.font-body": "figtree",
+  "theme.font-heading": "figtree",
+  "theme.font-size": 18,
+  "theme.line-height": 1.55,
+  "theme.wordmark-size": 66,
+  "theme.heading-size": 28,
+  "theme.post-title-size": 46,
+  "theme.prose-size": 19,
+  "theme.prose-line-height": 1.8,
+  "theme.page-width": 1220,
+  "theme.page-padding": 48,
+  "theme.section-gap": 48,
+  "theme.radius": 4
+}
