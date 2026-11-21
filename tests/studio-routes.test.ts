@@ -227,8 +227,9 @@ test("stop, publish, and the scheduler tick on reads", async () => {
   assert.deepEqual([flagged.run.status, flagged.run.stopRequested], ["running", true]);
   assert.equal((await owner.publish(post(`/runs/${first.run.id}/publish`), first.run.id)).status, 409); // not waiting for approval
   await finishRun(db, first.run.id, { status: "needs_publish" });
-  assert.deepEqual(await read(owner.publish(post(`/runs/${first.run.id}/publish`), first.run.id), 503), { error: CODE_LANE_UNAVAILABLE }); // the stub
-  assert.deepEqual([(await getRun(db, first.run.id))!.status, (await getRun(db, first.run.id))!.result], ["failed", { error: CODE_LANE_UNAVAILABLE }]);
+  assert.deepEqual(await read(owner.publish(post(`/runs/${first.run.id}/publish`), first.run.id), 503), { error: CODE_LANE_UNAVAILABLE }); // no GitHub token here
+  assert.equal((await getRun(db, first.run.id))!.status, "needs_publish"); // a publish that could not happen leaves the run waiting
+  await finishRun(db, first.run.id, { status: "failed" });
 
   // A read finds a queue nobody is working on and wakes it; a read with nothing waiting schedules nothing.
   await read(visitor.threads(get("/threads")));

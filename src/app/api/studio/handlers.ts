@@ -1,7 +1,7 @@
 import { dbEnabled, getDb, type Db } from "../../../db";
 import { getOwner, requireOwner } from "../../../lib/auth";
 import { OverlayConflict, OverlayNotFound, OverlayUnavailable, overlayStore, type OverlayStore } from "../../../lib/overlay";
-import { publishCodeRun, revertCodeRun, startCodeRun, type CodeDeps, type CodeOutcome, type CodeRun } from "../../../lib/studio/code";
+import { codeSweepDue, publishCodeRun, revertCodeRun, startCodeRun, sweepCodeRuns, type CodeDeps, type CodeOutcome, type CodeRun } from "../../../lib/studio/code";
 import { runFast, type FastClient } from "../../../lib/studio/fast";
 import { StudioLimit, checkCaps, claimNextRun, createThread, finishRun, getRun, getThread, listThreads, markReverted, messageView, postMessage, queueIdle, reapStaleRuns, requestStop, runView, startRun, threadSummary, type RunRow, type Viewer } from "../../../lib/studio/store";
 import { MAX_MESSAGE_CHARS, parseContext, runActions, type CreatedThreadResponse, type PostedMessageResponse, type RunResponse, type ThreadResponse, type ThreadsResponse } from "../../../lib/studio/types";
@@ -102,7 +102,12 @@ export function studioHandlers(deps: StudioDeps = {}) {
     }
   };
   // Reads double as the scheduler's tick: end runs that died, and wake the queue if it is waiting on nobody.
-  const tick = async (db: Db, request: Request) => { await reapStaleRuns(db, now()); if (await queueIdle(db)) after(drain(originOf(request))); };
+  const tick = async (db: Db, request: Request) => {
+    await reapStaleRuns(db, now());
+    if (await queueIdle(db)) after(drain(originOf(request)));
+    // The code lane's share: a run waiting on its preview build, or one whose Stop went unanswered (src/lib/studio/code.ts).
+    if (await codeSweepDue(db, now())) after(() => sweepCodeRuns(codeDeps(originOf(request))));
+  };
   const cursor = () => new Date(now().getTime() - CURSOR_SLACK_MS).toISOString();
   const found = async (db: Db, id: string) => { const run = ID.test(id) ? await getRun(db, id) : undefined; if (!run) throw new Refused(404, "There is no such run."); return run; };
   const shown = async (db: Db, id: string, status = 200) => json({ run: await runView(db, "owner", (await getRun(db, id))!) } satisfies RunResponse, status);

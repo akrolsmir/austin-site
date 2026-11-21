@@ -185,7 +185,7 @@ test("read_page reads only this site's own pages, as capped text", async () => {
   for (const [path, allowed] of [["/", true], ["/posts/a-guide", true], ["/apiary", true], ["/api", false], ["/api?x", false], ["/api/me", false], ["", false], ["/a b", false], [null, false]] as const) assert.equal(readablePath(path), allowed, String(path));
 });
 
-test("escalation hands the run to the code lane, which is a stub for now; the daily cap is reported to the model", async () => {
+test("escalation hands the run to the code lane; the daily cap is reported to the model", async () => {
   await fresh();
   const run = await begin("Add a guestbook page");
   const handed: Array<{ id: string; brief?: string }> = [];
@@ -198,7 +198,7 @@ test("escalation hands the run to the code lane, which is a stub for now; the da
   assert.deepEqual(moved.messages.map((message) => message.body), ["Add a guestbook page", "This needs new pages, so I am handing it to the code lane."]);
   assert.equal(first.seen.length, 1);
 
-  // With the real (stub) code lane the run fails in plain words.
+  // With the real code lane and nothing configured (no keys in this env) the run fails in plain words.
   await shared!.delete(schema.threads);
   const stubbed = await begin("Add a guestbook page");
   await runFast(world([use("escalate_to_code", { brief: "Add a guestbook." })]).deps, stubbed);
