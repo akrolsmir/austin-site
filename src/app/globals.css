@@ -144,6 +144,8 @@ html[data-style="4"] { --ink: #302723; --link: #67415f; --muted: #74686f; --line
 [data-style="4"] .album-photo-stack { padding-right: 52px; padding-bottom: 20px; }
 [data-style="4"] .album-photo-stack .photo-placeholder { background: #cfc2d1; color: #665767; aspect-ratio: 1.6; position: relative; z-index: 1; }
 [data-style="4"] .album-photo-stack .photo-placeholder + .photo-placeholder { background: #e0dfdf; margin-top: -32px; transform: translateX(52px); z-index: 0; }
+[data-style="4"] .album-photo { display: block; position: relative; z-index: 1; box-shadow: 0 1px 0 #fff; }
+[data-style="4"] .album-photo + .album-photo { margin-top: -32px; transform: translateX(52px); z-index: 0; }
 [data-style="4"] .projects-section { grid-column: 1 / -1; grid-row: 2; margin-top: 0; }
 [data-style="4"] .project-list { grid-template-columns: repeat(4, 1fr); gap: 32px; }
 [data-style="4"] h3 { font-size: 20px; color: var(--link); }
@@ -177,5 +179,13 @@ html[data-style="4"] { --ink: #302723; --link: #67415f; --muted: #74686f; --line
 
 [data-style="5"] .album-photos { display: block; grid-column: 1 / -1; background: var(--surface); padding: 28px 32px; margin-inline: -32px; }
 [data-style="5"] .album-photo-stack { display: flex; max-width: 600px; gap: 24px; }
+[data-style="5"] .album-photo { flex: 1; min-width: 0; }
 [data-style="5"] .bottom-band { background: none; padding-top: 0; margin-top: 24px; }
 @media (max-width:760px) { [data-style="5"] .album-photos { margin: 32px -12px 0; padding: 24px 12px; } }
+
+/* Photos: shared by both styles. Album tiles crop to a common ratio; the /photos grid shows each photo whole. */
+.album-photo img { display: block; width: 100%; height: auto; aspect-ratio: 1.6; object-fit: cover; }
+.photo-album { max-width: 1100px; }
+.photo-grid { list-style: none; padding: 0; margin: 32px 0 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 28px; }
+.photo-grid img { display: block; width: 100%; height: auto; }
+.photo-grid figcaption { margin-top: 8px; font-size: 14px; color: var(--muted); }

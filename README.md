@@ -12,7 +12,11 @@ Use `bun add <package>`, `bun add --dev <package>`, and `bun remove <package>` t
 
 Option 4 is the only active style. Option 5 (plum) is hidden for now: its registry entry in `src/lib/styles.ts` is commented out and the `4` / `5` header control (`StyleSwitch`) is not rendered, while its CSS scope remains in `globals.css`. Restoring both brings back the switch, its localStorage memory, and `/?style=5` previews. Both styles share semantic markup, content, routes, and article rendering. Add an entry to `src/lib/styles.ts`, add scoped CSS to introduce another style. Article text remains server-rendered.
 
-All editorial copy comes from Austin's public Notion content or lorem ipsum. Project names are existing examples, not synced or linked yet. Intro, work, and photos are placeholders. Operational accessibility/error labels describe controls and failures.
+All editorial copy comes from Austin's public Notion content or lorem ipsum. Project names are existing examples, not synced or linked yet. Intro and work are placeholders. Operational accessibility/error labels describe controls and failures.
+
+## Photos
+
+`/photos` is the album; the homepage shows the two newest. Images live in the same Vercel Blob store as post images, under `photos/<content hash>.jpg`, and `src/lib/photos.json` lists each one's URL, size, month, and alt text, newest first. Add one with `bun run photo <file.jpg> --alt "what it shows" [--date YYYY-MM]` (needs `BLOB_READ_WRITE_TOKEN` in `.env.local`), then commit `photos.json`. The script strips all EXIF/GPS/XMP before upload (`src/lib/jpeg.ts`) and refuses photos whose EXIF orientation isn't upright, since stripping would publish them sideways; run `convert -auto-orient` on those first. The date defaults to the EXIF capture month.
 
 ## Content pipeline
 
