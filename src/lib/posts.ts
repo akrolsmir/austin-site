@@ -44,8 +44,6 @@ export function readPosts(dir = POSTS_DIR): PostFile[] {
   try { files = readdirSync(dir).filter((name) => name.endsWith(".md")); } catch { return []; }
   return files.map((name) => parsePost(name.slice(0, -3), readFileSync(join(dir, name), "utf8"))).sort(byDate);
 }
-// "Nov 20, 2026"; dates are calendar days, so format in UTC to avoid shifting a day.
-export function formatDate(date: string) { return new Intl.DateTimeFormat("en-US", { month: "short", day: "numeric", year: "numeric", timeZone: "UTC" }).format(new Date(date)); }
 
 // Blob is the live store whenever a token is configured (POSTS_SOURCE=local forces the committed snapshot, e.g. to preview
 // converter changes). Without a token, or before the store is seeded, posts come from the committed data/posts.
@@ -141,6 +139,8 @@ export function postSource(env: Record<string, string | undefined> = process.env
     },
   };
 }
+// "Nov 20, 2026"; dates are calendar days, so format in UTC to avoid shifting a day.
+export function formatDate(date: string) { return new Intl.DateTimeFormat("en-US", { month: "short", day: "numeric", year: "numeric", timeZone: "UTC" }).format(new Date(date)); }
 let source: ReturnType<typeof postSource> | undefined;
 export const getPosts = cache(() => (source ??= postSource()).posts());
 export const getPost = cache((slug: string) => (source ??= postSource()).post(slug));

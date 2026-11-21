@@ -75,12 +75,15 @@ export async function measureImages(blocks: Block[]): Promise<boolean> {
   return changed;
 }
 
-type SyncOptions = { store: Store; source: Source; build?: string; deadline?: number; mirror?: typeof mirrorMedia; measure?: typeof measureImages };
+type SyncOptions = { store: Store; source: Source; build?: string; deadline?: number; requireIndex?: boolean; mirror?: typeof mirrorMedia; measure?: typeof measureImages };
 // `build` identifies the converter; when it differs from the stored index (or is absent, as for the local mirror), every
 // post is reconverted from its cached raw. After `deadline`, remaining changed pages keep their previous version (new
 // pages wait) and are reported as pending; the commit is still consistent and the next run picks them up.
-export async function syncPosts({ store, source, build, deadline = Infinity, mirror = mirrorMedia, measure = measureImages }: SyncOptions): Promise<SyncResult> {
+// `requireIndex` (used by /api/sync) refuses a cold sync: it takes ~10 minutes, longer than a function may run, and
+// committing after the deadline would publish only part of the archive. Seed with `bun run sync --blob` instead.
+export async function syncPosts({ store, source, build, deadline = Infinity, requireIndex = false, mirror = mirrorMedia, measure = measureImages }: SyncOptions): Promise<SyncResult> {
   const previous = await store.load();
+  if (requireIndex && !previous) throw new Error("Blob store is not seeded; run `bun run sync --blob` first.");
   const before = new Map(previous?.posts.map((entry) => [entry.notion, entry]));
   const fresh = !build || previous?.build !== build;
   const pages = [...await source.posts()].sort(byDate);
@@ -272,5 +275,5 @@ export function syncHandler({ env = process.env, run, lastSync, revalidate, now 
 }
 export function runSync(env: Record<string, string | undefined> = process.env, deadline?: number) {
   if (!env.BLOB_READ_WRITE_TOKEN) throw new Error("BLOB_READ_WRITE_TOKEN is missing.");
-  return syncPosts({ store: blobStore(), source: createNotionClient(env), build: env.VERCEL_GIT_COMMIT_SHA || env.VERCEL_DEPLOYMENT_ID || "unknown", deadline });
+  return syncPosts({ store: blobStore(), source: createNotionClient(env), build: env.VERCEL_GIT_COMMIT_SHA || env.VERCEL_DEPLOYMENT_ID || "unknown", deadline, requireIndex: true });
 }
