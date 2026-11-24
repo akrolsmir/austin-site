@@ -6,6 +6,7 @@ import { join } from "node:path";
 import { INDEX_PATH, postSource, serializePost } from "../src/lib/posts";
 import { authorized, blobStore, lastSynced, syncHandler, syncPosts, type BlobApi, type Source, type SyncResult } from "../src/lib/sync";
 import type { Post } from "../src/lib/types";
+import { BlobNotFoundError } from "@vercel/blob";
 
 const CRON = "cron-secret-0123456789";
 const request = (headers: Record<string, string> = {}) => new Request("https://austin.site/api/sync", { method: "POST", headers });
@@ -16,7 +17,9 @@ function fakeBlob() {
   const puts: string[] = [];
   let version = 0, failPut: string | undefined;
   const api = {
-    async get(pathname: string) { const file = files.get(pathname); return file ? { statusCode: 200, stream: new Response(file.text).body, blob: { etag: file.etag } } : null; },
+    // Like the real CDN, content reads of compressed files return a weak ETag; only head() returns the strong one.
+    async get(pathname: string) { const file = files.get(pathname); return file ? { statusCode: 200, stream: new Response(file.text).body, blob: { etag: `W/${file.etag}` } } : null; },
+    async head(pathname: string) { const file = files.get(pathname); if (!file) throw new BlobNotFoundError(); return { etag: file.etag }; },
     async put(pathname: string, text: string, options: { allowOverwrite?: boolean; ifMatch?: string }) {
       if (failPut && pathname.startsWith(failPut)) throw new Error("upload failed");
       const existing = files.get(pathname);
