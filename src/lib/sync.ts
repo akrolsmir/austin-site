@@ -244,7 +244,7 @@ export async function lastSynced(api: Pick<BlobApi, "get"> = blobApi) {
   const at = found ? Date.parse(parseIndex(found.text).syncedAt ?? "") : NaN;
   return Number.isFinite(at) ? at : undefined;
 }
-type HandlerDeps = { env?: Record<string, string | undefined>; run: (deadline: number) => Promise<SyncResult>; lastSync: () => Promise<number | undefined>; revalidate: (path: string) => void; now?: () => number };
+type HandlerDeps = { env?: Record<string, string | undefined>; run: (deadline: number) => Promise<SyncResult>; lastSync: () => Promise<number | undefined>; revalidate: (path: string, type?: "layout" | "page") => void; now?: () => number };
 export function syncHandler({ env = process.env, run, lastSync, revalidate, now = Date.now }: HandlerDeps) {
   return async function handle(request: Request) {
     const headers = { "Cache-Control": "no-store" };
@@ -260,9 +260,11 @@ export function syncHandler({ env = process.env, run, lastSync, revalidate, now 
       console.error(`sync failed: ${error instanceof Error ? error.message : "unknown error"}`);
       return Response.json({ error: "Sync failed; nothing was published." }, { status: 500, headers });
     }
-    const paths = result.changed.length || result.removed.length ? ["/", "/posts", ...[...result.changed, ...result.removed].map((slug) => `/posts/${slug}`)] : [];
-    for (const path of paths) revalidate(path);
-    return Response.json({ ...result, revalidated: paths }, { headers });
+    // Any change revalidates the whole site from the root layout: per-path revalidatePath("/") left the homepage's
+    // prerender cached on Vercel, and every page (home, /posts, each post) lists or renders posts anyway.
+    const revalidated = result.changed.length > 0 || result.removed.length > 0;
+    if (revalidated) revalidate("/", "layout");
+    return Response.json({ ...result, revalidated }, { headers });
   };
 }
 export function runSync(env: Record<string, string | undefined> = process.env, deadline?: number) {

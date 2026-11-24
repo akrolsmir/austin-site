@@ -3,7 +3,7 @@ import { notFound } from "next/navigation";
 import { formatDate, getPost, getPosts } from "@/lib/posts";
 import { Prose } from "@/components/prose";
 
-// Posts are prerendered at build and cached (ISR); /api/sync revalidates changed slugs. Slugs published after the build
+// Posts are prerendered at build and cached (ISR); /api/sync revalidates the site when posts change. Slugs published after the build
 // render on first request, and removed ones revalidate to 404.
 export const dynamicParams = true;
 export async function generateStaticParams() { return (await getPosts()).map(({ slug }) => ({ slug })); }

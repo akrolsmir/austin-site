@@ -53,7 +53,7 @@ test("handler: open calls respect the cooldown, cron always runs, failures hide 
   const revalidated: string[] = [];
   let calls = 0, last: number | undefined = 1_000_000;
   const result: SyncResult = { posts: 2, changed: ["new-post"], removed: ["old-post"], pending: 0, committed: true };
-  const deps = { run: async () => { calls++; return result; }, lastSync: async () => last, revalidate: (path: string) => { revalidated.push(path); } };
+  const deps = { run: async () => { calls++; return result; }, lastSync: async () => last, revalidate: (path: string, type?: string) => { revalidated.push(`${path} ${type}`); } };
   const handle = syncHandler({ ...deps, env: { CRON_SECRET: CRON }, now: () => 1_000_000 + 30_000 });
   const skipped = await handle(request());
   assert.deepEqual([skipped.status, await skipped.json(), calls], [200, { skipped: "cooldown", retryAfter: 30 }, 0]);
@@ -61,7 +61,7 @@ test("handler: open calls respect the cooldown, cron always runs, failures hide 
   assert.equal(calls, 0);
   assert.equal((await handle(request({ authorization: `Bearer ${CRON}` }))).status, 200);
   assert.equal(calls, 1);
-  assert.deepEqual(revalidated, ["/", "/posts", "/posts/new-post", "/posts/old-post"]);
+  assert.deepEqual(revalidated, ["/ layout"]);
   // No CRON_SECRET configured: open calls still run once the cooldown has passed (or before any sync).
   const open = syncHandler({ ...deps, env: {}, now: () => 1_000_000 + 61_000 });
   assert.equal((await open(request())).status, 200);
@@ -78,7 +78,9 @@ test("handler: open calls respect the cooldown, cron always runs, failures hide 
   assert.equal(failed.status, 500);
   assert.doesNotMatch(await failed.text(), new RegExp(`${CRON}|Notion|401`));
   assert.deepEqual([unreadable.status, calls], [500, 3]);
-  assert.equal(revalidated.length, 12);
+  assert.equal(revalidated.length, 3);
+  const quiet = await syncHandler({ ...deps, env: {}, lastSync: async () => undefined, run: async () => ({ ...result, changed: [], removed: [] }) })(request());
+  assert.deepEqual([(await quiet.json()).revalidated, revalidated.length], [false, 3]);
 });
 
 test("each successful blob sync records syncedAt for the cooldown", async () => {
